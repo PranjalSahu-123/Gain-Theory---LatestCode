@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<mediaplan>
+  <PreEvalPeriod>
+    <StartDate>20130804</StartDate>
+    <EndDate>20130831</EndDate>
+  </PreEvalPeriod>
+  <tg name="CS 15-24 A" cs="1" sec="1" sex="1,2" age="3">
+    <mg name="Metros" type="Group">
+      <market>1</market>
+      <market>2</market>
+      <market>3</market>
+      <market>4</market>
+      <market>6</market>
+    </mg>
+    <mg name="NStates" type="Group">
+      <market>!</market>
+      <market>#</market>
+      <market>$</market>
+      <market>%</market>
+      <market>&amp;</market>
+      <market>@</market>
+      <market>&gt;</market>
+      <market>B</market>
+      <market>E</market>
+      <market>F</market>
+      <market>J</market>
+      <market>K</market>
+      <market>L</market>
+      <market>N</market>
+      <market>O</market>
+      <market>P</market>
+      <market>S</market>
+      <market>T</market>
+      <market>W</market>
+      <market>X</market>
+      <market>Z</market>
+    </mg>
+  </tg>
+  <plan type="clubbed">
+    <period StartDate="20130804" EndDate="20130831" year="2013" WeekNum=""></period>
+  </plan>
+</mediaplan>

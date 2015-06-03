@@ -1,0 +1,1165 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<mediaplan>
+  <PreEvalPeriod>
+    <StartDate>20130804</StartDate>
+    <EndDate>20130831</EndDate>
+  </PreEvalPeriod>
+  <tg name="CS 15-24 A" cs="1" sec="1" sex="1,2" age="3">
+    <mg name="Metros" type="Group">
+      <market>1</market>
+      <market>2</market>
+      <market>3</market>
+      <market>4</market>
+      <market>6</market>
+    </mg>
+    <mg name="NStates" type="Group">
+      <market>!</market>
+      <market>#</market>
+      <market>$</market>
+      <market>%</market>
+      <market>&amp;</market>
+      <market>@</market>
+      <market>&gt;</market>
+      <market>B</market>
+      <market>E</market>
+      <market>F</market>
+      <market>J</market>
+      <market>K</market>
+      <market>L</market>
+      <market>N</market>
+      <market>O</market>
+      <market>P</market>
+      <market>S</market>
+      <market>T</market>
+      <market>W</market>
+      <market>X</market>
+      <market>Z</market>
+    </mg>
+  </tg>
+  <plan type="weekwise">
+    <period StartDate="20130804" EndDate="20130810" year="2013" WeekNum="32">
+      <programme guid="77b8145a-7121-45dd-91d2-8a932d8d8cb5" SeqNumber="1" ChannelCode="60" ChannelName="Sony" ProgName="CID" days="FRI,SAT" StartTime="22:00" EndTime="23:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="10">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="8f8c873f-e480-4261-af86-fa0fdb2c38f2" SeqNumber="2" ChannelCode="60" ChannelName="Sony" ProgName="Jee Lay Zara" days="MON,TUE,WED,THU" StartTime="21:30" EndTime="22:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="13">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="3c0ed3d3-81ee-4b03-9345-58e3ef79951e" SeqNumber="3" ChannelCode="60" ChannelName="Sony" ProgName="Maharana Pratap" days="MON,TUE,WED,THU" StartTime="22:00" EndTime="22:30" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="13">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="afda1771-a857-4f4e-87ab-242ee189a60f" SeqNumber="4" ChannelCode="60" ChannelName="Sony" ProgName="Adalat" days="SAT,SUN" StartTime="19:30" EndTime="20:30" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="9">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="548b2f60-d3ce-4f41-88f7-e6a7097b9ff5" SeqNumber="5" ChannelCode="60" ChannelName="Sony" ProgName="Crime Patrol-27th Sep Onwards" days="FRI,SAT" StartTime="23:00" EndTime="00:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="13">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="39799343-6fe0-4dc5-ba2a-9631add7da65" SeqNumber="6" ChannelCode="60" ChannelName="Sony" ProgName="Comedy Circus-8th Sep Onwards" days="SUN" StartTime="22:00" EndTime="23:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="5">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="21c8913c-b093-43f5-91a9-8a55f3abaff5" SeqNumber="7" ChannelCode="60" ChannelName="Sony" ProgName="Late Prime RODP" days="MON,TUE,WED,THU" StartTime="23:00" EndTime="00:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="33">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="0a708e79-0fba-4213-8f18-d0f882703386" SeqNumber="8" ChannelCode="60" ChannelName="Sony" ProgName="Weekend RODP" days="FRI,SAT,SUN" StartTime="08:00" EndTime="19:30" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="60">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="9f7eb780-e340-41da-920a-124ffd13369d" SeqNumber="9" ChannelCode="60" ChannelName="Sony" ProgName="Weekend Movies" days="FRI,SAT,SUN" StartTime="08:00" EndTime="19:30" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="25">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="d9d72d08-bf92-47d9-9fc7-4e2a2520a885" SeqNumber="10" ChannelCode="60" ChannelName="Sony" ProgName="Weekday RODP" days="MON,TUE,WED,THU" StartTime="08:00" EndTime="17:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="125">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="0ae6d4b3-2899-4726-bb3e-860dd398d918" SeqNumber="11" ChannelCode="479" ChannelName="Colors" ProgName="RODP weekday" days="MON,TUE,WED,THU,FRI" StartTime="18:00" EndTime="19:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="30">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="cdae8504-8ca5-4496-b3a9-bdf7fa98112c" SeqNumber="12" ChannelCode="479" ChannelName="Colors" ProgName="Balika Vadhu(O)" days="MON,TUE,WED,THU,FRI,SAT" StartTime="20:00" EndTime="20:30" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="8">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="35faa63e-a6c4-4c2c-af3a-114a7ef33a3c" SeqNumber="13" ChannelCode="479" ChannelName="Colors" ProgName="Colors Movies" days="SAT,SUN" StartTime="12:00" EndTime="12:30" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="15">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="882ee86a-0965-4b31-a85e-feb154278e27" SeqNumber="14" ChannelCode="479" ChannelName="Colors" ProgName="RODP weekend" days="SAT,SUN" StartTime="07:00" EndTime="18:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="20">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="68c657ce-54cb-4832-8e01-42daff36dc69" SeqNumber="15" ChannelCode="479" ChannelName="Colors" ProgName="Comedy Nights with Kapil" days="SAT,SUN" StartTime="22:00" EndTime="22:30" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="10">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="85057bbb-71c7-4d2f-86db-5f8c81df0741" SeqNumber="16" ChannelCode="479" ChannelName="Colors" ProgName="RODP weekday" days="MON,TUE,WED,THU,FRI" StartTime="08:00" EndTime="13:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="15">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="4ed87fb8-854e-444d-afe3-16877a057962" SeqNumber="17" ChannelCode="34" ChannelName="Z Cinema" ProgName="Raat/ HFF" days="MON,TUE,WED,THU,FRI" StartTime="18:00" EndTime="21:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="70">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="55fe2e6f-15f9-4375-88a9-c8846cfc76b7" SeqNumber="18" ChannelCode="34" ChannelName="Z Cinema" ProgName="Raat 2 /Cinema Hall/ HFF" days="MON,TUE,WED,THU,FRI" StartTime="21:00" EndTime="01:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="70">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="f4a44331-f353-48a5-9772-4514c27e3b3d" SeqNumber="19" ChannelCode="34" ChannelName="Z Cinema" ProgName="Weekend PT/ HFF" days="SAT,SUN" StartTime="18:00" EndTime="21:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="45">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="da6300e0-25cd-4a0f-ad26-fc33f89128f5" SeqNumber="20" ChannelCode="34" ChannelName="Z Cinema" ProgName="Shanivar Ki Raat/HFF" days="SAT" StartTime="21:00" EndTime="01:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="30">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="50252c33-b2ae-4129-af85-70590d72a61f" SeqNumber="21" ChannelCode="34" ChannelName="Z Cinema" ProgName="Lage Raho/HFF" days="SUN" StartTime="21:00" EndTime="01:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="30">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="2326808f-8ac5-4c3b-9e9b-5c72e1574b00" SeqNumber="22" ChannelCode="711" ChannelName="Movies Ok" ProgName="RODP" days="MON,TUE,WED,THU,FRI" StartTime="15:00" EndTime="18:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="60">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="88ee6bc8-a965-4428-8011-8c36e462e722" SeqNumber="23" ChannelCode="711" ChannelName="Movies Ok" ProgName="RODP" days="MON,TUE,WED,THU,FRI" StartTime="21:00" EndTime="00:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="60">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="b7e99916-2a9a-4dee-b853-8b0cc371661b" SeqNumber="24" ChannelCode="711" ChannelName="Movies Ok" ProgName="RODP" days="SAT" StartTime="18:00" EndTime="21:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="18">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="c49c242b-8972-4a95-8f93-df99f785052b" SeqNumber="25" ChannelCode="711" ChannelName="Movies Ok" ProgName="RODP" days="SAT" StartTime="21:00" EndTime="00:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="18">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="220888a5-b587-45b6-85c9-b7e233578477" SeqNumber="26" ChannelCode="711" ChannelName="Movies Ok" ProgName="RODP" days="SUN" StartTime="18:00" EndTime="21:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="18">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="cdad632b-2fb6-4195-966c-a78202c28947" SeqNumber="27" ChannelCode="711" ChannelName="Movies Ok" ProgName="RODP" days="SUN" StartTime="21:00" EndTime="00:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="18">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="ca56ae5d-e119-4cee-8d4d-871e68d22e60" SeqNumber="28" ChannelCode="296" ChannelName="IBN7" ProgName="RODP" days="MON,TUE,WED,THU,FRI,SAT,SUN" StartTime="07:00" EndTime="11:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="150">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="dd377a73-3788-430f-98e2-50c2425bd33f" SeqNumber="29" ChannelCode="296" ChannelName="IBN7" ProgName="RODP" days="MON,TUE,WED,THU,FRI,SAT,SUN" StartTime="11:00" EndTime="18:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="150">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="bceb1bb8-72e8-492b-b63e-ee4646a4a9e7" SeqNumber="30" ChannelCode="296" ChannelName="IBN7" ProgName="RODP" days="MON,TUE,WED,THU,FRI,SAT,SUN" StartTime="18:00" EndTime="23:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="150">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="7b6cb8a8-902c-490e-a006-2d48eb4a8c62" SeqNumber="31" ChannelCode="10" ChannelName="Z News" ProgName="RODP" days="MON,TUE,WED,THU,FRI,SAT,SUN" StartTime="07:00" EndTime="11:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="150">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="1601d191-5aaf-4b31-9d27-dce59ed2e84e" SeqNumber="32" ChannelCode="10" ChannelName="Z News" ProgName="RODP" days="MON,TUE,WED,THU,FRI,SAT,SUN" StartTime="11:00" EndTime="18:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="150">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="a54a7d1c-6f5b-4dc4-b46c-21369d8b89f7" SeqNumber="33" ChannelCode="10" ChannelName="Z News" ProgName="RODP" days="MON,TUE,WED,THU,FRI,SAT,SUN" StartTime="18:00" EndTime="23:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="150">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="a60ef3ac-e002-4e5d-b6d4-34b876fd1cbd" SeqNumber="34" ChannelCode="273" ChannelName="Z Business" ProgName="RODP" days="MON,TUE,WED,THU,FRI,SAT,SUN" StartTime="07:00" EndTime="11:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="150">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="5c5c7ab7-0ce0-4c60-be0f-20aae3d38be9" SeqNumber="35" ChannelCode="273" ChannelName="Z Business" ProgName="RODP" days="MON,TUE,WED,THU,FRI,SAT,SUN" StartTime="11:00" EndTime="18:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="150">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="a724c5cb-9ebb-461a-a3bf-5412839ab157" SeqNumber="36" ChannelCode="273" ChannelName="Z Business" ProgName="RODP" days="MON,TUE,WED,THU,FRI,SAT,SUN" StartTime="18:00" EndTime="23:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="150">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="7b64b03c-fa9a-4b2b-a6a9-7d1d918b83c1" SeqNumber="37" ChannelCode="332" ChannelName="CNN IBN" ProgName="RODP" days="MON,TUE,WED,THU,FRI" StartTime="06:00" EndTime="11:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="100">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="df3388ec-7822-4074-99dd-345349895a3c" SeqNumber="38" ChannelCode="332" ChannelName="CNN IBN" ProgName="RODP" days="MON,TUE,WED,THU,FRI" StartTime="11:00" EndTime="17:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="100">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="e2d5a62d-e072-44fc-9625-795ccc96a774" SeqNumber="39" ChannelCode="332" ChannelName="CNN IBN" ProgName="RODP" days="MON,TUE,WED,THU,FRI,SAT,SUN" StartTime="17:00" EndTime="01:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="100">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="01e1b03e-1052-4c8e-a5b9-bf583e797102" SeqNumber="40" ChannelCode="332" ChannelName="CNN IBN" ProgName="RODP" days="SAT,SUN" StartTime="07:00" EndTime="17:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="100">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="d5a2eddb-f285-4f15-b6e2-952a6cf9190b" SeqNumber="41" ChannelCode="456" ChannelName="News X" ProgName="RODP" days="MON,TUE,WED,THU,FRI,SAT,SUN" StartTime="07:00" EndTime="11:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="180">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="29d8d848-adc3-463f-8898-f5391c4529e7" SeqNumber="42" ChannelCode="456" ChannelName="News X" ProgName="RODP" days="MON,TUE,WED,THU,FRI,SAT,SUN" StartTime="11:00" EndTime="18:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="180">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="c2bec4b4-6165-4e07-bba4-df8a258cbdf0" SeqNumber="43" ChannelCode="456" ChannelName="News X" ProgName="RODP" days="MON,TUE,WED,THU,FRI,SAT,SUN" StartTime="18:00" EndTime="23:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="180">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="f0149d3d-52c1-4ca7-9ead-a86c199a60de" SeqNumber="44" ChannelCode="16" ChannelName="Sun TV" ProgName="Illavarasi" days="MON,TUE,WED,THU,FRI" StartTime="13:30" EndTime="14:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="9">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="e6256cd7-1f98-4bb4-a45a-056a9da4c12a" SeqNumber="45" ChannelCode="16" ChannelName="Sun TV" ProgName="Valli" days="MON,TUE,WED,THU,FRI" StartTime="14:00" EndTime="14:30" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="9">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="ec5372c4-a7bc-419f-b40b-9b183a768563" SeqNumber="46" ChannelCode="16" ChannelName="Sun TV" ProgName="Azhagi" days="MON,TUE,WED,THU,FRI" StartTime="22:30" EndTime="23:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="9">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="1ae8e572-b98a-4022-a3ef-44a0daf92e4c" SeqNumber="47" ChannelCode="16" ChannelName="Sun TV" ProgName="Afternoon Movie" days="SAT" StartTime="14:00" EndTime="18:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="18">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="d21b2334-e6ec-4e4b-a1e6-e6079fd06a23" SeqNumber="48" ChannelCode="16" ChannelName="Sun TV" ProgName="Super Kudumbam" days="SAT" StartTime="21:00" EndTime="22:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="10">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="d027e0d9-d4c6-4a15-8499-ff44cf810cf7" SeqNumber="49" ChannelCode="16" ChannelName="Sun TV" ProgName="Afternoon Movie" days="SUN" StartTime="15:00" EndTime="17:30" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="18">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="6e586537-9e53-4d96-95e6-33579d4d1bb7" SeqNumber="50" ChannelCode="53" ChannelName="Vijay TV" ProgName="Deivam Thandha En Thangai" days="MON,TUE,WED,THU,FRI" StartTime="14:30" EndTime="15:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="20">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="915f9ffe-8064-499a-ac11-7fd388491bff" SeqNumber="51" ChannelCode="53" ChannelName="Vijay TV" ProgName="En Kanavan En Thozhan" days="MON,TUE,WED,THU,FRI" StartTime="14:00" EndTime="14:30" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="20">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="2a276f78-2c41-42c5-a304-c4dfc8818b19" SeqNumber="52" ChannelCode="53" ChannelName="Vijay TV" ProgName="Deivam Thandha Veedu" days="MON,TUE,WED,THU,FRI" StartTime="20:00" EndTime="20:30" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="20">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="c3598901-7c09-479f-91e1-5f546d587451" SeqNumber="53" ChannelCode="53" ChannelName="Vijay TV" ProgName="Kitchen Superstar-2" days="SAT" StartTime="20:00" EndTime="21:15" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="12">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="2f65d4c0-f3be-4d05-8c80-0aa3f7eac6ac" SeqNumber="54" ChannelCode="53" ChannelName="Vijay TV" ProgName="Sunday Movies" days="SUN" StartTime="14:00" EndTime="17:30" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="30">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="141ba1b5-5822-4026-ad4c-9a613f3e4ef6" SeqNumber="55" ChannelCode="671" ChannelName="PUTHIYA THALAIMURAI" ProgName="RODP" days="MON,TUE,WED,THU,FRI,SAT,SUN" StartTime="07:00" EndTime="11:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="100">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="3e0da239-fb28-4047-85e5-e95f7035bd7f" SeqNumber="56" ChannelCode="671" ChannelName="PUTHIYA THALAIMURAI" ProgName="RODP" days="MON,TUE,WED,THU,FRI,SAT,SUN" StartTime="11:00" EndTime="18:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="100">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="95b8337b-37f2-40eb-bd3e-582afa257aff" SeqNumber="57" ChannelCode="671" ChannelName="PUTHIYA THALAIMURAI" ProgName="RODP" days="MON,TUE,WED,THU,FRI,SAT,SUN" StartTime="18:00" EndTime="00:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="100">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="ea708b5a-4804-4fe1-854a-b282e079ff8e" SeqNumber="58" ChannelCode="268" ChannelName="Zee Telugu" ProgName="Muddubidda" days="MON,TUE,WED,THU,FRI" StartTime="20:00" EndTime="20:30" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="24">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="57e0795f-6e46-45b8-a8fe-1f7d3e7fb830" SeqNumber="59" ChannelCode="268" ChannelName="Zee Telugu" ProgName="Varudhini Parinayanam" days="MON,TUE,WED,THU,FRI" StartTime="20:30" EndTime="21:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="24">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="388c19b9-1272-4c51-933d-b069f6f41b17" SeqNumber="60" ChannelCode="268" ChannelName="Zee Telugu" ProgName="Rodp PT" days="MON,TUE,WED,THU,FRI,SAT,SUN" StartTime="18:00" EndTime="00:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="96">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="9a5f9cdf-7916-44e9-8066-87e037da2e93" SeqNumber="61" ChannelCode="268" ChannelName="Zee Telugu" ProgName="Rodp WE" days="SAT,SUN" StartTime="07:00" EndTime="18:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="72">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="ebd80a13-c031-4a42-9c0e-6d871206f092" SeqNumber="62" ChannelCode="268" ChannelName="Zee Telugu" ProgName="Weekend Movies" days="SAT,SUN" StartTime="09:00" EndTime="17:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="72">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="994c4f00-89cf-44af-a2d0-46da65b64787" SeqNumber="63" ChannelCode="268" ChannelName="Zee Telugu" ProgName="A+ Movies" days="SAT,SUN" StartTime="17:00" EndTime="20:30" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="60">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="ac212925-46a1-4f42-aebe-ed6a755359ab" SeqNumber="64" ChannelCode="268" ChannelName="Zee Telugu" ProgName="Rodp Npt Wd" days="MON,TUE,WED,THU,FRI" StartTime="07:00" EndTime="18:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="36">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="98964c27-5b95-434c-be9b-0a6a7d2198a0" SeqNumber="65" ChannelCode="198" ChannelName="Maa TV" ProgName="Afternoon Special Movies" days="SUN" StartTime="16:00" EndTime="19:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="18">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="6cfb41bc-f3a9-4eb4-8aa6-3e0a8b76ee8a" SeqNumber="66" ChannelCode="198" ChannelName="Maa TV" ProgName="Bhale Chancele - Season 4" days="MON,TUE" StartTime="16:00" EndTime="22:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="12">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="01b8dbfd-12bf-4d7e-a317-871830a6a6db" SeqNumber="67" ChannelCode="198" ChannelName="Maa TV" ProgName="CID" days="MON,TUE,WED,THU,FRI" StartTime="22:00" EndTime="23:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="24">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="85ad99d9-b4f6-406c-89ae-404bd8f4cc2c" SeqNumber="68" ChannelCode="198" ChannelName="Maa TV" ProgName="Hara Hara Mahadev (Marathon Episode)" days="SUN" StartTime="09:00" EndTime="12:30" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="24">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="57d7aed2-065b-4fe4-88f4-dd3a5a26eb01" SeqNumber="69" ChannelCode="198" ChannelName="Maa TV" ProgName="Blockbuster Movie" days="SUN" StartTime="19:00" EndTime="22:30" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="24">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="7bc975f7-c0fd-4c7d-a7a1-fe6e0bd55fa1" SeqNumber="70" ChannelCode="198" ChannelName="Maa TV" ProgName="Kutumba Gouravam" days="MON,TUE,WED,THU,FRI" StartTime="23:00" EndTime="23:30" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="48">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="68ee928d-65ac-4e9c-a51e-655ae27b407f" SeqNumber="71" ChannelCode="198" ChannelName="Maa TV" ProgName="Saturday Morning Show" days="SAT" StartTime="09:00" EndTime="12:30" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="36">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="d73fb041-3dce-4f5a-a38c-b75cf80aedc5" SeqNumber="72" ChannelCode="331" ChannelName="NTV" ProgName="RODP" days="MON,TUE,WED,THU,FRI,SAT,SUN" StartTime="07:00" EndTime="11:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="150">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="fcf059cd-5d68-40c5-92b1-885231d2afa4" SeqNumber="73" ChannelCode="331" ChannelName="NTV" ProgName="RODP" days="MON,TUE,WED,THU,FRI,SAT,SUN" StartTime="11:00" EndTime="18:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="150">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="830b06a8-d359-410b-aca9-9beb3f50cc41" SeqNumber="74" ChannelCode="331" ChannelName="NTV" ProgName="RODP" days="MON,TUE,WED,THU,FRI,SAT,SUN" StartTime="18:00" EndTime="00:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="150">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="fa4e7022-f6e0-4a5e-bd80-5894329fe50a" SeqNumber="75" ChannelCode="356" ChannelName="Z Kannada" ProgName="Weekday RODP" days="MON,TUE,WED,THU,FRI" StartTime="08:00" EndTime="18:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="120">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="2e34c081-a92b-4fa9-b142-2c94abb7842f" SeqNumber="76" ChannelCode="356" ChannelName="Z Kannada" ProgName="PT RODP" days="MON,TUE,WED,THU,FRI" StartTime="18:00" EndTime="01:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="120">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="a7259ec7-7da1-4416-8318-02ac5b7776c3" SeqNumber="77" ChannelCode="356" ChannelName="Z Kannada" ProgName="Chisou Savitri" days="MON,TUE,WED,THU,FRI" StartTime="19:00" EndTime="19:30" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="24">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="fed834fb-a1f5-4bd8-970c-abedbaa421f8" SeqNumber="78" ChannelCode="356" ChannelName="Z Kannada" ProgName="Bharti (O)" days="MON,TUE,WED,THU,FRI" StartTime="21:00" EndTime="21:30" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="24">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="3dc45907-67cd-4b48-ba37-03af35fb98a8" SeqNumber="79" ChannelCode="356" ChannelName="Z Kannada" ProgName="Punarvivah (O)" days="MON,TUE,WED,THU,FRI" StartTime="21:30" EndTime="22:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="24">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="71a4bda2-0b1d-40e6-8558-7f17bdce878e" SeqNumber="80" ChannelCode="356" ChannelName="Z Kannada" ProgName="Yariguntu Yarigilla (O)" days="SAT,SUN" StartTime="21:00" EndTime="22:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="12">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="a732a8ea-68d9-44b5-98b5-0d8c256a1c2a" SeqNumber="81" ChannelCode="356" ChannelName="Z Kannada" ProgName="A+ Movies" days="SAT,SUN" StartTime="10:00" EndTime="21:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="96">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="8490ea25-45d2-4bdc-ab0e-d0343b171cac" SeqNumber="82" ChannelCode="356" ChannelName="Z Kannada" ProgName="Weekend RODP" days="SAT,SUN" StartTime="08:00" EndTime="18:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="96">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="c464681c-c3bb-49fe-a544-6fb994bcde4b" SeqNumber="83" ChannelCode="379" ChannelName="TV9 Karnataka" ProgName="RODP" days="MON,TUE,WED,THU,FRI,SAT,SUN" StartTime="07:00" EndTime="11:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="125">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="3fe09223-38df-464b-be17-8148eec46a68" SeqNumber="84" ChannelCode="379" ChannelName="TV9 Karnataka" ProgName="RODP" days="MON,TUE,WED,THU,FRI,SAT,SUN" StartTime="11:00" EndTime="18:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="125">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="8a91a646-b0e2-4e24-acbe-78cf12f4cf8c" SeqNumber="85" ChannelCode="379" ChannelName="TV9 Karnataka" ProgName="RODP" days="MON,TUE,WED,THU,FRI,SAT,SUN" StartTime="18:00" EndTime="00:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="125">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="e2480da6-1c70-43bc-91ac-26a04b6abffe" SeqNumber="86" ChannelCode="37" ChannelName="Z Bangla" ProgName="RANNA GHAR ®" days="SUN" StartTime="18:30" EndTime="19:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="15">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="5cc96af5-77e7-4aa8-83ff-e3f693364626" SeqNumber="87" ChannelCode="37" ChannelName="Z Bangla" ProgName="Boyei Gelo (O)" days="MON,TUE,WED,THU,FRI,SAT" StartTime="21:00" EndTime="21:30" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="15">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="5aa5da61-427c-4479-a58e-29dd5a74a033" SeqNumber="88" ChannelCode="37" ChannelName="Z Bangla" ProgName="Boyei Gelo ®" days="MON,TUE,WED,THU,FRI,SAT" StartTime="23:30" EndTime="00:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="15">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="4468ef37-ba0e-4aff-94d7-09123afff163" SeqNumber="89" ChannelCode="37" ChannelName="Z Bangla" ProgName="Sunday PT RODP" days="SUN" StartTime="18:00" EndTime="00:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="15">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="95e3ab48-6495-4946-9e51-3016eb6e6e84" SeqNumber="90" ChannelCode="37" ChannelName="Z Bangla" ProgName="Mirakkel (O) " days="MON,TUE,WED" StartTime="21:30" EndTime="23:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="15">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="7ed140a1-8dde-408f-9a9f-5018cc2411eb" SeqNumber="91" ChannelCode="306" ChannelName="ABP Ananda" ProgName="RODP" days="MON,TUE,WED,THU,FRI,SAT,SUN" StartTime="07:00" EndTime="11:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="100">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="91092ebc-ce64-4dfd-993a-061cab061403" SeqNumber="92" ChannelCode="306" ChannelName="ABP Ananda" ProgName="RODP" days="MON,TUE,WED,THU,FRI,SAT,SUN" StartTime="11:00" EndTime="18:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="100">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="6d956cb2-ccc5-4742-8353-08158424478a" SeqNumber="93" ChannelCode="306" ChannelName="ABP Ananda" ProgName="RODP" days="MON,TUE,WED,THU,FRI,SAT,SUN" StartTime="18:00" EndTime="00:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="100">
+        <selected_spots></selected_spots>
+      </programme>
+    </period>
+    <period StartDate="20130811" EndDate="20130817" year="2013" WeekNum="33">
+      <programme guid="77b8145a-7121-45dd-91d2-8a932d8d8cb5" SeqNumber="1" ChannelCode="60" ChannelName="Sony" ProgName="CID" days="FRI,SAT" StartTime="22:00" EndTime="23:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="10">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="8f8c873f-e480-4261-af86-fa0fdb2c38f2" SeqNumber="2" ChannelCode="60" ChannelName="Sony" ProgName="Jee Lay Zara" days="MON,TUE,WED,THU" StartTime="21:30" EndTime="22:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="13">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="3c0ed3d3-81ee-4b03-9345-58e3ef79951e" SeqNumber="3" ChannelCode="60" ChannelName="Sony" ProgName="Maharana Pratap" days="MON,TUE,WED,THU" StartTime="22:00" EndTime="22:30" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="13">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="afda1771-a857-4f4e-87ab-242ee189a60f" SeqNumber="4" ChannelCode="60" ChannelName="Sony" ProgName="Adalat" days="SAT,SUN" StartTime="19:30" EndTime="20:30" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="9">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="548b2f60-d3ce-4f41-88f7-e6a7097b9ff5" SeqNumber="5" ChannelCode="60" ChannelName="Sony" ProgName="Crime Patrol-27th Sep Onwards" days="FRI,SAT" StartTime="23:00" EndTime="00:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="13">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="39799343-6fe0-4dc5-ba2a-9631add7da65" SeqNumber="6" ChannelCode="60" ChannelName="Sony" ProgName="Comedy Circus-8th Sep Onwards" days="SUN" StartTime="22:00" EndTime="23:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="5">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="21c8913c-b093-43f5-91a9-8a55f3abaff5" SeqNumber="7" ChannelCode="60" ChannelName="Sony" ProgName="Late Prime RODP" days="MON,TUE,WED,THU" StartTime="23:00" EndTime="00:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="33">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="0a708e79-0fba-4213-8f18-d0f882703386" SeqNumber="8" ChannelCode="60" ChannelName="Sony" ProgName="Weekend RODP" days="FRI,SAT,SUN" StartTime="08:00" EndTime="19:30" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="60">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="9f7eb780-e340-41da-920a-124ffd13369d" SeqNumber="9" ChannelCode="60" ChannelName="Sony" ProgName="Weekend Movies" days="FRI,SAT,SUN" StartTime="08:00" EndTime="19:30" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="25">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="d9d72d08-bf92-47d9-9fc7-4e2a2520a885" SeqNumber="10" ChannelCode="60" ChannelName="Sony" ProgName="Weekday RODP" days="MON,TUE,WED,THU" StartTime="08:00" EndTime="17:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="125">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="0ae6d4b3-2899-4726-bb3e-860dd398d918" SeqNumber="11" ChannelCode="479" ChannelName="Colors" ProgName="RODP weekday" days="MON,TUE,WED,THU,FRI" StartTime="18:00" EndTime="19:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="30">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="cdae8504-8ca5-4496-b3a9-bdf7fa98112c" SeqNumber="12" ChannelCode="479" ChannelName="Colors" ProgName="Balika Vadhu(O)" days="MON,TUE,WED,THU,FRI,SAT" StartTime="20:00" EndTime="20:30" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="8">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="35faa63e-a6c4-4c2c-af3a-114a7ef33a3c" SeqNumber="13" ChannelCode="479" ChannelName="Colors" ProgName="Colors Movies" days="SAT,SUN" StartTime="12:00" EndTime="12:30" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="15">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="882ee86a-0965-4b31-a85e-feb154278e27" SeqNumber="14" ChannelCode="479" ChannelName="Colors" ProgName="RODP weekend" days="SAT,SUN" StartTime="07:00" EndTime="18:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="20">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="68c657ce-54cb-4832-8e01-42daff36dc69" SeqNumber="15" ChannelCode="479" ChannelName="Colors" ProgName="Comedy Nights with Kapil" days="SAT,SUN" StartTime="22:00" EndTime="22:30" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="10">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="85057bbb-71c7-4d2f-86db-5f8c81df0741" SeqNumber="16" ChannelCode="479" ChannelName="Colors" ProgName="RODP weekday" days="MON,TUE,WED,THU,FRI" StartTime="08:00" EndTime="13:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="15">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="4ed87fb8-854e-444d-afe3-16877a057962" SeqNumber="17" ChannelCode="34" ChannelName="Z Cinema" ProgName="Raat/ HFF" days="MON,TUE,WED,THU,FRI" StartTime="18:00" EndTime="21:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="70">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="55fe2e6f-15f9-4375-88a9-c8846cfc76b7" SeqNumber="18" ChannelCode="34" ChannelName="Z Cinema" ProgName="Raat 2 /Cinema Hall/ HFF" days="MON,TUE,WED,THU,FRI" StartTime="21:00" EndTime="01:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="70">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="f4a44331-f353-48a5-9772-4514c27e3b3d" SeqNumber="19" ChannelCode="34" ChannelName="Z Cinema" ProgName="Weekend PT/ HFF" days="SAT,SUN" StartTime="18:00" EndTime="21:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="45">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="da6300e0-25cd-4a0f-ad26-fc33f89128f5" SeqNumber="20" ChannelCode="34" ChannelName="Z Cinema" ProgName="Shanivar Ki Raat/HFF" days="SAT" StartTime="21:00" EndTime="01:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="30">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="50252c33-b2ae-4129-af85-70590d72a61f" SeqNumber="21" ChannelCode="34" ChannelName="Z Cinema" ProgName="Lage Raho/HFF" days="SUN" StartTime="21:00" EndTime="01:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="30">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="2326808f-8ac5-4c3b-9e9b-5c72e1574b00" SeqNumber="22" ChannelCode="711" ChannelName="Movies Ok" ProgName="RODP" days="MON,TUE,WED,THU,FRI" StartTime="15:00" EndTime="18:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="60">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="88ee6bc8-a965-4428-8011-8c36e462e722" SeqNumber="23" ChannelCode="711" ChannelName="Movies Ok" ProgName="RODP" days="MON,TUE,WED,THU,FRI" StartTime="21:00" EndTime="00:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="60">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="b7e99916-2a9a-4dee-b853-8b0cc371661b" SeqNumber="24" ChannelCode="711" ChannelName="Movies Ok" ProgName="RODP" days="SAT" StartTime="18:00" EndTime="21:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="18">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="c49c242b-8972-4a95-8f93-df99f785052b" SeqNumber="25" ChannelCode="711" ChannelName="Movies Ok" ProgName="RODP" days="SAT" StartTime="21:00" EndTime="00:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="18">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="220888a5-b587-45b6-85c9-b7e233578477" SeqNumber="26" ChannelCode="711" ChannelName="Movies Ok" ProgName="RODP" days="SUN" StartTime="18:00" EndTime="21:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="18">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="cdad632b-2fb6-4195-966c-a78202c28947" SeqNumber="27" ChannelCode="711" ChannelName="Movies Ok" ProgName="RODP" days="SUN" StartTime="21:00" EndTime="00:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="18">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="ca56ae5d-e119-4cee-8d4d-871e68d22e60" SeqNumber="28" ChannelCode="296" ChannelName="IBN7" ProgName="RODP" days="MON,TUE,WED,THU,FRI,SAT,SUN" StartTime="07:00" EndTime="11:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="150">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="dd377a73-3788-430f-98e2-50c2425bd33f" SeqNumber="29" ChannelCode="296" ChannelName="IBN7" ProgName="RODP" days="MON,TUE,WED,THU,FRI,SAT,SUN" StartTime="11:00" EndTime="18:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="150">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="bceb1bb8-72e8-492b-b63e-ee4646a4a9e7" SeqNumber="30" ChannelCode="296" ChannelName="IBN7" ProgName="RODP" days="MON,TUE,WED,THU,FRI,SAT,SUN" StartTime="18:00" EndTime="23:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="150">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="7b6cb8a8-902c-490e-a006-2d48eb4a8c62" SeqNumber="31" ChannelCode="10" ChannelName="Z News" ProgName="RODP" days="MON,TUE,WED,THU,FRI,SAT,SUN" StartTime="07:00" EndTime="11:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="150">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="1601d191-5aaf-4b31-9d27-dce59ed2e84e" SeqNumber="32" ChannelCode="10" ChannelName="Z News" ProgName="RODP" days="MON,TUE,WED,THU,FRI,SAT,SUN" StartTime="11:00" EndTime="18:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="150">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="a54a7d1c-6f5b-4dc4-b46c-21369d8b89f7" SeqNumber="33" ChannelCode="10" ChannelName="Z News" ProgName="RODP" days="MON,TUE,WED,THU,FRI,SAT,SUN" StartTime="18:00" EndTime="23:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="150">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="a60ef3ac-e002-4e5d-b6d4-34b876fd1cbd" SeqNumber="34" ChannelCode="273" ChannelName="Z Business" ProgName="RODP" days="MON,TUE,WED,THU,FRI,SAT,SUN" StartTime="07:00" EndTime="11:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="150">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="5c5c7ab7-0ce0-4c60-be0f-20aae3d38be9" SeqNumber="35" ChannelCode="273" ChannelName="Z Business" ProgName="RODP" days="MON,TUE,WED,THU,FRI,SAT,SUN" StartTime="11:00" EndTime="18:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="150">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="a724c5cb-9ebb-461a-a3bf-5412839ab157" SeqNumber="36" ChannelCode="273" ChannelName="Z Business" ProgName="RODP" days="MON,TUE,WED,THU,FRI,SAT,SUN" StartTime="18:00" EndTime="23:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="150">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="7b64b03c-fa9a-4b2b-a6a9-7d1d918b83c1" SeqNumber="37" ChannelCode="332" ChannelName="CNN IBN" ProgName="RODP" days="MON,TUE,WED,THU,FRI" StartTime="06:00" EndTime="11:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="100">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="df3388ec-7822-4074-99dd-345349895a3c" SeqNumber="38" ChannelCode="332" ChannelName="CNN IBN" ProgName="RODP" days="MON,TUE,WED,THU,FRI" StartTime="11:00" EndTime="17:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="100">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="e2d5a62d-e072-44fc-9625-795ccc96a774" SeqNumber="39" ChannelCode="332" ChannelName="CNN IBN" ProgName="RODP" days="MON,TUE,WED,THU,FRI,SAT,SUN" StartTime="17:00" EndTime="01:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="100">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="01e1b03e-1052-4c8e-a5b9-bf583e797102" SeqNumber="40" ChannelCode="332" ChannelName="CNN IBN" ProgName="RODP" days="SAT,SUN" StartTime="07:00" EndTime="17:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="100">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="d5a2eddb-f285-4f15-b6e2-952a6cf9190b" SeqNumber="41" ChannelCode="456" ChannelName="News X" ProgName="RODP" days="MON,TUE,WED,THU,FRI,SAT,SUN" StartTime="07:00" EndTime="11:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="180">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="29d8d848-adc3-463f-8898-f5391c4529e7" SeqNumber="42" ChannelCode="456" ChannelName="News X" ProgName="RODP" days="MON,TUE,WED,THU,FRI,SAT,SUN" StartTime="11:00" EndTime="18:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="180">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="c2bec4b4-6165-4e07-bba4-df8a258cbdf0" SeqNumber="43" ChannelCode="456" ChannelName="News X" ProgName="RODP" days="MON,TUE,WED,THU,FRI,SAT,SUN" StartTime="18:00" EndTime="23:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="180">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="f0149d3d-52c1-4ca7-9ead-a86c199a60de" SeqNumber="44" ChannelCode="16" ChannelName="Sun TV" ProgName="Illavarasi" days="MON,TUE,WED,THU,FRI" StartTime="13:30" EndTime="14:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="9">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="e6256cd7-1f98-4bb4-a45a-056a9da4c12a" SeqNumber="45" ChannelCode="16" ChannelName="Sun TV" ProgName="Valli" days="MON,TUE,WED,THU,FRI" StartTime="14:00" EndTime="14:30" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="9">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="ec5372c4-a7bc-419f-b40b-9b183a768563" SeqNumber="46" ChannelCode="16" ChannelName="Sun TV" ProgName="Azhagi" days="MON,TUE,WED,THU,FRI" StartTime="22:30" EndTime="23:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="9">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="1ae8e572-b98a-4022-a3ef-44a0daf92e4c" SeqNumber="47" ChannelCode="16" ChannelName="Sun TV" ProgName="Afternoon Movie" days="SAT" StartTime="14:00" EndTime="18:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="18">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="d21b2334-e6ec-4e4b-a1e6-e6079fd06a23" SeqNumber="48" ChannelCode="16" ChannelName="Sun TV" ProgName="Super Kudumbam" days="SAT" StartTime="21:00" EndTime="22:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="10">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="d027e0d9-d4c6-4a15-8499-ff44cf810cf7" SeqNumber="49" ChannelCode="16" ChannelName="Sun TV" ProgName="Afternoon Movie" days="SUN" StartTime="15:00" EndTime="17:30" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="18">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="6e586537-9e53-4d96-95e6-33579d4d1bb7" SeqNumber="50" ChannelCode="53" ChannelName="Vijay TV" ProgName="Deivam Thandha En Thangai" days="MON,TUE,WED,THU,FRI" StartTime="14:30" EndTime="15:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="20">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="915f9ffe-8064-499a-ac11-7fd388491bff" SeqNumber="51" ChannelCode="53" ChannelName="Vijay TV" ProgName="En Kanavan En Thozhan" days="MON,TUE,WED,THU,FRI" StartTime="14:00" EndTime="14:30" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="20">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="2a276f78-2c41-42c5-a304-c4dfc8818b19" SeqNumber="52" ChannelCode="53" ChannelName="Vijay TV" ProgName="Deivam Thandha Veedu" days="MON,TUE,WED,THU,FRI" StartTime="20:00" EndTime="20:30" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="20">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="c3598901-7c09-479f-91e1-5f546d587451" SeqNumber="53" ChannelCode="53" ChannelName="Vijay TV" ProgName="Kitchen Superstar-2" days="SAT" StartTime="20:00" EndTime="21:15" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="12">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="2f65d4c0-f3be-4d05-8c80-0aa3f7eac6ac" SeqNumber="54" ChannelCode="53" ChannelName="Vijay TV" ProgName="Sunday Movies" days="SUN" StartTime="14:00" EndTime="17:30" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="30">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="141ba1b5-5822-4026-ad4c-9a613f3e4ef6" SeqNumber="55" ChannelCode="671" ChannelName="PUTHIYA THALAIMURAI" ProgName="RODP" days="MON,TUE,WED,THU,FRI,SAT,SUN" StartTime="07:00" EndTime="11:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="100">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="3e0da239-fb28-4047-85e5-e95f7035bd7f" SeqNumber="56" ChannelCode="671" ChannelName="PUTHIYA THALAIMURAI" ProgName="RODP" days="MON,TUE,WED,THU,FRI,SAT,SUN" StartTime="11:00" EndTime="18:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="100">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="95b8337b-37f2-40eb-bd3e-582afa257aff" SeqNumber="57" ChannelCode="671" ChannelName="PUTHIYA THALAIMURAI" ProgName="RODP" days="MON,TUE,WED,THU,FRI,SAT,SUN" StartTime="18:00" EndTime="00:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="100">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="ea708b5a-4804-4fe1-854a-b282e079ff8e" SeqNumber="58" ChannelCode="268" ChannelName="Zee Telugu" ProgName="Muddubidda" days="MON,TUE,WED,THU,FRI" StartTime="20:00" EndTime="20:30" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="24">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="57e0795f-6e46-45b8-a8fe-1f7d3e7fb830" SeqNumber="59" ChannelCode="268" ChannelName="Zee Telugu" ProgName="Varudhini Parinayanam" days="MON,TUE,WED,THU,FRI" StartTime="20:30" EndTime="21:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="24">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="388c19b9-1272-4c51-933d-b069f6f41b17" SeqNumber="60" ChannelCode="268" ChannelName="Zee Telugu" ProgName="Rodp PT" days="MON,TUE,WED,THU,FRI,SAT,SUN" StartTime="18:00" EndTime="00:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="96">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="9a5f9cdf-7916-44e9-8066-87e037da2e93" SeqNumber="61" ChannelCode="268" ChannelName="Zee Telugu" ProgName="Rodp WE" days="SAT,SUN" StartTime="07:00" EndTime="18:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="72">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="ebd80a13-c031-4a42-9c0e-6d871206f092" SeqNumber="62" ChannelCode="268" ChannelName="Zee Telugu" ProgName="Weekend Movies" days="SAT,SUN" StartTime="09:00" EndTime="17:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="72">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="994c4f00-89cf-44af-a2d0-46da65b64787" SeqNumber="63" ChannelCode="268" ChannelName="Zee Telugu" ProgName="A+ Movies" days="SAT,SUN" StartTime="17:00" EndTime="20:30" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="60">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="ac212925-46a1-4f42-aebe-ed6a755359ab" SeqNumber="64" ChannelCode="268" ChannelName="Zee Telugu" ProgName="Rodp Npt Wd" days="MON,TUE,WED,THU,FRI" StartTime="07:00" EndTime="18:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="36">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="98964c27-5b95-434c-be9b-0a6a7d2198a0" SeqNumber="65" ChannelCode="198" ChannelName="Maa TV" ProgName="Afternoon Special Movies" days="SUN" StartTime="16:00" EndTime="19:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="18">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="6cfb41bc-f3a9-4eb4-8aa6-3e0a8b76ee8a" SeqNumber="66" ChannelCode="198" ChannelName="Maa TV" ProgName="Bhale Chancele - Season 4" days="MON,TUE" StartTime="16:00" EndTime="22:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="12">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="01b8dbfd-12bf-4d7e-a317-871830a6a6db" SeqNumber="67" ChannelCode="198" ChannelName="Maa TV" ProgName="CID" days="MON,TUE,WED,THU,FRI" StartTime="22:00" EndTime="23:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="24">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="85ad99d9-b4f6-406c-89ae-404bd8f4cc2c" SeqNumber="68" ChannelCode="198" ChannelName="Maa TV" ProgName="Hara Hara Mahadev (Marathon Episode)" days="SUN" StartTime="09:00" EndTime="12:30" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="24">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="57d7aed2-065b-4fe4-88f4-dd3a5a26eb01" SeqNumber="69" ChannelCode="198" ChannelName="Maa TV" ProgName="Blockbuster Movie" days="SUN" StartTime="19:00" EndTime="22:30" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="24">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="7bc975f7-c0fd-4c7d-a7a1-fe6e0bd55fa1" SeqNumber="70" ChannelCode="198" ChannelName="Maa TV" ProgName="Kutumba Gouravam" days="MON,TUE,WED,THU,FRI" StartTime="23:00" EndTime="23:30" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="48">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="68ee928d-65ac-4e9c-a51e-655ae27b407f" SeqNumber="71" ChannelCode="198" ChannelName="Maa TV" ProgName="Saturday Morning Show" days="SAT" StartTime="09:00" EndTime="12:30" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="36">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="d73fb041-3dce-4f5a-a38c-b75cf80aedc5" SeqNumber="72" ChannelCode="331" ChannelName="NTV" ProgName="RODP" days="MON,TUE,WED,THU,FRI,SAT,SUN" StartTime="07:00" EndTime="11:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="150">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="fcf059cd-5d68-40c5-92b1-885231d2afa4" SeqNumber="73" ChannelCode="331" ChannelName="NTV" ProgName="RODP" days="MON,TUE,WED,THU,FRI,SAT,SUN" StartTime="11:00" EndTime="18:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="150">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="830b06a8-d359-410b-aca9-9beb3f50cc41" SeqNumber="74" ChannelCode="331" ChannelName="NTV" ProgName="RODP" days="MON,TUE,WED,THU,FRI,SAT,SUN" StartTime="18:00" EndTime="00:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="150">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="fa4e7022-f6e0-4a5e-bd80-5894329fe50a" SeqNumber="75" ChannelCode="356" ChannelName="Z Kannada" ProgName="Weekday RODP" days="MON,TUE,WED,THU,FRI" StartTime="08:00" EndTime="18:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="120">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="2e34c081-a92b-4fa9-b142-2c94abb7842f" SeqNumber="76" ChannelCode="356" ChannelName="Z Kannada" ProgName="PT RODP" days="MON,TUE,WED,THU,FRI" StartTime="18:00" EndTime="01:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="120">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="a7259ec7-7da1-4416-8318-02ac5b7776c3" SeqNumber="77" ChannelCode="356" ChannelName="Z Kannada" ProgName="Chisou Savitri" days="MON,TUE,WED,THU,FRI" StartTime="19:00" EndTime="19:30" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="24">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="fed834fb-a1f5-4bd8-970c-abedbaa421f8" SeqNumber="78" ChannelCode="356" ChannelName="Z Kannada" ProgName="Bharti (O)" days="MON,TUE,WED,THU,FRI" StartTime="21:00" EndTime="21:30" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="24">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="3dc45907-67cd-4b48-ba37-03af35fb98a8" SeqNumber="79" ChannelCode="356" ChannelName="Z Kannada" ProgName="Punarvivah (O)" days="MON,TUE,WED,THU,FRI" StartTime="21:30" EndTime="22:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="24">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="71a4bda2-0b1d-40e6-8558-7f17bdce878e" SeqNumber="80" ChannelCode="356" ChannelName="Z Kannada" ProgName="Yariguntu Yarigilla (O)" days="SAT,SUN" StartTime="21:00" EndTime="22:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="12">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="a732a8ea-68d9-44b5-98b5-0d8c256a1c2a" SeqNumber="81" ChannelCode="356" ChannelName="Z Kannada" ProgName="A+ Movies" days="SAT,SUN" StartTime="10:00" EndTime="21:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="96">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="8490ea25-45d2-4bdc-ab0e-d0343b171cac" SeqNumber="82" ChannelCode="356" ChannelName="Z Kannada" ProgName="Weekend RODP" days="SAT,SUN" StartTime="08:00" EndTime="18:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="96">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="c464681c-c3bb-49fe-a544-6fb994bcde4b" SeqNumber="83" ChannelCode="379" ChannelName="TV9 Karnataka" ProgName="RODP" days="MON,TUE,WED,THU,FRI,SAT,SUN" StartTime="07:00" EndTime="11:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="125">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="3fe09223-38df-464b-be17-8148eec46a68" SeqNumber="84" ChannelCode="379" ChannelName="TV9 Karnataka" ProgName="RODP" days="MON,TUE,WED,THU,FRI,SAT,SUN" StartTime="11:00" EndTime="18:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="125">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="8a91a646-b0e2-4e24-acbe-78cf12f4cf8c" SeqNumber="85" ChannelCode="379" ChannelName="TV9 Karnataka" ProgName="RODP" days="MON,TUE,WED,THU,FRI,SAT,SUN" StartTime="18:00" EndTime="00:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="125">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="e2480da6-1c70-43bc-91ac-26a04b6abffe" SeqNumber="86" ChannelCode="37" ChannelName="Z Bangla" ProgName="RANNA GHAR ®" days="SUN" StartTime="18:30" EndTime="19:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="15">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="5cc96af5-77e7-4aa8-83ff-e3f693364626" SeqNumber="87" ChannelCode="37" ChannelName="Z Bangla" ProgName="Boyei Gelo (O)" days="MON,TUE,WED,THU,FRI,SAT" StartTime="21:00" EndTime="21:30" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="15">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="5aa5da61-427c-4479-a58e-29dd5a74a033" SeqNumber="88" ChannelCode="37" ChannelName="Z Bangla" ProgName="Boyei Gelo ®" days="MON,TUE,WED,THU,FRI,SAT" StartTime="23:30" EndTime="00:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="15">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="4468ef37-ba0e-4aff-94d7-09123afff163" SeqNumber="89" ChannelCode="37" ChannelName="Z Bangla" ProgName="Sunday PT RODP" days="SUN" StartTime="18:00" EndTime="00:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="15">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="95e3ab48-6495-4946-9e51-3016eb6e6e84" SeqNumber="90" ChannelCode="37" ChannelName="Z Bangla" ProgName="Mirakkel (O) " days="MON,TUE,WED" StartTime="21:30" EndTime="23:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="15">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="7ed140a1-8dde-408f-9a9f-5018cc2411eb" SeqNumber="91" ChannelCode="306" ChannelName="ABP Ananda" ProgName="RODP" days="MON,TUE,WED,THU,FRI,SAT,SUN" StartTime="07:00" EndTime="11:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="100">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="91092ebc-ce64-4dfd-993a-061cab061403" SeqNumber="92" ChannelCode="306" ChannelName="ABP Ananda" ProgName="RODP" days="MON,TUE,WED,THU,FRI,SAT,SUN" StartTime="11:00" EndTime="18:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="100">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="6d956cb2-ccc5-4742-8353-08158424478a" SeqNumber="93" ChannelCode="306" ChannelName="ABP Ananda" ProgName="RODP" days="MON,TUE,WED,THU,FRI,SAT,SUN" StartTime="18:00" EndTime="00:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="100">
+        <selected_spots></selected_spots>
+      </programme>
+    </period>
+    <period StartDate="20130818" EndDate="20130824" year="2013" WeekNum="34">
+      <programme guid="77b8145a-7121-45dd-91d2-8a932d8d8cb5" SeqNumber="1" ChannelCode="60" ChannelName="Sony" ProgName="CID" days="FRI,SAT" StartTime="22:00" EndTime="23:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="10">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="8f8c873f-e480-4261-af86-fa0fdb2c38f2" SeqNumber="2" ChannelCode="60" ChannelName="Sony" ProgName="Jee Lay Zara" days="MON,TUE,WED,THU" StartTime="21:30" EndTime="22:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="13">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="3c0ed3d3-81ee-4b03-9345-58e3ef79951e" SeqNumber="3" ChannelCode="60" ChannelName="Sony" ProgName="Maharana Pratap" days="MON,TUE,WED,THU" StartTime="22:00" EndTime="22:30" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="13">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="afda1771-a857-4f4e-87ab-242ee189a60f" SeqNumber="4" ChannelCode="60" ChannelName="Sony" ProgName="Adalat" days="SAT,SUN" StartTime="19:30" EndTime="20:30" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="9">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="548b2f60-d3ce-4f41-88f7-e6a7097b9ff5" SeqNumber="5" ChannelCode="60" ChannelName="Sony" ProgName="Crime Patrol-27th Sep Onwards" days="FRI,SAT" StartTime="23:00" EndTime="00:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="13">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="39799343-6fe0-4dc5-ba2a-9631add7da65" SeqNumber="6" ChannelCode="60" ChannelName="Sony" ProgName="Comedy Circus-8th Sep Onwards" days="SUN" StartTime="22:00" EndTime="23:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="5">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="21c8913c-b093-43f5-91a9-8a55f3abaff5" SeqNumber="7" ChannelCode="60" ChannelName="Sony" ProgName="Late Prime RODP" days="MON,TUE,WED,THU" StartTime="23:00" EndTime="00:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="33">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="0a708e79-0fba-4213-8f18-d0f882703386" SeqNumber="8" ChannelCode="60" ChannelName="Sony" ProgName="Weekend RODP" days="FRI,SAT,SUN" StartTime="08:00" EndTime="19:30" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="60">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="9f7eb780-e340-41da-920a-124ffd13369d" SeqNumber="9" ChannelCode="60" ChannelName="Sony" ProgName="Weekend Movies" days="FRI,SAT,SUN" StartTime="08:00" EndTime="19:30" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="25">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="d9d72d08-bf92-47d9-9fc7-4e2a2520a885" SeqNumber="10" ChannelCode="60" ChannelName="Sony" ProgName="Weekday RODP" days="MON,TUE,WED,THU" StartTime="08:00" EndTime="17:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="125">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="0ae6d4b3-2899-4726-bb3e-860dd398d918" SeqNumber="11" ChannelCode="479" ChannelName="Colors" ProgName="RODP weekday" days="MON,TUE,WED,THU,FRI" StartTime="18:00" EndTime="19:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="30">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="cdae8504-8ca5-4496-b3a9-bdf7fa98112c" SeqNumber="12" ChannelCode="479" ChannelName="Colors" ProgName="Balika Vadhu(O)" days="MON,TUE,WED,THU,FRI,SAT" StartTime="20:00" EndTime="20:30" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="8">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="35faa63e-a6c4-4c2c-af3a-114a7ef33a3c" SeqNumber="13" ChannelCode="479" ChannelName="Colors" ProgName="Colors Movies" days="SAT,SUN" StartTime="12:00" EndTime="12:30" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="15">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="882ee86a-0965-4b31-a85e-feb154278e27" SeqNumber="14" ChannelCode="479" ChannelName="Colors" ProgName="RODP weekend" days="SAT,SUN" StartTime="07:00" EndTime="18:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="20">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="68c657ce-54cb-4832-8e01-42daff36dc69" SeqNumber="15" ChannelCode="479" ChannelName="Colors" ProgName="Comedy Nights with Kapil" days="SAT,SUN" StartTime="22:00" EndTime="22:30" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="10">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="85057bbb-71c7-4d2f-86db-5f8c81df0741" SeqNumber="16" ChannelCode="479" ChannelName="Colors" ProgName="RODP weekday" days="MON,TUE,WED,THU,FRI" StartTime="08:00" EndTime="13:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="15">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="4ed87fb8-854e-444d-afe3-16877a057962" SeqNumber="17" ChannelCode="34" ChannelName="Z Cinema" ProgName="Raat/ HFF" days="MON,TUE,WED,THU,FRI" StartTime="18:00" EndTime="21:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="70">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="55fe2e6f-15f9-4375-88a9-c8846cfc76b7" SeqNumber="18" ChannelCode="34" ChannelName="Z Cinema" ProgName="Raat 2 /Cinema Hall/ HFF" days="MON,TUE,WED,THU,FRI" StartTime="21:00" EndTime="01:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="70">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="f4a44331-f353-48a5-9772-4514c27e3b3d" SeqNumber="19" ChannelCode="34" ChannelName="Z Cinema" ProgName="Weekend PT/ HFF" days="SAT,SUN" StartTime="18:00" EndTime="21:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="45">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="da6300e0-25cd-4a0f-ad26-fc33f89128f5" SeqNumber="20" ChannelCode="34" ChannelName="Z Cinema" ProgName="Shanivar Ki Raat/HFF" days="SAT" StartTime="21:00" EndTime="01:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="30">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="50252c33-b2ae-4129-af85-70590d72a61f" SeqNumber="21" ChannelCode="34" ChannelName="Z Cinema" ProgName="Lage Raho/HFF" days="SUN" StartTime="21:00" EndTime="01:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="30">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="2326808f-8ac5-4c3b-9e9b-5c72e1574b00" SeqNumber="22" ChannelCode="711" ChannelName="Movies Ok" ProgName="RODP" days="MON,TUE,WED,THU,FRI" StartTime="15:00" EndTime="18:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="60">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="88ee6bc8-a965-4428-8011-8c36e462e722" SeqNumber="23" ChannelCode="711" ChannelName="Movies Ok" ProgName="RODP" days="MON,TUE,WED,THU,FRI" StartTime="21:00" EndTime="00:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="60">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="b7e99916-2a9a-4dee-b853-8b0cc371661b" SeqNumber="24" ChannelCode="711" ChannelName="Movies Ok" ProgName="RODP" days="SAT" StartTime="18:00" EndTime="21:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="18">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="c49c242b-8972-4a95-8f93-df99f785052b" SeqNumber="25" ChannelCode="711" ChannelName="Movies Ok" ProgName="RODP" days="SAT" StartTime="21:00" EndTime="00:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="18">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="220888a5-b587-45b6-85c9-b7e233578477" SeqNumber="26" ChannelCode="711" ChannelName="Movies Ok" ProgName="RODP" days="SUN" StartTime="18:00" EndTime="21:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="18">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="cdad632b-2fb6-4195-966c-a78202c28947" SeqNumber="27" ChannelCode="711" ChannelName="Movies Ok" ProgName="RODP" days="SUN" StartTime="21:00" EndTime="00:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="18">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="ca56ae5d-e119-4cee-8d4d-871e68d22e60" SeqNumber="28" ChannelCode="296" ChannelName="IBN7" ProgName="RODP" days="MON,TUE,WED,THU,FRI,SAT,SUN" StartTime="07:00" EndTime="11:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="150">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="dd377a73-3788-430f-98e2-50c2425bd33f" SeqNumber="29" ChannelCode="296" ChannelName="IBN7" ProgName="RODP" days="MON,TUE,WED,THU,FRI,SAT,SUN" StartTime="11:00" EndTime="18:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="150">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="bceb1bb8-72e8-492b-b63e-ee4646a4a9e7" SeqNumber="30" ChannelCode="296" ChannelName="IBN7" ProgName="RODP" days="MON,TUE,WED,THU,FRI,SAT,SUN" StartTime="18:00" EndTime="23:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="150">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="7b6cb8a8-902c-490e-a006-2d48eb4a8c62" SeqNumber="31" ChannelCode="10" ChannelName="Z News" ProgName="RODP" days="MON,TUE,WED,THU,FRI,SAT,SUN" StartTime="07:00" EndTime="11:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="150">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="1601d191-5aaf-4b31-9d27-dce59ed2e84e" SeqNumber="32" ChannelCode="10" ChannelName="Z News" ProgName="RODP" days="MON,TUE,WED,THU,FRI,SAT,SUN" StartTime="11:00" EndTime="18:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="150">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="a54a7d1c-6f5b-4dc4-b46c-21369d8b89f7" SeqNumber="33" ChannelCode="10" ChannelName="Z News" ProgName="RODP" days="MON,TUE,WED,THU,FRI,SAT,SUN" StartTime="18:00" EndTime="23:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="150">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="a60ef3ac-e002-4e5d-b6d4-34b876fd1cbd" SeqNumber="34" ChannelCode="273" ChannelName="Z Business" ProgName="RODP" days="MON,TUE,WED,THU,FRI,SAT,SUN" StartTime="07:00" EndTime="11:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="150">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="5c5c7ab7-0ce0-4c60-be0f-20aae3d38be9" SeqNumber="35" ChannelCode="273" ChannelName="Z Business" ProgName="RODP" days="MON,TUE,WED,THU,FRI,SAT,SUN" StartTime="11:00" EndTime="18:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="150">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="a724c5cb-9ebb-461a-a3bf-5412839ab157" SeqNumber="36" ChannelCode="273" ChannelName="Z Business" ProgName="RODP" days="MON,TUE,WED,THU,FRI,SAT,SUN" StartTime="18:00" EndTime="23:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="150">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="7b64b03c-fa9a-4b2b-a6a9-7d1d918b83c1" SeqNumber="37" ChannelCode="332" ChannelName="CNN IBN" ProgName="RODP" days="MON,TUE,WED,THU,FRI" StartTime="06:00" EndTime="11:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="100">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="df3388ec-7822-4074-99dd-345349895a3c" SeqNumber="38" ChannelCode="332" ChannelName="CNN IBN" ProgName="RODP" days="MON,TUE,WED,THU,FRI" StartTime="11:00" EndTime="17:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="100">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="e2d5a62d-e072-44fc-9625-795ccc96a774" SeqNumber="39" ChannelCode="332" ChannelName="CNN IBN" ProgName="RODP" days="MON,TUE,WED,THU,FRI,SAT,SUN" StartTime="17:00" EndTime="01:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="100">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="01e1b03e-1052-4c8e-a5b9-bf583e797102" SeqNumber="40" ChannelCode="332" ChannelName="CNN IBN" ProgName="RODP" days="SAT,SUN" StartTime="07:00" EndTime="17:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="100">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="d5a2eddb-f285-4f15-b6e2-952a6cf9190b" SeqNumber="41" ChannelCode="456" ChannelName="News X" ProgName="RODP" days="MON,TUE,WED,THU,FRI,SAT,SUN" StartTime="07:00" EndTime="11:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="180">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="29d8d848-adc3-463f-8898-f5391c4529e7" SeqNumber="42" ChannelCode="456" ChannelName="News X" ProgName="RODP" days="MON,TUE,WED,THU,FRI,SAT,SUN" StartTime="11:00" EndTime="18:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="180">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="c2bec4b4-6165-4e07-bba4-df8a258cbdf0" SeqNumber="43" ChannelCode="456" ChannelName="News X" ProgName="RODP" days="MON,TUE,WED,THU,FRI,SAT,SUN" StartTime="18:00" EndTime="23:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="180">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="f0149d3d-52c1-4ca7-9ead-a86c199a60de" SeqNumber="44" ChannelCode="16" ChannelName="Sun TV" ProgName="Illavarasi" days="MON,TUE,WED,THU,FRI" StartTime="13:30" EndTime="14:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="9">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="e6256cd7-1f98-4bb4-a45a-056a9da4c12a" SeqNumber="45" ChannelCode="16" ChannelName="Sun TV" ProgName="Valli" days="MON,TUE,WED,THU,FRI" StartTime="14:00" EndTime="14:30" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="9">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="ec5372c4-a7bc-419f-b40b-9b183a768563" SeqNumber="46" ChannelCode="16" ChannelName="Sun TV" ProgName="Azhagi" days="MON,TUE,WED,THU,FRI" StartTime="22:30" EndTime="23:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="9">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="1ae8e572-b98a-4022-a3ef-44a0daf92e4c" SeqNumber="47" ChannelCode="16" ChannelName="Sun TV" ProgName="Afternoon Movie" days="SAT" StartTime="14:00" EndTime="18:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="18">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="d21b2334-e6ec-4e4b-a1e6-e6079fd06a23" SeqNumber="48" ChannelCode="16" ChannelName="Sun TV" ProgName="Super Kudumbam" days="SAT" StartTime="21:00" EndTime="22:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="10">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="d027e0d9-d4c6-4a15-8499-ff44cf810cf7" SeqNumber="49" ChannelCode="16" ChannelName="Sun TV" ProgName="Afternoon Movie" days="SUN" StartTime="15:00" EndTime="17:30" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="18">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="6e586537-9e53-4d96-95e6-33579d4d1bb7" SeqNumber="50" ChannelCode="53" ChannelName="Vijay TV" ProgName="Deivam Thandha En Thangai" days="MON,TUE,WED,THU,FRI" StartTime="14:30" EndTime="15:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="20">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="915f9ffe-8064-499a-ac11-7fd388491bff" SeqNumber="51" ChannelCode="53" ChannelName="Vijay TV" ProgName="En Kanavan En Thozhan" days="MON,TUE,WED,THU,FRI" StartTime="14:00" EndTime="14:30" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="20">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="2a276f78-2c41-42c5-a304-c4dfc8818b19" SeqNumber="52" ChannelCode="53" ChannelName="Vijay TV" ProgName="Deivam Thandha Veedu" days="MON,TUE,WED,THU,FRI" StartTime="20:00" EndTime="20:30" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="20">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="c3598901-7c09-479f-91e1-5f546d587451" SeqNumber="53" ChannelCode="53" ChannelName="Vijay TV" ProgName="Kitchen Superstar-2" days="SAT" StartTime="20:00" EndTime="21:15" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="12">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="2f65d4c0-f3be-4d05-8c80-0aa3f7eac6ac" SeqNumber="54" ChannelCode="53" ChannelName="Vijay TV" ProgName="Sunday Movies" days="SUN" StartTime="14:00" EndTime="17:30" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="30">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="141ba1b5-5822-4026-ad4c-9a613f3e4ef6" SeqNumber="55" ChannelCode="671" ChannelName="PUTHIYA THALAIMURAI" ProgName="RODP" days="MON,TUE,WED,THU,FRI,SAT,SUN" StartTime="07:00" EndTime="11:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="100">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="3e0da239-fb28-4047-85e5-e95f7035bd7f" SeqNumber="56" ChannelCode="671" ChannelName="PUTHIYA THALAIMURAI" ProgName="RODP" days="MON,TUE,WED,THU,FRI,SAT,SUN" StartTime="11:00" EndTime="18:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="100">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="95b8337b-37f2-40eb-bd3e-582afa257aff" SeqNumber="57" ChannelCode="671" ChannelName="PUTHIYA THALAIMURAI" ProgName="RODP" days="MON,TUE,WED,THU,FRI,SAT,SUN" StartTime="18:00" EndTime="00:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="100">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="ea708b5a-4804-4fe1-854a-b282e079ff8e" SeqNumber="58" ChannelCode="268" ChannelName="Zee Telugu" ProgName="Muddubidda" days="MON,TUE,WED,THU,FRI" StartTime="20:00" EndTime="20:30" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="24">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="57e0795f-6e46-45b8-a8fe-1f7d3e7fb830" SeqNumber="59" ChannelCode="268" ChannelName="Zee Telugu" ProgName="Varudhini Parinayanam" days="MON,TUE,WED,THU,FRI" StartTime="20:30" EndTime="21:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="24">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="388c19b9-1272-4c51-933d-b069f6f41b17" SeqNumber="60" ChannelCode="268" ChannelName="Zee Telugu" ProgName="Rodp PT" days="MON,TUE,WED,THU,FRI,SAT,SUN" StartTime="18:00" EndTime="00:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="96">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="9a5f9cdf-7916-44e9-8066-87e037da2e93" SeqNumber="61" ChannelCode="268" ChannelName="Zee Telugu" ProgName="Rodp WE" days="SAT,SUN" StartTime="07:00" EndTime="18:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="72">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="ebd80a13-c031-4a42-9c0e-6d871206f092" SeqNumber="62" ChannelCode="268" ChannelName="Zee Telugu" ProgName="Weekend Movies" days="SAT,SUN" StartTime="09:00" EndTime="17:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="72">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="994c4f00-89cf-44af-a2d0-46da65b64787" SeqNumber="63" ChannelCode="268" ChannelName="Zee Telugu" ProgName="A+ Movies" days="SAT,SUN" StartTime="17:00" EndTime="20:30" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="60">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="ac212925-46a1-4f42-aebe-ed6a755359ab" SeqNumber="64" ChannelCode="268" ChannelName="Zee Telugu" ProgName="Rodp Npt Wd" days="MON,TUE,WED,THU,FRI" StartTime="07:00" EndTime="18:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="36">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="98964c27-5b95-434c-be9b-0a6a7d2198a0" SeqNumber="65" ChannelCode="198" ChannelName="Maa TV" ProgName="Afternoon Special Movies" days="SUN" StartTime="16:00" EndTime="19:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="18">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="6cfb41bc-f3a9-4eb4-8aa6-3e0a8b76ee8a" SeqNumber="66" ChannelCode="198" ChannelName="Maa TV" ProgName="Bhale Chancele - Season 4" days="MON,TUE" StartTime="16:00" EndTime="22:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="12">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="01b8dbfd-12bf-4d7e-a317-871830a6a6db" SeqNumber="67" ChannelCode="198" ChannelName="Maa TV" ProgName="CID" days="MON,TUE,WED,THU,FRI" StartTime="22:00" EndTime="23:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="24">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="85ad99d9-b4f6-406c-89ae-404bd8f4cc2c" SeqNumber="68" ChannelCode="198" ChannelName="Maa TV" ProgName="Hara Hara Mahadev (Marathon Episode)" days="SUN" StartTime="09:00" EndTime="12:30" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="24">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="57d7aed2-065b-4fe4-88f4-dd3a5a26eb01" SeqNumber="69" ChannelCode="198" ChannelName="Maa TV" ProgName="Blockbuster Movie" days="SUN" StartTime="19:00" EndTime="22:30" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="24">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="7bc975f7-c0fd-4c7d-a7a1-fe6e0bd55fa1" SeqNumber="70" ChannelCode="198" ChannelName="Maa TV" ProgName="Kutumba Gouravam" days="MON,TUE,WED,THU,FRI" StartTime="23:00" EndTime="23:30" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="48">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="68ee928d-65ac-4e9c-a51e-655ae27b407f" SeqNumber="71" ChannelCode="198" ChannelName="Maa TV" ProgName="Saturday Morning Show" days="SAT" StartTime="09:00" EndTime="12:30" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="36">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="d73fb041-3dce-4f5a-a38c-b75cf80aedc5" SeqNumber="72" ChannelCode="331" ChannelName="NTV" ProgName="RODP" days="MON,TUE,WED,THU,FRI,SAT,SUN" StartTime="07:00" EndTime="11:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="150">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="fcf059cd-5d68-40c5-92b1-885231d2afa4" SeqNumber="73" ChannelCode="331" ChannelName="NTV" ProgName="RODP" days="MON,TUE,WED,THU,FRI,SAT,SUN" StartTime="11:00" EndTime="18:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="150">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="830b06a8-d359-410b-aca9-9beb3f50cc41" SeqNumber="74" ChannelCode="331" ChannelName="NTV" ProgName="RODP" days="MON,TUE,WED,THU,FRI,SAT,SUN" StartTime="18:00" EndTime="00:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="150">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="fa4e7022-f6e0-4a5e-bd80-5894329fe50a" SeqNumber="75" ChannelCode="356" ChannelName="Z Kannada" ProgName="Weekday RODP" days="MON,TUE,WED,THU,FRI" StartTime="08:00" EndTime="18:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="120">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="2e34c081-a92b-4fa9-b142-2c94abb7842f" SeqNumber="76" ChannelCode="356" ChannelName="Z Kannada" ProgName="PT RODP" days="MON,TUE,WED,THU,FRI" StartTime="18:00" EndTime="01:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="120">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="a7259ec7-7da1-4416-8318-02ac5b7776c3" SeqNumber="77" ChannelCode="356" ChannelName="Z Kannada" ProgName="Chisou Savitri" days="MON,TUE,WED,THU,FRI" StartTime="19:00" EndTime="19:30" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="24">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="fed834fb-a1f5-4bd8-970c-abedbaa421f8" SeqNumber="78" ChannelCode="356" ChannelName="Z Kannada" ProgName="Bharti (O)" days="MON,TUE,WED,THU,FRI" StartTime="21:00" EndTime="21:30" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="24">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="3dc45907-67cd-4b48-ba37-03af35fb98a8" SeqNumber="79" ChannelCode="356" ChannelName="Z Kannada" ProgName="Punarvivah (O)" days="MON,TUE,WED,THU,FRI" StartTime="21:30" EndTime="22:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="24">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="71a4bda2-0b1d-40e6-8558-7f17bdce878e" SeqNumber="80" ChannelCode="356" ChannelName="Z Kannada" ProgName="Yariguntu Yarigilla (O)" days="SAT,SUN" StartTime="21:00" EndTime="22:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="12">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="a732a8ea-68d9-44b5-98b5-0d8c256a1c2a" SeqNumber="81" ChannelCode="356" ChannelName="Z Kannada" ProgName="A+ Movies" days="SAT,SUN" StartTime="10:00" EndTime="21:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="96">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="8490ea25-45d2-4bdc-ab0e-d0343b171cac" SeqNumber="82" ChannelCode="356" ChannelName="Z Kannada" ProgName="Weekend RODP" days="SAT,SUN" StartTime="08:00" EndTime="18:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="96">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="c464681c-c3bb-49fe-a544-6fb994bcde4b" SeqNumber="83" ChannelCode="379" ChannelName="TV9 Karnataka" ProgName="RODP" days="MON,TUE,WED,THU,FRI,SAT,SUN" StartTime="07:00" EndTime="11:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="125">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="3fe09223-38df-464b-be17-8148eec46a68" SeqNumber="84" ChannelCode="379" ChannelName="TV9 Karnataka" ProgName="RODP" days="MON,TUE,WED,THU,FRI,SAT,SUN" StartTime="11:00" EndTime="18:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="125">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="8a91a646-b0e2-4e24-acbe-78cf12f4cf8c" SeqNumber="85" ChannelCode="379" ChannelName="TV9 Karnataka" ProgName="RODP" days="MON,TUE,WED,THU,FRI,SAT,SUN" StartTime="18:00" EndTime="00:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="125">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="e2480da6-1c70-43bc-91ac-26a04b6abffe" SeqNumber="86" ChannelCode="37" ChannelName="Z Bangla" ProgName="RANNA GHAR ®" days="SUN" StartTime="18:30" EndTime="19:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="15">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="5cc96af5-77e7-4aa8-83ff-e3f693364626" SeqNumber="87" ChannelCode="37" ChannelName="Z Bangla" ProgName="Boyei Gelo (O)" days="MON,TUE,WED,THU,FRI,SAT" StartTime="21:00" EndTime="21:30" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="15">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="5aa5da61-427c-4479-a58e-29dd5a74a033" SeqNumber="88" ChannelCode="37" ChannelName="Z Bangla" ProgName="Boyei Gelo ®" days="MON,TUE,WED,THU,FRI,SAT" StartTime="23:30" EndTime="00:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="15">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="4468ef37-ba0e-4aff-94d7-09123afff163" SeqNumber="89" ChannelCode="37" ChannelName="Z Bangla" ProgName="Sunday PT RODP" days="SUN" StartTime="18:00" EndTime="00:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="15">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="95e3ab48-6495-4946-9e51-3016eb6e6e84" SeqNumber="90" ChannelCode="37" ChannelName="Z Bangla" ProgName="Mirakkel (O) " days="MON,TUE,WED" StartTime="21:30" EndTime="23:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="15">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="7ed140a1-8dde-408f-9a9f-5018cc2411eb" SeqNumber="91" ChannelCode="306" ChannelName="ABP Ananda" ProgName="RODP" days="MON,TUE,WED,THU,FRI,SAT,SUN" StartTime="07:00" EndTime="11:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="100">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="91092ebc-ce64-4dfd-993a-061cab061403" SeqNumber="92" ChannelCode="306" ChannelName="ABP Ananda" ProgName="RODP" days="MON,TUE,WED,THU,FRI,SAT,SUN" StartTime="11:00" EndTime="18:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="100">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="6d956cb2-ccc5-4742-8353-08158424478a" SeqNumber="93" ChannelCode="306" ChannelName="ABP Ananda" ProgName="RODP" days="MON,TUE,WED,THU,FRI,SAT,SUN" StartTime="18:00" EndTime="00:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="100">
+        <selected_spots></selected_spots>
+      </programme>
+    </period>
+    <period StartDate="20130825" EndDate="20130831" year="2013" WeekNum="35">
+      <programme guid="77b8145a-7121-45dd-91d2-8a932d8d8cb5" SeqNumber="1" ChannelCode="60" ChannelName="Sony" ProgName="CID" days="FRI,SAT" StartTime="22:00" EndTime="23:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="10">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="8f8c873f-e480-4261-af86-fa0fdb2c38f2" SeqNumber="2" ChannelCode="60" ChannelName="Sony" ProgName="Jee Lay Zara" days="MON,TUE,WED,THU" StartTime="21:30" EndTime="22:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="13">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="3c0ed3d3-81ee-4b03-9345-58e3ef79951e" SeqNumber="3" ChannelCode="60" ChannelName="Sony" ProgName="Maharana Pratap" days="MON,TUE,WED,THU" StartTime="22:00" EndTime="22:30" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="13">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="afda1771-a857-4f4e-87ab-242ee189a60f" SeqNumber="4" ChannelCode="60" ChannelName="Sony" ProgName="Adalat" days="SAT,SUN" StartTime="19:30" EndTime="20:30" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="9">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="548b2f60-d3ce-4f41-88f7-e6a7097b9ff5" SeqNumber="5" ChannelCode="60" ChannelName="Sony" ProgName="Crime Patrol-27th Sep Onwards" days="FRI,SAT" StartTime="23:00" EndTime="00:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="13">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="39799343-6fe0-4dc5-ba2a-9631add7da65" SeqNumber="6" ChannelCode="60" ChannelName="Sony" ProgName="Comedy Circus-8th Sep Onwards" days="SUN" StartTime="22:00" EndTime="23:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="5">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="21c8913c-b093-43f5-91a9-8a55f3abaff5" SeqNumber="7" ChannelCode="60" ChannelName="Sony" ProgName="Late Prime RODP" days="MON,TUE,WED,THU" StartTime="23:00" EndTime="00:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="33">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="0a708e79-0fba-4213-8f18-d0f882703386" SeqNumber="8" ChannelCode="60" ChannelName="Sony" ProgName="Weekend RODP" days="FRI,SAT,SUN" StartTime="08:00" EndTime="19:30" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="60">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="9f7eb780-e340-41da-920a-124ffd13369d" SeqNumber="9" ChannelCode="60" ChannelName="Sony" ProgName="Weekend Movies" days="FRI,SAT,SUN" StartTime="08:00" EndTime="19:30" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="25">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="d9d72d08-bf92-47d9-9fc7-4e2a2520a885" SeqNumber="10" ChannelCode="60" ChannelName="Sony" ProgName="Weekday RODP" days="MON,TUE,WED,THU" StartTime="08:00" EndTime="17:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="125">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="0ae6d4b3-2899-4726-bb3e-860dd398d918" SeqNumber="11" ChannelCode="479" ChannelName="Colors" ProgName="RODP weekday" days="MON,TUE,WED,THU,FRI" StartTime="18:00" EndTime="19:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="30">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="cdae8504-8ca5-4496-b3a9-bdf7fa98112c" SeqNumber="12" ChannelCode="479" ChannelName="Colors" ProgName="Balika Vadhu(O)" days="MON,TUE,WED,THU,FRI,SAT" StartTime="20:00" EndTime="20:30" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="8">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="35faa63e-a6c4-4c2c-af3a-114a7ef33a3c" SeqNumber="13" ChannelCode="479" ChannelName="Colors" ProgName="Colors Movies" days="SAT,SUN" StartTime="12:00" EndTime="12:30" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="15">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="882ee86a-0965-4b31-a85e-feb154278e27" SeqNumber="14" ChannelCode="479" ChannelName="Colors" ProgName="RODP weekend" days="SAT,SUN" StartTime="07:00" EndTime="18:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="20">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="68c657ce-54cb-4832-8e01-42daff36dc69" SeqNumber="15" ChannelCode="479" ChannelName="Colors" ProgName="Comedy Nights with Kapil" days="SAT,SUN" StartTime="22:00" EndTime="22:30" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="10">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="85057bbb-71c7-4d2f-86db-5f8c81df0741" SeqNumber="16" ChannelCode="479" ChannelName="Colors" ProgName="RODP weekday" days="MON,TUE,WED,THU,FRI" StartTime="08:00" EndTime="13:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="15">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="4ed87fb8-854e-444d-afe3-16877a057962" SeqNumber="17" ChannelCode="34" ChannelName="Z Cinema" ProgName="Raat/ HFF" days="MON,TUE,WED,THU,FRI" StartTime="18:00" EndTime="21:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="70">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="55fe2e6f-15f9-4375-88a9-c8846cfc76b7" SeqNumber="18" ChannelCode="34" ChannelName="Z Cinema" ProgName="Raat 2 /Cinema Hall/ HFF" days="MON,TUE,WED,THU,FRI" StartTime="21:00" EndTime="01:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="70">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="f4a44331-f353-48a5-9772-4514c27e3b3d" SeqNumber="19" ChannelCode="34" ChannelName="Z Cinema" ProgName="Weekend PT/ HFF" days="SAT,SUN" StartTime="18:00" EndTime="21:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="45">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="da6300e0-25cd-4a0f-ad26-fc33f89128f5" SeqNumber="20" ChannelCode="34" ChannelName="Z Cinema" ProgName="Shanivar Ki Raat/HFF" days="SAT" StartTime="21:00" EndTime="01:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="30">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="50252c33-b2ae-4129-af85-70590d72a61f" SeqNumber="21" ChannelCode="34" ChannelName="Z Cinema" ProgName="Lage Raho/HFF" days="SUN" StartTime="21:00" EndTime="01:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="30">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="2326808f-8ac5-4c3b-9e9b-5c72e1574b00" SeqNumber="22" ChannelCode="711" ChannelName="Movies Ok" ProgName="RODP" days="MON,TUE,WED,THU,FRI" StartTime="15:00" EndTime="18:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="60">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="88ee6bc8-a965-4428-8011-8c36e462e722" SeqNumber="23" ChannelCode="711" ChannelName="Movies Ok" ProgName="RODP" days="MON,TUE,WED,THU,FRI" StartTime="21:00" EndTime="00:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="60">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="b7e99916-2a9a-4dee-b853-8b0cc371661b" SeqNumber="24" ChannelCode="711" ChannelName="Movies Ok" ProgName="RODP" days="SAT" StartTime="18:00" EndTime="21:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="18">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="c49c242b-8972-4a95-8f93-df99f785052b" SeqNumber="25" ChannelCode="711" ChannelName="Movies Ok" ProgName="RODP" days="SAT" StartTime="21:00" EndTime="00:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="18">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="220888a5-b587-45b6-85c9-b7e233578477" SeqNumber="26" ChannelCode="711" ChannelName="Movies Ok" ProgName="RODP" days="SUN" StartTime="18:00" EndTime="21:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="18">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="cdad632b-2fb6-4195-966c-a78202c28947" SeqNumber="27" ChannelCode="711" ChannelName="Movies Ok" ProgName="RODP" days="SUN" StartTime="21:00" EndTime="00:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="18">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="ca56ae5d-e119-4cee-8d4d-871e68d22e60" SeqNumber="28" ChannelCode="296" ChannelName="IBN7" ProgName="RODP" days="MON,TUE,WED,THU,FRI,SAT,SUN" StartTime="07:00" EndTime="11:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="150">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="dd377a73-3788-430f-98e2-50c2425bd33f" SeqNumber="29" ChannelCode="296" ChannelName="IBN7" ProgName="RODP" days="MON,TUE,WED,THU,FRI,SAT,SUN" StartTime="11:00" EndTime="18:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="150">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="bceb1bb8-72e8-492b-b63e-ee4646a4a9e7" SeqNumber="30" ChannelCode="296" ChannelName="IBN7" ProgName="RODP" days="MON,TUE,WED,THU,FRI,SAT,SUN" StartTime="18:00" EndTime="23:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="150">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="7b6cb8a8-902c-490e-a006-2d48eb4a8c62" SeqNumber="31" ChannelCode="10" ChannelName="Z News" ProgName="RODP" days="MON,TUE,WED,THU,FRI,SAT,SUN" StartTime="07:00" EndTime="11:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="150">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="1601d191-5aaf-4b31-9d27-dce59ed2e84e" SeqNumber="32" ChannelCode="10" ChannelName="Z News" ProgName="RODP" days="MON,TUE,WED,THU,FRI,SAT,SUN" StartTime="11:00" EndTime="18:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="150">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="a54a7d1c-6f5b-4dc4-b46c-21369d8b89f7" SeqNumber="33" ChannelCode="10" ChannelName="Z News" ProgName="RODP" days="MON,TUE,WED,THU,FRI,SAT,SUN" StartTime="18:00" EndTime="23:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="150">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="a60ef3ac-e002-4e5d-b6d4-34b876fd1cbd" SeqNumber="34" ChannelCode="273" ChannelName="Z Business" ProgName="RODP" days="MON,TUE,WED,THU,FRI,SAT,SUN" StartTime="07:00" EndTime="11:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="150">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="5c5c7ab7-0ce0-4c60-be0f-20aae3d38be9" SeqNumber="35" ChannelCode="273" ChannelName="Z Business" ProgName="RODP" days="MON,TUE,WED,THU,FRI,SAT,SUN" StartTime="11:00" EndTime="18:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="150">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="a724c5cb-9ebb-461a-a3bf-5412839ab157" SeqNumber="36" ChannelCode="273" ChannelName="Z Business" ProgName="RODP" days="MON,TUE,WED,THU,FRI,SAT,SUN" StartTime="18:00" EndTime="23:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="150">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="7b64b03c-fa9a-4b2b-a6a9-7d1d918b83c1" SeqNumber="37" ChannelCode="332" ChannelName="CNN IBN" ProgName="RODP" days="MON,TUE,WED,THU,FRI" StartTime="06:00" EndTime="11:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="100">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="df3388ec-7822-4074-99dd-345349895a3c" SeqNumber="38" ChannelCode="332" ChannelName="CNN IBN" ProgName="RODP" days="MON,TUE,WED,THU,FRI" StartTime="11:00" EndTime="17:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="100">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="e2d5a62d-e072-44fc-9625-795ccc96a774" SeqNumber="39" ChannelCode="332" ChannelName="CNN IBN" ProgName="RODP" days="MON,TUE,WED,THU,FRI,SAT,SUN" StartTime="17:00" EndTime="01:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="100">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="01e1b03e-1052-4c8e-a5b9-bf583e797102" SeqNumber="40" ChannelCode="332" ChannelName="CNN IBN" ProgName="RODP" days="SAT,SUN" StartTime="07:00" EndTime="17:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="100">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="d5a2eddb-f285-4f15-b6e2-952a6cf9190b" SeqNumber="41" ChannelCode="456" ChannelName="News X" ProgName="RODP" days="MON,TUE,WED,THU,FRI,SAT,SUN" StartTime="07:00" EndTime="11:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="180">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="29d8d848-adc3-463f-8898-f5391c4529e7" SeqNumber="42" ChannelCode="456" ChannelName="News X" ProgName="RODP" days="MON,TUE,WED,THU,FRI,SAT,SUN" StartTime="11:00" EndTime="18:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="180">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="c2bec4b4-6165-4e07-bba4-df8a258cbdf0" SeqNumber="43" ChannelCode="456" ChannelName="News X" ProgName="RODP" days="MON,TUE,WED,THU,FRI,SAT,SUN" StartTime="18:00" EndTime="23:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="180">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="f0149d3d-52c1-4ca7-9ead-a86c199a60de" SeqNumber="44" ChannelCode="16" ChannelName="Sun TV" ProgName="Illavarasi" days="MON,TUE,WED,THU,FRI" StartTime="13:30" EndTime="14:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="9">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="e6256cd7-1f98-4bb4-a45a-056a9da4c12a" SeqNumber="45" ChannelCode="16" ChannelName="Sun TV" ProgName="Valli" days="MON,TUE,WED,THU,FRI" StartTime="14:00" EndTime="14:30" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="9">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="ec5372c4-a7bc-419f-b40b-9b183a768563" SeqNumber="46" ChannelCode="16" ChannelName="Sun TV" ProgName="Azhagi" days="MON,TUE,WED,THU,FRI" StartTime="22:30" EndTime="23:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="9">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="1ae8e572-b98a-4022-a3ef-44a0daf92e4c" SeqNumber="47" ChannelCode="16" ChannelName="Sun TV" ProgName="Afternoon Movie" days="SAT" StartTime="14:00" EndTime="18:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="18">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="d21b2334-e6ec-4e4b-a1e6-e6079fd06a23" SeqNumber="48" ChannelCode="16" ChannelName="Sun TV" ProgName="Super Kudumbam" days="SAT" StartTime="21:00" EndTime="22:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="10">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="d027e0d9-d4c6-4a15-8499-ff44cf810cf7" SeqNumber="49" ChannelCode="16" ChannelName="Sun TV" ProgName="Afternoon Movie" days="SUN" StartTime="15:00" EndTime="17:30" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="18">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="6e586537-9e53-4d96-95e6-33579d4d1bb7" SeqNumber="50" ChannelCode="53" ChannelName="Vijay TV" ProgName="Deivam Thandha En Thangai" days="MON,TUE,WED,THU,FRI" StartTime="14:30" EndTime="15:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="20">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="915f9ffe-8064-499a-ac11-7fd388491bff" SeqNumber="51" ChannelCode="53" ChannelName="Vijay TV" ProgName="En Kanavan En Thozhan" days="MON,TUE,WED,THU,FRI" StartTime="14:00" EndTime="14:30" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="20">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="2a276f78-2c41-42c5-a304-c4dfc8818b19" SeqNumber="52" ChannelCode="53" ChannelName="Vijay TV" ProgName="Deivam Thandha Veedu" days="MON,TUE,WED,THU,FRI" StartTime="20:00" EndTime="20:30" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="20">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="c3598901-7c09-479f-91e1-5f546d587451" SeqNumber="53" ChannelCode="53" ChannelName="Vijay TV" ProgName="Kitchen Superstar-2" days="SAT" StartTime="20:00" EndTime="21:15" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="12">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="2f65d4c0-f3be-4d05-8c80-0aa3f7eac6ac" SeqNumber="54" ChannelCode="53" ChannelName="Vijay TV" ProgName="Sunday Movies" days="SUN" StartTime="14:00" EndTime="17:30" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="30">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="141ba1b5-5822-4026-ad4c-9a613f3e4ef6" SeqNumber="55" ChannelCode="671" ChannelName="PUTHIYA THALAIMURAI" ProgName="RODP" days="MON,TUE,WED,THU,FRI,SAT,SUN" StartTime="07:00" EndTime="11:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="100">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="3e0da239-fb28-4047-85e5-e95f7035bd7f" SeqNumber="56" ChannelCode="671" ChannelName="PUTHIYA THALAIMURAI" ProgName="RODP" days="MON,TUE,WED,THU,FRI,SAT,SUN" StartTime="11:00" EndTime="18:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="100">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="95b8337b-37f2-40eb-bd3e-582afa257aff" SeqNumber="57" ChannelCode="671" ChannelName="PUTHIYA THALAIMURAI" ProgName="RODP" days="MON,TUE,WED,THU,FRI,SAT,SUN" StartTime="18:00" EndTime="00:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="100">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="ea708b5a-4804-4fe1-854a-b282e079ff8e" SeqNumber="58" ChannelCode="268" ChannelName="Zee Telugu" ProgName="Muddubidda" days="MON,TUE,WED,THU,FRI" StartTime="20:00" EndTime="20:30" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="24">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="57e0795f-6e46-45b8-a8fe-1f7d3e7fb830" SeqNumber="59" ChannelCode="268" ChannelName="Zee Telugu" ProgName="Varudhini Parinayanam" days="MON,TUE,WED,THU,FRI" StartTime="20:30" EndTime="21:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="24">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="388c19b9-1272-4c51-933d-b069f6f41b17" SeqNumber="60" ChannelCode="268" ChannelName="Zee Telugu" ProgName="Rodp PT" days="MON,TUE,WED,THU,FRI,SAT,SUN" StartTime="18:00" EndTime="00:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="96">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="9a5f9cdf-7916-44e9-8066-87e037da2e93" SeqNumber="61" ChannelCode="268" ChannelName="Zee Telugu" ProgName="Rodp WE" days="SAT,SUN" StartTime="07:00" EndTime="18:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="72">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="ebd80a13-c031-4a42-9c0e-6d871206f092" SeqNumber="62" ChannelCode="268" ChannelName="Zee Telugu" ProgName="Weekend Movies" days="SAT,SUN" StartTime="09:00" EndTime="17:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="72">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="994c4f00-89cf-44af-a2d0-46da65b64787" SeqNumber="63" ChannelCode="268" ChannelName="Zee Telugu" ProgName="A+ Movies" days="SAT,SUN" StartTime="17:00" EndTime="20:30" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="60">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="ac212925-46a1-4f42-aebe-ed6a755359ab" SeqNumber="64" ChannelCode="268" ChannelName="Zee Telugu" ProgName="Rodp Npt Wd" days="MON,TUE,WED,THU,FRI" StartTime="07:00" EndTime="18:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="36">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="98964c27-5b95-434c-be9b-0a6a7d2198a0" SeqNumber="65" ChannelCode="198" ChannelName="Maa TV" ProgName="Afternoon Special Movies" days="SUN" StartTime="16:00" EndTime="19:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="18">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="6cfb41bc-f3a9-4eb4-8aa6-3e0a8b76ee8a" SeqNumber="66" ChannelCode="198" ChannelName="Maa TV" ProgName="Bhale Chancele - Season 4" days="MON,TUE" StartTime="16:00" EndTime="22:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="12">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="01b8dbfd-12bf-4d7e-a317-871830a6a6db" SeqNumber="67" ChannelCode="198" ChannelName="Maa TV" ProgName="CID" days="MON,TUE,WED,THU,FRI" StartTime="22:00" EndTime="23:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="24">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="85ad99d9-b4f6-406c-89ae-404bd8f4cc2c" SeqNumber="68" ChannelCode="198" ChannelName="Maa TV" ProgName="Hara Hara Mahadev (Marathon Episode)" days="SUN" StartTime="09:00" EndTime="12:30" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="24">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="57d7aed2-065b-4fe4-88f4-dd3a5a26eb01" SeqNumber="69" ChannelCode="198" ChannelName="Maa TV" ProgName="Blockbuster Movie" days="SUN" StartTime="19:00" EndTime="22:30" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="24">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="7bc975f7-c0fd-4c7d-a7a1-fe6e0bd55fa1" SeqNumber="70" ChannelCode="198" ChannelName="Maa TV" ProgName="Kutumba Gouravam" days="MON,TUE,WED,THU,FRI" StartTime="23:00" EndTime="23:30" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="48">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="68ee928d-65ac-4e9c-a51e-655ae27b407f" SeqNumber="71" ChannelCode="198" ChannelName="Maa TV" ProgName="Saturday Morning Show" days="SAT" StartTime="09:00" EndTime="12:30" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="36">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="d73fb041-3dce-4f5a-a38c-b75cf80aedc5" SeqNumber="72" ChannelCode="331" ChannelName="NTV" ProgName="RODP" days="MON,TUE,WED,THU,FRI,SAT,SUN" StartTime="07:00" EndTime="11:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="150">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="fcf059cd-5d68-40c5-92b1-885231d2afa4" SeqNumber="73" ChannelCode="331" ChannelName="NTV" ProgName="RODP" days="MON,TUE,WED,THU,FRI,SAT,SUN" StartTime="11:00" EndTime="18:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="150">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="830b06a8-d359-410b-aca9-9beb3f50cc41" SeqNumber="74" ChannelCode="331" ChannelName="NTV" ProgName="RODP" days="MON,TUE,WED,THU,FRI,SAT,SUN" StartTime="18:00" EndTime="00:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="150">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="fa4e7022-f6e0-4a5e-bd80-5894329fe50a" SeqNumber="75" ChannelCode="356" ChannelName="Z Kannada" ProgName="Weekday RODP" days="MON,TUE,WED,THU,FRI" StartTime="08:00" EndTime="18:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="120">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="2e34c081-a92b-4fa9-b142-2c94abb7842f" SeqNumber="76" ChannelCode="356" ChannelName="Z Kannada" ProgName="PT RODP" days="MON,TUE,WED,THU,FRI" StartTime="18:00" EndTime="01:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="120">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="a7259ec7-7da1-4416-8318-02ac5b7776c3" SeqNumber="77" ChannelCode="356" ChannelName="Z Kannada" ProgName="Chisou Savitri" days="MON,TUE,WED,THU,FRI" StartTime="19:00" EndTime="19:30" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="24">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="fed834fb-a1f5-4bd8-970c-abedbaa421f8" SeqNumber="78" ChannelCode="356" ChannelName="Z Kannada" ProgName="Bharti (O)" days="MON,TUE,WED,THU,FRI" StartTime="21:00" EndTime="21:30" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="24">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="3dc45907-67cd-4b48-ba37-03af35fb98a8" SeqNumber="79" ChannelCode="356" ChannelName="Z Kannada" ProgName="Punarvivah (O)" days="MON,TUE,WED,THU,FRI" StartTime="21:30" EndTime="22:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="24">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="71a4bda2-0b1d-40e6-8558-7f17bdce878e" SeqNumber="80" ChannelCode="356" ChannelName="Z Kannada" ProgName="Yariguntu Yarigilla (O)" days="SAT,SUN" StartTime="21:00" EndTime="22:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="12">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="a732a8ea-68d9-44b5-98b5-0d8c256a1c2a" SeqNumber="81" ChannelCode="356" ChannelName="Z Kannada" ProgName="A+ Movies" days="SAT,SUN" StartTime="10:00" EndTime="21:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="96">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="8490ea25-45d2-4bdc-ab0e-d0343b171cac" SeqNumber="82" ChannelCode="356" ChannelName="Z Kannada" ProgName="Weekend RODP" days="SAT,SUN" StartTime="08:00" EndTime="18:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="96">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="c464681c-c3bb-49fe-a544-6fb994bcde4b" SeqNumber="83" ChannelCode="379" ChannelName="TV9 Karnataka" ProgName="RODP" days="MON,TUE,WED,THU,FRI,SAT,SUN" StartTime="07:00" EndTime="11:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="125">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="3fe09223-38df-464b-be17-8148eec46a68" SeqNumber="84" ChannelCode="379" ChannelName="TV9 Karnataka" ProgName="RODP" days="MON,TUE,WED,THU,FRI,SAT,SUN" StartTime="11:00" EndTime="18:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="125">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="8a91a646-b0e2-4e24-acbe-78cf12f4cf8c" SeqNumber="85" ChannelCode="379" ChannelName="TV9 Karnataka" ProgName="RODP" days="MON,TUE,WED,THU,FRI,SAT,SUN" StartTime="18:00" EndTime="00:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="125">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="e2480da6-1c70-43bc-91ac-26a04b6abffe" SeqNumber="86" ChannelCode="37" ChannelName="Z Bangla" ProgName="RANNA GHAR ®" days="SUN" StartTime="18:30" EndTime="19:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="15">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="5cc96af5-77e7-4aa8-83ff-e3f693364626" SeqNumber="87" ChannelCode="37" ChannelName="Z Bangla" ProgName="Boyei Gelo (O)" days="MON,TUE,WED,THU,FRI,SAT" StartTime="21:00" EndTime="21:30" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="15">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="5aa5da61-427c-4479-a58e-29dd5a74a033" SeqNumber="88" ChannelCode="37" ChannelName="Z Bangla" ProgName="Boyei Gelo ®" days="MON,TUE,WED,THU,FRI,SAT" StartTime="23:30" EndTime="00:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="15">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="4468ef37-ba0e-4aff-94d7-09123afff163" SeqNumber="89" ChannelCode="37" ChannelName="Z Bangla" ProgName="Sunday PT RODP" days="SUN" StartTime="18:00" EndTime="00:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="15">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="95e3ab48-6495-4946-9e51-3016eb6e6e84" SeqNumber="90" ChannelCode="37" ChannelName="Z Bangla" ProgName="Mirakkel (O) " days="MON,TUE,WED" StartTime="21:30" EndTime="23:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="15">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="7ed140a1-8dde-408f-9a9f-5018cc2411eb" SeqNumber="91" ChannelCode="306" ChannelName="ABP Ananda" ProgName="RODP" days="MON,TUE,WED,THU,FRI,SAT,SUN" StartTime="07:00" EndTime="11:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="100">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="91092ebc-ce64-4dfd-993a-061cab061403" SeqNumber="92" ChannelCode="306" ChannelName="ABP Ananda" ProgName="RODP" days="MON,TUE,WED,THU,FRI,SAT,SUN" StartTime="11:00" EndTime="18:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="100">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="6d956cb2-ccc5-4742-8353-08158424478a" SeqNumber="93" ChannelCode="306" ChannelName="ABP Ananda" ProgName="RODP" days="MON,TUE,WED,THU,FRI,SAT,SUN" StartTime="18:00" EndTime="00:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="100">
+        <selected_spots></selected_spots>
+      </programme>
+    </period>
+  </plan>
+</mediaplan>

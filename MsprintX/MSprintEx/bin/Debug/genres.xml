@@ -1,0 +1,81 @@
+<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <Genres>
+    <Name>DD</Name>
+  </Genres>
+  <Genres>
+    <Name>HIN NEWS</Name>
+  </Genres>
+  <Genres>
+    <Name>KIDS</Name>
+  </Genres>
+  <Genres>
+    <Name>NON-ACTIVE</Name>
+  </Genres>
+  <Genres>
+    <Name>PUNJABI SAT</Name>
+  </Genres>
+  <Genres>
+    <Name>OTHERS</Name>
+  </Genres>
+  <Genres>
+    <Name>ENG MOVIES</Name>
+  </Genres>
+  <Genres>
+    <Name>SPORTS</Name>
+  </Genres>
+  <Genres>
+    <Name>ENG ENTT</Name>
+  </Genres>
+  <Genres>
+    <Name>GEC2</Name>
+  </Genres>
+  <Genres>
+    <Name>BENGALI SAT</Name>
+  </Genres>
+  <Genres>
+    <Name>TAM SAT</Name>
+  </Genres>
+  <Genres>
+    <Name>CABLE REGIONAL</Name>
+  </Genres>
+  <Genres>
+    <Name>MUSIC</Name>
+  </Genres>
+  <Genres>
+    <Name>ENG NEWS</Name>
+  </Genres>
+  <Genres>
+    <Name>MALAYALAM SAT</Name>
+  </Genres>
+  <Genres>
+    <Name>KANNADA SAT</Name>
+  </Genres>
+  <Genres>
+    <Name>MARATHI SAT</Name>
+  </Genres>
+  <Genres>
+    <Name>HIN MOVIES</Name>
+  </Genres>
+  <Genres>
+    <Name>UP/BIHAR/JHARKHAND</Name>
+  </Genres>
+  <Genres>
+    <Name>OTHER REGIONALS</Name>
+  </Genres>
+  <Genres>
+    <Name>ORIYA SAT</Name>
+  </Genres>
+  <Genres>
+    <Name>TELUGU SAT</Name>
+  </Genres>
+  <Genres>
+    <Name>INFOTAINMENT</Name>
+  </Genres>
+  <Genres>
+    <Name>GEC1</Name>
+  </Genres>
+  <Genres>
+    <Name>ASSAM SAT</Name>
+  </Genres>
+</DocumentElement>

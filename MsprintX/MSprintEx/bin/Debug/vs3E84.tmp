@@ -1,0 +1,628 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+MSprintEx
+</name>
+</assembly>
+<members>
+<member name="T:MSprintEx.BrkPerfDataSet.ProgRFMtDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:MSprintEx.BrkPerfDataSet.ChannelMapDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:MSprintEx.BrkPerfDataSet.LogSpotsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:MSprintEx.BrkPerfDataSet.ExistingLogDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:MSprintEx.BrkPerfDataSet.BreaksDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:MSprintEx.BrkPerfDataSet.ProgRFMtRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:MSprintEx.BrkPerfDataSet.ChannelMapRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:MSprintEx.BrkPerfDataSet.LogSpotsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:MSprintEx.BrkPerfDataSet.ExistingLogRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:MSprintEx.BrkPerfDataSet.BreaksRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:MSprintEx.BrkPerfDataSet.ProgRFMtRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:MSprintEx.BrkPerfDataSet.ChannelMapRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:MSprintEx.BrkPerfDataSet.LogSpotsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:MSprintEx.BrkPerfDataSet.ExistingLogRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:MSprintEx.BrkPerfDataSet.BreaksRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:MSprintEx.BrkPerfDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:MSprintEx.BrkPerfDataSetTableAdapters.ProgRFMtTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:MSprintEx.BrkPerfDataSetTableAdapters.ChannelMapTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:MSprintEx.BrkPerfDataSetTableAdapters.LogSpotsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:MSprintEx.BrkPerfDataSetTableAdapters.ExistingLogTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:MSprintEx.BrkPerfDataSetTableAdapters.BreaksTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:MSprintEx.BrkPerfDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(MSprintEx.BrkPerfDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:MSprintEx.BrkPerfDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(MSprintEx.BrkPerfDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:MSprintEx.BrkPerfDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(MSprintEx.BrkPerfDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:MSprintEx.BrkPerfDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:MSprintEx.BrkPerfDataSetTableAdapters.TableAdapterManager.UpdateAll(MSprintEx.BrkPerfDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:MSprintEx.BrkPerfDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:MSprintEx.BrkPerfDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:MSprintEx.BrkPerfDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:MSprintEx.METIS.MarketsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:MSprintEx.METIS.GENDERDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:MSprintEx.METIS.AGEBANDDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:MSprintEx.METIS.SECDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:MSprintEx.METIS.HOUSEHOLDDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:MSprintEx.METIS.CHANNEL_MASTERDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:MSprintEx.METIS.SelectedMarketsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:MSprintEx.METIS.MarketGroupDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:MSprintEx.METIS.MarketsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:MSprintEx.METIS.GENDERRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:MSprintEx.METIS.AGEBANDRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:MSprintEx.METIS.SECRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:MSprintEx.METIS.HOUSEHOLDRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:MSprintEx.METIS.CHANNEL_MASTERRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:MSprintEx.METIS.SelectedMarketsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:MSprintEx.METIS.MarketGroupRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:MSprintEx.METIS.MarketsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:MSprintEx.METIS.GENDERRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:MSprintEx.METIS.AGEBANDRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:MSprintEx.METIS.SECRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:MSprintEx.METIS.HOUSEHOLDRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:MSprintEx.METIS.CHANNEL_MASTERRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:MSprintEx.METIS.SelectedMarketsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:MSprintEx.METIS.MarketGroupRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:MSprintEx.METIS">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:MSprintEx.METISTableAdapters.MarketsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:MSprintEx.METISTableAdapters.GENDERTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:MSprintEx.METISTableAdapters.AGEBANDTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:MSprintEx.METISTableAdapters.SECTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:MSprintEx.METISTableAdapters.HOUSEHOLDTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:MSprintEx.METISTableAdapters.CHANNEL_MASTERTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:MSprintEx.METISTableAdapters.TableAdapterManager.UpdateUpdatedRows(MSprintEx.METIS,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:MSprintEx.METISTableAdapters.TableAdapterManager.UpdateInsertedRows(MSprintEx.METIS,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:MSprintEx.METISTableAdapters.TableAdapterManager.UpdateDeletedRows(MSprintEx.METIS,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:MSprintEx.METISTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:MSprintEx.METISTableAdapters.TableAdapterManager.UpdateAll(MSprintEx.METIS)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:MSprintEx.METISTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:MSprintEx.METISTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:MSprintEx.METISTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:MSprintEx._dbBrkPerf__2_DataSet.ChannelMapDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:MSprintEx._dbBrkPerf__2_DataSet.ProgRFMtDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:MSprintEx._dbBrkPerf__2_DataSet.ChannelMapRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:MSprintEx._dbBrkPerf__2_DataSet.ProgRFMtRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:MSprintEx._dbBrkPerf__2_DataSet.ChannelMapRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:MSprintEx._dbBrkPerf__2_DataSet.ProgRFMtRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:MSprintEx._dbBrkPerf__2_DataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:MSprintEx._dbBrkPerf__2_DataSetTableAdapters.ChannelMapTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:MSprintEx._dbBrkPerf__2_DataSetTableAdapters.ProgRFMtTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:MSprintEx._dbBrkPerf__2_DataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(MSprintEx._dbBrkPerf__2_DataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:MSprintEx._dbBrkPerf__2_DataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(MSprintEx._dbBrkPerf__2_DataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:MSprintEx._dbBrkPerf__2_DataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(MSprintEx._dbBrkPerf__2_DataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:MSprintEx._dbBrkPerf__2_DataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:MSprintEx._dbBrkPerf__2_DataSetTableAdapters.TableAdapterManager.UpdateAll(MSprintEx._dbBrkPerf__2_DataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:MSprintEx._dbBrkPerf__2_DataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:MSprintEx._dbBrkPerf__2_DataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:MSprintEx._dbBrkPerf__2_DataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:MSprintEx.CsvRow">
+	<summary>
+ Class to write data to a CSV file
+ </summary>
+</member><member name="M:MSprintEx.CsvFileWriter.WriteRow(MSprintEx.CsvRow)">
+	<summary>
+ Writes a single row to a CSV file.
+ </summary>
+	<param name="row">The row to be written</param>
+</member><member name="M:MSprintEx.CsvFileReader.ReadRow(MSprintEx.CsvRow)">
+	<summary>
+ Reads a row of data from a CSV file
+ </summary>
+	<param name="row"></param>
+	<returns></returns>
+</member><member name="T:MSprintEx.CsvFileReader">
+	<summary>
+ Class to read data from a CSV file
+ </summary>
+</member><member name="T:MSprintEx.Plandata.WeeksDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:MSprintEx.Plandata.PlanDetailsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:MSprintEx.Plandata.ErrorRangeDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:MSprintEx.Plandata.ChannelMasterDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:MSprintEx.Plandata.PlanChannelsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:MSprintEx.Plandata.ExcludeDatesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:MSprintEx.Plandata.BrkDistributionDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:MSprintEx.Plandata.WeeksRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:MSprintEx.Plandata.PlanDetailsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:MSprintEx.Plandata.ErrorRangeRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:MSprintEx.Plandata.ChannelMasterRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:MSprintEx.Plandata.PlanChannelsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:MSprintEx.Plandata.ExcludeDatesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:MSprintEx.Plandata.BrkDistributionRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:MSprintEx.Plandata.WeeksRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:MSprintEx.Plandata.PlanDetailsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:MSprintEx.Plandata.ErrorRangeRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:MSprintEx.Plandata.ChannelMasterRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:MSprintEx.Plandata.PlanChannelsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:MSprintEx.Plandata.ExcludeDatesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:MSprintEx.Plandata.BrkDistributionRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:MSprintEx.Plandata">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:MSprintEx.MSprintEx2014.TG">
+	<summary>
+ Summary description for TG.
+ </summary>
+</member><member name="T:MSprintEx._dbBrkPerf__3_DataSet.ChannelMapDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:MSprintEx._dbBrkPerf__3_DataSet.ProgRFMtDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:MSprintEx._dbBrkPerf__3_DataSet.ChannelMapRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:MSprintEx._dbBrkPerf__3_DataSet.ProgRFMtRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:MSprintEx._dbBrkPerf__3_DataSet.ChannelMapRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:MSprintEx._dbBrkPerf__3_DataSet.ProgRFMtRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:MSprintEx._dbBrkPerf__3_DataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:MSprintEx._dbBrkPerf__3_DataSetTableAdapters.ChannelMapTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:MSprintEx._dbBrkPerf__3_DataSetTableAdapters.ProgRFMtTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:MSprintEx._dbBrkPerf__3_DataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(MSprintEx._dbBrkPerf__3_DataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:MSprintEx._dbBrkPerf__3_DataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(MSprintEx._dbBrkPerf__3_DataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:MSprintEx._dbBrkPerf__3_DataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(MSprintEx._dbBrkPerf__3_DataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:MSprintEx._dbBrkPerf__3_DataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:MSprintEx._dbBrkPerf__3_DataSetTableAdapters.TableAdapterManager.UpdateAll(MSprintEx._dbBrkPerf__3_DataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:MSprintEx._dbBrkPerf__3_DataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:MSprintEx._dbBrkPerf__3_DataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:MSprintEx._dbBrkPerf__3_DataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="M:MSprintEx.ThisAddIn.#ctor(Microsoft.Office.Tools.Excel.ApplicationFactory,System.IServiceProvider)">
+</member><member name="M:MSprintEx.ThisAddIn.Initialize">
+</member><member name="M:MSprintEx.ThisAddIn.FinishInitialization">
+</member><member name="M:MSprintEx.ThisAddIn.InitializeDataBindings">
+</member><member name="M:MSprintEx.ThisAddIn.InitializeCachedData">
+</member><member name="M:MSprintEx.ThisAddIn.InitializeData">
+</member><member name="M:MSprintEx.ThisAddIn.BindToData">
+</member><member name="M:MSprintEx.ThisAddIn.StartCaching(System.String)">
+</member><member name="M:MSprintEx.ThisAddIn.StopCaching(System.String)">
+</member><member name="M:MSprintEx.ThisAddIn.IsCached(System.String)">
+</member><member name="M:MSprintEx.ThisAddIn.BeginInitialization">
+</member><member name="M:MSprintEx.ThisAddIn.EndInitialization">
+</member><member name="M:MSprintEx.ThisAddIn.InitializeControls">
+</member><member name="M:MSprintEx.ThisAddIn.InitializeComponents">
+</member><member name="M:MSprintEx.ThisAddIn.NeedsFill(System.String)">
+</member><member name="M:MSprintEx.ThisAddIn.OnShutdown">
+</member><member name="T:MSprintEx.ThisAddIn">
+</member><member name="M:MSprintEx.Globals.#ctor">
+</member><member name="T:MSprintEx.Globals">
+</member><member name="M:MSprintEx.ThisRibbonCollection.#ctor(Microsoft.Office.Tools.Ribbon.RibbonFactory)">
+</member><member name="T:MSprintEx.ThisRibbonCollection">
+</member><member name="P:MSprintEx.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:MSprintEx.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:MSprintEx.My.Resources.Resources.ajax_loader">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:MSprintEx.My.Resources.Resources.analyze">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:MSprintEx.My.Resources.Resources.analyze2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:MSprintEx.My.Resources.Resources.file_edit">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:MSprintEx.My.Resources.Resources.Folder">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:MSprintEx.My.Resources.Resources.license_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:MSprintEx.My.Resources.Resources.Open_file">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:MSprintEx.My.Resources.Resources.plan">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:MSprintEx.My.Resources.Resources.Presentation_Edit">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:MSprintEx.My.Resources.Resources.save">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:MSprintEx.My.Resources.Resources.Start_Button">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:MSprintEx.My.Resources.Resources.StartButton">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:MSprintEx.My.Resources.Resources.table_link">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:MSprintEx.My.Resources.Resources.Tasks">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:MSprintEx.My.Resources.Resources.Upload">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:MSprintEx.My.Resources.Resources.Upload1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:MSprintEx.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

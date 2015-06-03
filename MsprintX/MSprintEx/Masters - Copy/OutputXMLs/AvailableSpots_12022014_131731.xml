@@ -1,0 +1,1431 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<mediaplan>
+  <PreEvalPeriod>
+    <StartDate>20130804</StartDate>
+    <EndDate>20130831</EndDate>
+  </PreEvalPeriod>
+  <tg age="3" cs="1" name="CS 15-24 A" sec="1" sex="1,2">
+    <mg name="Metros" type="Group">
+      <market>1</market>
+      <market>2</market>
+      <market>3</market>
+      <market>4</market>
+      <market>6</market>
+    </mg>
+    <mg name="NStates" type="Group">
+      <market>!</market>
+      <market>#</market>
+      <market>$</market>
+      <market>%</market>
+      <market>&amp;</market>
+      <market>@</market>
+      <market>&gt;</market>
+      <market>B</market>
+      <market>E</market>
+      <market>F</market>
+      <market>J</market>
+      <market>K</market>
+      <market>L</market>
+      <market>N</market>
+      <market>O</market>
+      <market>P</market>
+      <market>S</market>
+      <market>T</market>
+      <market>W</market>
+      <market>X</market>
+      <market>Z</market>
+    </mg>
+  </tg>
+  <plan type="clubbed">
+    <period EndDate="20130831" StartDate="20130804" WeekNum="" year="2013">
+      <programme AdDuration="Geyser" ChannelCode="60" ChannelName="SONY ENTERTAINMENT TV" CostPer10s="" EndTime="23:00" NumberOfSpots="10" ProgName="CID" SeqNumber="1" StartTime="22:00" caption="20" days="FRI,SAT" guid="c9f8f412-b6bd-4402-b08a-b027b285e664">
+        <selected_spots>
+          <spot log="60,20130810,223805,223807,0,8,27,2" />
+          <spot log="60,20130810,225438,225440,0,21,27,2" />
+          <spot log="60,20130816,225511,225531,0,25,25,20" />
+          <spot log="60,20130804,224728,224730,0,5,24,2" />
+          <spot log="60,20130804,224730,224745,0,6,24,15" />
+          <spot log="60,20130817,225107,225117,0,18,23,10" />
+          <spot log="60,20130823,224553,224613,0,2,29,20" />
+          <spot log="60,20130824,225528,225531,0,16,21,3" />
+          <spot log="60,20130830,225008,225023,0,20,27,15" />
+          <spot log="60,20130831,224814,224817,0,8,23,3" />
+        </selected_spots>
+        <available_spots>
+          <spot log="60,20130810,223657,223727,0,1,27,30">
+            <TVR tm="CS 15-24 A~NStates" val="4.68,176.5929" />
+            <TVR tm="CS 15-24 A~Metros" val="4.77,131.2661" />
+          </spot>
+          <spot log="60,20130810,223727,223732,0,2,27,5">
+            <TVR tm="CS 15-24 A~NStates" val="4.19,158.214" />
+            <TVR tm="CS 15-24 A~Metros" val="3.96,108.9013" />
+          </spot>
+          <spot log="60,20130810,223732,223735,0,3,27,3">
+            <TVR tm="CS 15-24 A~NStates" val="4.19,158.214" />
+            <TVR tm="CS 15-24 A~Metros" val="3.96,108.9013" />
+          </spot>
+          <spot log="60,20130810,223735,223737,0,4,27,2">
+            <TVR tm="CS 15-24 A~NStates" val="4.19,158.214" />
+            <TVR tm="CS 15-24 A~Metros" val="3.96,108.9013" />
+          </spot>
+          <spot log="60,20130810,223737,223747,0,5,27,10">
+            <TVR tm="CS 15-24 A~NStates" val="4.19,158.214" />
+            <TVR tm="CS 15-24 A~Metros" val="3.96,108.9013" />
+          </spot>
+          <spot log="60,20130810,223747,223802,0,6,27,15">
+            <TVR tm="CS 15-24 A~NStates" val="4.19,158.214" />
+            <TVR tm="CS 15-24 A~Metros" val="3.96,108.9013" />
+          </spot>
+          <spot log="60,20130810,223802,223805,0,7,27,3">
+            <TVR tm="CS 15-24 A~NStates" val="1.25,47.0274" />
+            <TVR tm="CS 15-24 A~Metros" val="2.35,64.6156" />
+          </spot>
+          <spot log="60,20130810,223807,223837,0,9,27,30">
+            <TVR tm="CS 15-24 A~NStates" val="1.25,47.0274" />
+            <TVR tm="CS 15-24 A~Metros" val="2.35,64.6156" />
+          </spot>
+          <spot log="60,20130810,223837,223857,0,10,27,20">
+            <TVR tm="CS 15-24 A~NStates" val="1.25,47.0274" />
+            <TVR tm="CS 15-24 A~Metros" val="2.35,64.6156" />
+          </spot>
+          <spot log="60,20130810,223857,223902,0,11,27,5">
+            <TVR tm="CS 15-24 A~NStates" val="1.25,47.0274" />
+            <TVR tm="CS 15-24 A~Metros" val="2.35,64.6156" />
+          </spot>
+          <spot log="60,20130810,223902,223912,0,12,27,10">
+            <TVR tm="CS 15-24 A~NStates" val="1.25,47.0274" />
+            <TVR tm="CS 15-24 A~Metros" val="2.35,64.6156" />
+          </spot>
+          <spot log="60,20130810,223912,223932,0,13,27,20">
+            <TVR tm="CS 15-24 A~NStates" val="1.25,47.0274" />
+            <TVR tm="CS 15-24 A~Metros" val="2.35,64.6156" />
+          </spot>
+          <spot log="60,20130810,223932,223934,0,14,27,2">
+            <TVR tm="CS 15-24 A~NStates" val="1.25,47.0274" />
+            <TVR tm="CS 15-24 A~Metros" val="2.35,64.6156" />
+          </spot>
+          <spot log="60,20130810,223934,223937,0,15,27,3">
+            <TVR tm="CS 15-24 A~NStates" val="1.25,47.0274" />
+            <TVR tm="CS 15-24 A~Metros" val="2.35,64.6156" />
+          </spot>
+          <spot log="60,20130810,223937,224022,0,16,27,45">
+            <TVR tm="CS 15-24 A~NStates" val="1.25,47.0274" />
+            <TVR tm="CS 15-24 A~Metros" val="2.35,64.6156" />
+          </spot>
+          <spot log="60,20130810,224022,224037,0,17,27,15">
+            <TVR tm="CS 15-24 A~NStates" val="1.25,47.0274" />
+            <TVR tm="CS 15-24 A~Metros" val="1.86,51.2573" />
+          </spot>
+          <spot log="60,20130810,224037,224052,0,18,27,15">
+            <TVR tm="CS 15-24 A~NStates" val="1.25,47.0274" />
+            <TVR tm="CS 15-24 A~Metros" val="1.86,51.2573" />
+          </spot>
+          <spot log="60,20130810,224052,224102,0,19,27,10">
+            <TVR tm="CS 15-24 A~NStates" val="1.25,47.0274" />
+            <TVR tm="CS 15-24 A~Metros" val="1.86,51.2573" />
+          </spot>
+          <spot log="60,20130810,224102,224132,0,20,27,30">
+            <TVR tm="CS 15-24 A~NStates" val="0.14,5.2136" />
+            <TVR tm="CS 15-24 A~Metros" val="1.38,37.899002" />
+          </spot>
+          <spot log="60,20130810,224132,224134,0,21,27,2">
+            <TVR tm="CS 15-24 A~NStates" val="0.14,5.2136" />
+            <TVR tm="CS 15-24 A~Metros" val="1.38,37.899002" />
+          </spot>
+          <spot log="60,20130810,224134,224137,0,22,27,3">
+            <TVR tm="CS 15-24 A~NStates" val="0.14,5.2136" />
+            <TVR tm="CS 15-24 A~Metros" val="1.38,37.899002" />
+          </spot>
+          <spot log="60,20130810,224137,224207,0,23,27,30">
+            <TVR tm="CS 15-24 A~NStates" val="0.14,5.2136" />
+            <TVR tm="CS 15-24 A~Metros" val="1.38,37.899002" />
+          </spot>
+          <spot log="60,20130810,224207,224227,0,24,27,20">
+            <TVR tm="CS 15-24 A~NStates" val="0.96,36.2846" />
+            <TVR tm="CS 15-24 A~Metros" val="2.18,59.8199" />
+          </spot>
+          <spot log="60,20130810,224227,224242,0,25,27,15">
+            <TVR tm="CS 15-24 A~NStates" val="0.96,36.2846" />
+            <TVR tm="CS 15-24 A~Metros" val="2.18,59.8199" />
+          </spot>
+          <spot log="60,20130810,224242,224257,0,26,27,15">
+            <TVR tm="CS 15-24 A~NStates" val="0.96,36.2846" />
+            <TVR tm="CS 15-24 A~Metros" val="2.18,59.8199" />
+          </spot>
+          <spot log="60,20130810,224257,224342,0,27,27,45">
+            <TVR tm="CS 15-24 A~NStates" val="0.96,36.2846" />
+            <TVR tm="CS 15-24 A~Metros" val="2.18,59.8199" />
+          </spot>
+          <spot log="60,20130810,225030,225115,0,1,27,45">
+            <TVR tm="CS 15-24 A~NStates" val="1.10,41.5942" />
+            <TVR tm="CS 15-24 A~Metros" val="3.60,99.1266" />
+          </spot>
+          <spot log="60,20130810,225115,225121,0,2,27,6">
+            <TVR tm="CS 15-24 A~NStates" val="0.14,5.2136" />
+            <TVR tm="CS 15-24 A~Metros" val="2.18,59.8199" />
+          </spot>
+          <spot log="60,20130810,225121,225125,0,3,27,4">
+            <TVR tm="CS 15-24 A~NStates" val="0.14,5.2136" />
+            <TVR tm="CS 15-24 A~Metros" val="2.18,59.8199" />
+          </spot>
+          <spot log="60,20130810,225125,225128,0,4,27,3">
+            <TVR tm="CS 15-24 A~NStates" val="0.14,5.2136" />
+            <TVR tm="CS 15-24 A~Metros" val="2.18,59.8199" />
+          </spot>
+          <spot log="60,20130810,225128,225130,0,5,27,2">
+            <TVR tm="CS 15-24 A~NStates" val="0.14,5.2136" />
+            <TVR tm="CS 15-24 A~Metros" val="2.18,59.8199" />
+          </spot>
+          <spot log="60,20130810,225130,225145,0,6,27,15">
+            <TVR tm="CS 15-24 A~NStates" val="0.14,5.2136" />
+            <TVR tm="CS 15-24 A~Metros" val="2.18,59.8199" />
+          </spot>
+          <spot log="60,20130810,225145,225205,0,7,27,20">
+            <TVR tm="CS 15-24 A~NStates" val="0.14,5.2136" />
+            <TVR tm="CS 15-24 A~Metros" val="2.18,59.8199" />
+          </spot>
+          <spot log="60,20130810,225205,225207,0,8,27,2">
+            <TVR tm="CS 15-24 A~NStates" val="0.29,11.0358" />
+            <TVR tm="CS 15-24 A~Metros" val="3.15,86.5963" />
+          </spot>
+          <spot log="60,20130810,225207,225209,0,9,27,2">
+            <TVR tm="CS 15-24 A~NStates" val="0.29,11.0358" />
+            <TVR tm="CS 15-24 A~Metros" val="3.15,86.5963" />
+          </spot>
+          <spot log="60,20130810,225209,225224,0,10,27,15">
+            <TVR tm="CS 15-24 A~NStates" val="0.29,11.0358" />
+            <TVR tm="CS 15-24 A~Metros" val="3.15,86.5963" />
+          </spot>
+          <spot log="60,20130810,225224,225234,0,11,27,10">
+            <TVR tm="CS 15-24 A~NStates" val="0.29,11.0358" />
+            <TVR tm="CS 15-24 A~Metros" val="3.15,86.5963" />
+          </spot>
+          <spot log="60,20130810,225234,225244,0,12,27,10">
+            <TVR tm="CS 15-24 A~NStates" val="0.29,11.0358" />
+            <TVR tm="CS 15-24 A~Metros" val="3.15,86.5963" />
+          </spot>
+          <spot log="60,20130810,225244,225249,0,13,27,5">
+            <TVR tm="CS 15-24 A~NStates" val="0.29,11.0358" />
+            <TVR tm="CS 15-24 A~Metros" val="3.15,86.5963" />
+          </spot>
+          <spot log="60,20130810,225249,225319,0,14,27,30">
+            <TVR tm="CS 15-24 A~NStates" val="0.29,11.0358" />
+            <TVR tm="CS 15-24 A~Metros" val="3.15,86.5963" />
+          </spot>
+          <spot log="60,20130810,225319,225321,0,15,27,2">
+            <TVR tm="CS 15-24 A~NStates" val="0.29,11.0358" />
+            <TVR tm="CS 15-24 A~Metros" val="2.68,73.6221" />
+          </spot>
+          <spot log="60,20130810,225321,225323,0,16,27,2">
+            <TVR tm="CS 15-24 A~NStates" val="0.29,11.0358" />
+            <TVR tm="CS 15-24 A~Metros" val="2.68,73.6221" />
+          </spot>
+          <spot log="60,20130810,225323,225343,0,17,27,20">
+            <TVR tm="CS 15-24 A~NStates" val="0.29,11.0358" />
+            <TVR tm="CS 15-24 A~Metros" val="2.68,73.6221" />
+          </spot>
+          <spot log="60,20130810,225343,225418,0,18,27,35">
+            <TVR tm="CS 15-24 A~NStates" val="0.29,11.0358" />
+            <TVR tm="CS 15-24 A~Metros" val="2.68,73.6221" />
+          </spot>
+          <spot log="60,20130810,225418,225428,0,19,27,10">
+            <TVR tm="CS 15-24 A~NStates" val="0.28,10.5232" />
+            <TVR tm="CS 15-24 A~Metros" val="3.15,86.5963" />
+          </spot>
+          <spot log="60,20130810,225428,225438,0,20,27,10">
+            <TVR tm="CS 15-24 A~NStates" val="0.28,10.5232" />
+            <TVR tm="CS 15-24 A~Metros" val="3.15,86.5963" />
+          </spot>
+          <spot log="60,20130810,225440,225442,0,22,27,2">
+            <TVR tm="CS 15-24 A~NStates" val="0.28,10.5232" />
+            <TVR tm="CS 15-24 A~Metros" val="3.15,86.5963" />
+          </spot>
+          <spot log="60,20130810,225442,225512,0,23,27,30">
+            <TVR tm="CS 15-24 A~NStates" val="0.28,10.5232" />
+            <TVR tm="CS 15-24 A~Metros" val="3.15,86.5963" />
+          </spot>
+          <spot log="60,20130810,225512,225522,0,24,27,10">
+            <TVR tm="CS 15-24 A~NStates" val="0.63,23.6777" />
+            <TVR tm="CS 15-24 A~Metros" val="2.68,73.6221" />
+          </spot>
+          <spot log="60,20130810,225522,225607,0,25,27,45">
+            <TVR tm="CS 15-24 A~NStates" val="0.63,23.6777" />
+            <TVR tm="CS 15-24 A~Metros" val="2.68,73.6221" />
+          </spot>
+          <spot log="60,20130810,225607,225637,0,26,27,30">
+            <TVR tm="CS 15-24 A~NStates" val="0.63,23.6777" />
+            <TVR tm="CS 15-24 A~Metros" val="3.15,86.5963" />
+          </spot>
+          <spot log="60,20130810,225637,225647,0,27,27,10">
+            <TVR tm="CS 15-24 A~NStates" val="0.63,23.6777" />
+            <TVR tm="CS 15-24 A~Metros" val="3.15,86.5963" />
+          </spot>
+          <spot log="60,20130816,223446,223506,0,1,22,20">
+            <TVR tm="CS 15-24 A~NStates" val="3.62,136.6634" />
+            <TVR tm="CS 15-24 A~Metros" val="4.41,121.3886" />
+          </spot>
+          <spot log="60,20130816,223506,223526,0,2,22,20">
+            <TVR tm="CS 15-24 A~NStates" val="2.32,87.6686" />
+            <TVR tm="CS 15-24 A~Metros" val="4.41,121.3886" />
+          </spot>
+          <spot log="60,20130816,223526,223530,0,3,22,4">
+            <TVR tm="CS 15-24 A~NStates" val="2.32,87.6686" />
+            <TVR tm="CS 15-24 A~Metros" val="4.41,121.3886" />
+          </spot>
+          <spot log="60,20130816,223530,223600,0,4,22,30">
+            <TVR tm="CS 15-24 A~NStates" val="2.32,87.6686" />
+            <TVR tm="CS 15-24 A~Metros" val="4.41,121.3886" />
+          </spot>
+          <spot log="60,20130816,223600,223635,0,5,22,35">
+            <TVR tm="CS 15-24 A~NStates" val="1.91,72.12" />
+            <TVR tm="CS 15-24 A~Metros" val="0.00,0.0" />
+          </spot>
+          <spot log="60,20130816,223635,223650,0,6,22,15">
+            <TVR tm="CS 15-24 A~NStates" val="1.91,72.12" />
+            <TVR tm="CS 15-24 A~Metros" val="0.00,0.0" />
+          </spot>
+          <spot log="60,20130816,223650,223653,0,7,22,3">
+            <TVR tm="CS 15-24 A~NStates" val="1.91,72.12" />
+            <TVR tm="CS 15-24 A~Metros" val="0.00,0.0" />
+          </spot>
+          <spot log="60,20130816,223653,223655,0,8,22,2">
+            <TVR tm="CS 15-24 A~NStates" val="1.91,72.12" />
+            <TVR tm="CS 15-24 A~Metros" val="0.00,0.0" />
+          </spot>
+          <spot log="60,20130816,223655,223705,0,9,22,10">
+            <TVR tm="CS 15-24 A~NStates" val="1.91,72.12" />
+            <TVR tm="CS 15-24 A~Metros" val="0.00,0.0" />
+          </spot>
+          <spot log="60,20130816,223705,223805,0,10,22,60">
+            <TVR tm="CS 15-24 A~NStates" val="1.91,72.12" />
+            <TVR tm="CS 15-24 A~Metros" val="0.00,0.0" />
+          </spot>
+          <spot log="60,20130816,223805,223820,0,11,22,15">
+            <TVR tm="CS 15-24 A~NStates" val="1.91,72.12" />
+            <TVR tm="CS 15-24 A~Metros" val="0.00,0.0" />
+          </spot>
+          <spot log="60,20130816,223820,223840,0,12,22,20">
+            <TVR tm="CS 15-24 A~NStates" val="1.91,72.12" />
+            <TVR tm="CS 15-24 A~Metros" val="0.00,0.0" />
+          </spot>
+          <spot log="60,20130816,223840,223910,0,13,22,30">
+            <TVR tm="CS 15-24 A~NStates" val="1.91,72.12" />
+            <TVR tm="CS 15-24 A~Metros" val="0.00,0.0" />
+          </spot>
+          <spot log="60,20130816,223910,223912,0,14,22,2">
+            <TVR tm="CS 15-24 A~NStates" val="2.19,82.672806" />
+            <TVR tm="CS 15-24 A~Metros" val="0.00,0.0" />
+          </spot>
+          <spot log="60,20130816,223912,223915,0,15,22,3">
+            <TVR tm="CS 15-24 A~NStates" val="2.19,82.672806" />
+            <TVR tm="CS 15-24 A~Metros" val="0.00,0.0" />
+          </spot>
+          <spot log="60,20130816,223915,223935,0,16,22,20">
+            <TVR tm="CS 15-24 A~NStates" val="2.19,82.672806" />
+            <TVR tm="CS 15-24 A~Metros" val="0.00,0.0" />
+          </spot>
+          <spot log="60,20130816,223935,224005,0,17,22,30">
+            <TVR tm="CS 15-24 A~NStates" val="2.19,82.672806" />
+            <TVR tm="CS 15-24 A~Metros" val="0.00,0.0" />
+          </spot>
+          <spot log="60,20130816,224005,224015,0,18,22,10">
+            <TVR tm="CS 15-24 A~NStates" val="1.91,72.12" />
+            <TVR tm="CS 15-24 A~Metros" val="1.50,41.1578" />
+          </spot>
+          <spot log="60,20130816,224015,224100,0,19,22,45">
+            <TVR tm="CS 15-24 A~NStates" val="1.91,72.12" />
+            <TVR tm="CS 15-24 A~Metros" val="1.50,41.1578" />
+          </spot>
+          <spot log="60,20130816,224100,224120,0,20,22,20">
+            <TVR tm="CS 15-24 A~NStates" val="2.20,83.020004" />
+            <TVR tm="CS 15-24 A~Metros" val="1.50,41.1578" />
+          </spot>
+          <spot log="60,20130816,224120,224135,0,21,22,15">
+            <TVR tm="CS 15-24 A~NStates" val="2.20,83.020004" />
+            <TVR tm="CS 15-24 A~Metros" val="1.50,41.1578" />
+          </spot>
+          <spot log="60,20130816,224135,224139,0,22,22,4">
+            <TVR tm="CS 15-24 A~NStates" val="2.20,83.020004" />
+            <TVR tm="CS 15-24 A~Metros" val="1.50,41.1578" />
+          </spot>
+          <spot log="60,20130816,224732,224817,0,1,25,45">
+            <TVR tm="CS 15-24 A~NStates" val="4.17,157.2332" />
+            <TVR tm="CS 15-24 A~Metros" val="1.50,41.1578" />
+          </spot>
+          <spot log="60,20130816,224817,224822,0,2,25,5">
+            <TVR tm="CS 15-24 A~NStates" val="1.91,72.12" />
+            <TVR tm="CS 15-24 A~Metros" val="0.00,0.0" />
+          </spot>
+          <spot log="60,20130816,224822,224827,0,3,25,5">
+            <TVR tm="CS 15-24 A~NStates" val="1.91,72.12" />
+            <TVR tm="CS 15-24 A~Metros" val="0.00,0.0" />
+          </spot>
+          <spot log="60,20130816,224827,224830,0,4,25,3">
+            <TVR tm="CS 15-24 A~NStates" val="1.91,72.12" />
+            <TVR tm="CS 15-24 A~Metros" val="0.00,0.0" />
+          </spot>
+          <spot log="60,20130816,224830,224832,0,5,25,2">
+            <TVR tm="CS 15-24 A~NStates" val="1.91,72.12" />
+            <TVR tm="CS 15-24 A~Metros" val="0.00,0.0" />
+          </spot>
+          <spot log="60,20130816,224832,224842,0,6,25,10">
+            <TVR tm="CS 15-24 A~NStates" val="1.91,72.12" />
+            <TVR tm="CS 15-24 A~Metros" val="0.00,0.0" />
+          </spot>
+          <spot log="60,20130816,224842,224846,0,7,25,4">
+            <TVR tm="CS 15-24 A~NStates" val="1.91,72.12" />
+            <TVR tm="CS 15-24 A~Metros" val="0.00,0.0" />
+          </spot>
+          <spot log="60,20130816,224846,224916,0,8,25,30">
+            <TVR tm="CS 15-24 A~NStates" val="1.91,72.12" />
+            <TVR tm="CS 15-24 A~Metros" val="0.00,0.0" />
+          </spot>
+          <spot log="60,20130816,224916,224951,0,9,25,35">
+            <TVR tm="CS 15-24 A~NStates" val="1.91,72.12" />
+            <TVR tm="CS 15-24 A~Metros" val="0.00,0.0" />
+          </spot>
+          <spot log="60,20130816,224951,225011,0,10,25,20">
+            <TVR tm="CS 15-24 A~NStates" val="1.91,72.12" />
+            <TVR tm="CS 15-24 A~Metros" val="0.00,0.0" />
+          </spot>
+          <spot log="60,20130816,225011,225041,0,11,25,30">
+            <TVR tm="CS 15-24 A~NStates" val="1.91,72.12" />
+            <TVR tm="CS 15-24 A~Metros" val="0.00,0.0" />
+          </spot>
+          <spot log="60,20130816,225041,225044,0,12,25,3">
+            <TVR tm="CS 15-24 A~NStates" val="1.91,72.12" />
+            <TVR tm="CS 15-24 A~Metros" val="0.00,0.0" />
+          </spot>
+          <spot log="60,20130816,225044,225046,0,13,25,2">
+            <TVR tm="CS 15-24 A~NStates" val="1.91,72.12" />
+            <TVR tm="CS 15-24 A~Metros" val="0.00,0.0" />
+          </spot>
+          <spot log="60,20130816,225046,225056,0,14,25,10">
+            <TVR tm="CS 15-24 A~NStates" val="1.91,72.12" />
+            <TVR tm="CS 15-24 A~Metros" val="0.00,0.0" />
+          </spot>
+          <spot log="60,20130816,225056,225111,0,15,25,15">
+            <TVR tm="CS 15-24 A~NStates" val="1.91,72.12" />
+            <TVR tm="CS 15-24 A~Metros" val="0.00,0.0" />
+          </spot>
+          <spot log="60,20130816,225111,225121,0,16,25,10">
+            <TVR tm="CS 15-24 A~NStates" val="1.91,72.12" />
+            <TVR tm="CS 15-24 A~Metros" val="0.00,0.0" />
+          </spot>
+          <spot log="60,20130816,225121,225136,0,17,25,15">
+            <TVR tm="CS 15-24 A~NStates" val="1.91,72.12" />
+            <TVR tm="CS 15-24 A~Metros" val="0.00,0.0" />
+          </spot>
+          <spot log="60,20130816,225136,225139,0,18,25,3">
+            <TVR tm="CS 15-24 A~NStates" val="1.91,72.12" />
+            <TVR tm="CS 15-24 A~Metros" val="0.00,0.0" />
+          </spot>
+          <spot log="60,20130816,225139,225141,0,19,25,2">
+            <TVR tm="CS 15-24 A~NStates" val="1.91,72.12" />
+            <TVR tm="CS 15-24 A~Metros" val="0.00,0.0" />
+          </spot>
+          <spot log="60,20130816,225141,225156,0,20,25,15">
+            <TVR tm="CS 15-24 A~NStates" val="1.91,72.12" />
+            <TVR tm="CS 15-24 A~Metros" val="0.00,0.0" />
+          </spot>
+          <spot log="60,20130816,225156,225211,0,21,25,15">
+            <TVR tm="CS 15-24 A~NStates" val="1.91,72.12" />
+            <TVR tm="CS 15-24 A~Metros" val="0.00,0.0" />
+          </spot>
+          <spot log="60,20130816,225211,225431,0,22,25,140">
+            <TVR tm="CS 15-24 A~NStates" val="2.27,85.4616" />
+            <TVR tm="CS 15-24 A~Metros" val="0.00,0.0" />
+          </spot>
+          <spot log="60,20130816,225431,225451,0,23,25,20">
+            <TVR tm="CS 15-24 A~NStates" val="2.76,104.189804" />
+            <TVR tm="CS 15-24 A~Metros" val="1.50,41.1578" />
+          </spot>
+          <spot log="60,20130816,225451,225511,0,24,25,20">
+            <TVR tm="CS 15-24 A~NStates" val="2.76,104.189804" />
+            <TVR tm="CS 15-24 A~Metros" val="1.50,41.1578" />
+          </spot>
+          <spot log="60,20130817,223312,223332,0,1,25,20">
+            <TVR tm="CS 15-24 A~NStates" val="3.67,138.6044" />
+            <TVR tm="CS 15-24 A~Metros" val="11.43,314.3094" />
+          </spot>
+          <spot log="60,20130817,223332,223352,0,2,25,20">
+            <TVR tm="CS 15-24 A~NStates" val="3.67,138.6044" />
+            <TVR tm="CS 15-24 A~Metros" val="11.43,314.3094" />
+          </spot>
+          <spot log="60,20130817,223352,223357,0,3,25,5">
+            <TVR tm="CS 15-24 A~NStates" val="3.67,138.6044" />
+            <TVR tm="CS 15-24 A~Metros" val="11.43,314.3094" />
+          </spot>
+          <spot log="60,20130817,223357,223402,0,4,25,5">
+            <TVR tm="CS 15-24 A~NStates" val="3.67,138.6044" />
+            <TVR tm="CS 15-24 A~Metros" val="11.43,314.3094" />
+          </spot>
+          <spot log="60,20130817,223402,223404,0,5,25,2">
+            <TVR tm="CS 15-24 A~NStates" val="2.03,76.3974" />
+            <TVR tm="CS 15-24 A~Metros" val="8.68,238.8228" />
+          </spot>
+          <spot log="60,20130817,223404,223407,0,6,25,3">
+            <TVR tm="CS 15-24 A~NStates" val="2.03,76.3974" />
+            <TVR tm="CS 15-24 A~Metros" val="8.68,238.8228" />
+          </spot>
+          <spot log="60,20130817,223407,223437,0,7,25,30">
+            <TVR tm="CS 15-24 A~NStates" val="2.03,76.3974" />
+            <TVR tm="CS 15-24 A~Metros" val="8.68,238.8228" />
+          </spot>
+          <spot log="60,20130817,223437,223447,0,8,25,10">
+            <TVR tm="CS 15-24 A~NStates" val="2.03,76.3974" />
+            <TVR tm="CS 15-24 A~Metros" val="8.68,238.8228" />
+          </spot>
+          <spot log="60,20130817,223447,223449,0,9,25,2">
+            <TVR tm="CS 15-24 A~NStates" val="2.03,76.3974" />
+            <TVR tm="CS 15-24 A~Metros" val="8.68,238.8228" />
+          </spot>
+          <spot log="60,20130817,223449,223452,0,10,25,3">
+            <TVR tm="CS 15-24 A~NStates" val="2.03,76.3974" />
+            <TVR tm="CS 15-24 A~Metros" val="8.68,238.8228" />
+          </spot>
+          <spot log="60,20130817,223452,223512,0,11,25,20">
+            <TVR tm="CS 15-24 A~NStates" val="2.03,76.3974" />
+            <TVR tm="CS 15-24 A~Metros" val="8.68,238.8228" />
+          </spot>
+          <spot log="60,20130817,223512,223527,0,12,25,15">
+            <TVR tm="CS 15-24 A~NStates" val="1.42,53.5982" />
+            <TVR tm="CS 15-24 A~Metros" val="9.30,255.7428" />
+          </spot>
+          <spot log="60,20130817,223527,223557,0,13,25,30">
+            <TVR tm="CS 15-24 A~NStates" val="1.42,53.5982" />
+            <TVR tm="CS 15-24 A~Metros" val="9.30,255.7428" />
+          </spot>
+          <spot log="60,20130817,223557,223622,0,14,25,25">
+            <TVR tm="CS 15-24 A~NStates" val="1.42,53.5982" />
+            <TVR tm="CS 15-24 A~Metros" val="9.30,255.7428" />
+          </spot>
+          <spot log="60,20130817,223622,223637,0,15,25,15">
+            <TVR tm="CS 15-24 A~NStates" val="1.42,53.5982" />
+            <TVR tm="CS 15-24 A~Metros" val="7.43,204.4532" />
+          </spot>
+          <spot log="60,20130817,223637,223640,0,16,25,3">
+            <TVR tm="CS 15-24 A~NStates" val="1.42,53.5982" />
+            <TVR tm="CS 15-24 A~Metros" val="7.43,204.4532" />
+          </spot>
+          <spot log="60,20130817,223640,223642,0,17,25,2">
+            <TVR tm="CS 15-24 A~NStates" val="1.42,53.5982" />
+            <TVR tm="CS 15-24 A~Metros" val="7.43,204.4532" />
+          </spot>
+          <spot log="60,20130817,223642,223652,0,18,25,10">
+            <TVR tm="CS 15-24 A~NStates" val="1.42,53.5982" />
+            <TVR tm="CS 15-24 A~Metros" val="7.43,204.4532" />
+          </spot>
+          <spot log="60,20130817,223652,223722,0,19,25,30">
+            <TVR tm="CS 15-24 A~NStates" val="1.42,53.5982" />
+            <TVR tm="CS 15-24 A~Metros" val="7.43,204.4532" />
+          </spot>
+          <spot log="60,20130817,223722,223832,0,20,25,70">
+            <TVR tm="CS 15-24 A~NStates" val="2.59,97.713005" />
+            <TVR tm="CS 15-24 A~Metros" val="10.96,301.3052" />
+          </spot>
+          <spot log="60,20130817,223832,223842,0,21,25,10">
+            <TVR tm="CS 15-24 A~NStates" val="3.65,137.83481" />
+            <TVR tm="CS 15-24 A~Metros" val="11.76,323.4762" />
+          </spot>
+          <spot log="60,20130817,223842,223902,0,22,25,20">
+            <TVR tm="CS 15-24 A~NStates" val="3.65,137.83481" />
+            <TVR tm="CS 15-24 A~Metros" val="11.76,323.4762" />
+          </spot>
+          <spot log="60,20130817,223902,223922,0,23,25,20">
+            <TVR tm="CS 15-24 A~NStates" val="2.21,83.2028" />
+            <TVR tm="CS 15-24 A~Metros" val="10.11,277.91382" />
+          </spot>
+          <spot log="60,20130817,223922,223942,0,24,25,20">
+            <TVR tm="CS 15-24 A~NStates" val="2.21,83.2028" />
+            <TVR tm="CS 15-24 A~Metros" val="10.11,277.91382" />
+          </spot>
+          <spot log="60,20130817,223942,224027,0,25,25,45">
+            <TVR tm="CS 15-24 A~NStates" val="2.21,83.2028" />
+            <TVR tm="CS 15-24 A~Metros" val="10.11,277.91382" />
+          </spot>
+          <spot log="60,20130817,224618,224703,0,1,23,45">
+            <TVR tm="CS 15-24 A~NStates" val="2.61,98.5532" />
+            <TVR tm="CS 15-24 A~Metros" val="7.51,206.658" />
+          </spot>
+          <spot log="60,20130817,224703,224748,0,2,23,45">
+            <TVR tm="CS 15-24 A~NStates" val="2.21,83.2028" />
+            <TVR tm="CS 15-24 A~Metros" val="7.51,206.658" />
+          </spot>
+          <spot log="60,20130817,224748,224752,0,3,23,4">
+            <TVR tm="CS 15-24 A~NStates" val="2.21,83.2028" />
+            <TVR tm="CS 15-24 A~Metros" val="7.51,206.658" />
+          </spot>
+          <spot log="60,20130817,224752,224757,0,4,23,5">
+            <TVR tm="CS 15-24 A~NStates" val="2.21,83.2028" />
+            <TVR tm="CS 15-24 A~Metros" val="7.51,206.658" />
+          </spot>
+          <spot log="60,20130817,224757,224800,0,5,23,3">
+            <TVR tm="CS 15-24 A~NStates" val="2.21,83.2028" />
+            <TVR tm="CS 15-24 A~Metros" val="7.51,206.658" />
+          </spot>
+          <spot log="60,20130817,224800,224802,0,6,23,2">
+            <TVR tm="CS 15-24 A~NStates" val="2.21,83.2028" />
+            <TVR tm="CS 15-24 A~Metros" val="3.99,109.806" />
+          </spot>
+          <spot log="60,20130817,224802,224832,0,7,23,30">
+            <TVR tm="CS 15-24 A~NStates" val="2.21,83.2028" />
+            <TVR tm="CS 15-24 A~Metros" val="3.99,109.806" />
+          </spot>
+          <spot log="60,20130817,224832,224852,0,8,23,20">
+            <TVR tm="CS 15-24 A~NStates" val="2.21,83.2028" />
+            <TVR tm="CS 15-24 A~Metros" val="3.99,109.806" />
+          </spot>
+          <spot log="60,20130817,224852,224855,0,9,23,3">
+            <TVR tm="CS 15-24 A~NStates" val="2.21,83.2028" />
+            <TVR tm="CS 15-24 A~Metros" val="3.99,109.806" />
+          </spot>
+          <spot log="60,20130817,224855,224857,0,10,23,2">
+            <TVR tm="CS 15-24 A~NStates" val="2.21,83.2028" />
+            <TVR tm="CS 15-24 A~Metros" val="3.99,109.806" />
+          </spot>
+          <spot log="60,20130817,224857,224912,0,11,23,15">
+            <TVR tm="CS 15-24 A~NStates" val="2.21,83.2028" />
+            <TVR tm="CS 15-24 A~Metros" val="3.99,109.806" />
+          </spot>
+          <spot log="60,20130817,224912,224947,0,12,23,35">
+            <TVR tm="CS 15-24 A~NStates" val="2.21,83.2028" />
+            <TVR tm="CS 15-24 A~Metros" val="3.99,109.806" />
+          </spot>
+          <spot log="60,20130817,224947,225002,0,13,23,15">
+            <TVR tm="CS 15-24 A~NStates" val="2.21,83.2028" />
+            <TVR tm="CS 15-24 A~Metros" val="3.99,109.806" />
+          </spot>
+          <spot log="60,20130817,225002,225032,0,14,23,30">
+            <TVR tm="CS 15-24 A~NStates" val="2.21,83.2028" />
+            <TVR tm="CS 15-24 A~Metros" val="3.30,90.6812" />
+          </spot>
+          <spot log="60,20130817,225032,225035,0,15,23,3">
+            <TVR tm="CS 15-24 A~NStates" val="2.21,83.2028" />
+            <TVR tm="CS 15-24 A~Metros" val="3.30,90.6812" />
+          </spot>
+          <spot log="60,20130817,225035,225037,0,16,23,2">
+            <TVR tm="CS 15-24 A~NStates" val="2.21,83.2028" />
+            <TVR tm="CS 15-24 A~Metros" val="3.30,90.6812" />
+          </spot>
+          <spot log="60,20130817,225037,225107,0,17,23,30">
+            <TVR tm="CS 15-24 A~NStates" val="2.21,83.2028" />
+            <TVR tm="CS 15-24 A~Metros" val="3.30,90.6812" />
+          </spot>
+          <spot log="60,20130817,225117,225137,0,19,23,20">
+            <TVR tm="CS 15-24 A~NStates" val="3.73,140.6554" />
+            <TVR tm="CS 15-24 A~Metros" val="4.95,136.2436" />
+          </spot>
+          <spot log="60,20130817,225137,225157,0,20,23,20">
+            <TVR tm="CS 15-24 A~NStates" val="3.73,140.6554" />
+            <TVR tm="CS 15-24 A~Metros" val="4.95,136.2436" />
+          </spot>
+          <spot log="60,20130817,225157,225217,0,21,23,20">
+            <TVR tm="CS 15-24 A~NStates" val="3.73,140.6554" />
+            <TVR tm="CS 15-24 A~Metros" val="4.95,136.2436" />
+          </spot>
+          <spot log="60,20130817,225217,225237,0,22,23,20">
+            <TVR tm="CS 15-24 A~NStates" val="2.87,108.412" />
+            <TVR tm="CS 15-24 A~Metros" val="3.30,90.6812" />
+          </spot>
+          <spot log="60,20130817,225237,225257,0,23,23,20">
+            <TVR tm="CS 15-24 A~NStates" val="2.87,108.412" />
+            <TVR tm="CS 15-24 A~Metros" val="3.30,90.6812" />
+          </spot>
+          <spot log="60,20130823,223255,223340,0,1,28,45">
+            <TVR tm="CS 15-24 A~NStates" val="1.01,38.1749" />
+            <TVR tm="CS 15-24 A~Metros" val="1.81,49.793102" />
+          </spot>
+          <spot log="60,20130823,223340,223345,0,2,28,5">
+            <TVR tm="CS 15-24 A~NStates" val="1.01,38.1749" />
+            <TVR tm="CS 15-24 A~Metros" val="2.24,61.7374" />
+          </spot>
+          <spot log="60,20130823,223345,223350,0,3,28,5">
+            <TVR tm="CS 15-24 A~NStates" val="1.01,38.1749" />
+            <TVR tm="CS 15-24 A~Metros" val="2.24,61.7374" />
+          </spot>
+          <spot log="60,20130823,223350,223353,0,4,28,3">
+            <TVR tm="CS 15-24 A~NStates" val="1.01,38.1749" />
+            <TVR tm="CS 15-24 A~Metros" val="2.24,61.7374" />
+          </spot>
+          <spot log="60,20130823,223353,223355,0,5,28,2">
+            <TVR tm="CS 15-24 A~NStates" val="1.01,38.1749" />
+            <TVR tm="CS 15-24 A~Metros" val="2.24,61.7374" />
+          </spot>
+          <spot log="60,20130823,223355,223415,0,6,28,20">
+            <TVR tm="CS 15-24 A~NStates" val="1.01,38.1749" />
+            <TVR tm="CS 15-24 A~Metros" val="2.24,61.7374" />
+          </spot>
+          <spot log="60,20130823,223415,223435,0,7,28,20">
+            <TVR tm="CS 15-24 A~NStates" val="1.01,38.1749" />
+            <TVR tm="CS 15-24 A~Metros" val="1.13,30.9787" />
+          </spot>
+          <spot log="60,20130823,223435,223455,0,8,28,20">
+            <TVR tm="CS 15-24 A~NStates" val="1.01,38.1749" />
+            <TVR tm="CS 15-24 A~Metros" val="1.13,30.9787" />
+          </spot>
+          <spot log="60,20130823,223455,223458,0,9,28,3">
+            <TVR tm="CS 15-24 A~NStates" val="1.01,38.1749" />
+            <TVR tm="CS 15-24 A~Metros" val="1.13,30.9787" />
+          </spot>
+          <spot log="60,20130823,223458,223500,0,10,28,2">
+            <TVR tm="CS 15-24 A~NStates" val="1.01,38.1749" />
+            <TVR tm="CS 15-24 A~Metros" val="1.13,30.9787" />
+          </spot>
+          <spot log="60,20130823,223500,223510,0,11,28,10">
+            <TVR tm="CS 15-24 A~NStates" val="1.01,38.1749" />
+            <TVR tm="CS 15-24 A~Metros" val="0.69,19.0344" />
+          </spot>
+          <spot log="60,20130823,223510,223520,0,12,28,10">
+            <TVR tm="CS 15-24 A~NStates" val="1.01,38.1749" />
+            <TVR tm="CS 15-24 A~Metros" val="0.69,19.0344" />
+          </spot>
+          <spot log="60,20130823,223520,223605,0,13,28,45">
+            <TVR tm="CS 15-24 A~NStates" val="1.01,38.1749" />
+            <TVR tm="CS 15-24 A~Metros" val="0.69,19.0344" />
+          </spot>
+          <spot log="60,20130823,223605,223625,0,14,28,20">
+            <TVR tm="CS 15-24 A~NStates" val="0.94,35.6263" />
+            <TVR tm="CS 15-24 A~Metros" val="0.69,19.0344" />
+          </spot>
+          <spot log="60,20130823,223625,223645,0,15,28,20">
+            <TVR tm="CS 15-24 A~NStates" val="0.94,35.6263" />
+            <TVR tm="CS 15-24 A~Metros" val="0.69,19.0344" />
+          </spot>
+          <spot log="60,20130823,223645,223655,0,16,28,10">
+            <TVR tm="CS 15-24 A~NStates" val="0.94,35.6263" />
+            <TVR tm="CS 15-24 A~Metros" val="0.69,19.0344" />
+          </spot>
+          <spot log="60,20130823,223655,223710,0,17,28,15">
+            <TVR tm="CS 15-24 A~NStates" val="0.94,35.6263" />
+            <TVR tm="CS 15-24 A~Metros" val="0.69,19.0344" />
+          </spot>
+          <spot log="60,20130823,223710,223713,0,18,28,3">
+            <TVR tm="CS 15-24 A~NStates" val="0.75,28.1032" />
+            <TVR tm="CS 15-24 A~Metros" val="0.69,19.0344" />
+          </spot>
+          <spot log="60,20130823,223713,223715,0,19,28,2">
+            <TVR tm="CS 15-24 A~NStates" val="0.75,28.1032" />
+            <TVR tm="CS 15-24 A~Metros" val="0.69,19.0344" />
+          </spot>
+          <spot log="60,20130823,223715,223735,0,20,28,20">
+            <TVR tm="CS 15-24 A~NStates" val="0.75,28.1032" />
+            <TVR tm="CS 15-24 A~Metros" val="0.69,19.0344" />
+          </spot>
+          <spot log="60,20130823,223735,223815,0,21,28,40">
+            <TVR tm="CS 15-24 A~NStates" val="0.75,28.1032" />
+            <TVR tm="CS 15-24 A~Metros" val="0.69,19.0344" />
+          </spot>
+          <spot log="60,20130823,223815,223840,0,22,28,25">
+            <TVR tm="CS 15-24 A~NStates" val="0.95,35.8499" />
+            <TVR tm="CS 15-24 A~Metros" val="1.04,28.551601" />
+          </spot>
+          <spot log="60,20130823,223840,223900,0,23,28,20">
+            <TVR tm="CS 15-24 A~NStates" val="0.95,35.8499" />
+            <TVR tm="CS 15-24 A~Metros" val="1.04,28.551601" />
+          </spot>
+          <spot log="60,20130823,223900,223920,0,24,28,20">
+            <TVR tm="CS 15-24 A~NStates" val="0.95,35.8499" />
+            <TVR tm="CS 15-24 A~Metros" val="0.69,19.0344" />
+          </spot>
+          <spot log="60,20130823,223920,223940,0,25,28,20">
+            <TVR tm="CS 15-24 A~NStates" val="0.95,35.8499" />
+            <TVR tm="CS 15-24 A~Metros" val="0.69,19.0344" />
+          </spot>
+          <spot log="60,20130823,223940,224000,0,26,28,20">
+            <TVR tm="CS 15-24 A~NStates" val="0.95,35.8499" />
+            <TVR tm="CS 15-24 A~Metros" val="0.69,19.0344" />
+          </spot>
+          <spot log="60,20130823,224000,224020,0,27,28,20">
+            <TVR tm="CS 15-24 A~NStates" val="0.95,35.8499" />
+            <TVR tm="CS 15-24 A~Metros" val="1.37,37.769802" />
+          </spot>
+          <spot log="60,20130823,224020,224024,0,28,28,4">
+            <TVR tm="CS 15-24 A~NStates" val="0.95,35.8499" />
+            <TVR tm="CS 15-24 A~Metros" val="1.37,37.769802" />
+          </spot>
+          <spot log="60,20130823,224533,224553,0,1,29,20">
+            <TVR tm="CS 15-24 A~NStates" val="1.40,52.9252" />
+            <TVR tm="CS 15-24 A~Metros" val="1.81,49.793102" />
+          </spot>
+          <spot log="60,20130823,224613,224618,0,3,29,5">
+            <TVR tm="CS 15-24 A~NStates" val="0.80,30.069" />
+            <TVR tm="CS 15-24 A~Metros" val="1.04,28.551601" />
+          </spot>
+          <spot log="60,20130823,224618,224623,0,4,29,5">
+            <TVR tm="CS 15-24 A~NStates" val="0.80,30.069" />
+            <TVR tm="CS 15-24 A~Metros" val="1.04,28.551601" />
+          </spot>
+          <spot log="60,20130823,224623,224626,0,5,29,3">
+            <TVR tm="CS 15-24 A~NStates" val="0.80,30.069" />
+            <TVR tm="CS 15-24 A~Metros" val="1.04,28.551601" />
+          </spot>
+          <spot log="60,20130823,224626,224628,0,6,29,2">
+            <TVR tm="CS 15-24 A~NStates" val="0.80,30.069" />
+            <TVR tm="CS 15-24 A~Metros" val="1.04,28.551601" />
+          </spot>
+          <spot log="60,20130823,224628,224713,0,7,29,45">
+            <TVR tm="CS 15-24 A~NStates" val="0.80,30.069" />
+            <TVR tm="CS 15-24 A~Metros" val="1.04,28.551601" />
+          </spot>
+          <spot log="60,20130823,224713,224723,0,8,29,10">
+            <TVR tm="CS 15-24 A~NStates" val="0.80,30.069" />
+            <TVR tm="CS 15-24 A~Metros" val="1.04,28.551601" />
+          </spot>
+          <spot log="60,20130823,224723,224726,0,9,29,3">
+            <TVR tm="CS 15-24 A~NStates" val="0.80,30.069" />
+            <TVR tm="CS 15-24 A~Metros" val="1.04,28.551601" />
+          </spot>
+          <spot log="60,20130823,224726,224728,0,10,29,2">
+            <TVR tm="CS 15-24 A~NStates" val="0.80,30.069" />
+            <TVR tm="CS 15-24 A~Metros" val="1.04,28.551601" />
+          </spot>
+          <spot log="60,20130823,224728,224743,0,11,29,15">
+            <TVR tm="CS 15-24 A~NStates" val="0.80,30.069" />
+            <TVR tm="CS 15-24 A~Metros" val="1.04,28.551601" />
+          </spot>
+          <spot log="60,20130823,224743,224753,0,12,29,10">
+            <TVR tm="CS 15-24 A~NStates" val="0.80,30.069" />
+            <TVR tm="CS 15-24 A~Metros" val="1.04,28.551601" />
+          </spot>
+          <spot log="60,20130823,224753,224803,0,13,29,10">
+            <TVR tm="CS 15-24 A~NStates" val="0.80,30.069" />
+            <TVR tm="CS 15-24 A~Metros" val="1.04,28.551601" />
+          </spot>
+          <spot log="60,20130823,224803,224828,0,14,29,25">
+            <TVR tm="CS 15-24 A~NStates" val="0.80,30.069" />
+            <TVR tm="CS 15-24 A~Metros" val="1.04,28.551601" />
+          </spot>
+          <spot log="60,20130823,224828,224843,0,15,29,15">
+            <TVR tm="CS 15-24 A~NStates" val="0.80,30.069" />
+            <TVR tm="CS 15-24 A~Metros" val="1.04,28.551601" />
+          </spot>
+          <spot log="60,20130823,224843,224858,0,16,29,15">
+            <TVR tm="CS 15-24 A~NStates" val="0.80,30.069" />
+            <TVR tm="CS 15-24 A~Metros" val="1.04,28.551601" />
+          </spot>
+          <spot log="60,20130823,224858,224901,0,17,29,3">
+            <TVR tm="CS 15-24 A~NStates" val="0.80,30.069" />
+            <TVR tm="CS 15-24 A~Metros" val="1.04,28.551601" />
+          </spot>
+          <spot log="60,20130823,224901,224903,0,18,29,2">
+            <TVR tm="CS 15-24 A~NStates" val="0.80,30.069" />
+            <TVR tm="CS 15-24 A~Metros" val="0.69,19.0344" />
+          </spot>
+          <spot log="60,20130823,224903,224933,0,19,29,30">
+            <TVR tm="CS 15-24 A~NStates" val="0.80,30.069" />
+            <TVR tm="CS 15-24 A~Metros" val="0.69,19.0344" />
+          </spot>
+          <spot log="60,20130823,224933,224958,0,20,29,25">
+            <TVR tm="CS 15-24 A~NStates" val="0.80,30.069" />
+            <TVR tm="CS 15-24 A~Metros" val="0.69,19.0344" />
+          </spot>
+          <spot log="60,20130823,224958,225018,0,21,29,20">
+            <TVR tm="CS 15-24 A~NStates" val="0.80,30.069" />
+            <TVR tm="CS 15-24 A~Metros" val="0.69,19.0344" />
+          </spot>
+          <spot log="60,20130823,225018,225038,0,22,29,20">
+            <TVR tm="CS 15-24 A~NStates" val="0.80,30.069" />
+            <TVR tm="CS 15-24 A~Metros" val="0.35,9.5172" />
+          </spot>
+          <spot log="60,20130823,225038,225058,0,23,29,20">
+            <TVR tm="CS 15-24 A~NStates" val="0.80,30.069" />
+            <TVR tm="CS 15-24 A~Metros" val="0.35,9.5172" />
+          </spot>
+          <spot log="60,20130823,225058,225118,0,24,29,20">
+            <TVR tm="CS 15-24 A~NStates" val="0.80,30.069" />
+            <TVR tm="CS 15-24 A~Metros" val="0.35,9.5172" />
+          </spot>
+          <spot log="60,20130823,225118,225133,0,25,29,15">
+            <TVR tm="CS 15-24 A~NStates" val="0.86,32.6176" />
+            <TVR tm="CS 15-24 A~Metros" val="0.00,0.0" />
+          </spot>
+          <spot log="60,20130823,225133,225138,0,26,29,5">
+            <TVR tm="CS 15-24 A~NStates" val="0.86,32.6176" />
+            <TVR tm="CS 15-24 A~Metros" val="0.00,0.0" />
+          </spot>
+          <spot log="60,20130823,225138,225143,0,27,29,5">
+            <TVR tm="CS 15-24 A~NStates" val="0.86,32.6176" />
+            <TVR tm="CS 15-24 A~Metros" val="0.00,0.0" />
+          </spot>
+          <spot log="60,20130823,225143,225148,0,28,29,5">
+            <TVR tm="CS 15-24 A~NStates" val="0.86,32.6176" />
+            <TVR tm="CS 15-24 A~Metros" val="0.00,0.0" />
+          </spot>
+          <spot log="60,20130823,225148,225208,0,29,29,20">
+            <TVR tm="CS 15-24 A~NStates" val="0.86,32.6176" />
+            <TVR tm="CS 15-24 A~Metros" val="0.00,0.0" />
+          </spot>
+          <spot log="60,20130824,223756,223811,0,1,26,15">
+            <TVR tm="CS 15-24 A~NStates" val="1.37,51.712997" />
+            <TVR tm="CS 15-24 A~Metros" val="3.45,94.8844" />
+          </spot>
+          <spot log="60,20130824,223811,223816,0,2,26,5">
+            <TVR tm="CS 15-24 A~NStates" val="1.37,51.712997" />
+            <TVR tm="CS 15-24 A~Metros" val="1.06,29.158798" />
+          </spot>
+          <spot log="60,20130824,223816,223821,0,3,26,5">
+            <TVR tm="CS 15-24 A~NStates" val="1.37,51.712997" />
+            <TVR tm="CS 15-24 A~Metros" val="1.06,29.158798" />
+          </spot>
+          <spot log="60,20130824,223821,223824,0,4,26,3">
+            <TVR tm="CS 15-24 A~NStates" val="1.37,51.712997" />
+            <TVR tm="CS 15-24 A~Metros" val="1.06,29.158798" />
+          </spot>
+          <spot log="60,20130824,223824,223826,0,5,26,2">
+            <TVR tm="CS 15-24 A~NStates" val="1.37,51.712997" />
+            <TVR tm="CS 15-24 A~Metros" val="1.06,29.158798" />
+          </spot>
+          <spot log="60,20130824,223826,223841,0,6,26,15">
+            <TVR tm="CS 15-24 A~NStates" val="1.37,51.712997" />
+            <TVR tm="CS 15-24 A~Metros" val="1.06,29.158798" />
+          </spot>
+          <spot log="60,20130824,223841,223846,0,7,26,5">
+            <TVR tm="CS 15-24 A~NStates" val="1.37,51.712997" />
+            <TVR tm="CS 15-24 A~Metros" val="1.06,29.158798" />
+          </spot>
+          <spot log="60,20130824,223846,223851,0,8,26,5">
+            <TVR tm="CS 15-24 A~NStates" val="1.37,51.712997" />
+            <TVR tm="CS 15-24 A~Metros" val="1.06,29.158798" />
+          </spot>
+          <spot log="60,20130824,223851,223856,0,9,26,5">
+            <TVR tm="CS 15-24 A~NStates" val="1.37,51.712997" />
+            <TVR tm="CS 15-24 A~Metros" val="1.06,29.158798" />
+          </spot>
+          <spot log="60,20130824,223856,223926,0,10,26,30">
+            <TVR tm="CS 15-24 A~NStates" val="1.37,51.712997" />
+            <TVR tm="CS 15-24 A~Metros" val="1.06,29.158798" />
+          </spot>
+          <spot log="60,20130824,223926,223956,0,11,26,30">
+            <TVR tm="CS 15-24 A~NStates" val="0.91,34.1515" />
+            <TVR tm="CS 15-24 A~Metros" val="0.71,19.4392" />
+          </spot>
+          <spot log="60,20130824,223956,224031,0,12,26,35">
+            <TVR tm="CS 15-24 A~NStates" val="0.91,34.1515" />
+            <TVR tm="CS 15-24 A~Metros" val="0.71,19.4392" />
+          </spot>
+          <spot log="60,20130824,224031,224033,0,13,26,2">
+            <TVR tm="CS 15-24 A~NStates" val="0.91,34.1515" />
+            <TVR tm="CS 15-24 A~Metros" val="0.71,19.4392" />
+          </spot>
+          <spot log="60,20130824,224033,224036,0,14,26,3">
+            <TVR tm="CS 15-24 A~NStates" val="0.91,34.1515" />
+            <TVR tm="CS 15-24 A~Metros" val="0.71,19.4392" />
+          </spot>
+          <spot log="60,20130824,224036,224046,0,15,26,10">
+            <TVR tm="CS 15-24 A~NStates" val="0.91,34.1515" />
+            <TVR tm="CS 15-24 A~Metros" val="0.71,19.4392" />
+          </spot>
+          <spot log="60,20130824,224046,224116,0,16,26,30">
+            <TVR tm="CS 15-24 A~NStates" val="0.91,34.1515" />
+            <TVR tm="CS 15-24 A~Metros" val="0.71,19.4392" />
+          </spot>
+          <spot log="60,20130824,224116,224141,0,17,26,25">
+            <TVR tm="CS 15-24 A~NStates" val="0.91,34.1515" />
+            <TVR tm="CS 15-24 A~Metros" val="0.71,19.4392" />
+          </spot>
+          <spot log="60,20130824,224141,224201,0,18,26,20">
+            <TVR tm="CS 15-24 A~NStates" val="0.91,34.1515" />
+            <TVR tm="CS 15-24 A~Metros" val="0.71,19.4392" />
+          </spot>
+          <spot log="60,20130824,224201,224211,0,19,26,10">
+            <TVR tm="CS 15-24 A~NStates" val="0.91,34.1515" />
+            <TVR tm="CS 15-24 A~Metros" val="1.77,48.6162" />
+          </spot>
+          <spot log="60,20130824,224211,224241,0,20,26,30">
+            <TVR tm="CS 15-24 A~NStates" val="0.91,34.1515" />
+            <TVR tm="CS 15-24 A~Metros" val="1.77,48.6162" />
+          </spot>
+          <spot log="60,20130824,224241,224256,0,21,26,15">
+            <TVR tm="CS 15-24 A~NStates" val="0.91,34.1515" />
+            <TVR tm="CS 15-24 A~Metros" val="1.77,48.6162" />
+          </spot>
+          <spot log="60,20130824,224256,224321,0,22,26,25">
+            <TVR tm="CS 15-24 A~NStates" val="0.91,34.1515" />
+            <TVR tm="CS 15-24 A~Metros" val="1.77,48.6162" />
+          </spot>
+          <spot log="60,20130824,224321,224323,0,23,26,2">
+            <TVR tm="CS 15-24 A~NStates" val="0.99,37.3546" />
+            <TVR tm="CS 15-24 A~Metros" val="1.06,29.158798" />
+          </spot>
+          <spot log="60,20130824,224323,224326,0,24,26,3">
+            <TVR tm="CS 15-24 A~NStates" val="0.99,37.3546" />
+            <TVR tm="CS 15-24 A~Metros" val="1.06,29.158798" />
+          </spot>
+          <spot log="60,20130824,224326,224336,0,25,26,10">
+            <TVR tm="CS 15-24 A~NStates" val="0.99,37.3546" />
+            <TVR tm="CS 15-24 A~Metros" val="1.06,29.158798" />
+          </spot>
+          <spot log="60,20130824,224336,224356,0,26,26,20">
+            <TVR tm="CS 15-24 A~NStates" val="0.99,37.3546" />
+            <TVR tm="CS 15-24 A~Metros" val="1.06,29.158798" />
+          </spot>
+          <spot log="60,20130824,225113,225133,0,1,21,20">
+            <TVR tm="CS 15-24 A~NStates" val="0.86,32.2537" />
+            <TVR tm="CS 15-24 A~Metros" val="1.93,53.1693" />
+          </spot>
+          <spot log="60,20130824,225133,225153,0,2,21,20">
+            <TVR tm="CS 15-24 A~NStates" val="0.86,32.2537" />
+            <TVR tm="CS 15-24 A~Metros" val="1.93,53.1693" />
+          </spot>
+          <spot log="60,20130824,225153,225213,0,3,21,20">
+            <TVR tm="CS 15-24 A~NStates" val="0.86,32.2537" />
+            <TVR tm="CS 15-24 A~Metros" val="1.93,53.1693" />
+          </spot>
+          <spot log="60,20130824,225213,225243,0,4,21,30">
+            <TVR tm="CS 15-24 A~NStates" val="0.86,32.3187" />
+            <TVR tm="CS 15-24 A~Metros" val="0.71,19.4392" />
+          </spot>
+          <spot log="60,20130824,225243,225245,0,5,21,2">
+            <TVR tm="CS 15-24 A~NStates" val="0.86,32.3187" />
+            <TVR tm="CS 15-24 A~Metros" val="0.71,19.4392" />
+          </spot>
+          <spot log="60,20130824,225245,225248,0,6,21,3">
+            <TVR tm="CS 15-24 A~NStates" val="0.86,32.3187" />
+            <TVR tm="CS 15-24 A~Metros" val="0.71,19.4392" />
+          </spot>
+          <spot log="60,20130824,225248,225308,0,7,21,20">
+            <TVR tm="CS 15-24 A~NStates" val="0.86,32.3187" />
+            <TVR tm="CS 15-24 A~Metros" val="0.71,19.4392" />
+          </spot>
+          <spot log="60,20130824,225308,225318,0,8,21,10">
+            <TVR tm="CS 15-24 A~NStates" val="0.86,32.3187" />
+            <TVR tm="CS 15-24 A~Metros" val="0.00,0.0" />
+          </spot>
+          <spot log="60,20130824,225318,225328,0,9,21,10">
+            <TVR tm="CS 15-24 A~NStates" val="0.86,32.3187" />
+            <TVR tm="CS 15-24 A~Metros" val="0.00,0.0" />
+          </spot>
+          <spot log="60,20130824,225328,225338,0,10,21,10">
+            <TVR tm="CS 15-24 A~NStates" val="0.86,32.3187" />
+            <TVR tm="CS 15-24 A~Metros" val="0.00,0.0" />
+          </spot>
+          <spot log="60,20130824,225338,225348,0,11,21,10">
+            <TVR tm="CS 15-24 A~NStates" val="0.86,32.3187" />
+            <TVR tm="CS 15-24 A~Metros" val="0.00,0.0" />
+          </spot>
+          <spot log="60,20130824,225348,225408,0,12,21,20">
+            <TVR tm="CS 15-24 A~NStates" val="0.86,32.3187" />
+            <TVR tm="CS 15-24 A~Metros" val="0.00,0.0" />
+          </spot>
+          <spot log="60,20130824,225408,225423,0,13,21,15">
+            <TVR tm="CS 15-24 A~NStates" val="0.77,29.1156" />
+            <TVR tm="CS 15-24 A~Metros" val="0.00,0.0" />
+          </spot>
+          <spot log="60,20130824,225423,225508,0,14,21,45">
+            <TVR tm="CS 15-24 A~NStates" val="0.77,29.1156" />
+            <TVR tm="CS 15-24 A~Metros" val="0.00,0.0" />
+          </spot>
+          <spot log="60,20130824,225508,225528,0,15,21,20">
+            <TVR tm="CS 15-24 A~NStates" val="0.77,29.1156" />
+            <TVR tm="CS 15-24 A~Metros" val="0.80,22.103401" />
+          </spot>
+          <spot log="60,20130824,225531,225533,0,17,21,2">
+            <TVR tm="CS 15-24 A~NStates" val="0.77,29.1156" />
+            <TVR tm="CS 15-24 A~Metros" val="0.80,22.103401" />
+          </spot>
+          <spot log="60,20130824,225533,225548,0,18,21,15">
+            <TVR tm="CS 15-24 A~NStates" val="0.77,29.1156" />
+            <TVR tm="CS 15-24 A~Metros" val="0.80,22.103401" />
+          </spot>
+          <spot log="60,20130824,225548,225608,0,19,21,20">
+            <TVR tm="CS 15-24 A~NStates" val="0.77,29.1156" />
+            <TVR tm="CS 15-24 A~Metros" val="0.80,22.103401" />
+          </spot>
+          <spot log="60,20130824,225608,225623,0,20,21,15">
+            <TVR tm="CS 15-24 A~NStates" val="0.77,29.0506" />
+            <TVR tm="CS 15-24 A~Metros" val="0.80,22.103401" />
+          </spot>
+          <spot log="60,20130824,225623,225643,0,21,21,20">
+            <TVR tm="CS 15-24 A~NStates" val="0.77,29.0506" />
+            <TVR tm="CS 15-24 A~Metros" val="0.80,22.103401" />
+          </spot>
+          <spot log="60,20130830,223312,223332,0,1,28,20">
+            <TVR tm="CS 15-24 A~NStates" val="0.88,33.0626" />
+            <TVR tm="CS 15-24 A~Metros" val="4.73,130.0551" />
+          </spot>
+          <spot log="60,20130830,223332,223337,0,2,28,5">
+            <TVR tm="CS 15-24 A~NStates" val="0.88,33.0626" />
+            <TVR tm="CS 15-24 A~Metros" val="4.73,130.0551" />
+          </spot>
+          <spot log="60,20130830,223337,223342,0,3,28,5">
+            <TVR tm="CS 15-24 A~NStates" val="0.88,33.0626" />
+            <TVR tm="CS 15-24 A~Metros" val="4.73,130.0551" />
+          </spot>
+          <spot log="60,20130830,223342,223345,0,4,28,3">
+            <TVR tm="CS 15-24 A~NStates" val="0.88,33.0626" />
+            <TVR tm="CS 15-24 A~Metros" val="4.73,130.0551" />
+          </spot>
+          <spot log="60,20130830,223345,223347,0,5,28,2">
+            <TVR tm="CS 15-24 A~NStates" val="0.88,33.0626" />
+            <TVR tm="CS 15-24 A~Metros" val="4.73,130.0551" />
+          </spot>
+          <spot log="60,20130830,223347,223417,0,6,28,30">
+            <TVR tm="CS 15-24 A~NStates" val="0.88,33.0626" />
+            <TVR tm="CS 15-24 A~Metros" val="4.73,130.0551" />
+          </spot>
+          <spot log="60,20130830,223417,223442,0,7,28,25">
+            <TVR tm="CS 15-24 A~NStates" val="0.79,29.8038" />
+            <TVR tm="CS 15-24 A~Metros" val="3.59,98.6167" />
+          </spot>
+          <spot log="60,20130830,223442,223512,0,8,28,30">
+            <TVR tm="CS 15-24 A~NStates" val="0.79,29.8038" />
+            <TVR tm="CS 15-24 A~Metros" val="3.59,98.6167" />
+          </spot>
+          <spot log="60,20130830,223512,223532,0,9,28,20">
+            <TVR tm="CS 15-24 A~NStates" val="0.79,29.8038" />
+            <TVR tm="CS 15-24 A~Metros" val="2.83,77.8318" />
+          </spot>
+          <spot log="60,20130830,223532,223542,0,10,28,10">
+            <TVR tm="CS 15-24 A~NStates" val="0.79,29.8038" />
+            <TVR tm="CS 15-24 A~Metros" val="2.83,77.8318" />
+          </spot>
+          <spot log="60,20130830,223542,223544,0,11,28,2">
+            <TVR tm="CS 15-24 A~NStates" val="0.79,29.8038" />
+            <TVR tm="CS 15-24 A~Metros" val="2.83,77.8318" />
+          </spot>
+          <spot log="60,20130830,223544,223546,0,12,28,2">
+            <TVR tm="CS 15-24 A~NStates" val="0.79,29.8038" />
+            <TVR tm="CS 15-24 A~Metros" val="2.83,77.8318" />
+          </spot>
+          <spot log="60,20130830,223546,223601,0,13,28,15">
+            <TVR tm="CS 15-24 A~NStates" val="0.79,29.8038" />
+            <TVR tm="CS 15-24 A~Metros" val="2.83,77.8318" />
+          </spot>
+          <spot log="60,20130830,223601,223611,0,14,28,10">
+            <TVR tm="CS 15-24 A~NStates" val="0.88,33.0626" />
+            <TVR tm="CS 15-24 A~Metros" val="3.23,88.7246" />
+          </spot>
+          <spot log="60,20130830,223611,223631,0,15,28,20">
+            <TVR tm="CS 15-24 A~NStates" val="0.88,33.0626" />
+            <TVR tm="CS 15-24 A~Metros" val="3.23,88.7246" />
+          </spot>
+          <spot log="60,20130830,223631,223641,0,16,28,10">
+            <TVR tm="CS 15-24 A~NStates" val="0.88,33.0626" />
+            <TVR tm="CS 15-24 A~Metros" val="3.23,88.7246" />
+          </spot>
+          <spot log="60,20130830,223641,223711,0,17,28,30">
+            <TVR tm="CS 15-24 A~NStates" val="0.88,33.0626" />
+            <TVR tm="CS 15-24 A~Metros" val="3.23,88.7246" />
+          </spot>
+          <spot log="60,20130830,223711,223741,0,18,28,30">
+            <TVR tm="CS 15-24 A~NStates" val="0.50,19.0087" />
+            <TVR tm="CS 15-24 A~Metros" val="3.52,96.9159" />
+          </spot>
+          <spot log="60,20130830,223741,223743,0,19,28,2">
+            <TVR tm="CS 15-24 A~NStates" val="0.50,19.0087" />
+            <TVR tm="CS 15-24 A~Metros" val="3.52,96.9159" />
+          </spot>
+          <spot log="60,20130830,223743,223746,0,20,28,3">
+            <TVR tm="CS 15-24 A~NStates" val="0.50,19.0087" />
+            <TVR tm="CS 15-24 A~Metros" val="3.52,96.9159" />
+          </spot>
+          <spot log="60,20130830,223746,223811,0,21,28,25">
+            <TVR tm="CS 15-24 A~NStates" val="0.50,19.0087" />
+            <TVR tm="CS 15-24 A~Metros" val="3.52,96.9159" />
+          </spot>
+          <spot log="60,20130830,223811,223821,0,22,28,10">
+            <TVR tm="CS 15-24 A~NStates" val="0.27,10.2637" />
+            <TVR tm="CS 15-24 A~Metros" val="3.13,86.0231" />
+          </spot>
+          <spot log="60,20130830,223821,223901,0,23,28,40">
+            <TVR tm="CS 15-24 A~NStates" val="0.27,10.2637" />
+            <TVR tm="CS 15-24 A~Metros" val="3.13,86.0231" />
+          </spot>
+          <spot log="60,20130830,223901,223921,0,24,28,20">
+            <TVR tm="CS 15-24 A~NStates" val="0.27,10.2637" />
+            <TVR tm="CS 15-24 A~Metros" val="3.08,84.796906" />
+          </spot>
+          <spot log="60,20130830,223921,223941,0,25,28,20">
+            <TVR tm="CS 15-24 A~NStates" val="0.27,10.2637" />
+            <TVR tm="CS 15-24 A~Metros" val="3.08,84.796906" />
+          </spot>
+          <spot log="60,20130830,223941,224001,0,26,28,20">
+            <TVR tm="CS 15-24 A~NStates" val="0.27,10.2637" />
+            <TVR tm="CS 15-24 A~Metros" val="3.08,84.796906" />
+          </spot>
+          <spot log="60,20130830,224001,224021,0,27,28,20">
+            <TVR tm="CS 15-24 A~NStates" val="0.68,25.6708" />
+            <TVR tm="CS 15-24 A~Metros" val="4.80,131.9517" />
+          </spot>
+          <spot log="60,20130830,224021,224031,0,28,28,10">
+            <TVR tm="CS 15-24 A~NStates" val="0.68,25.6708" />
+            <TVR tm="CS 15-24 A~Metros" val="4.80,131.9517" />
+          </spot>
+          <spot log="60,20130830,224529,224554,0,1,27,25">
+            <TVR tm="CS 15-24 A~NStates" val="0.94,35.586" />
+            <TVR tm="CS 15-24 A~Metros" val="4.70,129.15921" />
+          </spot>
+          <spot log="60,20130830,224554,224558,0,2,27,4">
+            <TVR tm="CS 15-24 A~NStates" val="0.94,35.586" />
+            <TVR tm="CS 15-24 A~Metros" val="4.70,129.15921" />
+          </spot>
+          <spot log="60,20130830,224558,224603,0,3,27,5">
+            <TVR tm="CS 15-24 A~NStates" val="0.94,35.586" />
+            <TVR tm="CS 15-24 A~Metros" val="4.70,129.15921" />
+          </spot>
+          <spot log="60,20130830,224603,224606,0,4,27,3">
+            <TVR tm="CS 15-24 A~NStates" val="0.45,16.9258" />
+            <TVR tm="CS 15-24 A~Metros" val="2.83,77.8318" />
+          </spot>
+          <spot log="60,20130830,224606,224608,0,5,27,2">
+            <TVR tm="CS 15-24 A~NStates" val="0.45,16.9258" />
+            <TVR tm="CS 15-24 A~Metros" val="2.83,77.8318" />
+          </spot>
+          <spot log="60,20130830,224608,224628,0,6,27,20">
+            <TVR tm="CS 15-24 A~NStates" val="0.45,16.9258" />
+            <TVR tm="CS 15-24 A~Metros" val="2.83,77.8318" />
+          </spot>
+          <spot log="60,20130830,224628,224648,0,7,27,20">
+            <TVR tm="CS 15-24 A~NStates" val="0.45,16.9258" />
+            <TVR tm="CS 15-24 A~Metros" val="2.83,77.8318" />
+          </spot>
+          <spot log="60,20130830,224648,224658,0,8,27,10">
+            <TVR tm="CS 15-24 A~NStates" val="0.45,16.9258" />
+            <TVR tm="CS 15-24 A~Metros" val="2.83,77.8318" />
+          </spot>
+          <spot log="60,20130830,224658,224700,0,9,27,2">
+            <TVR tm="CS 15-24 A~NStates" val="0.45,16.9258" />
+            <TVR tm="CS 15-24 A~Metros" val="2.83,77.8318" />
+          </spot>
+          <spot log="60,20130830,224700,224703,0,10,27,3">
+            <TVR tm="CS 15-24 A~NStates" val="0.97,36.4659" />
+            <TVR tm="CS 15-24 A~Metros" val="2.83,77.8318" />
+          </spot>
+          <spot log="60,20130830,224703,224713,0,11,27,10">
+            <TVR tm="CS 15-24 A~NStates" val="0.97,36.4659" />
+            <TVR tm="CS 15-24 A~Metros" val="2.83,77.8318" />
+          </spot>
+          <spot log="60,20130830,224713,224743,0,12,27,30">
+            <TVR tm="CS 15-24 A~NStates" val="0.97,36.4659" />
+            <TVR tm="CS 15-24 A~Metros" val="2.83,77.8318" />
+          </spot>
+          <spot log="60,20130830,224743,224813,0,13,27,30">
+            <TVR tm="CS 15-24 A~NStates" val="0.97,36.4659" />
+            <TVR tm="CS 15-24 A~Metros" val="2.83,77.8318" />
+          </spot>
+          <spot log="60,20130830,224813,224838,0,14,27,25">
+            <TVR tm="CS 15-24 A~NStates" val="0.97,36.4659" />
+            <TVR tm="CS 15-24 A~Metros" val="2.40,66.0431" />
+          </spot>
+          <spot log="60,20130830,224838,224918,0,15,27,40">
+            <TVR tm="CS 15-24 A~NStates" val="0.97,36.4659" />
+            <TVR tm="CS 15-24 A~Metros" val="2.40,66.0431" />
+          </spot>
+          <spot log="60,20130830,224918,224943,0,16,27,25">
+            <TVR tm="CS 15-24 A~NStates" val="0.97,36.4659" />
+            <TVR tm="CS 15-24 A~Metros" val="2.01,55.150303" />
+          </spot>
+          <spot log="60,20130830,224943,225003,0,17,27,20">
+            <TVR tm="CS 15-24 A~NStates" val="0.97,36.4659" />
+            <TVR tm="CS 15-24 A~Metros" val="2.01,55.150303" />
+          </spot>
+          <spot log="60,20130830,225003,225006,0,18,27,3">
+            <TVR tm="CS 15-24 A~NStates" val="1.05,39.7247" />
+            <TVR tm="CS 15-24 A~Metros" val="2.76,75.9352" />
+          </spot>
+          <spot log="60,20130830,225006,225008,0,19,27,2">
+            <TVR tm="CS 15-24 A~NStates" val="1.05,39.7247" />
+            <TVR tm="CS 15-24 A~Metros" val="2.76,75.9352" />
+          </spot>
+          <spot log="60,20130830,225023,225103,0,21,27,40">
+            <TVR tm="CS 15-24 A~NStates" val="1.05,39.7247" />
+            <TVR tm="CS 15-24 A~Metros" val="2.76,75.9352" />
+          </spot>
+          <spot log="60,20130830,225103,225123,0,22,27,20">
+            <TVR tm="CS 15-24 A~NStates" val="1.05,39.7247" />
+            <TVR tm="CS 15-24 A~Metros" val="2.76,75.9352" />
+          </spot>
+          <spot log="60,20130830,225123,225143,0,23,27,20">
+            <TVR tm="CS 15-24 A~NStates" val="1.05,39.7247" />
+            <TVR tm="CS 15-24 A~Metros" val="2.76,75.9352" />
+          </spot>
+          <spot log="60,20130830,225143,225203,0,24,27,20">
+            <TVR tm="CS 15-24 A~NStates" val="1.05,39.7247" />
+            <TVR tm="CS 15-24 A~Metros" val="2.76,75.9352" />
+          </spot>
+          <spot log="60,20130830,225203,225223,0,25,27,20">
+            <TVR tm="CS 15-24 A~NStates" val="1.05,39.7247" />
+            <TVR tm="CS 15-24 A~Metros" val="2.76,75.9352" />
+          </spot>
+          <spot log="60,20130830,225223,225233,0,26,27,10">
+            <TVR tm="CS 15-24 A~NStates" val="1.05,39.7247" />
+            <TVR tm="CS 15-24 A~Metros" val="2.76,75.9352" />
+          </spot>
+          <spot log="60,20130830,225233,225253,0,27,27,20">
+            <TVR tm="CS 15-24 A~NStates" val="1.05,39.7247" />
+            <TVR tm="CS 15-24 A~Metros" val="2.76,75.9352" />
+          </spot>
+          <spot log="60,20130831,223436,223456,0,1,20,20">
+            <TVR tm="CS 15-24 A~NStates" val="5.43,204.746" />
+            <TVR tm="CS 15-24 A~Metros" val="4.44,122.0614" />
+          </spot>
+          <spot log="60,20130831,223456,223501,0,2,20,5">
+            <TVR tm="CS 15-24 A~NStates" val="5.43,204.746" />
+            <TVR tm="CS 15-24 A~Metros" val="4.44,122.0614" />
+          </spot>
+          <spot log="60,20130831,223501,223506,0,3,20,5">
+            <TVR tm="CS 15-24 A~NStates" val="3.66,137.9097" />
+            <TVR tm="CS 15-24 A~Metros" val="2.97,81.8025" />
+          </spot>
+          <spot log="60,20130831,223506,223508,0,4,20,2">
+            <TVR tm="CS 15-24 A~NStates" val="3.66,137.9097" />
+            <TVR tm="CS 15-24 A~Metros" val="2.97,81.8025" />
+          </spot>
+          <spot log="60,20130831,223508,223511,0,5,20,3">
+            <TVR tm="CS 15-24 A~NStates" val="3.66,137.9097" />
+            <TVR tm="CS 15-24 A~Metros" val="2.97,81.8025" />
+          </spot>
+          <spot log="60,20130831,223511,223531,0,6,20,20">
+            <TVR tm="CS 15-24 A~NStates" val="3.66,137.9097" />
+            <TVR tm="CS 15-24 A~Metros" val="2.97,81.8025" />
+          </spot>
+          <spot log="60,20130831,223531,223556,0,7,20,25">
+            <TVR tm="CS 15-24 A~NStates" val="3.66,137.9097" />
+            <TVR tm="CS 15-24 A~Metros" val="2.97,81.8025" />
+          </spot>
+          <spot log="60,20130831,223556,223606,0,8,20,10">
+            <TVR tm="CS 15-24 A~NStates" val="3.66,137.9097" />
+            <TVR tm="CS 15-24 A~Metros" val="2.97,81.8025" />
+          </spot>
+          <spot log="60,20130831,223606,223636,0,9,20,30">
+            <TVR tm="CS 15-24 A~NStates" val="2.82,106.2721" />
+            <TVR tm="CS 15-24 A~Metros" val="2.44,67.186104" />
+          </spot>
+          <spot log="60,20130831,223636,223639,0,10,20,3">
+            <TVR tm="CS 15-24 A~NStates" val="2.82,106.2721" />
+            <TVR tm="CS 15-24 A~Metros" val="2.44,67.186104" />
+          </spot>
+          <spot log="60,20130831,223639,223641,0,11,20,2">
+            <TVR tm="CS 15-24 A~NStates" val="2.82,106.2721" />
+            <TVR tm="CS 15-24 A~Metros" val="2.44,67.186104" />
+          </spot>
+          <spot log="60,20130831,223641,223706,0,12,20,25">
+            <TVR tm="CS 15-24 A~NStates" val="2.82,106.2721" />
+            <TVR tm="CS 15-24 A~Metros" val="2.44,67.186104" />
+          </spot>
+          <spot log="60,20130831,223706,223721,0,13,20,15">
+            <TVR tm="CS 15-24 A~NStates" val="2.82,106.2721" />
+            <TVR tm="CS 15-24 A~Metros" val="2.87,78.8365" />
+          </spot>
+          <spot log="60,20130831,223721,223746,0,14,20,25">
+            <TVR tm="CS 15-24 A~NStates" val="2.82,106.2721" />
+            <TVR tm="CS 15-24 A~Metros" val="2.87,78.8365" />
+          </spot>
+          <spot log="60,20130831,223746,223756,0,15,20,10">
+            <TVR tm="CS 15-24 A~NStates" val="2.82,106.2721" />
+            <TVR tm="CS 15-24 A~Metros" val="2.87,78.8365" />
+          </spot>
+          <spot log="60,20130831,223756,223826,0,16,20,30">
+            <TVR tm="CS 15-24 A~NStates" val="2.82,106.2721" />
+            <TVR tm="CS 15-24 A~Metros" val="2.87,78.8365" />
+          </spot>
+          <spot log="60,20130831,223826,223906,0,17,20,40">
+            <TVR tm="CS 15-24 A~NStates" val="3.20,120.8927" />
+            <TVR tm="CS 15-24 A~Metros" val="3.16,86.8356" />
+          </spot>
+          <spot log="60,20130831,223906,223946,0,18,20,40">
+            <TVR tm="CS 15-24 A~NStates" val="3.54,133.516" />
+            <TVR tm="CS 15-24 A~Metros" val="2.73,75.1852" />
+          </spot>
+          <spot log="60,20130831,223946,224006,0,19,20,20">
+            <TVR tm="CS 15-24 A~NStates" val="3.54,133.516" />
+            <TVR tm="CS 15-24 A~Metros" val="2.73,75.1852" />
+          </spot>
+          <spot log="60,20130831,224006,224016,0,20,20,10">
+            <TVR tm="CS 15-24 A~NStates" val="3.43,129.4415" />
+            <TVR tm="CS 15-24 A~Metros" val="3.25,89.2875" />
+          </spot>
+          <spot log="60,20130831,224700,224720,0,1,23,20">
+            <TVR tm="CS 15-24 A~NStates" val="2.66,100.4235" />
+            <TVR tm="CS 15-24 A~Metros" val="3.91,107.5552" />
+          </spot>
+          <spot log="60,20130831,224720,224724,0,2,23,4">
+            <TVR tm="CS 15-24 A~NStates" val="2.66,100.4235" />
+            <TVR tm="CS 15-24 A~Metros" val="3.91,107.5552" />
+          </spot>
+          <spot log="60,20130831,224724,224729,0,3,23,5">
+            <TVR tm="CS 15-24 A~NStates" val="2.66,100.4235" />
+            <TVR tm="CS 15-24 A~Metros" val="3.91,107.5552" />
+          </spot>
+          <spot log="60,20130831,224729,224732,0,4,23,3">
+            <TVR tm="CS 15-24 A~NStates" val="2.66,100.4235" />
+            <TVR tm="CS 15-24 A~Metros" val="3.91,107.5552" />
+          </spot>
+          <spot log="60,20130831,224732,224734,0,5,23,2">
+            <TVR tm="CS 15-24 A~NStates" val="2.66,100.4235" />
+            <TVR tm="CS 15-24 A~Metros" val="3.91,107.5552" />
+          </spot>
+          <spot log="60,20130831,224734,224744,0,6,23,10">
+            <TVR tm="CS 15-24 A~NStates" val="2.66,100.4235" />
+            <TVR tm="CS 15-24 A~Metros" val="3.91,107.5552" />
+          </spot>
+          <spot log="60,20130831,224744,224814,0,7,23,30">
+            <TVR tm="CS 15-24 A~NStates" val="2.66,100.4235" />
+            <TVR tm="CS 15-24 A~Metros" val="3.91,107.5552" />
+          </spot>
+          <spot log="60,20130831,224817,224819,0,9,23,2">
+            <TVR tm="CS 15-24 A~NStates" val="1.33,50.289402" />
+            <TVR tm="CS 15-24 A~Metros" val="3.54,97.250496" />
+          </spot>
+          <spot log="60,20130831,224819,224829,0,10,23,10">
+            <TVR tm="CS 15-24 A~NStates" val="1.33,50.289402" />
+            <TVR tm="CS 15-24 A~Metros" val="3.54,97.250496" />
+          </spot>
+          <spot log="60,20130831,224829,224844,0,11,23,15">
+            <TVR tm="CS 15-24 A~NStates" val="1.33,50.289402" />
+            <TVR tm="CS 15-24 A~Metros" val="3.54,97.250496" />
+          </spot>
+          <spot log="60,20130831,224844,224854,0,12,23,10">
+            <TVR tm="CS 15-24 A~NStates" val="1.33,50.289402" />
+            <TVR tm="CS 15-24 A~Metros" val="3.54,97.250496" />
+          </spot>
+          <spot log="60,20130831,224854,224914,0,13,23,20">
+            <TVR tm="CS 15-24 A~NStates" val="1.33,50.289402" />
+            <TVR tm="CS 15-24 A~Metros" val="3.54,97.250496" />
+          </spot>
+          <spot log="60,20130831,224914,224944,0,14,23,30">
+            <TVR tm="CS 15-24 A~NStates" val="1.00,37.706" />
+            <TVR tm="CS 15-24 A~Metros" val="3.54,97.250496" />
+          </spot>
+          <spot log="60,20130831,224944,225024,0,15,23,40">
+            <TVR tm="CS 15-24 A~NStates" val="1.00,37.706" />
+            <TVR tm="CS 15-24 A~Metros" val="3.54,97.250496" />
+          </spot>
+          <spot log="60,20130831,225024,225049,0,16,23,25">
+            <TVR tm="CS 15-24 A~NStates" val="0.84,31.6792" />
+            <TVR tm="CS 15-24 A~Metros" val="3.83,105.249596" />
+          </spot>
+          <spot log="60,20130831,225049,225109,0,17,23,20">
+            <TVR tm="CS 15-24 A~NStates" val="0.84,31.6792" />
+            <TVR tm="CS 15-24 A~Metros" val="3.83,105.249596" />
+          </spot>
+          <spot log="60,20130831,225109,225129,0,18,23,20">
+            <TVR tm="CS 15-24 A~NStates" val="1.57,59.2647" />
+            <TVR tm="CS 15-24 A~Metros" val="2.55,70.1521" />
+          </spot>
+          <spot log="60,20130831,225129,225139,0,19,23,10">
+            <TVR tm="CS 15-24 A~NStates" val="1.57,59.2647" />
+            <TVR tm="CS 15-24 A~Metros" val="2.55,70.1521" />
+          </spot>
+          <spot log="60,20130831,225139,225159,0,20,23,20">
+            <TVR tm="CS 15-24 A~NStates" val="1.57,59.2647" />
+            <TVR tm="CS 15-24 A~Metros" val="2.55,70.1521" />
+          </spot>
+          <spot log="60,20130831,225159,225219,0,21,23,20">
+            <TVR tm="CS 15-24 A~NStates" val="1.57,59.2647" />
+            <TVR tm="CS 15-24 A~Metros" val="2.55,70.1521" />
+          </spot>
+          <spot log="60,20130831,225219,225229,0,22,23,10">
+            <TVR tm="CS 15-24 A~NStates" val="1.80,68.065" />
+            <TVR tm="CS 15-24 A~Metros" val="3.40,93.5992" />
+          </spot>
+          <spot log="60,20130831,225229,225249,0,23,23,20">
+            <TVR tm="CS 15-24 A~NStates" val="1.80,68.065" />
+            <TVR tm="CS 15-24 A~Metros" val="3.40,93.5992" />
+          </spot>
+        </available_spots>
+      </programme>
+    </period>
+  </plan>
+</mediaplan>

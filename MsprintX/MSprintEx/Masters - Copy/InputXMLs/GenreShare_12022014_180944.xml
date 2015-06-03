@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<input>
+  <pre-eval-period>
+    <startdate>20130804</startdate>
+    <enddate>20130831</enddate>
+  </pre-eval-period>
+  <day_parts></day_parts>
+  <TG_MG name="CS 15-24 A~Metros" type="Planning">
+    <tg name="CS 15-24 A">
+      <cs>1</cs>
+      <sec>1</sec>
+      <sex>1,2</sex>
+      <age>3</age>
+    </tg>
+    <mg name="Metros" type="Group">
+      <market>1</market>
+      <market>2</market>
+      <market>3</market>
+      <market>4</market>
+      <market>6</market>
+    </mg>
+  </TG_MG>
+  <TG_MG name="CS 15-24 A~NStates" type="Planning">
+    <tg name="CS 15-24 A">
+      <cs>1</cs>
+      <sec>1</sec>
+      <sex>1,2</sex>
+      <age>3</age>
+    </tg>
+    <mg name="NStates" type="Group">
+      <market>!</market>
+      <market>#</market>
+      <market>$</market>
+      <market>%</market>
+      <market>&amp;</market>
+      <market>@</market>
+      <market>&gt;</market>
+      <market>B</market>
+      <market>E</market>
+      <market>F</market>
+      <market>J</market>
+      <market>K</market>
+      <market>L</market>
+      <market>N</market>
+      <market>O</market>
+      <market>P</market>
+      <market>S</market>
+      <market>T</market>
+      <market>W</market>
+      <market>X</market>
+      <market>Z</market>
+    </mg>
+  </TG_MG>
+</input>

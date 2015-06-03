@@ -1,0 +1,99 @@
+<input>
+    <!-- TO BE FROZEN 26 Dec 13 -->
+    <!-- common section start -->
+    <pre-eval-period>
+        <startdate>20130804</startdate>
+        <enddate>20130817</enddate>
+    </pre-eval-period>
+    
+    <day_parts>
+        <day_part>0800-1200</day_part>
+        <day_part>2100-2200</day_part>
+    </day_parts>
+    
+    
+    <!-- common section ends -->
+
+  <TG_MG name = "CS 15-44~mg1" type = "Planning">
+    <tg name="CS 15-44">
+      <cs>1</cs>
+      <sec>1,2,3,4</sec>
+      <sex>1,2</sex>
+      <age>3,4,5</age>
+    </tg>
+    <mg name="mg1" type="group">
+      <market>1</market>
+      <market>3</market>
+    </mg>
+
+    <programme>
+      <channel code = "004" name = "Star Plus"/>
+      <name>PYAAR KA DARD HAI </name>
+      <days>Mon,Tue,Wed,Thu,Fri</days>
+      <starttime>21:00</starttime>
+      <endtime>21:30</endtime>
+      <costper10s>120</costper10s>
+      <caption>Colgate Kids Jumping</caption>
+      <ad_duration>20</ad_duration>
+      <spot_details>
+        <total_number_of_spots>10</total_number_of_spots>
+        <!-- case where the number of spots is not week-wise -->
+        <period start_date = "20130804" end_date = "20130817" number_of_spots= "10"/>
+        <desired_spots>
+          <!-- will be filled in case of reselection else blank-->
+          <spot>004 10112013 021127 021147 THEME NOT MONITORED                               0 001 004 00020 PYAAR KA DARD HAI                        Star Pl 99 NETWORK PROMO PROGRAMME                          PP SPL NACH BALIYE 6                     THEME NOT MONITORED                      STAR TV NETWORK                           Serials                                   Hindi</spot>
+          <spot>004 10112013 021147 021217 THEME NOT MONITORED                               0 002 004 00030 PYAAR KA DARD HAI                        Star Pl 99 NETWORK PROMO PROGRAMME                          PP SPL PYAAR KA DARD HAI                 THEME NOT MONITORED                      STAR TV NETWORK                           Serials                                   Hindi</spot>
+        </desired_spots>
+        <!-- will be filled in case of reselection -->
+        <output>
+          <!-- log file format / regular format? -->
+          <spot>004 10112013 021127 021147 THEME NOT MONITORED                               0 001 004 00020 PYAAR KA DARD HAI                        Star Pl 99 NETWORK PROMO PROGRAMME                          PP SPL NACH BALIYE 6                     THEME NOT MONITORED                      STAR TV NETWORK                           Serials                                   Hindi</spot>
+          <spot>004 10112013 021147 021217 THEME NOT MONITORED                               0 002 004 00030 PYAAR KA DARD HAI                        Star Pl 99 NETWORK PROMO PROGRAMME                          PP SPL PYAAR KA DARD HAI                 THEME NOT MONITORED                      STAR TV NETWORK                           Serials                                   Hindi</spot>
+          <spot>004 10112013 021217 021302 THEME NOT MONITORED                               0 003 004 00045 PYAAR KA DARD HAI                        Star Pl 99 NETWORK PROMO PROGRAMME                          PP SPL YE HAI MOHABABTEIN                THEME NOT MONITORED                      STAR TV NETWORK                           Serials                                   Hindi</spot>
+          <spot>004 10112013 021302 021341 THEME NOT MONITORED                               0 004 004 00039 PYAAR KA DARD HAI                        Star Pl 99 NETWORK PROMO CHANNEL PROPERTIES                 VITH U STAR INITIATIVE                   THEME NOT MONITORED                      STAR TV NETWORK                           Serials                                   Hindi</spot>
+          <spot>004 10112013 021127 021341 ---- End of Break 1 ----                          0 000 000 00134 PYAAR KA DARD HAI                        Star Pl 99 NETWORK                                                                                                                                                                      Serials                                   Hindi</spot>
+          <spot>004 10112013 021916 021946 THEME NOT MONITORED                               0 001 005 00030 SARASWATICHANDRA                         Star Pl 99 NETWORK PROMO PROGRAMME                          PP SPL PYAAR KA DARD HAI                 THEME NOT MONITORED                      STAR TV NETWORK                           Serials                                   Hindi</spot>
+          <spot>004 10112013 022131 022201 THEME NOT MONITORED                               0 005 005 00030 SARASWATICHANDRA                         Star Pl 99 NETWORK PROMO PROGRAMME                          PP SPL PYAAR KA DARD HAI                 THEME NOT MONITORED                      STAR TV NETWORK                           Serials                                   Hindi</spot>
+          <spot>004 10112013 024147 024207 THEME NOT MONITORED                               0 001 004 00020 PYAAR KA DARD HAI                        Star Pl 99 NETWORK PROMO PROGRAMME                          PP SPL NACH BALIYE 6                     THEME NOT MONITORED                      STAR TV NETWORK                           Serials                                   Hindi</spot>
+          <spot>004 10112013 024207 024237 THEME NOT MONITORED                               0 002 004 00030 PYAAR KA DARD HAI                        Star Pl 99 NETWORK PROMO PROGRAMME                          PP SPL PYAAR KA DARD HAI                 THEME NOT MONITORED                      STAR TV NETWORK                           Serials                                   Hindi</spot>
+        </output>
+
+      </spot_details>
+    </programme>
+    <programme>
+      <channel code = "004" name = "Star Plus"/>
+      <name>Yeh Rishta Kya Kehlata Hai</name>
+      <days>Thu</days>
+      <starttime>21:30</starttime>
+      <endtime>22:00</endtime>
+      <costper10s>150</costper10s>
+      <caption>Colgate Kids Jumping</caption>
+      <ad_duration>30</ad_duration>
+      <spot_details>
+        <total_number_of_spots>30</total_number_of_spots>
+        <!-- this is where we give a week-wise split -->
+        <period start_date = "20130804" end_date="20130810" number_of_spots="20"/>
+        <period start_date = "20130811" end_date="20130817" number_of_spots="10"/>
+
+        <output>
+          <!-- this is the output - just an example so not complete-->
+          <selected_spots>
+            <spot>004 10112013 032238 032308 THEME NOT MONITORED                               0 001 005 00030 YEH RISHTA KYA KEHLATA HAI               Star Pl 99 NETWORK PROMO PROGRAMME                          PP SPL PYAAR KA DARD HAI                 THEME NOT MONITORED                      STAR TV NETWORK                           Serials                                   Hindi</spot>
+            <spot>004 10112013 032308 032328 THEME NOT MONITORED                               0 002 005 00020 YEH RISHTA KYA KEHLATA HAI               Star Pl 99 NETWORK PROMO PROGRAMME                          PP SPL NACH BALIYE 6                     THEME NOT MONITORED                      STAR TV NETWORK                           Serials                                   Hindi</spot>
+          </selected_spots>
+          <unselected_spots>
+            <spot>004 10112013 032328 032413 THEME NOT MONITORED                               0 003 005 00045 YEH RISHTA KYA KEHLATA HAI               Star Pl 99 NETWORK PROMO PROGRAMME                          PP SPL YE HAI MOHABABTEIN                THEME NOT MONITORED                      STAR TV NETWORK                           Serials                                   Hindi</spot>
+          </unselected_spots>
+        </output>
+        <desired_spots>
+          <!-- will be filled in case of reselection log file format -->
+          <spot>004 10112013 032238 032308 THEME NOT MONITORED                               0 001 005 00030 YEH RISHTA KYA KEHLATA HAI               Star Pl 99 NETWORK PROMO PROGRAMME                          PP SPL PYAAR KA DARD HAI                 THEME NOT MONITORED                      STAR TV NETWORK                           Serials                                   Hindi</spot>
+          <spot>004 10112013 032308 032328 THEME NOT MONITORED                               0 002 005 00020 YEH RISHTA KYA KEHLATA HAI               Star Pl 99 NETWORK PROMO PROGRAMME                          PP SPL NACH BALIYE 6                     THEME NOT MONITORED                      STAR TV NETWORK                           Serials                                   Hindi</spot>
+          <spot>004 10112013 032328 032413 THEME NOT MONITORED                               0 003 005 00045 YEH RISHTA KYA KEHLATA HAI               Star Pl 99 NETWORK PROMO PROGRAMME                          PP SPL YE HAI MOHABABTEIN                THEME NOT MONITORED                      STAR TV NETWORK                           Serials                                   Hindi</spot>
+        </desired_spots>
+        <!-- will be filled in case of reselection -->
+
+      </spot_details>
+    </programme>
+  </TG_MG>
+</input>

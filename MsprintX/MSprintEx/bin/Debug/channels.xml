@@ -1,0 +1,3175 @@
+<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <Channels>
+    <ID>1</ID>
+    <Name>DD1</Name>
+  </Channels>
+  <Channels>
+    <ID>10</ID>
+    <Name>ZEE NEWS</Name>
+  </Channels>
+  <Channels>
+    <ID>100</ID>
+    <Name>NICKELODEON</Name>
+  </Channels>
+  <Channels>
+    <ID>101</ID>
+    <Name>ZEE GUJARATI</Name>
+  </Channels>
+  <Channels>
+    <ID>102</ID>
+    <Name>ZEE PUNJABI</Name>
+  </Channels>
+  <Channels>
+    <ID>103</ID>
+    <Name>CHANNEL PUNJABI</Name>
+  </Channels>
+  <Channels>
+    <ID>104</ID>
+    <Name>CHANNEL OXYGEN</Name>
+  </Channels>
+  <Channels>
+    <ID>105</ID>
+    <Name>MBC</Name>
+  </Channels>
+  <Channels>
+    <ID>106</ID>
+    <Name>PRABHAT</Name>
+  </Channels>
+  <Channels>
+    <ID>107</ID>
+    <Name>MIRACLE</Name>
+  </Channels>
+  <Channels>
+    <ID>108</ID>
+    <Name>ITV</Name>
+  </Channels>
+  <Channels>
+    <ID>109</ID>
+    <Name>TVC ASIA</Name>
+  </Channels>
+  <Channels>
+    <ID>11</ID>
+    <Name>ABP NEWS</Name>
+  </Channels>
+  <Channels>
+    <ID>110</ID>
+    <Name>HBO</Name>
+  </Channels>
+  <Channels>
+    <ID>111</ID>
+    <Name>TEN</Name>
+  </Channels>
+  <Channels>
+    <ID>112</ID>
+    <Name>ZEE STUDIO</Name>
+  </Channels>
+  <Channels>
+    <ID>113</ID>
+    <Name>ZEE CAFE</Name>
+  </Channels>
+  <Channels>
+    <ID>114</ID>
+    <Name>SAHARA ONE</Name>
+  </Channels>
+  <Channels>
+    <ID>115</ID>
+    <Name>SAB</Name>
+  </Channels>
+  <Channels>
+    <ID>116</ID>
+    <Name>ETV BANGLA</Name>
+  </Channels>
+  <Channels>
+    <ID>117</ID>
+    <Name>SUPRABHATHA</Name>
+  </Channels>
+  <Channels>
+    <ID>118</ID>
+    <Name>TMG</Name>
+  </Channels>
+  <Channels>
+    <ID>119</ID>
+    <Name>SUN NEWS</Name>
+  </Channels>
+  <Channels>
+    <ID>12</ID>
+    <Name>CABLE REGIONAL</Name>
+  </Channels>
+  <Channels>
+    <ID>120</ID>
+    <Name>B4U MUSIC</Name>
+  </Channels>
+  <Channels>
+    <ID>121</ID>
+    <Name>SCV</Name>
+  </Channels>
+  <Channels>
+    <ID>122</ID>
+    <Name>TARA BANGLA</Name>
+  </Channels>
+  <Channels>
+    <ID>123</ID>
+    <Name>TEJA TV</Name>
+  </Channels>
+  <Channels>
+    <ID>124</ID>
+    <Name>TARA MARATHI</Name>
+  </Channels>
+  <Channels>
+    <ID>125</ID>
+    <Name>NHK</Name>
+  </Channels>
+  <Channels>
+    <ID>126</ID>
+    <Name>RTV</Name>
+  </Channels>
+  <Channels>
+    <ID>127</ID>
+    <Name>JUKEBOX</Name>
+  </Channels>
+  <Channels>
+    <ID>128</ID>
+    <Name>JEEVAN</Name>
+  </Channels>
+  <Channels>
+    <ID>129</ID>
+    <Name>WORLDNET</Name>
+  </Channels>
+  <Channels>
+    <ID>13</ID>
+    <Name>CABLE ENGLISH</Name>
+  </Channels>
+  <Channels>
+    <ID>130</ID>
+    <Name>UDAYA MOVIES</Name>
+  </Channels>
+  <Channels>
+    <ID>131</ID>
+    <Name>KAVERI</Name>
+  </Channels>
+  <Channels>
+    <ID>132</ID>
+    <Name>ETV MARATHI</Name>
+  </Channels>
+  <Channels>
+    <ID>133</ID>
+    <Name>ETC PUNJABI</Name>
+  </Channels>
+  <Channels>
+    <ID>134</ID>
+    <Name>TARA PUNJABI</Name>
+  </Channels>
+  <Channels>
+    <ID>135</ID>
+    <Name>TARA GUJARATI</Name>
+  </Channels>
+  <Channels>
+    <ID>136</ID>
+    <Name>CMM</Name>
+  </Channels>
+  <Channels>
+    <ID>137</ID>
+    <Name>AASTHA</Name>
+  </Channels>
+  <Channels>
+    <ID>138</ID>
+    <Name>ATN WORLD</Name>
+  </Channels>
+  <Channels>
+    <ID>139</ID>
+    <Name>UTN</Name>
+  </Channels>
+  <Channels>
+    <ID>14</ID>
+    <Name>ETC</Name>
+  </Channels>
+  <Channels>
+    <ID>141</ID>
+    <Name>RAINT</Name>
+  </Channels>
+  <Channels>
+    <ID>142</ID>
+    <Name>SANSKAR</Name>
+  </Channels>
+  <Channels>
+    <ID>143</ID>
+    <Name>DD PUNJABI</Name>
+  </Channels>
+  <Channels>
+    <ID>144</ID>
+    <Name>UDAYA VARTHEGALU</Name>
+  </Channels>
+  <Channels>
+    <ID>145</ID>
+    <Name>KAIRALI</Name>
+  </Channels>
+  <Channels>
+    <ID>147</ID>
+    <Name>NOW</Name>
+  </Channels>
+  <Channels>
+    <ID>148</ID>
+    <Name>STAR GOLD</Name>
+  </Channels>
+  <Channels>
+    <ID>149</ID>
+    <Name>DD WORLD</Name>
+  </Channels>
+  <Channels>
+    <ID>15</ID>
+    <Name>DD16 LUCKNOW</Name>
+  </Channels>
+  <Channels>
+    <ID>150</ID>
+    <Name>ATN MUSIC</Name>
+  </Channels>
+  <Channels>
+    <ID>151</ID>
+    <Name>TVE</Name>
+  </Channels>
+  <Channels>
+    <ID>152</ID>
+    <Name>ZED TV</Name>
+  </Channels>
+  <Channels>
+    <ID>153</ID>
+    <Name>CALCUTTA TELEVISION NETWORK</Name>
+  </Channels>
+  <Channels>
+    <ID>154</ID>
+    <Name>HOLLYWOOD</Name>
+  </Channels>
+  <Channels>
+    <ID>155</ID>
+    <Name>ETV KANNADA</Name>
+  </Channels>
+  <Channels>
+    <ID>156</ID>
+    <Name>AAJ TAK</Name>
+  </Channels>
+  <Channels>
+    <ID>157</ID>
+    <Name>RPG INFO CHANNEL</Name>
+  </Channels>
+  <Channels>
+    <ID>158</ID>
+    <Name>CHANNEL NEWS ASIA</Name>
+  </Channels>
+  <Channels>
+    <ID>159</ID>
+    <Name>BHARATI TAMIL</Name>
+  </Channels>
+  <Channels>
+    <ID>16</ID>
+    <Name>SUN TV</Name>
+  </Channels>
+  <Channels>
+    <ID>160</ID>
+    <Name>ARIRANG ENGLISH MOVIES</Name>
+  </Channels>
+  <Channels>
+    <ID>161</ID>
+    <Name>SNTV HINDI CHANNEL</Name>
+  </Channels>
+  <Channels>
+    <ID>162</ID>
+    <Name>AAKAASH (BANGALA)</Name>
+  </Channels>
+  <Channels>
+    <ID>163</ID>
+    <Name>SS MUSIC</Name>
+  </Channels>
+  <Channels>
+    <ID>165</ID>
+    <Name>DD DELHI</Name>
+  </Channels>
+  <Channels>
+    <ID>166</ID>
+    <Name>C CHANNEL</Name>
+  </Channels>
+  <Channels>
+    <ID>167</ID>
+    <Name>ASIANET NEWS</Name>
+  </Channels>
+  <Channels>
+    <ID>168</ID>
+    <Name>ETV URDU</Name>
+  </Channels>
+  <Channels>
+    <ID>169</ID>
+    <Name>INDUS VISION</Name>
+  </Channels>
+  <Channels>
+    <ID>17</ID>
+    <Name>UDAYA TV</Name>
+  </Channels>
+  <Channels>
+    <ID>170</ID>
+    <Name>B4U MOVIES</Name>
+  </Channels>
+  <Channels>
+    <ID>171</ID>
+    <Name>SPLASH</Name>
+  </Channels>
+  <Channels>
+    <ID>172</ID>
+    <Name>IT WORLD</Name>
+  </Channels>
+  <Channels>
+    <ID>173</ID>
+    <Name>ANJUM URDU GEC</Name>
+  </Channels>
+  <Channels>
+    <ID>174</ID>
+    <Name>FOX NEWS INTERNATIONAL</Name>
+  </Channels>
+  <Channels>
+    <ID>175</ID>
+    <Name>SKY NEWS INTERNATIONAL</Name>
+  </Channels>
+  <Channels>
+    <ID>177</ID>
+    <Name>C BANG</Name>
+  </Channels>
+  <Channels>
+    <ID>178</ID>
+    <Name>K TV</Name>
+  </Channels>
+  <Channels>
+    <ID>179</ID>
+    <Name>ADVENTURE ONE</Name>
+  </Channels>
+  <Channels>
+    <ID>18</ID>
+    <Name>RAJ TV</Name>
+  </Channels>
+  <Channels>
+    <ID>180</ID>
+    <Name>VOICE OF AMERICA</Name>
+  </Channels>
+  <Channels>
+    <ID>181</ID>
+    <Name>SITI TELUGU</Name>
+  </Channels>
+  <Channels>
+    <ID>182</ID>
+    <Name>MANNA TELUGU</Name>
+  </Channels>
+  <Channels>
+    <ID>183</ID>
+    <Name>SITI MUSIC</Name>
+  </Channels>
+  <Channels>
+    <ID>184</ID>
+    <Name>SHOP 24 SEVEN MULTIPLEX</Name>
+  </Channels>
+  <Channels>
+    <ID>185</ID>
+    <Name>WIN TV</Name>
+  </Channels>
+  <Channels>
+    <ID>186</ID>
+    <Name>DD BHARATI</Name>
+  </Channels>
+  <Channels>
+    <ID>187</ID>
+    <Name>ETV GUJARATI</Name>
+  </Channels>
+  <Channels>
+    <ID>188</ID>
+    <Name>ETV ORIYA</Name>
+  </Channels>
+  <Channels>
+    <ID>189</ID>
+    <Name>ETV BIHAR</Name>
+  </Channels>
+  <Channels>
+    <ID>19</ID>
+    <Name>ASIANET</Name>
+  </Channels>
+  <Channels>
+    <ID>190</ID>
+    <Name>ETV RAJASTAN</Name>
+  </Channels>
+  <Channels>
+    <ID>191</ID>
+    <Name>ETV MADHYA PRADESH</Name>
+  </Channels>
+  <Channels>
+    <ID>192</ID>
+    <Name>ETV UTTAR PRADESH</Name>
+  </Channels>
+  <Channels>
+    <ID>193</ID>
+    <Name>ETV PUNJAB</Name>
+  </Channels>
+  <Channels>
+    <ID>194</ID>
+    <Name>PUNJAB TODAY NEWS</Name>
+  </Channels>
+  <Channels>
+    <ID>195</ID>
+    <Name>DD NORTH EAST</Name>
+  </Channels>
+  <Channels>
+    <ID>196</ID>
+    <Name>ASIANET TELE INTERACTIVE</Name>
+  </Channels>
+  <Channels>
+    <ID>197</ID>
+    <Name>TEN SPORTS</Name>
+  </Channels>
+  <Channels>
+    <ID>198</ID>
+    <Name>MAA TELUGU</Name>
+  </Channels>
+  <Channels>
+    <ID>199</ID>
+    <Name>RAJAWALI CHITRA TV INDONESIA</Name>
+  </Channels>
+  <Channels>
+    <ID>2</ID>
+    <Name>DD2</Name>
+  </Channels>
+  <Channels>
+    <ID>20</ID>
+    <Name>PTV</Name>
+  </Channels>
+  <Channels>
+    <ID>200</ID>
+    <Name>PTP</Name>
+  </Channels>
+  <Channels>
+    <ID>201</ID>
+    <Name>REN TV</Name>
+  </Channels>
+  <Channels>
+    <ID>202</ID>
+    <Name>CN TV</Name>
+  </Channels>
+  <Channels>
+    <ID>203</ID>
+    <Name>RC TV</Name>
+  </Channels>
+  <Channels>
+    <ID>204</ID>
+    <Name>BLOOMBERG TV</Name>
+  </Channels>
+  <Channels>
+    <ID>205</ID>
+    <Name>3 ABN</Name>
+  </Channels>
+  <Channels>
+    <ID>206</ID>
+    <Name>BANGLA AKHON</Name>
+  </Channels>
+  <Channels>
+    <ID>207</ID>
+    <Name>GOD</Name>
+  </Channels>
+  <Channels>
+    <ID>208</ID>
+    <Name>RADIO SNAP BANGLA RPG</Name>
+  </Channels>
+  <Channels>
+    <ID>209</ID>
+    <Name>BBC AUDIO</Name>
+  </Channels>
+  <Channels>
+    <ID>210</ID>
+    <Name>BALLE BALLE</Name>
+  </Channels>
+  <Channels>
+    <ID>211</ID>
+    <Name>SITI GUIDE</Name>
+  </Channels>
+  <Channels>
+    <ID>212</ID>
+    <Name>DD PATNA</Name>
+  </Channels>
+  <Channels>
+    <ID>213</ID>
+    <Name>DD BHOPAL</Name>
+  </Channels>
+  <Channels>
+    <ID>214</ID>
+    <Name>MIDDLE EAST TV</Name>
+  </Channels>
+  <Channels>
+    <ID>215</ID>
+    <Name>MANTHAN GUIDE</Name>
+  </Channels>
+  <Channels>
+    <ID>216</ID>
+    <Name>REALITY ZONE</Name>
+  </Channels>
+  <Channels>
+    <ID>217</ID>
+    <Name>ATN KOLKATA</Name>
+  </Channels>
+  <Channels>
+    <ID>218</ID>
+    <Name>TAMIL GENERAL ENTERTAINMENT</Name>
+  </Channels>
+  <Channels>
+    <ID>219</ID>
+    <Name>SAHARA SAMAY NATIONAL</Name>
+  </Channels>
+  <Channels>
+    <ID>22</ID>
+    <Name>DD4 MALAYALAM</Name>
+  </Channels>
+  <Channels>
+    <ID>220</ID>
+    <Name>SAHARA SAMAY (UP)</Name>
+  </Channels>
+  <Channels>
+    <ID>221</ID>
+    <Name>NDTV 24x7</Name>
+  </Channels>
+  <Channels>
+    <ID>222</ID>
+    <Name>NDTV INDIA</Name>
+  </Channels>
+  <Channels>
+    <ID>223</ID>
+    <Name>HEADLINES TODAY</Name>
+  </Channels>
+  <Channels>
+    <ID>224</ID>
+    <Name>ACTION TV</Name>
+  </Channels>
+  <Channels>
+    <ID>225</ID>
+    <Name>REMO TV</Name>
+  </Channels>
+  <Channels>
+    <ID>226</ID>
+    <Name>ARY DIGITAL</Name>
+  </Channels>
+  <Channels>
+    <ID>227</ID>
+    <Name>SADHNA</Name>
+  </Channels>
+  <Channels>
+    <ID>228</ID>
+    <Name>ZEE TRENDZ</Name>
+  </Channels>
+  <Channels>
+    <ID>229</ID>
+    <Name>SURYAN FM</Name>
+  </Channels>
+  <Channels>
+    <ID>23</ID>
+    <Name>DD5 PODHIGAI (TAMIL)</Name>
+  </Channels>
+  <Channels>
+    <ID>230</ID>
+    <Name>VISSA</Name>
+  </Channels>
+  <Channels>
+    <ID>231</ID>
+    <Name>RAJ MUSIX</Name>
+  </Channels>
+  <Channels>
+    <ID>232</ID>
+    <Name>UNI PLUS MUSIC</Name>
+  </Channels>
+  <Channels>
+    <ID>233</ID>
+    <Name>MH1</Name>
+  </Channels>
+  <Channels>
+    <ID>234</ID>
+    <Name>INDIAVISION</Name>
+  </Channels>
+  <Channels>
+    <ID>235</ID>
+    <Name>SAHARA SAMAY MP</Name>
+  </Channels>
+  <Channels>
+    <ID>236</ID>
+    <Name>SAHARA SAMAY MUMBAI</Name>
+  </Channels>
+  <Channels>
+    <ID>237</ID>
+    <Name>AHIMSA</Name>
+  </Channels>
+  <Channels>
+    <ID>238</ID>
+    <Name>SUR SANGEET</Name>
+  </Channels>
+  <Channels>
+    <ID>239</ID>
+    <Name>HISTORY</Name>
+  </Channels>
+  <Channels>
+    <ID>24</ID>
+    <Name>DD6 ORIYA</Name>
+  </Channels>
+  <Channels>
+    <ID>240</ID>
+    <Name>ETV2 TELUGU NEWS</Name>
+  </Channels>
+  <Channels>
+    <ID>241</ID>
+    <Name>POGO</Name>
+  </Channels>
+  <Channels>
+    <ID>242</ID>
+    <Name>TV9 TELUGU NEWS</Name>
+  </Channels>
+  <Channels>
+    <ID>243</ID>
+    <Name>INDIA VISION ENT</Name>
+  </Channels>
+  <Channels>
+    <ID>244</ID>
+    <Name>ZEE JAAGRAN</Name>
+  </Channels>
+  <Channels>
+    <ID>245</ID>
+    <Name>7 STAR CARE</Name>
+  </Channels>
+  <Channels>
+    <ID>246</ID>
+    <Name>TBN TV</Name>
+  </Channels>
+  <Channels>
+    <ID>247</ID>
+    <Name>QTV</Name>
+  </Channels>
+  <Channels>
+    <ID>248</ID>
+    <Name>NEPAL ONE</Name>
+  </Channels>
+  <Channels>
+    <ID>249</ID>
+    <Name>CTV</Name>
+  </Channels>
+  <Channels>
+    <ID>25</ID>
+    <Name>DD7 BANGLA</Name>
+  </Channels>
+  <Channels>
+    <ID>250</ID>
+    <Name>STAR UTSAV</Name>
+  </Channels>
+  <Channels>
+    <ID>251</ID>
+    <Name>INDIA TV</Name>
+  </Channels>
+  <Channels>
+    <ID>252</ID>
+    <Name>KTN</Name>
+  </Channels>
+  <Channels>
+    <ID>253</ID>
+    <Name>ZEE SMILE</Name>
+  </Channels>
+  <Channels>
+    <ID>254</ID>
+    <Name>TVC  ONLINE</Name>
+  </Channels>
+  <Channels>
+    <ID>255</ID>
+    <Name>ZEE PREMIER</Name>
+  </Channels>
+  <Channels>
+    <ID>256</ID>
+    <Name>ZEE ACTION</Name>
+  </Channels>
+  <Channels>
+    <ID>257</ID>
+    <Name>ZEE CLASSIC</Name>
+  </Channels>
+  <Channels>
+    <ID>258</ID>
+    <Name>TAAZA TV</Name>
+  </Channels>
+  <Channels>
+    <ID>259</ID>
+    <Name>CINE WORLD</Name>
+  </Channels>
+  <Channels>
+    <ID>26</ID>
+    <Name>DD8 TELUGU</Name>
+  </Channels>
+  <Channels>
+    <ID>260</ID>
+    <Name>WIN TV KANNADA</Name>
+  </Channels>
+  <Channels>
+    <ID>261</ID>
+    <Name>ANIMAX</Name>
+  </Channels>
+  <Channels>
+    <ID>262</ID>
+    <Name>GEMINI NEWS</Name>
+  </Channels>
+  <Channels>
+    <ID>263</ID>
+    <Name>DD GYAN DARSHAN</Name>
+  </Channels>
+  <Channels>
+    <ID>264</ID>
+    <Name>AASTHA INTERNATIONAL</Name>
+  </Channels>
+  <Channels>
+    <ID>265</ID>
+    <Name>HUNGAMA TV</Name>
+  </Channels>
+  <Channels>
+    <ID>266</ID>
+    <Name>ZOOM</Name>
+  </Channels>
+  <Channels>
+    <ID>267</ID>
+    <Name>DISCOVERY TRAVEL &amp; LIVING</Name>
+  </Channels>
+  <Channels>
+    <ID>268</ID>
+    <Name>ZEE TELUGU</Name>
+  </Channels>
+  <Channels>
+    <ID>269</ID>
+    <Name>STAR ONE</Name>
+  </Channels>
+  <Channels>
+    <ID>27</ID>
+    <Name>DD9 CHANDANA (KANNADA)</Name>
+  </Channels>
+  <Channels>
+    <ID>270</ID>
+    <Name>MX</Name>
+  </Channels>
+  <Channels>
+    <ID>271</ID>
+    <Name>TRACE</Name>
+  </Channels>
+  <Channels>
+    <ID>272</ID>
+    <Name>POCCAR</Name>
+  </Channels>
+  <Channels>
+    <ID>273</ID>
+    <Name>ZEE BUSINESS</Name>
+  </Channels>
+  <Channels>
+    <ID>274</ID>
+    <Name>TOON DISNEY</Name>
+  </Channels>
+  <Channels>
+    <ID>275</ID>
+    <Name>DISNEY CHANNEL</Name>
+  </Channels>
+  <Channels>
+    <ID>276</ID>
+    <Name>LOKSABHA TV</Name>
+  </Channels>
+  <Channels>
+    <ID>277</ID>
+    <Name>DD RAJYASABHA</Name>
+  </Channels>
+  <Channels>
+    <ID>278</ID>
+    <Name>4M</Name>
+  </Channels>
+  <Channels>
+    <ID>279</ID>
+    <Name>AWAAZ</Name>
+  </Channels>
+  <Channels>
+    <ID>28</ID>
+    <Name>DD10 SAHYADRA (MARATHI)</Name>
+  </Channels>
+  <Channels>
+    <ID>280</ID>
+    <Name>NDTV PROFIT</Name>
+  </Channels>
+  <Channels>
+    <ID>281</ID>
+    <Name>KIRAN TV</Name>
+  </Channels>
+  <Channels>
+    <ID>282</ID>
+    <Name>VH1</Name>
+  </Channels>
+  <Channels>
+    <ID>283</ID>
+    <Name>SAHARA SAMAY BIHAR</Name>
+  </Channels>
+  <Channels>
+    <ID>284</ID>
+    <Name>TARA MUZIK</Name>
+  </Channels>
+  <Channels>
+    <ID>285</ID>
+    <Name>TARA NEWZ</Name>
+  </Channels>
+  <Channels>
+    <ID>286</ID>
+    <Name>LIVING ASIA</Name>
+  </Channels>
+  <Channels>
+    <ID>287</ID>
+    <Name>SUN MUSIC</Name>
+  </Channels>
+  <Channels>
+    <ID>288</ID>
+    <Name>TOTAL TV</Name>
+  </Channels>
+  <Channels>
+    <ID>289</ID>
+    <Name>JHANKAR TV</Name>
+  </Channels>
+  <Channels>
+    <ID>29</ID>
+    <Name>DD11 GUJARATI</Name>
+  </Channels>
+  <Channels>
+    <ID>290</ID>
+    <Name>CHANNEL NEPAL</Name>
+  </Channels>
+  <Channels>
+    <ID>291</ID>
+    <Name>SAHARA SAMAY NCR</Name>
+  </Channels>
+  <Channels>
+    <ID>292</ID>
+    <Name>NEW TV</Name>
+  </Channels>
+  <Channels>
+    <ID>293</ID>
+    <Name>TCT WORLD</Name>
+  </Channels>
+  <Channels>
+    <ID>294</ID>
+    <Name>CT BUZZ</Name>
+  </Channels>
+  <Channels>
+    <ID>295</ID>
+    <Name>AMRITHA TV</Name>
+  </Channels>
+  <Channels>
+    <ID>296</ID>
+    <Name>IBN 7</Name>
+  </Channels>
+  <Channels>
+    <ID>297</ID>
+    <Name>CTV MUMBAI</Name>
+  </Channels>
+  <Channels>
+    <ID>298</ID>
+    <Name>GEMINI MUSIC</Name>
+  </Channels>
+  <Channels>
+    <ID>299</ID>
+    <Name>PLAY TV</Name>
+  </Channels>
+  <Channels>
+    <ID>3</ID>
+    <Name>ZEE TV</Name>
+  </Channels>
+  <Channels>
+    <ID>30</ID>
+    <Name>DD12 KASHMIRI</Name>
+  </Channels>
+  <Channels>
+    <ID>300</ID>
+    <Name>SHALOM</Name>
+  </Channels>
+  <Channels>
+    <ID>301</ID>
+    <Name>TAMIL THIRAI</Name>
+  </Channels>
+  <Channels>
+    <ID>302</ID>
+    <Name>WORLD ROOM TRAVEL</Name>
+  </Channels>
+  <Channels>
+    <ID>303</ID>
+    <Name>SANGEET BANGLA</Name>
+  </Channels>
+  <Channels>
+    <ID>304</ID>
+    <Name>EWTN</Name>
+  </Channels>
+  <Channels>
+    <ID>305</ID>
+    <Name>ZEE SPORTS</Name>
+  </Channels>
+  <Channels>
+    <ID>306</ID>
+    <Name>ABP ANANDA</Name>
+  </Channels>
+  <Channels>
+    <ID>307</ID>
+    <Name>B MUSIC</Name>
+  </Channels>
+  <Channels>
+    <ID>308</ID>
+    <Name>DISH TV INTERACTIVE</Name>
+  </Channels>
+  <Channels>
+    <ID>309</ID>
+    <Name>ASIANET PLUS</Name>
+  </Channels>
+  <Channels>
+    <ID>31</ID>
+    <Name>DD13 ASSAMESE/NORTH EAST SERVICES</Name>
+  </Channels>
+  <Channels>
+    <ID>310</ID>
+    <Name>DAN TAMIL OLI</Name>
+  </Channels>
+  <Channels>
+    <ID>311</ID>
+    <Name>G MUSIC</Name>
+  </Channels>
+  <Channels>
+    <ID>312</ID>
+    <Name>THE MUSIK</Name>
+  </Channels>
+  <Channels>
+    <ID>313</ID>
+    <Name>DAY STAR</Name>
+  </Channels>
+  <Channels>
+    <ID>314</ID>
+    <Name>S1</Name>
+  </Channels>
+  <Channels>
+    <ID>315</ID>
+    <Name>PEOPLE</Name>
+  </Channels>
+  <Channels>
+    <ID>316</ID>
+    <Name>TEZ</Name>
+  </Channels>
+  <Channels>
+    <ID>317</ID>
+    <Name>DAN MUSIC</Name>
+  </Channels>
+  <Channels>
+    <ID>318</ID>
+    <Name>DAN CINEMA</Name>
+  </Channels>
+  <Channels>
+    <ID>319</ID>
+    <Name>LIVE INDIA</Name>
+  </Channels>
+  <Channels>
+    <ID>320</ID>
+    <Name>TARA INTERNATIONAL</Name>
+  </Channels>
+  <Channels>
+    <ID>321</ID>
+    <Name>RUNG TV</Name>
+  </Channels>
+  <Channels>
+    <ID>322</ID>
+    <Name>SINDH TV</Name>
+  </Channels>
+  <Channels>
+    <ID>323</ID>
+    <Name>WORLD FASHION</Name>
+  </Channels>
+  <Channels>
+    <ID>324</ID>
+    <Name>SHAKTI</Name>
+  </Channels>
+  <Channels>
+    <ID>325</ID>
+    <Name>CCTV9</Name>
+  </Channels>
+  <Channels>
+    <ID>326</ID>
+    <Name>KITAB TV</Name>
+  </Channels>
+  <Channels>
+    <ID>327</ID>
+    <Name>RUPOSHI BANGLA</Name>
+  </Channels>
+  <Channels>
+    <ID>328</ID>
+    <Name>ZEE ARABIA</Name>
+  </Channels>
+  <Channels>
+    <ID>329</ID>
+    <Name>CHANNEL 1</Name>
+  </Channels>
+  <Channels>
+    <ID>33</ID>
+    <Name>DD INDIA</Name>
+  </Channels>
+  <Channels>
+    <ID>330</ID>
+    <Name>BTV WORLD</Name>
+  </Channels>
+  <Channels>
+    <ID>331</ID>
+    <Name>NTV BANGLADESH</Name>
+  </Channels>
+  <Channels>
+    <ID>332</ID>
+    <Name>CNN IBN</Name>
+  </Channels>
+  <Channels>
+    <ID>333</ID>
+    <Name>BLESSINGS</Name>
+  </Channels>
+  <Channels>
+    <ID>334</ID>
+    <Name>FE TV</Name>
+  </Channels>
+  <Channels>
+    <ID>335</ID>
+    <Name>SUDDARSHAN</Name>
+  </Channels>
+  <Channels>
+    <ID>336</ID>
+    <Name>NEWS TODAY</Name>
+  </Channels>
+  <Channels>
+    <ID>337</ID>
+    <Name>TIMES NOW</Name>
+  </Channels>
+  <Channels>
+    <ID>338</ID>
+    <Name>ANGEL TV</Name>
+  </Channels>
+  <Channels>
+    <ID>339</ID>
+    <Name>FILMI</Name>
+  </Channels>
+  <Channels>
+    <ID>34</ID>
+    <Name>ZEE CINEMA</Name>
+  </Channels>
+  <Channels>
+    <ID>340</ID>
+    <Name>YO MUSIC</Name>
+  </Channels>
+  <Channels>
+    <ID>341</ID>
+    <Name>PEACE</Name>
+  </Channels>
+  <Channels>
+    <ID>342</ID>
+    <Name>U2</Name>
+  </Channels>
+  <Channels>
+    <ID>343</ID>
+    <Name>REAL MADRID TV</Name>
+  </Channels>
+  <Channels>
+    <ID>344</ID>
+    <Name>GEO TV</Name>
+  </Channels>
+  <Channels>
+    <ID>345</ID>
+    <Name>EURO SPORTS</Name>
+  </Channels>
+  <Channels>
+    <ID>346</ID>
+    <Name>PUNJAB TV</Name>
+  </Channels>
+  <Channels>
+    <ID>347</ID>
+    <Name>VOYAGER TV</Name>
+  </Channels>
+  <Channels>
+    <ID>348</ID>
+    <Name>DAN NEWS</Name>
+  </Channels>
+  <Channels>
+    <ID>349</ID>
+    <Name>SR TV</Name>
+  </Channels>
+  <Channels>
+    <ID>35</ID>
+    <Name>HOME TV</Name>
+  </Channels>
+  <Channels>
+    <ID>350</ID>
+    <Name>KOLKATA TV</Name>
+  </Channels>
+  <Channels>
+    <ID>351</ID>
+    <Name>SUR SANGEET 2</Name>
+  </Channels>
+  <Channels>
+    <ID>352</ID>
+    <Name>24 GHANTA TV</Name>
+  </Channels>
+  <Channels>
+    <ID>353</ID>
+    <Name>IMAYAM</Name>
+  </Channels>
+  <Channels>
+    <ID>354</ID>
+    <Name>PIX</Name>
+  </Channels>
+  <Channels>
+    <ID>355</ID>
+    <Name>MGM</Name>
+  </Channels>
+  <Channels>
+    <ID>356</ID>
+    <Name>ZEE KANNADA</Name>
+  </Channels>
+  <Channels>
+    <ID>357</ID>
+    <Name>BHAARATH TV</Name>
+  </Channels>
+  <Channels>
+    <ID>358</ID>
+    <Name>MBC2</Name>
+  </Channels>
+  <Channels>
+    <ID>359</ID>
+    <Name>MBC4</Name>
+  </Channels>
+  <Channels>
+    <ID>36</ID>
+    <Name>ZEE MUSIC</Name>
+  </Channels>
+  <Channels>
+    <ID>360</ID>
+    <Name>ONE TV</Name>
+  </Channels>
+  <Channels>
+    <ID>361</ID>
+    <Name>DILLI AAJ TAK</Name>
+  </Channels>
+  <Channels>
+    <ID>362</ID>
+    <Name>POWER VISION TV</Name>
+  </Channels>
+  <Channels>
+    <ID>363</ID>
+    <Name>ERA CHANNEL</Name>
+  </Channels>
+  <Channels>
+    <ID>364</ID>
+    <Name>MBC3</Name>
+  </Channels>
+  <Channels>
+    <ID>365</ID>
+    <Name>NRI</Name>
+  </Channels>
+  <Channels>
+    <ID>366</ID>
+    <Name>MUSIC INDIA</Name>
+  </Channels>
+  <Channels>
+    <ID>367</ID>
+    <Name>DD URDU</Name>
+  </Channels>
+  <Channels>
+    <ID>368</ID>
+    <Name>MANORAMA NEWS</Name>
+  </Channels>
+  <Channels>
+    <ID>369</ID>
+    <Name>MAKKAL TV</Name>
+  </Channels>
+  <Channels>
+    <ID>37</ID>
+    <Name>ZEE BANGLA</Name>
+  </Channels>
+  <Channels>
+    <ID>370</ID>
+    <Name>NE HI FI</Name>
+  </Channels>
+  <Channels>
+    <ID>371</ID>
+    <Name>ISLAM CHANNEL</Name>
+  </Channels>
+  <Channels>
+    <ID>372</ID>
+    <Name>AUSTRALIA NETWORK</Name>
+  </Channels>
+  <Channels>
+    <ID>373</ID>
+    <Name>VCRP TVM5</Name>
+  </Channels>
+  <Channels>
+    <ID>374</ID>
+    <Name>NEO SPORTS</Name>
+  </Channels>
+  <Channels>
+    <ID>375</ID>
+    <Name>SATSANG</Name>
+  </Channels>
+  <Channels>
+    <ID>376</ID>
+    <Name>CTVN AKD PLUS</Name>
+  </Channels>
+  <Channels>
+    <ID>378</ID>
+    <Name>NEO SPORTS PLUS</Name>
+  </Channels>
+  <Channels>
+    <ID>379</ID>
+    <Name>TV9 KARNATAKA</Name>
+  </Channels>
+  <Channels>
+    <ID>38</ID>
+    <Name>CVO</Name>
+  </Channels>
+  <Channels>
+    <ID>380</ID>
+    <Name>ENTERR10</Name>
+  </Channels>
+  <Channels>
+    <ID>381</ID>
+    <Name>OTV</Name>
+  </Channels>
+  <Channels>
+    <ID>383</ID>
+    <Name>RADIO</Name>
+  </Channels>
+  <Channels>
+    <ID>384</ID>
+    <Name>VIDEO ON DEMAND</Name>
+  </Channels>
+  <Channels>
+    <ID>385</ID>
+    <Name>NEWS TIME</Name>
+  </Channels>
+  <Channels>
+    <ID>386</ID>
+    <Name>ARADHANA</Name>
+  </Channels>
+  <Channels>
+    <ID>387</ID>
+    <Name>VIBE TV</Name>
+  </Channels>
+  <Channels>
+    <ID>388</ID>
+    <Name>PTC NEWS</Name>
+  </Channels>
+  <Channels>
+    <ID>389</ID>
+    <Name>CHANNEL NO 1</Name>
+  </Channels>
+  <Channels>
+    <ID>39</ID>
+    <Name>CARTOON NETWORK</Name>
+  </Channels>
+  <Channels>
+    <ID>390</ID>
+    <Name>ZEE 24 TAAS</Name>
+  </Channels>
+  <Channels>
+    <ID>391</ID>
+    <Name>AASIRVATHAM</Name>
+  </Channels>
+  <Channels>
+    <ID>392</ID>
+    <Name>NE TV</Name>
+  </Channels>
+  <Channels>
+    <ID>393</ID>
+    <Name>HUM TV</Name>
+  </Channels>
+  <Channels>
+    <ID>394</ID>
+    <Name>LIFE &amp; STYLE</Name>
+  </Channels>
+  <Channels>
+    <ID>395</ID>
+    <Name>PURVA TV</Name>
+  </Channels>
+  <Channels>
+    <ID>396</ID>
+    <Name>MI MARATHI</Name>
+  </Channels>
+  <Channels>
+    <ID>397</ID>
+    <Name>JHANKARR MOVIES</Name>
+  </Channels>
+  <Channels>
+    <ID>398</ID>
+    <Name>LEMON</Name>
+  </Channels>
+  <Channels>
+    <ID>399</ID>
+    <Name>UJALA</Name>
+  </Channels>
+  <Channels>
+    <ID>4</ID>
+    <Name>STAR PLUS</Name>
+  </Channels>
+  <Channels>
+    <ID>40</ID>
+    <Name>JAYA TV</Name>
+  </Channels>
+  <Channels>
+    <ID>400</ID>
+    <Name>MH1 SHRADDHA</Name>
+  </Channels>
+  <Channels>
+    <ID>401</ID>
+    <Name>PBC TV</Name>
+  </Channels>
+  <Channels>
+    <ID>402</ID>
+    <Name>WE</Name>
+  </Channels>
+  <Channels>
+    <ID>403</ID>
+    <Name>CHUTTI TV</Name>
+  </Channels>
+  <Channels>
+    <ID>404</ID>
+    <Name>CBEEBIES</Name>
+  </Channels>
+  <Channels>
+    <ID>405</ID>
+    <Name>BBC ENTERTAINMENT</Name>
+  </Channels>
+  <Channels>
+    <ID>406</ID>
+    <Name>ASIANET SUVARNA</Name>
+  </Channels>
+  <Channels>
+    <ID>408</ID>
+    <Name>ABP MAZA</Name>
+  </Channels>
+  <Channels>
+    <ID>409</ID>
+    <Name>MH1 NEWS</Name>
+  </Channels>
+  <Channels>
+    <ID>41</ID>
+    <Name>SAUDI TV</Name>
+  </Channels>
+  <Channels>
+    <ID>410</ID>
+    <Name>STAR CRICKET</Name>
+  </Channels>
+  <Channels>
+    <ID>411</ID>
+    <Name>JOO MUSIC</Name>
+  </Channels>
+  <Channels>
+    <ID>412</ID>
+    <Name>STANDARD WORLD</Name>
+  </Channels>
+  <Channels>
+    <ID>413</ID>
+    <Name>TV100</Name>
+  </Channels>
+  <Channels>
+    <ID>414</ID>
+    <Name>NE NEWS</Name>
+  </Channels>
+  <Channels>
+    <ID>415</ID>
+    <Name>NE BANGLA</Name>
+  </Channels>
+  <Channels>
+    <ID>416</ID>
+    <Name>JAIHIND TV</Name>
+  </Channels>
+  <Channels>
+    <ID>417</ID>
+    <Name>SANSKRUTHI</Name>
+  </Channels>
+  <Channels>
+    <ID>418</ID>
+    <Name>ZEE TALKIES</Name>
+  </Channels>
+  <Channels>
+    <ID>419</ID>
+    <Name>KASHISH TV</Name>
+  </Channels>
+  <Channels>
+    <ID>42</ID>
+    <Name>DUBAI TV</Name>
+  </Channels>
+  <Channels>
+    <ID>420</ID>
+    <Name>NTV NEWS</Name>
+  </Channels>
+  <Channels>
+    <ID>421</ID>
+    <Name>BHAKTI TV</Name>
+  </Channels>
+  <Channels>
+    <ID>422</ID>
+    <Name>NDTV GOOD TIMES</Name>
+  </Channels>
+  <Channels>
+    <ID>423</ID>
+    <Name>BINDASS</Name>
+  </Channels>
+  <Channels>
+    <ID>424</ID>
+    <Name>KALAIGNAR TV</Name>
+  </Channels>
+  <Channels>
+    <ID>425</ID>
+    <Name>NDTV METRONATION</Name>
+  </Channels>
+  <Channels>
+    <ID>426</ID>
+    <Name>BINDASS MOVIES</Name>
+  </Channels>
+  <Channels>
+    <ID>427</ID>
+    <Name>KASTURI</Name>
+  </Channels>
+  <Channels>
+    <ID>428</ID>
+    <Name>TIME TV</Name>
+  </Channels>
+  <Channels>
+    <ID>429</ID>
+    <Name>SILVER SCREEN</Name>
+  </Channels>
+  <Channels>
+    <ID>430</ID>
+    <Name>TV5 NEWS</Name>
+  </Channels>
+  <Channels>
+    <ID>431</ID>
+    <Name>9X MUSIC</Name>
+  </Channels>
+  <Channels>
+    <ID>432</ID>
+    <Name>MANORANJAN TV</Name>
+  </Channels>
+  <Channels>
+    <ID>433</ID>
+    <Name>9X ENTERTAINMENT</Name>
+  </Channels>
+  <Channels>
+    <ID>434</ID>
+    <Name>DHALIWAL ENT</Name>
+  </Channels>
+  <Channels>
+    <ID>435</ID>
+    <Name>MEGA TV</Name>
+  </Channels>
+  <Channels>
+    <ID>436</ID>
+    <Name>PRAGYA TV</Name>
+  </Channels>
+  <Channels>
+    <ID>437</ID>
+    <Name>SUBHAVARTHA</Name>
+  </Channels>
+  <Channels>
+    <ID>438</ID>
+    <Name>JAYA PLUS</Name>
+  </Channels>
+  <Channels>
+    <ID>439</ID>
+    <Name>JAYA MAX</Name>
+  </Channels>
+  <Channels>
+    <ID>44</ID>
+    <Name>CNBC TV18</Name>
+  </Channels>
+  <Channels>
+    <ID>440</ID>
+    <Name>NEWS 24</Name>
+  </Channels>
+  <Channels>
+    <ID>441</ID>
+    <Name>CHANNEL 8 TALKIES</Name>
+  </Channels>
+  <Channels>
+    <ID>442</ID>
+    <Name>ZEE NEXT</Name>
+  </Channels>
+  <Channels>
+    <ID>443</ID>
+    <Name>NEPAL TV</Name>
+  </Channels>
+  <Channels>
+    <ID>444</ID>
+    <Name>STV HARYANA</Name>
+  </Channels>
+  <Channels>
+    <ID>445</ID>
+    <Name>YES INDIAVISION</Name>
+  </Channels>
+  <Channels>
+    <ID>446</ID>
+    <Name>REAL ESTATE</Name>
+  </Channels>
+  <Channels>
+    <ID>447</ID>
+    <Name>AZAD NEWS</Name>
+  </Channels>
+  <Channels>
+    <ID>448</ID>
+    <Name>ISAIYARUVI</Name>
+  </Channels>
+  <Channels>
+    <ID>449</ID>
+    <Name>NDTV IMAGINE</Name>
+  </Channels>
+  <Channels>
+    <ID>450</ID>
+    <Name>TV9 GUJRATI</Name>
+  </Channels>
+  <Channels>
+    <ID>451</ID>
+    <Name>WORLD MOVIES</Name>
+  </Channels>
+  <Channels>
+    <ID>452</ID>
+    <Name>UTV MOVIES</Name>
+  </Channels>
+  <Channels>
+    <ID>453</ID>
+    <Name>FIRANGI</Name>
+  </Channels>
+  <Channels>
+    <ID>454</ID>
+    <Name>HARIYALI TV</Name>
+  </Channels>
+  <Channels>
+    <ID>455</ID>
+    <Name>SPACE HOME &amp; WORLD</Name>
+  </Channels>
+  <Channels>
+    <ID>456</ID>
+    <Name>NEWS X</Name>
+  </Channels>
+  <Channels>
+    <ID>457</ID>
+    <Name>E 24</Name>
+  </Channels>
+  <Channels>
+    <ID>458</ID>
+    <Name>INDIA NEWS</Name>
+  </Channels>
+  <Channels>
+    <ID>459</ID>
+    <Name>SUVARNA NEWS</Name>
+  </Channels>
+  <Channels>
+    <ID>46</ID>
+    <Name>IN MUMBAI</Name>
+  </Channels>
+  <Channels>
+    <ID>460</ID>
+    <Name>IBN LOKMAT</Name>
+  </Channels>
+  <Channels>
+    <ID>461</ID>
+    <Name>HOME SHOP</Name>
+  </Channels>
+  <Channels>
+    <ID>462</ID>
+    <Name>NEO CRICKET</Name>
+  </Channels>
+  <Channels>
+    <ID>463</ID>
+    <Name>TV SOUTHASIA</Name>
+  </Channels>
+  <Channels>
+    <ID>464</ID>
+    <Name>UTV I</Name>
+  </Channels>
+  <Channels>
+    <ID>465</ID>
+    <Name>AASHIRWAD</Name>
+  </Channels>
+  <Channels>
+    <ID>466</ID>
+    <Name>RAJ NEWS 24x7</Name>
+  </Channels>
+  <Channels>
+    <ID>467</ID>
+    <Name>VASANT</Name>
+  </Channels>
+  <Channels>
+    <ID>468</ID>
+    <Name>OM TV</Name>
+  </Channels>
+  <Channels>
+    <ID>469</ID>
+    <Name>NEWS LIVE</Name>
+  </Channels>
+  <Channels>
+    <ID>47</ID>
+    <Name>TVI</Name>
+  </Channels>
+  <Channels>
+    <ID>470</ID>
+    <Name>NATIONAL GEOGRAPHIC WILD</Name>
+  </Channels>
+  <Channels>
+    <ID>471</ID>
+    <Name>CAREER TV</Name>
+  </Channels>
+  <Channels>
+    <ID>472</ID>
+    <Name>CNEB</Name>
+  </Channels>
+  <Channels>
+    <ID>473</ID>
+    <Name>MAA MUSIC</Name>
+  </Channels>
+  <Channels>
+    <ID>474</ID>
+    <Name>VOICE OF INDIA</Name>
+  </Channels>
+  <Channels>
+    <ID>475</ID>
+    <Name>JUST TV PUNJABI</Name>
+  </Channels>
+  <Channels>
+    <ID>476</ID>
+    <Name>SRI VENKATESHWARA BHAKTI</Name>
+  </Channels>
+  <Channels>
+    <ID>477</ID>
+    <Name>SANGEET BHOJPURI</Name>
+  </Channels>
+  <Channels>
+    <ID>478</ID>
+    <Name>STARLITE TV</Name>
+  </Channels>
+  <Channels>
+    <ID>479</ID>
+    <Name>COLORS</Name>
+  </Channels>
+  <Channels>
+    <ID>480</ID>
+    <Name>SADHNA NEWS MP</Name>
+  </Channels>
+  <Channels>
+    <ID>481</ID>
+    <Name>SPACE TOON</Name>
+  </Channels>
+  <Channels>
+    <ID>482</ID>
+    <Name>PURVA MAGIC</Name>
+  </Channels>
+  <Channels>
+    <ID>483</ID>
+    <Name>R-PLUS</Name>
+  </Channels>
+  <Channels>
+    <ID>484</ID>
+    <Name>MAHUA TV</Name>
+  </Channels>
+  <Channels>
+    <ID>485</ID>
+    <Name>SAAM TV</Name>
+  </Channels>
+  <Channels>
+    <ID>486</ID>
+    <Name>IMAGINE SHOWBIZ</Name>
+  </Channels>
+  <Channels>
+    <ID>487</ID>
+    <Name>PTC PUNJABI</Name>
+  </Channels>
+  <Channels>
+    <ID>488</ID>
+    <Name>COMEDY THIRAI</Name>
+  </Channels>
+  <Channels>
+    <ID>489</ID>
+    <Name>STAR JALSHA</Name>
+  </Channels>
+  <Channels>
+    <ID>49</ID>
+    <Name>DISCOVERY</Name>
+  </Channels>
+  <Channels>
+    <ID>490</ID>
+    <Name>NAWULA TERA</Name>
+  </Channels>
+  <Channels>
+    <ID>491</ID>
+    <Name>HASYA TERE</Name>
+  </Channels>
+  <Channels>
+    <ID>492</ID>
+    <Name>VOICE OF INDIA MP &amp; CG</Name>
+  </Channels>
+  <Channels>
+    <ID>493</ID>
+    <Name>VOICE OF INDIA RAJASTHAN</Name>
+  </Channels>
+  <Channels>
+    <ID>494</ID>
+    <Name>CHIRI THIRA</Name>
+  </Channels>
+  <Channels>
+    <ID>495</ID>
+    <Name>ZEE 24 GHANTE MP &amp; CG</Name>
+  </Channels>
+  <Channels>
+    <ID>496</ID>
+    <Name>SITARA TV</Name>
+  </Channels>
+  <Channels>
+    <ID>497</ID>
+    <Name>VANITHA TV</Name>
+  </Channels>
+  <Channels>
+    <ID>498</ID>
+    <Name>CHANNEL 10</Name>
+  </Channels>
+  <Channels>
+    <ID>499</ID>
+    <Name>ZEE TAMIZH</Name>
+  </Channels>
+  <Channels>
+    <ID>5</ID>
+    <Name>BBC WORLD</Name>
+  </Channels>
+  <Channels>
+    <ID>50</ID>
+    <Name>JAIN TV</Name>
+  </Channels>
+  <Channels>
+    <ID>500</ID>
+    <Name>NDTV LUMIERE</Name>
+  </Channels>
+  <Channels>
+    <ID>501</ID>
+    <Name>STANDARD WORLD MP AND CG</Name>
+  </Channels>
+  <Channels>
+    <ID>502</ID>
+    <Name>TARANG</Name>
+  </Channels>
+  <Channels>
+    <ID>503</ID>
+    <Name>Star Pravah</Name>
+  </Channels>
+  <Channels>
+    <ID>504</ID>
+    <Name>SEITHIGAL</Name>
+  </Channels>
+  <Channels>
+    <ID>505</ID>
+    <Name>DIVYA</Name>
+  </Channels>
+  <Channels>
+    <ID>506</ID>
+    <Name>TV9 MUMBAI</Name>
+  </Channels>
+  <Channels>
+    <ID>507</ID>
+    <Name>Sri Sankara</Name>
+  </Channels>
+  <Channels>
+    <ID>508</ID>
+    <Name>Jan Sandesh</Name>
+  </Channels>
+  <Channels>
+    <ID>509</ID>
+    <Name>DY365</Name>
+  </Channels>
+  <Channels>
+    <ID>51</ID>
+    <Name>SKAI TV</Name>
+  </Channels>
+  <Channels>
+    <ID>510</ID>
+    <Name>365 DIN</Name>
+  </Channels>
+  <Channels>
+    <ID>511</ID>
+    <Name>RTV TELUGU</Name>
+  </Channels>
+  <Channels>
+    <ID>512</ID>
+    <Name>NEWS 9</Name>
+  </Channels>
+  <Channels>
+    <ID>513</ID>
+    <Name>LEHREN</Name>
+  </Channels>
+  <Channels>
+    <ID>514</ID>
+    <Name>Raj Musix Kannada</Name>
+  </Channels>
+  <Channels>
+    <ID>515</ID>
+    <Name>Love Music</Name>
+  </Channels>
+  <Channels>
+    <ID>516</ID>
+    <Name>Adithya TV</Name>
+  </Channels>
+  <Channels>
+    <ID>517</ID>
+    <Name>TV 1</Name>
+  </Channels>
+  <Channels>
+    <ID>518</ID>
+    <Name>I News</Name>
+  </Channels>
+  <Channels>
+    <ID>519</ID>
+    <Name>HM TV</Name>
+  </Channels>
+  <Channels>
+    <ID>52</ID>
+    <Name>GEMINI TV</Name>
+  </Channels>
+  <Channels>
+    <ID>520</ID>
+    <Name>V o I UP</Name>
+  </Channels>
+  <Channels>
+    <ID>521</ID>
+    <Name>Siripoli</Name>
+  </Channels>
+  <Channels>
+    <ID>522</ID>
+    <Name>V o I PHHP</Name>
+  </Channels>
+  <Channels>
+    <ID>523</ID>
+    <Name>Sakshi TV</Name>
+  </Channels>
+  <Channels>
+    <ID>524</ID>
+    <Name>Mahuaa News</Name>
+  </Channels>
+  <Channels>
+    <ID>525</ID>
+    <Name>Real</Name>
+  </Channels>
+  <Channels>
+    <ID>526</ID>
+    <Name>Focus TV</Name>
+  </Channels>
+  <Channels>
+    <ID>527</ID>
+    <Name>Hamar TV</Name>
+  </Channels>
+  <Channels>
+    <ID>528</ID>
+    <Name>WB</Name>
+  </Channels>
+  <Channels>
+    <ID>529</ID>
+    <Name>HY TV</Name>
+  </Channels>
+  <Channels>
+    <ID>53</ID>
+    <Name>VIJAY TV</Name>
+  </Channels>
+  <Channels>
+    <ID>530</ID>
+    <Name>PTC Chakde</Name>
+  </Channels>
+  <Channels>
+    <ID>531</ID>
+    <Name>Bizz News</Name>
+  </Channels>
+  <Channels>
+    <ID>532</ID>
+    <Name>Zee 24 Ghantalu</Name>
+  </Channels>
+  <Channels>
+    <ID>533</ID>
+    <Name>P7 news</Name>
+  </Channels>
+  <Channels>
+    <ID>534</ID>
+    <Name>Naxatra News</Name>
+  </Channels>
+  <Channels>
+    <ID>535</ID>
+    <Name>Ushe TV</Name>
+  </Channels>
+  <Channels>
+    <ID>536</ID>
+    <Name>GCV</Name>
+  </Channels>
+  <Channels>
+    <ID>537</ID>
+    <Name>Lee Music</Name>
+  </Channels>
+  <Channels>
+    <ID>538</ID>
+    <Name>Aastha Bhajan</Name>
+  </Channels>
+  <Channels>
+    <ID>539</ID>
+    <Name>Zee news Uttar Pradesh</Name>
+  </Channels>
+  <Channels>
+    <ID>54</ID>
+    <Name>CHINESE CHANNEL</Name>
+  </Channels>
+  <Channels>
+    <ID>540</ID>
+    <Name>Mahaa TV</Name>
+  </Channels>
+  <Channels>
+    <ID>541</ID>
+    <Name>Kushi TV</Name>
+  </Channels>
+  <Channels>
+    <ID>542</ID>
+    <Name>Chintu TV</Name>
+  </Channels>
+  <Channels>
+    <ID>543</ID>
+    <Name>Fox Crime</Name>
+  </Channels>
+  <Channels>
+    <ID>544</ID>
+    <Name>FX</Name>
+  </Channels>
+  <Channels>
+    <ID>545</ID>
+    <Name>Baby TV</Name>
+  </Channels>
+  <Channels>
+    <ID>546</ID>
+    <Name>Sobhagya</Name>
+  </Channels>
+  <Channels>
+    <ID>547</ID>
+    <Name>Tarang Music</Name>
+  </Channels>
+  <Channels>
+    <ID>548</ID>
+    <Name>Studio N</Name>
+  </Channels>
+  <Channels>
+    <ID>549</ID>
+    <Name>Khoj India</Name>
+  </Channels>
+  <Channels>
+    <ID>55</ID>
+    <Name>YES GUJARATI</Name>
+  </Channels>
+  <Channels>
+    <ID>550</ID>
+    <Name>Kamyab TV Oriya</Name>
+  </Channels>
+  <Channels>
+    <ID>551</ID>
+    <Name>Filmax</Name>
+  </Channels>
+  <Channels>
+    <ID>552</ID>
+    <Name>Sadhna News Bih Jharkh</Name>
+  </Channels>
+  <Channels>
+    <ID>553</ID>
+    <Name>Super Star Josh</Name>
+  </Channels>
+  <Channels>
+    <ID>554</ID>
+    <Name>ATV Telugu</Name>
+  </Channels>
+  <Channels>
+    <ID>555</ID>
+    <Name>NDTV Hindu</Name>
+  </Channels>
+  <Channels>
+    <ID>556</ID>
+    <Name>TV99 Rajasthan</Name>
+  </Channels>
+  <Channels>
+    <ID>557</ID>
+    <Name>TV-24</Name>
+  </Channels>
+  <Channels>
+    <ID>558</ID>
+    <Name>A2Z News</Name>
+  </Channels>
+  <Channels>
+    <ID>559</ID>
+    <Name>Madani Channel</Name>
+  </Channels>
+  <Channels>
+    <ID>56</ID>
+    <Name>SITI CABLE</Name>
+  </Channels>
+  <Channels>
+    <ID>560</ID>
+    <Name>Victers</Name>
+  </Channels>
+  <Channels>
+    <ID>561</ID>
+    <Name>ET Now</Name>
+  </Channels>
+  <Channels>
+    <ID>562</ID>
+    <Name>MOON TV</Name>
+  </Channels>
+  <Channels>
+    <ID>563</ID>
+    <Name>Aradana TV Telugu</Name>
+  </Channels>
+  <Channels>
+    <ID>564</ID>
+    <Name>Peace TV Urdu</Name>
+  </Channels>
+  <Channels>
+    <ID>565</ID>
+    <Name>Local TV(Only for Hyderabad)</Name>
+  </Channels>
+  <Channels>
+    <ID>566</ID>
+    <Name>Sobhagya Mithila</Name>
+  </Channels>
+  <Channels>
+    <ID>567</ID>
+    <Name>Rupashi Bangla</Name>
+  </Channels>
+  <Channels>
+    <ID>568</ID>
+    <Name>Katyayani TV</Name>
+  </Channels>
+  <Channels>
+    <ID>569</ID>
+    <Name>Kanak TV</Name>
+  </Channels>
+  <Channels>
+    <ID>571</ID>
+    <Name>Polimer TV</Name>
+  </Channels>
+  <Channels>
+    <ID>572</ID>
+    <Name>India News Haryana</Name>
+  </Channels>
+  <Channels>
+    <ID>573</ID>
+    <Name>ABN Andhra Jyothi</Name>
+  </Channels>
+  <Channels>
+    <ID>574</ID>
+    <Name>Bikas 365</Name>
+  </Channels>
+  <Channels>
+    <ID>575</ID>
+    <Name>RAFTAAR</Name>
+  </Channels>
+  <Channels>
+    <ID>576</ID>
+    <Name>Shopping Zone</Name>
+  </Channels>
+  <Channels>
+    <ID>577</ID>
+    <Name>Magik TV</Name>
+  </Channels>
+  <Channels>
+    <ID>578</ID>
+    <Name>SS Entertainment</Name>
+  </Channels>
+  <Channels>
+    <ID>579</ID>
+    <Name>Rang</Name>
+  </Channels>
+  <Channels>
+    <ID>580</ID>
+    <Name>UTV Action</Name>
+  </Channels>
+  <Channels>
+    <ID>582</ID>
+    <Name>Filmazia</Name>
+  </Channels>
+  <Channels>
+    <ID>583</ID>
+    <Name>Whats On India</Name>
+  </Channels>
+  <Channels>
+    <ID>584</ID>
+    <Name>Zee Salaam</Name>
+  </Channels>
+  <Channels>
+    <ID>585</ID>
+    <Name>Maurya</Name>
+  </Channels>
+  <Channels>
+    <ID>586</ID>
+    <Name>Discovery Science</Name>
+  </Channels>
+  <Channels>
+    <ID>587</ID>
+    <Name>Discovery Turbo</Name>
+  </Channels>
+  <Channels>
+    <ID>588</ID>
+    <Name>Time Today MP CG</Name>
+  </Channels>
+  <Channels>
+    <ID>589</ID>
+    <Name>Asianet Middle East</Name>
+  </Channels>
+  <Channels>
+    <ID>59</ID>
+    <Name>ESPN</Name>
+  </Channels>
+  <Channels>
+    <ID>590</ID>
+    <Name>Star Music</Name>
+  </Channels>
+  <Channels>
+    <ID>591</ID>
+    <Name>TBO</Name>
+  </Channels>
+  <Channels>
+    <ID>592</ID>
+    <Name>Raj News</Name>
+  </Channels>
+  <Channels>
+    <ID>593</ID>
+    <Name>India Talkies</Name>
+  </Channels>
+  <Channels>
+    <ID>594</ID>
+    <Name>Captain TV</Name>
+  </Channels>
+  <Channels>
+    <ID>595</ID>
+    <Name>Prarthana TV</Name>
+  </Channels>
+  <Channels>
+    <ID>596</ID>
+    <Name>Disha TV</Name>
+  </Channels>
+  <Channels>
+    <ID>597</ID>
+    <Name>Nilachakra Ekamra</Name>
+  </Channels>
+  <Channels>
+    <ID>598</ID>
+    <Name>News Time Bangla</Name>
+  </Channels>
+  <Channels>
+    <ID>599</ID>
+    <Name>Chithiram</Name>
+  </Channels>
+  <Channels>
+    <ID>6</ID>
+    <Name>STAR SPORTS</Name>
+  </Channels>
+  <Channels>
+    <ID>60</ID>
+    <Name>SONY ENTERTAINMENT TV</Name>
+  </Channels>
+  <Channels>
+    <ID>600</ID>
+    <Name>SAMAYA 24X7</Name>
+  </Channels>
+  <Channels>
+    <ID>601</ID>
+    <Name>CHANNEL UFX</Name>
+  </Channels>
+  <Channels>
+    <ID>602</ID>
+    <Name>Mastiii</Name>
+  </Channels>
+  <Channels>
+    <ID>603</ID>
+    <Name>Mahuaa Bangla</Name>
+  </Channels>
+  <Channels>
+    <ID>604</ID>
+    <Name>Vision Music</Name>
+  </Channels>
+  <Channels>
+    <ID>605</ID>
+    <Name>Star CJ Alive</Name>
+  </Channels>
+  <Channels>
+    <ID>606</ID>
+    <Name>Enterr10 Movies</Name>
+  </Channels>
+  <Channels>
+    <ID>607</ID>
+    <Name>Ten Cricket</Name>
+  </Channels>
+  <Channels>
+    <ID>608</ID>
+    <Name>Arihant</Name>
+  </Channels>
+  <Channels>
+    <ID>609</ID>
+    <Name>Day &amp; Night News</Name>
+  </Channels>
+  <Channels>
+    <ID>61</ID>
+    <Name>MTV</Name>
+  </Channels>
+  <Channels>
+    <ID>610</ID>
+    <Name>Ayur Living India</Name>
+  </Channels>
+  <Channels>
+    <ID>611</ID>
+    <Name>ACV (Only for Ker10L+)</Name>
+  </Channels>
+  <Channels>
+    <ID>612</ID>
+    <Name>Rosebowl (Only for Ker10L+)</Name>
+  </Channels>
+  <Channels>
+    <ID>613</ID>
+    <Name>Mahua Khabar</Name>
+  </Channels>
+  <Channels>
+    <ID>614</ID>
+    <Name>Paras Siti Plus TV</Name>
+  </Channels>
+  <Channels>
+    <ID>615</ID>
+    <Name>Lakshyya Entertainment</Name>
+  </Channels>
+  <Channels>
+    <ID>616</ID>
+    <Name>Ollywood TV</Name>
+  </Channels>
+  <Channels>
+    <ID>617</ID>
+    <Name>Ten Action+</Name>
+  </Channels>
+  <Channels>
+    <ID>618</ID>
+    <Name>Diva Universal</Name>
+  </Channels>
+  <Channels>
+    <ID>619</ID>
+    <Name>BIG CBS Prime</Name>
+  </Channels>
+  <Channels>
+    <ID>62</ID>
+    <Name>EENADU TV</Name>
+  </Channels>
+  <Channels>
+    <ID>620</ID>
+    <Name>Zee Khana Khazana</Name>
+  </Channels>
+  <Channels>
+    <ID>621</ID>
+    <Name>Sanatan TV</Name>
+  </Channels>
+  <Channels>
+    <ID>622</ID>
+    <Name>Sadhana News UTKH &amp; HP</Name>
+  </Channels>
+  <Channels>
+    <ID>623</ID>
+    <Name>Food First</Name>
+  </Channels>
+  <Channels>
+    <ID>624</ID>
+    <Name>India News Bihar &amp; Jharkhand</Name>
+  </Channels>
+  <Channels>
+    <ID>625</ID>
+    <Name>Dhoom Music</Name>
+  </Channels>
+  <Channels>
+    <ID>626</ID>
+    <Name>Movies Now</Name>
+  </Channels>
+  <Channels>
+    <ID>627</ID>
+    <Name>Mega Musiq</Name>
+  </Channels>
+  <Channels>
+    <ID>628</ID>
+    <Name>Mega 24</Name>
+  </Channels>
+  <Channels>
+    <ID>629</ID>
+    <Name>HBC News</Name>
+  </Channels>
+  <Channels>
+    <ID>630</ID>
+    <Name>Explore</Name>
+  </Channels>
+  <Channels>
+    <ID>631</ID>
+    <Name>Aalami Sahara</Name>
+  </Channels>
+  <Channels>
+    <ID>632</ID>
+    <Name>News Time Assam</Name>
+  </Channels>
+  <Channels>
+    <ID>633</ID>
+    <Name>Sada Channel</Name>
+  </Channels>
+  <Channels>
+    <ID>634</ID>
+    <Name>Aryan TV</Name>
+  </Channels>
+  <Channels>
+    <ID>635</ID>
+    <Name>FoodFood</Name>
+  </Channels>
+  <Channels>
+    <ID>636</ID>
+    <Name>Travel XP</Name>
+  </Channels>
+  <Channels>
+    <ID>637</ID>
+    <Name>7 Sea</Name>
+  </Channels>
+  <Channels>
+    <ID>638</ID>
+    <Name>Maa Movies</Name>
+  </Channels>
+  <Channels>
+    <ID>639</ID>
+    <Name>Maa Junior</Name>
+  </Channels>
+  <Channels>
+    <ID>64</ID>
+    <Name>DD14 RAJASTHAN</Name>
+  </Channels>
+  <Channels>
+    <ID>640</ID>
+    <Name>NGeo Music</Name>
+  </Channels>
+  <Channels>
+    <ID>641</ID>
+    <Name>Dhamaal</Name>
+  </Channels>
+  <Channels>
+    <ID>642</ID>
+    <Name>Dabangg</Name>
+  </Channels>
+  <Channels>
+    <ID>643</ID>
+    <Name>Janashri</Name>
+  </Channels>
+  <Channels>
+    <ID>644</ID>
+    <Name>BIG CBS Love</Name>
+  </Channels>
+  <Channels>
+    <ID>645</ID>
+    <Name>Buzz@Dish TV</Name>
+  </Channels>
+  <Channels>
+    <ID>646</ID>
+    <Name>T News</Name>
+  </Channels>
+  <Channels>
+    <ID>647</ID>
+    <Name>Bansal News</Name>
+  </Channels>
+  <Channels>
+    <ID>648</ID>
+    <Name>BIG MAGIC</Name>
+  </Channels>
+  <Channels>
+    <ID>649</ID>
+    <Name>BIG CBS Spark</Name>
+  </Channels>
+  <Channels>
+    <ID>65</ID>
+    <Name>MAX</Name>
+  </Channels>
+  <Channels>
+    <ID>650</ID>
+    <Name>Music Xpress</Name>
+  </Channels>
+  <Channels>
+    <ID>651</ID>
+    <Name>Reporter</Name>
+  </Channels>
+  <Channels>
+    <ID>652</ID>
+    <Name>M Tunes HD</Name>
+  </Channels>
+  <Channels>
+    <ID>653</ID>
+    <Name>MBCTV</Name>
+  </Channels>
+  <Channels>
+    <ID>654</ID>
+    <Name>STV Samachar</Name>
+  </Channels>
+  <Channels>
+    <ID>655</ID>
+    <Name>News 11</Name>
+  </Channels>
+  <Channels>
+    <ID>656</ID>
+    <Name>Athmeeya Yathra</Name>
+  </Channels>
+  <Channels>
+    <ID>657</ID>
+    <Name>Prime News</Name>
+  </Channels>
+  <Channels>
+    <ID>658</ID>
+    <Name>GNN News</Name>
+  </Channels>
+  <Channels>
+    <ID>659</ID>
+    <Name>UTV Action Telugu</Name>
+  </Channels>
+  <Channels>
+    <ID>66</ID>
+    <Name>NONCS CABLE SIGNAL</Name>
+  </Channels>
+  <Channels>
+    <ID>660</ID>
+    <Name>GNN Bhakti</Name>
+  </Channels>
+  <Channels>
+    <ID>661</ID>
+    <Name>Munsif TV</Name>
+  </Channels>
+  <Channels>
+    <ID>662</ID>
+    <Name>India News Rajasthan</Name>
+  </Channels>
+  <Channels>
+    <ID>663</ID>
+    <Name>Sananda TV</Name>
+  </Channels>
+  <Channels>
+    <ID>664</ID>
+    <Name>News Xpress</Name>
+  </Channels>
+  <Channels>
+    <ID>665</ID>
+    <Name>Discovery Channel Tamil</Name>
+  </Channels>
+  <Channels>
+    <ID>666</ID>
+    <Name>HIT 7</Name>
+  </Channels>
+  <Channels>
+    <ID>667</ID>
+    <Name>Peace TV Bangla</Name>
+  </Channels>
+  <Channels>
+    <ID>668</ID>
+    <Name>News Chakra</Name>
+  </Channels>
+  <Channels>
+    <ID>669</ID>
+    <Name>UTV Stars</Name>
+  </Channels>
+  <Channels>
+    <ID>67</ID>
+    <Name>DD NETWORK LUDHIANA</Name>
+  </Channels>
+  <Channels>
+    <ID>670</ID>
+    <Name>Kashish News</Name>
+  </Channels>
+  <Channels>
+    <ID>671</ID>
+    <Name>PUTHIYATHALAIMURAI TV</Name>
+  </Channels>
+  <Channels>
+    <ID>672</ID>
+    <Name>9X Tashan</Name>
+  </Channels>
+  <Channels>
+    <ID>673</ID>
+    <Name>Sony Mix</Name>
+  </Channels>
+  <Channels>
+    <ID>674</ID>
+    <Name>VTV Gujarati</Name>
+  </Channels>
+  <Channels>
+    <ID>675</ID>
+    <Name>Sathiyam TV</Name>
+  </Channels>
+  <Channels>
+    <ID>676</ID>
+    <Name>Darshan 24</Name>
+  </Channels>
+  <Channels>
+    <ID>677</ID>
+    <Name>History TV18</Name>
+  </Channels>
+  <Channels>
+    <ID>678</ID>
+    <Name>Rakshana TV</Name>
+  </Channels>
+  <Channels>
+    <ID>679</ID>
+    <Name>Kochu TV</Name>
+  </Channels>
+  <Channels>
+    <ID>68</ID>
+    <Name>MAHARISHI CHANNEL</Name>
+  </Channels>
+  <Channels>
+    <ID>680</ID>
+    <Name>Janta TV</Name>
+  </Channels>
+  <Channels>
+    <ID>681</ID>
+    <Name>Lord Buddha TV</Name>
+  </Channels>
+  <Channels>
+    <ID>682</ID>
+    <Name>9X Jhakaas</Name>
+  </Channels>
+  <Channels>
+    <ID>683</ID>
+    <Name>Mazhavil Manorama</Name>
+  </Channels>
+  <Channels>
+    <ID>684</ID>
+    <Name>Kasthuri Newz 24</Name>
+  </Channels>
+  <Channels>
+    <ID>685</ID>
+    <Name>Ramdhenu</Name>
+  </Channels>
+  <Channels>
+    <ID>686</ID>
+    <Name>Life OK</Name>
+  </Channels>
+  <Channels>
+    <ID>687</ID>
+    <Name>Khabar Bharti</Name>
+  </Channels>
+  <Channels>
+    <ID>688</ID>
+    <Name>Peppers</Name>
+  </Channels>
+  <Channels>
+    <ID>689</ID>
+    <Name>Sonic Nickelodeon</Name>
+  </Channels>
+  <Channels>
+    <ID>69</ID>
+    <Name>MCM</Name>
+  </Channels>
+  <Channels>
+    <ID>690</ID>
+    <Name>Frontier TV</Name>
+  </Channels>
+  <Channels>
+    <ID>691</ID>
+    <Name>Max Vision</Name>
+  </Channels>
+  <Channels>
+    <ID>692</ID>
+    <Name>Darshana 24</Name>
+  </Channels>
+  <Channels>
+    <ID>693</ID>
+    <Name>Xtra</Name>
+  </Channels>
+  <Channels>
+    <ID>694</ID>
+    <Name>BIG CBS SPARK Punjabi</Name>
+  </Channels>
+  <Channels>
+    <ID>695</ID>
+    <Name>Mahuaa Newsline UP UT</Name>
+  </Channels>
+  <Channels>
+    <ID>696</ID>
+    <Name>Comedy Central</Name>
+  </Channels>
+  <Channels>
+    <ID>697</ID>
+    <Name>India News Uttar Pradesh</Name>
+  </Channels>
+  <Channels>
+    <ID>698</ID>
+    <Name>Maa GOLD</Name>
+  </Channels>
+  <Channels>
+    <ID>699</ID>
+    <Name>PUBLiC TV</Name>
+  </Channels>
+  <Channels>
+    <ID>7</ID>
+    <Name>CHANNEL V</Name>
+  </Channels>
+  <Channels>
+    <ID>70</ID>
+    <Name>NNU5</Name>
+  </Channels>
+  <Channels>
+    <ID>700</ID>
+    <Name>9X Jalwa</Name>
+  </Channels>
+  <Channels>
+    <ID>702</ID>
+    <Name>ALJAZEERA</Name>
+  </Channels>
+  <Channels>
+    <ID>703</ID>
+    <Name>TEN GOLF</Name>
+  </Channels>
+  <Channels>
+    <ID>704</ID>
+    <Name>7S MUSIC</Name>
+  </Channels>
+  <Channels>
+    <ID>705</ID>
+    <Name>V6 NEWS</Name>
+  </Channels>
+  <Channels>
+    <ID>706</ID>
+    <Name>SONY SIX</Name>
+  </Channels>
+  <Channels>
+    <ID>707</ID>
+    <Name>KHABRAIN ABHI TAK</Name>
+  </Channels>
+  <Channels>
+    <ID>708</ID>
+    <Name>Pearls Punjabi</Name>
+  </Channels>
+  <Channels>
+    <ID>709</ID>
+    <Name>9XO</Name>
+  </Channels>
+  <Channels>
+    <ID>71</ID>
+    <Name>NATIONAL GEOGRAPHIC CHANNEL</Name>
+  </Channels>
+  <Channels>
+    <ID>710</ID>
+    <Name>SOHAM</Name>
+  </Channels>
+  <Channels>
+    <ID>711</ID>
+    <Name>Movies OK</Name>
+  </Channels>
+  <Channels>
+    <ID>712</ID>
+    <Name>THENDREL</Name>
+  </Channels>
+  <Channels>
+    <ID>713</ID>
+    <Name>CINEMA TV</Name>
+  </Channels>
+  <Channels>
+    <ID>714</ID>
+    <Name>DK Discovery Kids</Name>
+  </Channels>
+  <Channels>
+    <ID>715</ID>
+    <Name>RVS TV</Name>
+  </Channels>
+  <Channels>
+    <ID>716</ID>
+    <Name>NEO PRIME</Name>
+  </Channels>
+  <Channels>
+    <ID>717</ID>
+    <Name>MURASU</Name>
+  </Channels>
+  <Channels>
+    <ID>718</ID>
+    <Name>RPLUS GOLD</Name>
+  </Channels>
+  <Channels>
+    <ID>719</ID>
+    <Name>TEN ACTION</Name>
+  </Channels>
+  <Channels>
+    <ID>72</ID>
+    <Name>RTP</Name>
+  </Channels>
+  <Channels>
+    <ID>720</ID>
+    <Name>TRAVEL TRENDZ</Name>
+  </Channels>
+  <Channels>
+    <ID>721</ID>
+    <Name>J MOVIE</Name>
+  </Channels>
+  <Channels>
+    <ID>722</ID>
+    <Name>ASIANET MOVIES</Name>
+  </Channels>
+  <Channels>
+    <ID>723</ID>
+    <Name>CHANNEL 2</Name>
+  </Channels>
+  <Channels>
+    <ID>724</ID>
+    <Name>SHRI NEWS</Name>
+  </Channels>
+  <Channels>
+    <ID>725</ID>
+    <Name>GTV SPV</Name>
+  </Channels>
+  <Channels>
+    <ID>726</ID>
+    <Name>BULAND NEWS SAMACHAR PLUS UP UT</Name>
+  </Channels>
+  <Channels>
+    <ID>727</ID>
+    <Name>SEA NEWS UP UT</Name>
+  </Channels>
+  <Channels>
+    <ID>728</ID>
+    <Name>HUMMRA M</Name>
+  </Channels>
+  <Channels>
+    <ID>729</ID>
+    <Name>SUN LIFE</Name>
+  </Channels>
+  <Channels>
+    <ID>73</ID>
+    <Name>ATN BANGLA</Name>
+  </Channels>
+  <Channels>
+    <ID>730</ID>
+    <Name>GEMINI ACTION</Name>
+  </Channels>
+  <Channels>
+    <ID>731</ID>
+    <Name>GEMINI LIFE</Name>
+  </Channels>
+  <Channels>
+    <ID>732</ID>
+    <Name>SUN ACTION</Name>
+  </Channels>
+  <Channels>
+    <ID>733</ID>
+    <Name>SURIYAN</Name>
+  </Channels>
+  <Channels>
+    <ID>734</ID>
+    <Name>SURYA ACTION</Name>
+  </Channels>
+  <Channels>
+    <ID>735</ID>
+    <Name>SUPER TV</Name>
+  </Channels>
+  <Channels>
+    <ID>736</ID>
+    <Name>C NEWS</Name>
+  </Channels>
+  <Channels>
+    <ID>737</ID>
+    <Name>Dangal</Name>
+  </Channels>
+  <Channels>
+    <ID>738</ID>
+    <Name>anjan</Name>
+  </Channels>
+  <Channels>
+    <ID>739</ID>
+    <Name>OM Bangla</Name>
+  </Channels>
+  <Channels>
+    <ID>74</ID>
+    <Name>HALLMARK CHANNEL</Name>
+  </Channels>
+  <Channels>
+    <ID>740</ID>
+    <Name>Z Bangla Cinema</Name>
+  </Channels>
+  <Channels>
+    <ID>741</ID>
+    <Name>JAN TV</Name>
+  </Channels>
+  <Channels>
+    <ID>742</ID>
+    <Name>CVR News</Name>
+  </Channels>
+  <Channels>
+    <ID>743</ID>
+    <Name>CVR Health</Name>
+  </Channels>
+  <Channels>
+    <ID>744</ID>
+    <Name>Lotus News</Name>
+  </Channels>
+  <Channels>
+    <ID>745</ID>
+    <Name>Disney Junior</Name>
+  </Channels>
+  <Channels>
+    <ID>746</ID>
+    <Name>DD Vyas UGC - GEC</Name>
+  </Channels>
+  <Channels>
+    <ID>747</ID>
+    <Name>Fox Action Movies</Name>
+  </Channels>
+  <Channels>
+    <ID>748</ID>
+    <Name>THANTHI TV</Name>
+  </Channels>
+  <Channels>
+    <ID>749</ID>
+    <Name>Channel One News</Name>
+  </Channels>
+  <Channels>
+    <ID>75</ID>
+    <Name>SURYA TV</Name>
+  </Channels>
+  <Channels>
+    <ID>750</ID>
+    <Name>KHUSHBOO TV</Name>
+  </Channels>
+  <Channels>
+    <ID>76</ID>
+    <Name>STAR WORLD</Name>
+  </Channels>
+  <Channels>
+    <ID>761</ID>
+    <Name>nick jr.nickelodeon</Name>
+  </Channels>
+  <Channels>
+    <ID>762</ID>
+    <Name>India News MP CH</Name>
+  </Channels>
+  <Channels>
+    <ID>763</ID>
+    <Name>Jalsha Movies</Name>
+  </Channels>
+  <Channels>
+    <ID>764</ID>
+    <Name>THRILL BIG RTL</Name>
+  </Channels>
+  <Channels>
+    <ID>765</ID>
+    <Name>Sandesh News</Name>
+  </Channels>
+  <Channels>
+    <ID>766</ID>
+    <Name>GSTV</Name>
+  </Channels>
+  <Channels>
+    <ID>767</ID>
+    <Name>Satya</Name>
+  </Channels>
+  <Channels>
+    <ID>768</ID>
+    <Name>Mangal Kalash</Name>
+  </Channels>
+  <Channels>
+    <ID>769</ID>
+    <Name>2 Gyan Darshan</Name>
+  </Channels>
+  <Channels>
+    <ID>77</ID>
+    <Name>CCTV</Name>
+  </Channels>
+  <Channels>
+    <ID>770</ID>
+    <Name>4 REAL NEWS</Name>
+  </Channels>
+  <Channels>
+    <ID>771</ID>
+    <Name>ZQ</Name>
+  </Channels>
+  <Channels>
+    <ID>772</ID>
+    <Name>Mathrubhumi News</Name>
+  </Channels>
+  <Channels>
+    <ID>773</ID>
+    <Name>BIG MAGIC BIHAR and JHARK</Name>
+  </Channels>
+  <Channels>
+    <ID>774</ID>
+    <Name>PEARLS NCR</Name>
+  </Channels>
+  <Channels>
+    <ID>775</ID>
+    <Name>OSCAR MOVIES BHOJPURI</Name>
+  </Channels>
+  <Channels>
+    <ID>776</ID>
+    <Name>PRAG</Name>
+  </Channels>
+  <Channels>
+    <ID>777</ID>
+    <Name>MEDIA ONE</Name>
+  </Channels>
+  <Channels>
+    <ID>778</ID>
+    <Name>Kappa TV</Name>
+  </Channels>
+  <Channels>
+    <ID>779</ID>
+    <Name>NEWS NATION</Name>
+  </Channels>
+  <Channels>
+    <ID>78</ID>
+    <Name>TV 5</Name>
+  </Channels>
+  <Channels>
+    <ID>780</ID>
+    <Name>Star Sports2</Name>
+  </Channels>
+  <Channels>
+    <ID>781</ID>
+    <Name>10 TV</Name>
+  </Channels>
+  <Channels>
+    <ID>782</ID>
+    <Name>IBC24</Name>
+  </Channels>
+  <Channels>
+    <ID>783</ID>
+    <Name>Planet m CINEMA</Name>
+  </Channels>
+  <Channels>
+    <ID>79</ID>
+    <Name>CALCUTTA CABLE NETWORK</Name>
+  </Channels>
+  <Channels>
+    <ID>8</ID>
+    <Name>STAR MOVIES</Name>
+  </Channels>
+  <Channels>
+    <ID>80</ID>
+    <Name>CSPAN</Name>
+  </Channels>
+  <Channels>
+    <ID>81</ID>
+    <Name>CHANNEL GUIDE</Name>
+  </Channels>
+  <Channels>
+    <ID>810</ID>
+    <Name>HBO DEFINED</Name>
+  </Channels>
+  <Channels>
+    <ID>811</ID>
+    <Name>HBO HITS</Name>
+  </Channels>
+  <Channels>
+    <ID>812</ID>
+    <Name>RK NEWS</Name>
+  </Channels>
+  <Channels>
+    <ID>813</ID>
+    <Name>Raj News Kannada</Name>
+  </Channels>
+  <Channels>
+    <ID>814</ID>
+    <Name>RKM GOLD</Name>
+  </Channels>
+  <Channels>
+    <ID>815</ID>
+    <Name>Naxatra News Bihar Jharkhand</Name>
+  </Channels>
+  <Channels>
+    <ID>816</ID>
+    <Name>Z 24 Ghante Madhya Pradesh Chhattisgarh</Name>
+  </Channels>
+  <Channels>
+    <ID>817</ID>
+    <Name>Jai Maharashtra</Name>
+  </Channels>
+  <Channels>
+    <ID>818</ID>
+    <Name>GOODNESS </Name>
+  </Channels>
+  <Channels>
+    <ID>819</ID>
+    <Name>Pearls Madhya Pradesh Chattisgarh</Name>
+  </Channels>
+  <Channels>
+    <ID>82</ID>
+    <Name>TEST SIGNAL CHANNEL</Name>
+  </Channels>
+  <Channels>
+    <ID>820</ID>
+    <Name>Khabar Fast</Name>
+  </Channels>
+  <Channels>
+    <ID>821</ID>
+    <Name>Rengoni</Name>
+  </Channels>
+  <Channels>
+    <ID>822</ID>
+    <Name>Shagun TV</Name>
+  </Channels>
+  <Channels>
+    <ID>823</ID>
+    <Name>VON VOICE OF NATION</Name>
+  </Channels>
+  <Channels>
+    <ID>824</ID>
+    <Name>TOPPER</Name>
+  </Channels>
+  <Channels>
+    <ID>825</ID>
+    <Name>Shalini TV</Name>
+  </Channels>
+  <Channels>
+    <ID>826</ID>
+    <Name>MKTV</Name>
+  </Channels>
+  <Channels>
+    <ID>827</ID>
+    <Name>Plus Suvarna</Name>
+  </Channels>
+  <Channels>
+    <ID>828</ID>
+    <Name>High News</Name>
+  </Channels>
+  <Channels>
+    <ID>829</ID>
+    <Name>Z Rajasthan Plus Marudhara</Name>
+  </Channels>
+  <Channels>
+    <ID>83</ID>
+    <Name>CCC CINE CABLE CHANNEL</Name>
+  </Channels>
+  <Channels>
+    <ID>830</ID>
+    <Name>Manoranjan Music</Name>
+  </Channels>
+  <Channels>
+    <ID>831</ID>
+    <Name>&amp;pictures</Name>
+  </Channels>
+  <Channels>
+    <ID>832</ID>
+    <Name>SURYA MUSIC</Name>
+  </Channels>
+  <Channels>
+    <ID>833</ID>
+    <Name>insync</Name>
+  </Channels>
+  <Channels>
+    <ID>834</ID>
+    <Name>TOLLYWOOD</Name>
+  </Channels>
+  <Channels>
+    <ID>835</ID>
+    <Name>Z Anmol</Name>
+  </Channels>
+  <Channels>
+    <ID>836</ID>
+    <Name>COMSAT TV7 HEALTH PLANET</Name>
+  </Channels>
+  <Channels>
+    <ID>837</ID>
+    <Name>MaiBoli</Name>
+  </Channels>
+  <Channels>
+    <ID>838</ID>
+    <Name>Samachar PLUS Rajasthan</Name>
+  </Channels>
+  <Channels>
+    <ID>839</ID>
+    <Name>K News 24x7 UP UT Khabron Ka Sarathi</Name>
+  </Channels>
+  <Channels>
+    <ID>84</ID>
+    <Name>AXN</Name>
+  </Channels>
+  <Channels>
+    <ID>840</ID>
+    <Name>Romedy NOW</Name>
+  </Channels>
+  <Channels>
+    <ID>841</ID>
+    <Name>CINE 21</Name>
+  </Channels>
+  <Channels>
+    <ID>842</ID>
+    <Name>Polimer News</Name>
+  </Channels>
+  <Channels>
+    <ID>843</ID>
+    <Name>Puthuyugam</Name>
+  </Channels>
+  <Channels>
+    <ID>844</ID>
+    <Name>JIA NEWS</Name>
+  </Channels>
+  <Channels>
+    <ID>845</ID>
+    <Name>Bhakti Sagar</Name>
+  </Channels>
+  <Channels>
+    <ID>846</ID>
+    <Name>Polimer Kannada</Name>
+  </Channels>
+  <Channels>
+    <ID>85</ID>
+    <Name>PUNJAB WORLD</Name>
+  </Channels>
+  <Channels>
+    <ID>86</ID>
+    <Name>VATSA</Name>
+  </Channels>
+  <Channels>
+    <ID>87</ID>
+    <Name>DD SPORTS</Name>
+  </Channels>
+  <Channels>
+    <ID>88</ID>
+    <Name>RAJ DIGITAL PLUS</Name>
+  </Channels>
+  <Channels>
+    <ID>89</ID>
+    <Name>ANIMAL PLANET</Name>
+  </Channels>
+  <Channels>
+    <ID>9</ID>
+    <Name>CNN</Name>
+  </Channels>
+  <Channels>
+    <ID>90</ID>
+    <Name>DW</Name>
+  </Channels>
+  <Channels>
+    <ID>91</ID>
+    <Name>FALAK</Name>
+  </Channels>
+  <Channels>
+    <ID>92</ID>
+    <Name>FASHION TV</Name>
+  </Channels>
+  <Channels>
+    <ID>93</ID>
+    <Name>GURJARI</Name>
+  </Channels>
+  <Channels>
+    <ID>94</ID>
+    <Name>KERMIT</Name>
+  </Channels>
+  <Channels>
+    <ID>95</ID>
+    <Name>LASHKARA</Name>
+  </Channels>
+  <Channels>
+    <ID>96</ID>
+    <Name>CHANNEL SITI</Name>
+  </Channels>
+  <Channels>
+    <ID>97</ID>
+    <Name>NILA TV</Name>
+  </Channels>
+  <Channels>
+    <ID>98</ID>
+    <Name>ZEE MARATHI</Name>
+  </Channels>
+  <Channels>
+    <ID>99</ID>
+    <Name>DD NEWS</Name>
+  </Channels>
+  <Channels>
+    <ID>999</ID>
+    <Name>NON REPORTED CHANNEL</Name>
+  </Channels>
+</DocumentElement>

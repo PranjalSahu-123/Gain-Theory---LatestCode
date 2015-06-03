@@ -1,0 +1,61 @@
+<input>
+<markets>
+
+<mg name="mg1" type="group">
+
+<market>1</market>
+ 
+<market>3</market>
+
+</mg>
+
+<mg name="mg2" type="group">
+
+<market>J</market>
+
+<market>K</market>
+
+</mg>
+
+<mg name="Chennai" type="single">
+
+<market>4</market>
+
+</mg>
+
+</markets>
+<targetgroups>
+
+<tg name="CS 15-44">
+
+<cs>1</cs>
+
+<sec>1,2,3,4</sec>
+
+<sex>1,2</sex>
+
+<age>3,4,5</age>
+
+</tg>
+
+<tg name="CS 15-24 A">
+<cs>1</cs>
+
+<sec>1</sec>
+
+<sex>1,2</sex>
+
+<age>3</age>
+
+</tg>
+
+</targetgroups>
+
+<pre-eval-period>
+
+<startdate>20130804</startdate>
+
+<enddate>20130810</enddate>
+
+</pre-eval-period>
+</input>

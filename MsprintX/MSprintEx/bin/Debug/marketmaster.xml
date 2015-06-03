@@ -1,0 +1,44 @@
+ <market>
+        <market code="!" name="Raj  LCI"/>
+        <market code="#" name="MP  LCI"/>
+        <market code="$" name="PCHP  .1  to  1Mn."/>
+        <market code="%" name="UP  LCI"/>
+        <market code="&amp;" name="Punjab  1Mn.+"/>
+        <market code="&amp;gt;" name="Chattisgarh  .1  to  1  Mn."/>
+        <market code="1" name="Mumbai"/>
+        <market code="2" name="Calcutta"/>
+        <market code="3" name="Delhi"/>
+        <market code="4" name="Chennai"/>
+        <market code="5" name="Pune"/>
+        <market code="6" name="Bangalore"/>
+        <market code="7" name="Hyderabad"/>
+        <market code="8" name="AP  Rest  1Mn.+"/>
+        <market code="9" name="AP  .1  to  1  Mn."/>
+        <market code="@" name="PHPH  LCI"/>
+        <market code="A" name="Ahmedabad"/>
+        <market code="B" name="MP  .1  to  1  Mn."/>
+        <market code="C" name="Guj  1Mn.+"/>
+        <market code="D" name="Guj  .1  to  1  Mn."/>
+        <market code="E" name="PHCHP  1Mn.+"/>
+        <market code="F" name="PHCHP  .1  to  1  Mn."/>
+        <market code="G" name="Karnataka  .1  to  1Mn."/>
+        <market code="H" name="Kerala  1Mn.+"/>
+        <market code="I" name="Kerala  .1  to  1  Mn."/>
+        <market code="J" name="MAH  Rest  1Mn.+"/>
+        <market code="K" name="MAH  .1  to  1  Mn."/>
+        <market code="L" name="MP  1Mn.+"/>
+        <market code="N" name="Orissa  .1  to  1  Mn."/>
+        <market code="O" name="Rajasthan  1Mn.+"/>
+        <market code="P" name="Rajasthan  .1  to  1  Mn."/>
+        <market code="Q" name="TN  Rest  1Mn.+"/>
+        <market code="R" name="TN  .1  to  1  Mn."/>
+        <market code="S" name="UP  1Mn.+"/>
+        <market code="T" name="UP  .1  to  1  Mn."/>
+        <market code="U" name="WB  1Mn.+"/>
+        <market code="V" name="WB  .1  to  1  Mn."/>
+        <market code="W" name="Jharkhand  (Wk  1115  onwards)"/>
+        <market code="X" name="Bihar"/>
+        <market code="Y" name="Assam"/>
+        <market code="Z" name="Maharashtra  L  C  I"/>
+        <market code="^" name="Guj  LCI"/>
+    </market>

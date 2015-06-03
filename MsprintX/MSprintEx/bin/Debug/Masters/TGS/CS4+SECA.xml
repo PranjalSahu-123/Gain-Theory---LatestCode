@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tg name="CS4+SECA">
+  <cs>1</cs>
+  <sec>1</sec>
+  <sex>1,2</sex>
+  <age>1,2,3,4,5,6,7</age>
+</tg>

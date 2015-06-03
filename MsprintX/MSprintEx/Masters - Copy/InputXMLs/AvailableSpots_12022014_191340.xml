@@ -1,0 +1,110 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<mediaplan>
+  <PreEvalPeriod>
+    <StartDate>20130901</StartDate>
+    <EndDate>20130928</EndDate>
+  </PreEvalPeriod>
+  <tg name="CS 15-24 A" cs="1" sec="1" sex="1,2" age="3">
+    <mg name="Metros" type="Group">
+      <market>1</market>
+      <market>2</market>
+      <market>3</market>
+      <market>4</market>
+      <market>6</market>
+    </mg>
+    <mg name="NStates" type="Group">
+      <market>!</market>
+      <market>#</market>
+      <market>$</market>
+      <market>%</market>
+      <market>&amp;</market>
+      <market>@</market>
+      <market>&gt;</market>
+      <market>B</market>
+      <market>E</market>
+      <market>F</market>
+      <market>J</market>
+      <market>K</market>
+      <market>L</market>
+      <market>N</market>
+      <market>O</market>
+      <market>P</market>
+      <market>S</market>
+      <market>T</market>
+      <market>W</market>
+      <market>X</market>
+      <market>Z</market>
+    </mg>
+    <mg name="SouthStates" type="Group">
+      <market>8</market>
+      <market>9</market>
+      <market>G</market>
+      <market>H</market>
+      <market>I</market>
+      <market>Q</market>
+      <market>R</market>
+    </mg>
+  </tg>
+  <plan type="weekwise">
+    <period StartDate="20130901" EndDate="20130907" year="2013" WeekNum="36">
+      <programme guid="570280a2-b857-4d96-94de-e77981de5c7e" SeqNumber="1" ChannelCode="60" ChannelName="SONY ENTERTAINMENT TV" ProgName="Adalat" days="SAT,SUN" StartTime="19:30" EndTime="20:30" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="9">
+        <selected_spots>
+          <spot log="60,20130901,194740,194800,0,1,27,20"></spot>
+          <spot log="60,20130901,194945,195015,0,10,27,30"></spot>
+          <spot log="60,20130901,201109,201129,0,3,23,20"></spot>
+          <spot log="60,20130901,201404,201414,0,11,23,10"></spot>
+          <spot log="60,20130901,201649,201709,0,20,23,20"></spot>
+          <spot log="60,20130907,195146,195216,0,12,17,30"></spot>
+          <spot log="60,20130907,195306,195336,0,15,17,30"></spot>
+          <spot log="60,20130907,201435,201450,0,8,27,15"></spot>
+          <spot log="60,20130907,201950,202005,0,22,27,15"></spot>
+        </selected_spots>
+      </programme>
+    </period>
+    <period StartDate="20130908" EndDate="20130914" year="2013" WeekNum="37">
+      <programme guid="570280a2-b857-4d96-94de-e77981de5c7e" SeqNumber="1" ChannelCode="60" ChannelName="SONY ENTERTAINMENT TV" ProgName="Adalat" days="SAT,SUN" StartTime="19:30" EndTime="20:30" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="9">
+        <selected_spots>
+          <spot log="60,20130908,194541,194601,0,1,29,20"></spot>
+          <spot log="60,20130908,194751,194816,0,8,29,25"></spot>
+          <spot log="60,20130908,201312,201352,0,6,24,40"></spot>
+          <spot log="60,20130908,201507,201532,0,12,24,25"></spot>
+          <spot log="60,20130908,201642,201645,0,16,24,3"></spot>
+          <spot log="60,20130914,195120,195205,0,11,18,45"></spot>
+          <spot log="60,20130914,195245,195315,0,13,18,30"></spot>
+          <spot log="60,20130914,200741,200811,0,7,22,30"></spot>
+          <spot log="60,20130914,201151,201201,0,18,22,10"></spot>
+        </selected_spots>
+      </programme>
+    </period>
+    <period StartDate="20130915" EndDate="20130921" year="2013" WeekNum="38">
+      <programme guid="570280a2-b857-4d96-94de-e77981de5c7e" SeqNumber="1" ChannelCode="60" ChannelName="SONY ENTERTAINMENT TV" ProgName="Adalat" days="SAT,SUN" StartTime="19:30" EndTime="20:30" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="9">
+        <selected_spots>
+          <spot log="60,20130915,195115,195135,0,15,28,20"></spot>
+          <spot log="60,20130915,195500,195520,0,27,28,20"></spot>
+          <spot log="60,20130915,201052,201057,0,3,24,5"></spot>
+          <spot log="60,20130915,201140,201142,0,9,24,2"></spot>
+          <spot log="60,20130915,201622,201637,0,24,24,15"></spot>
+          <spot log="60,20130921,194935,194955,0,12,25,20"></spot>
+          <spot log="60,20130921,195245,195305,0,22,25,20"></spot>
+          <spot log="60,20130921,200702,200712,0,4,25,10"></spot>
+          <spot log="60,20130921,200712,200715,0,5,25,3"></spot>
+        </selected_spots>
+      </programme>
+    </period>
+    <period StartDate="20130922" EndDate="20130928" year="2013" WeekNum="39">
+      <programme guid="570280a2-b857-4d96-94de-e77981de5c7e" SeqNumber="1" ChannelCode="60" ChannelName="SONY ENTERTAINMENT TV" ProgName="Adalat" days="SAT,SUN" StartTime="19:30" EndTime="20:30" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="9">
+        <selected_spots>
+          <spot log="60,20130922,194500,194530,0,1,26,30"></spot>
+          <spot log="60,20130922,194738,194740,0,8,26,2"></spot>
+          <spot log="60,20130922,200756,200806,0,9,26,10"></spot>
+          <spot log="60,20130922,200949,200951,0,16,26,2"></spot>
+          <spot log="60,20130922,201136,201201,0,22,26,25"></spot>
+          <spot log="60,20130928,194811,194841,0,10,32,30"></spot>
+          <spot log="60,20130928,195310,195312,0,31,32,2"></spot>
+          <spot log="60,20130928,200457,200527,0,1,32,30"></spot>
+          <spot log="60,20130928,200832,200852,0,15,32,20"></spot>
+        </selected_spots>
+      </programme>
+    </period>
+  </plan>
+</mediaplan>

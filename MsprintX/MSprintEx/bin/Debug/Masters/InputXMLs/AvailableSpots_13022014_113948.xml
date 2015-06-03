@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<mediaplan>
+  <PreEvalPeriod>
+    <StartDate>20130804</StartDate>
+    <EndDate>20130831</EndDate>
+  </PreEvalPeriod>
+  <tg name="CS 15-24 A" cs="1" sec="1" sex="1,2" age="3">
+    <mg name="Metros" type="Group">
+      <market>1</market>
+      <market>2</market>
+      <market>3</market>
+      <market>4</market>
+      <market>6</market>
+    </mg>
+    <mg name="NStates" type="Group">
+      <market>!</market>
+      <market>#</market>
+      <market>$</market>
+      <market>%</market>
+      <market>&amp;</market>
+      <market>@</market>
+      <market>&gt;</market>
+      <market>B</market>
+      <market>E</market>
+      <market>F</market>
+      <market>J</market>
+      <market>K</market>
+      <market>L</market>
+      <market>N</market>
+      <market>O</market>
+      <market>P</market>
+      <market>S</market>
+      <market>T</market>
+      <market>W</market>
+      <market>X</market>
+      <market>Z</market>
+    </mg>
+  </tg>
+  <plan type="weekwise">
+    <period StartDate="20130804" EndDate="20130810" year="2013" WeekNum="32">
+      <programme guid="f8c05bce-c95f-4f70-acad-a934344d79c3" SeqNumber="1" ChannelCode="60" ChannelName="SONY ENTERTAINMENT TV" ProgName="CID" days="FRI,SAT" StartTime="22:00" EndTime="23:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="10">
+        <selected_spots>
+          <spot log="60,20130810,223727,223732,0,2,27,5"></spot>
+          <spot log="60,20130810,223857,223902,0,11,27,5"></spot>
+          <spot log="60,20130810,223912,223932,0,13,27,20"></spot>
+          <spot log="60,20130810,223932,223934,0,14,27,2"></spot>
+          <spot log="60,20130810,224207,224227,0,24,27,20"></spot>
+          <spot log="60,20130810,225128,225130,0,5,27,2"></spot>
+          <spot log="60,20130810,225321,225323,0,16,27,2"></spot>
+          <spot log="60,20130810,225343,225418,0,18,27,35"></spot>
+          <spot log="60,20130810,225440,225442,0,22,27,2"></spot>
+          <spot log="60,20130810,225442,225512,0,23,27,30"></spot>
+        </selected_spots>
+      </programme>
+    </period>
+    <period StartDate="20130811" EndDate="20130817" year="2013" WeekNum="33">
+      <programme guid="f8c05bce-c95f-4f70-acad-a934344d79c3" SeqNumber="1" ChannelCode="60" ChannelName="SONY ENTERTAINMENT TV" ProgName="CID" days="FRI,SAT" StartTime="22:00" EndTime="23:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="10">
+        <selected_spots>
+          <spot log="60,20130816,223600,223635,0,5,22,35"></spot>
+          <spot log="60,20130816,224015,224100,0,19,22,45"></spot>
+          <spot log="60,20130816,224951,225011,0,10,25,20"></spot>
+          <spot log="60,20130816,225431,225451,0,23,25,20"></spot>
+          <spot log="60,20130816,225451,225511,0,24,25,20"></spot>
+          <spot log="60,20130817,223642,223652,0,18,25,10"></spot>
+          <spot log="60,20130817,223652,223722,0,19,25,30"></spot>
+          <spot log="60,20130817,224802,224832,0,7,23,30"></spot>
+          <spot log="60,20130817,225117,225137,0,19,23,20"></spot>
+          <spot log="60,20130817,225217,225237,0,22,23,20"></spot>
+        </selected_spots>
+      </programme>
+    </period>
+    <period StartDate="20130818" EndDate="20130824" year="2013" WeekNum="34">
+      <programme guid="f8c05bce-c95f-4f70-acad-a934344d79c3" SeqNumber="1" ChannelCode="60" ChannelName="SONY ENTERTAINMENT TV" ProgName="CID" days="FRI,SAT" StartTime="22:00" EndTime="23:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="10">
+        <selected_spots>
+          <spot log="60,20130823,223715,223735,0,20,28,20"></spot>
+          <spot log="60,20130823,223815,223840,0,22,28,25"></spot>
+          <spot log="60,20130823,224553,224613,0,2,29,20"></spot>
+          <spot log="60,20130823,224723,224726,0,9,29,3"></spot>
+          <spot log="60,20130823,224726,224728,0,10,29,2"></spot>
+          <spot log="60,20130824,223756,223811,0,1,26,15"></spot>
+          <spot log="60,20130824,223824,223826,0,5,26,2"></spot>
+          <spot log="60,20130824,225153,225213,0,3,21,20"></spot>
+          <spot log="60,20130824,225243,225245,0,5,21,2"></spot>
+          <spot log="60,20130824,225328,225338,0,10,21,10"></spot>
+        </selected_spots>
+      </programme>
+    </period>
+    <period StartDate="20130825" EndDate="20130831" year="2013" WeekNum="35">
+      <programme guid="f8c05bce-c95f-4f70-acad-a934344d79c3" SeqNumber="1" ChannelCode="60" ChannelName="SONY ENTERTAINMENT TV" ProgName="CID" days="FRI,SAT" StartTime="22:00" EndTime="23:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="10">
+        <selected_spots>
+          <spot log="60,20130830,223342,223345,0,4,28,3"></spot>
+          <spot log="60,20130830,223601,223611,0,14,28,10"></spot>
+          <spot log="60,20130830,224658,224700,0,9,27,2"></spot>
+          <spot log="60,20130830,224838,224918,0,15,27,40"></spot>
+          <spot log="60,20130830,225103,225123,0,22,27,20"></spot>
+          <spot log="60,20130831,223506,223508,0,4,20,2"></spot>
+          <spot log="60,20130831,224006,224016,0,20,20,10"></spot>
+          <spot log="60,20130831,224814,224817,0,8,23,3"></spot>
+          <spot log="60,20130831,224817,224819,0,9,23,2"></spot>
+          <spot log="60,20130831,224829,224844,0,11,23,15"></spot>
+        </selected_spots>
+      </programme>
+    </period>
+  </plan>
+</mediaplan>

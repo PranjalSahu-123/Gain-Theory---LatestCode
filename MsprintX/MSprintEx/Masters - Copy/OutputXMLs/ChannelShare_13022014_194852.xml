@@ -1,0 +1,819 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<input>
+  <pre-eval-period>
+    <startdate>20131001</startdate>
+    <enddate>20131031</enddate>
+  </pre-eval-period>
+  <TG_MG name="CHANDRIKA TG~Kerala" type="Planning">
+    <tg name="CHANDRIKA TG">
+      <cs>1</cs>
+      <sec>1,2,3</sec>
+      <sex>2</sex>
+      <age>4,5</age>
+    </tg>
+    <mg name="Kerala" type="Group">
+      <market>H</market>
+      <market>I</market>
+    </mg>
+    <genre name="OTHERS" />
+    <genre name="TELUGU SAT" />
+    <genre name="TAM SAT" />
+    <genre name="KANNADA SAT" />
+    <genre name="SPORTS" />
+    <genre name="MALAYALAM SAT" />
+    <genre name="KIDS" />
+    <genre name="GEC1" />
+    <genre name="INFOTAINMENT" />
+    <genre name="MUSIC" />
+    <output>
+      <channel_share>
+        <genre name="TELUGU SAT">
+          <channel GRP="1" code="638" name="Maa Movies" />
+          <channel GRP="0" code="52" name="GEMINI TV" />
+          <channel GRP="0" code="519" name="HM TV" />
+          <channel GRP="0" code="473" name="MAA MUSIC" />
+        </genre>
+        <genre name="GEC1">
+          <channel GRP="11" code="4" name="STAR PLUS" />
+          <channel GRP="10" code="60" name="SONY ENTERTAINMENT TV" />
+          <channel GRP="6" code="3" name="ZEE TV" />
+          <channel GRP="1" code="479" name="COLORS" />
+        </genre>
+        <genre name="INFOTAINMENT">
+          <channel GRP="24" code="89" name="ANIMAL PLANET" />
+          <channel GRP="14" code="71" name="NATIONAL GEOGRAPHIC CHANNEL" />
+          <channel GRP="10" code="49" name="DISCOVERY" />
+          <channel GRP="7" code="239" name="HISTORY" />
+          <channel GRP="1" code="677" name="History TV18" />
+          <channel GRP="0" code="586" name="Discovery Science" />
+          <channel GRP="0" code="422" name="NDTV GOOD TIMES" />
+        </genre>
+        <genre name="KIDS">
+          <channel GRP="49" code="275" name="DISNEY CHANNEL" />
+          <channel GRP="30" code="39" name="CARTOON NETWORK" />
+          <channel GRP="20" code="241" name="POGO" />
+          <channel GRP="10" code="100" name="NICKELODEON" />
+          <channel GRP="4" code="265" name="HUNGAMA TV" />
+          <channel GRP="0" code="689" name="Sonic Nickelodeon" />
+        </genre>
+        <genre name="MALAYALAM SAT">
+          <channel GRP="337" code="19" name="ASIANET" />
+          <channel GRP="219" code="75" name="SURYA TV" />
+          <channel GRP="146" code="683" name="Mazhavil Manorama" />
+          <channel GRP="114" code="281" name="KIRAN TV" />
+          <channel GRP="103" code="679" name="Kochu TV" />
+          <channel GRP="103" code="722" name="ASIANET MOVIES" />
+          <channel GRP="90" code="309" name="ASIANET PLUS" />
+          <channel GRP="90" code="22" name="DD4 MALAYALAM" />
+          <channel GRP="79" code="416" name="JAIHIND TV" />
+          <channel GRP="73" code="145" name="KAIRALI" />
+          <channel GRP="46" code="167" name="ASIANET NEWS" />
+          <channel GRP="37" code="368" name="MANORAMA NEWS" />
+          <channel GRP="29" code="778" name="Kappa TV" />
+          <channel GRP="25" code="234" name="INDIAVISION" />
+          <channel GRP="21" code="315" name="PEOPLE" />
+          <channel GRP="19" code="772" name="Mathrubhumi News" />
+          <channel GRP="15" code="777" name="MEDIA ONE" />
+          <channel GRP="10" code="651" name="Reporter" />
+          <channel GRP="2" code="832" name="SURYA MUSIC" />
+        </genre>
+        <genre name="KANNADA SAT">
+          <channel GRP="0" code="507" name="Sri Sankara" />
+          <channel GRP="0" code="427" name="KASTURI" />
+          <channel GRP="0" code="155" name="ETV KANNADA" />
+          <channel GRP="0" code="542" name="Chintu TV" />
+          <channel GRP="0" code="17" name="UDAYA TV" />
+          <channel GRP="0" code="130" name="UDAYA MOVIES" />
+        </genre>
+        <genre name="MUSIC">
+          <channel GRP="18" code="61" name="MTV" />
+          <channel GRP="6" code="652" name="M Tunes HD" />
+          <channel GRP="4" code="282" name="VH1" />
+          <channel GRP="2" code="366" name="MUSIC INDIA" />
+          <channel GRP="2" code="120" name="B4U MUSIC" />
+          <channel GRP="2" code="7" name="CHANNEL V" />
+          <channel GRP="2" code="266" name="ZOOM" />
+          <channel GRP="2" code="457" name="E 24" />
+          <channel GRP="1" code="36" name="ZEE MUSIC" />
+          <channel GRP="0" code="127" name="JUKEBOX" />
+          <channel GRP="0" code="669" name="UTV Stars" />
+          <channel GRP="0" code="14" name="ETC" />
+          <channel GRP="0" code="700" name="9X Jalwa" />
+          <channel GRP="0" code="423" name="BINDASS" />
+          <channel GRP="0" code="673" name="Sony Mix" />
+        </genre>
+        <genre name="SPORTS">
+          <channel GRP="40" code="6" name="STAR SPORTS" />
+          <channel GRP="34" code="59" name="ESPN" />
+          <channel GRP="25" code="197" name="TEN SPORTS" />
+          <channel GRP="24" code="410" name="STAR CRICKET" />
+          <channel GRP="1" code="719" name="TEN ACTION" />
+          <channel GRP="1" code="87" name="DD SPORTS" />
+          <channel GRP="1" code="607" name="Ten Cricket" />
+          <channel GRP="0" code="780" name="Star Sports2" />
+          <channel GRP="0" code="374" name="NEO SPORTS" />
+          <channel GRP="0" code="716" name="NEO PRIME" />
+        </genre>
+        <genre name="TAM SAT">
+          <channel GRP="116" code="16" name="SUN TV" />
+          <channel GRP="116" code="178" name="K TV" />
+          <channel GRP="73" code="403" name="CHUTTI TV" />
+          <channel GRP="15" code="53" name="VIJAY TV" />
+          <channel GRP="12" code="40" name="JAYA TV" />
+          <channel GRP="8" code="18" name="RAJ TV" />
+          <channel GRP="7" code="287" name="SUN MUSIC" />
+          <channel GRP="6" code="424" name="KALAIGNAR TV" />
+          <channel GRP="6" code="594" name="Captain TV" />
+          <channel GRP="6" code="435" name="MEGA TV" />
+          <channel GRP="4" code="23" name="DD5 PODHIGAI (TAMIL)" />
+          <channel GRP="2" code="438" name="JAYA PLUS" />
+          <channel GRP="2" code="448" name="ISAIYARUVI" />
+          <channel GRP="1" code="119" name="SUN NEWS" />
+          <channel GRP="1" code="729" name="SUN LIFE" />
+          <channel GRP="0" code="504" name="SEITHIGAL" />
+          <channel GRP="0" code="439" name="JAYA MAX" />
+          <channel GRP="0" code="599" name="Chithiram" />
+          <channel GRP="0" code="521" name="Siripoli" />
+          <channel GRP="0" code="721" name="J MOVIE" />
+          <channel GRP="0" code="717" name="MURASU" />
+        </genre>
+        <genre name="OTHERS">
+          <channel GRP="207" code="295" name="AMRITHA TV" />
+          <channel GRP="88" code="402" name="WE" />
+          <channel GRP="9" code="267" name="DISCOVERY TRAVEL &amp;amp; LIVING" />
+          <channel GRP="8" code="571" name="Polimer TV" />
+          <channel GRP="8" code="516" name="Adithya TV" />
+          <channel GRP="6" code="499" name="ZEE TAMIZH" />
+          <channel GRP="4" code="253" name="ZEE SMILE" />
+          <channel GRP="4" code="274" name="TOON DISNEY" />
+          <channel GRP="3" code="611" name="ACV (Only for Ker10L+)" />
+          <channel GRP="2" code="467" name="VASANT" />
+          <channel GRP="0" code="831" name="&amp;amp;pictures" />
+          <channel GRP="0" code="536" name="GCV" />
+          <channel GRP="0" code="584" name="Zee Salaam" />
+          <channel GRP="0" code="369" name="MAKKAL TV" />
+          <channel GRP="0" code="431" name="9X MUSIC" />
+          <channel GRP="0" code="612" name="Rosebowl (Only for Ker10L+)" />
+          <channel GRP="0" code="255" name="ZEE PREMIER" />
+          <channel GRP="0" code="242" name="TV9 TELUGU NEWS" />
+          <channel GRP="0" code="470" name="NATIONAL GEOGRAPHIC WILD" />
+          <channel GRP="0" code="469" name="NEWS LIVE" />
+          <channel GRP="0" code="303" name="SANGEET BANGLA" />
+          <channel GRP="0" code="123" name="TEJA TV" />
+          <channel GRP="0" code="665" name="Discovery Channel Tamil" />
+          <channel GRP="0" code="459" name="SUVARNA NEWS" />
+          <channel GRP="0" code="406" name="ASIANET SUVARNA" />
+          <channel GRP="0" code="137" name="AASTHA" />
+        </genre>
+      </channel_share>
+      <TopTenPrograms>
+        <Program avgTVR="16.9" channelcode="19" channelname="ASIANET" name="NESTLE MUNCH STARS-GF" rank="1" start_hour="19:00:00" />
+        <Program avgTVR="12.869565" channelcode="19" channelname="ASIANET" name="KUNGUMAPOOVU" rank="2" start_hour="21:30:00" />
+        <Program avgTVR="12.85" channelcode="19" channelname="ASIANET" name="MLF 3 DOTS" rank="3" start_hour="17:30:00" />
+        <Program avgTVR="11.576667" channelcode="19" channelname="ASIANET" name="VIM BADAYI BUNGLAVU" rank="4" start_hour="20:00:00" />
+        <Program avgTVR="11.12963" channelcode="19" channelname="ASIANET" name="STHREEDHANAM" rank="5" start_hour="19:30:00" />
+        <Program avgTVR="10.983333" channelcode="19" channelname="ASIANET" name="POKKIRI PEEKKIRI" rank="6" start_hour="21:30:00" />
+        <Program avgTVR="10.7" channelcode="19" channelname="ASIANET" name="RAMRAJ COTTON LITTLE STARS" rank="7" start_hour="21:00:00" />
+        <Program avgTVR="10.224231" channelcode="19" channelname="ASIANET" name="AMMA" rank="8" start_hour="19:00:00" />
+        <Program avgTVR="9.543462" channelcode="19" channelname="ASIANET" name="PARASPARAM" rank="9" start_hour="21:00:00" />
+        <Program avgTVR="9.153846" channelcode="19" channelname="ASIANET" name="KAILASA NADHAN" rank="10" start_hour="22:00:00" />
+      </TopTenPrograms>
+    </output>
+  </TG_MG>
+  <TG_MG name="CHANDRIKA TG~SouthStates" type="Planning">
+    <tg name="CHANDRIKA TG">
+      <cs>1</cs>
+      <sec>1,2,3</sec>
+      <sex>2</sex>
+      <age>4,5</age>
+    </tg>
+    <mg name="SouthStates" type="Group">
+      <market>8</market>
+      <market>9</market>
+      <market>G</market>
+      <market>H</market>
+      <market>I</market>
+      <market>Q</market>
+      <market>R</market>
+    </mg>
+    <genre name="OTHERS" />
+    <genre name="TELUGU SAT" />
+    <genre name="TAM SAT" />
+    <genre name="KANNADA SAT" />
+    <genre name="SPORTS" />
+    <genre name="MALAYALAM SAT" />
+    <genre name="KIDS" />
+    <genre name="GEC1" />
+    <genre name="INFOTAINMENT" />
+    <genre name="MUSIC" />
+    <output>
+      <channel_share>
+        <genre name="TELUGU SAT">
+          <channel GRP="174" code="52" name="GEMINI TV" />
+          <channel GRP="79" code="62" name="EENADU TV" />
+          <channel GRP="48" code="638" name="Maa Movies" />
+          <channel GRP="42" code="421" name="BHAKTI TV" />
+          <channel GRP="40" code="541" name="Kushi TV" />
+          <channel GRP="29" code="473" name="MAA MUSIC" />
+          <channel GRP="26" code="298" name="GEMINI MUSIC" />
+          <channel GRP="22" code="523" name="Sakshi TV" />
+          <channel GRP="21" code="834" name="TOLLYWOOD" />
+          <channel GRP="17" code="430" name="TV5 NEWS" />
+          <channel GRP="15" code="26" name="DD8 TELUGU" />
+          <channel GRP="14" code="698" name="Maa GOLD" />
+          <channel GRP="9" code="548" name="Studio N" />
+          <channel GRP="7" code="519" name="HM TV" />
+          <channel GRP="7" code="573" name="ABN Andhra Jyothi" />
+          <channel GRP="6" code="518" name="I News" />
+          <channel GRP="3" code="262" name="GEMINI NEWS" />
+          <channel GRP="2" code="646" name="T News" />
+          <channel GRP="1" code="230" name="VISSA" />
+        </genre>
+        <genre name="GEC1">
+          <channel GRP="30" code="3" name="ZEE TV" />
+          <channel GRP="27" code="4" name="STAR PLUS" />
+          <channel GRP="13" code="479" name="COLORS" />
+          <channel GRP="9" code="60" name="SONY ENTERTAINMENT TV" />
+        </genre>
+        <genre name="INFOTAINMENT">
+          <channel GRP="22" code="71" name="NATIONAL GEOGRAPHIC CHANNEL" />
+          <channel GRP="9" code="49" name="DISCOVERY" />
+          <channel GRP="8" code="89" name="ANIMAL PLANET" />
+          <channel GRP="6" code="239" name="HISTORY" />
+          <channel GRP="3" code="677" name="History TV18" />
+          <channel GRP="2" code="422" name="NDTV GOOD TIMES" />
+          <channel GRP="0" code="586" name="Discovery Science" />
+          <channel GRP="0" code="635" name="FoodFood" />
+          <channel GRP="0" code="587" name="Discovery Turbo" />
+          <channel GRP="0" code="636" name="Travel XP" />
+        </genre>
+        <genre name="KIDS">
+          <channel GRP="57" code="241" name="POGO" />
+          <channel GRP="53" code="39" name="CARTOON NETWORK" />
+          <channel GRP="26" code="275" name="DISNEY CHANNEL" />
+          <channel GRP="10" code="100" name="NICKELODEON" />
+          <channel GRP="6" code="265" name="HUNGAMA TV" />
+          <channel GRP="2" code="745" name="Disney Junior" />
+          <channel GRP="1" code="714" name="DK Discovery Kids" />
+          <channel GRP="0" code="689" name="Sonic Nickelodeon" />
+        </genre>
+        <genre name="MALAYALAM SAT">
+          <channel GRP="47" code="19" name="ASIANET" />
+          <channel GRP="31" code="75" name="SURYA TV" />
+          <channel GRP="19" code="683" name="Mazhavil Manorama" />
+          <channel GRP="17" code="281" name="KIRAN TV" />
+          <channel GRP="14" code="722" name="ASIANET MOVIES" />
+          <channel GRP="13" code="679" name="Kochu TV" />
+          <channel GRP="13" code="309" name="ASIANET PLUS" />
+          <channel GRP="12" code="22" name="DD4 MALAYALAM" />
+          <channel GRP="10" code="416" name="JAIHIND TV" />
+          <channel GRP="10" code="145" name="KAIRALI" />
+          <channel GRP="6" code="167" name="ASIANET NEWS" />
+          <channel GRP="4" code="368" name="MANORAMA NEWS" />
+          <channel GRP="3" code="778" name="Kappa TV" />
+          <channel GRP="3" code="234" name="INDIAVISION" />
+          <channel GRP="2" code="315" name="PEOPLE" />
+          <channel GRP="2" code="772" name="Mathrubhumi News" />
+          <channel GRP="1" code="777" name="MEDIA ONE" />
+          <channel GRP="1" code="651" name="Reporter" />
+          <channel GRP="0" code="832" name="SURYA MUSIC" />
+        </genre>
+        <genre name="MUSIC">
+          <channel GRP="5" code="61" name="MTV" />
+          <channel GRP="4" code="7" name="CHANNEL V" />
+          <channel GRP="3" code="266" name="ZOOM" />
+          <channel GRP="3" code="120" name="B4U MUSIC" />
+          <channel GRP="2" code="457" name="E 24" />
+          <channel GRP="1" code="14" name="ETC" />
+          <channel GRP="1" code="366" name="MUSIC INDIA" />
+          <channel GRP="1" code="650" name="Music Xpress" />
+          <channel GRP="0" code="652" name="M Tunes HD" />
+          <channel GRP="0" code="423" name="BINDASS" />
+          <channel GRP="0" code="282" name="VH1" />
+          <channel GRP="0" code="36" name="ZEE MUSIC" />
+          <channel GRP="0" code="602" name="Mastiii" />
+          <channel GRP="0" code="673" name="Sony Mix" />
+          <channel GRP="0" code="127" name="JUKEBOX" />
+          <channel GRP="0" code="669" name="UTV Stars" />
+          <channel GRP="0" code="700" name="9X Jalwa" />
+          <channel GRP="0" code="709" name="9XO" />
+        </genre>
+        <genre name="SPORTS">
+          <channel GRP="79" code="6" name="STAR SPORTS" />
+          <channel GRP="33" code="410" name="STAR CRICKET" />
+          <channel GRP="16" code="197" name="TEN SPORTS" />
+          <channel GRP="8" code="59" name="ESPN" />
+          <channel GRP="5" code="780" name="Star Sports2" />
+          <channel GRP="4" code="607" name="Ten Cricket" />
+          <channel GRP="0" code="716" name="NEO PRIME" />
+          <channel GRP="0" code="706" name="SONY SIX" />
+          <channel GRP="0" code="87" name="DD SPORTS" />
+          <channel GRP="0" code="719" name="TEN ACTION" />
+          <channel GRP="0" code="374" name="NEO SPORTS" />
+        </genre>
+        <genre name="KANNADA SAT">
+          <channel GRP="80" code="17" name="UDAYA TV" />
+          <channel GRP="33" code="130" name="UDAYA MOVIES" />
+          <channel GRP="22" code="379" name="TV9 KARNATAKA" />
+          <channel GRP="18" code="542" name="Chintu TV" />
+          <channel GRP="18" code="155" name="ETV KANNADA" />
+          <channel GRP="13" code="827" name="Plus Suvarna" />
+          <channel GRP="11" code="27" name="DD9 CHANDANA (KANNADA)" />
+          <channel GRP="9" code="427" name="KASTURI" />
+          <channel GRP="7" code="144" name="UDAYA VARTHEGALU" />
+          <channel GRP="7" code="684" name="Kasthuri Newz 24" />
+          <channel GRP="6" code="699" name="PUBLiC TV" />
+          <channel GRP="4" code="514" name="Raj Musix Kannada" />
+          <channel GRP="2" code="507" name="Sri Sankara" />
+          <channel GRP="1" code="813" name="Raj News Kannada" />
+        </genre>
+        <genre name="TAM SAT">
+          <channel GRP="260" code="16" name="SUN TV" />
+          <channel GRP="120" code="178" name="K TV" />
+          <channel GRP="61" code="53" name="VIJAY TV" />
+          <channel GRP="41" code="424" name="KALAIGNAR TV" />
+          <channel GRP="33" code="40" name="JAYA TV" />
+          <channel GRP="20" code="18" name="RAJ TV" />
+          <channel GRP="19" code="403" name="CHUTTI TV" />
+          <channel GRP="14" code="721" name="J MOVIE" />
+          <channel GRP="9" code="23" name="DD5 PODHIGAI (TAMIL)" />
+          <channel GRP="9" code="435" name="MEGA TV" />
+          <channel GRP="6" code="504" name="SEITHIGAL" />
+          <channel GRP="6" code="88" name="RAJ DIGITAL PLUS" />
+          <channel GRP="6" code="594" name="Captain TV" />
+          <channel GRP="5" code="287" name="SUN MUSIC" />
+          <channel GRP="3" code="748" name="THANTHI TV" />
+          <channel GRP="3" code="688" name="Peppers" />
+          <channel GRP="3" code="231" name="RAJ MUSIX" />
+          <channel GRP="3" code="119" name="SUN NEWS" />
+          <channel GRP="2" code="717" name="MURASU" />
+          <channel GRP="2" code="729" name="SUN LIFE" />
+          <channel GRP="2" code="521" name="Siripoli" />
+          <channel GRP="2" code="675" name="Sathiyam TV" />
+          <channel GRP="2" code="438" name="JAYA PLUS" />
+          <channel GRP="2" code="448" name="ISAIYARUVI" />
+          <channel GRP="1" code="628" name="Mega 24" />
+          <channel GRP="1" code="466" name="RAJ NEWS 24x7" />
+          <channel GRP="1" code="627" name="Mega Musiq" />
+          <channel GRP="1" code="439" name="JAYA MAX" />
+          <channel GRP="0" code="599" name="Chithiram" />
+          <channel GRP="0" code="736" name="C NEWS" />
+        </genre>
+        <genre name="OTHERS">
+          <channel GRP="147" code="198" name="MAA TELUGU" />
+          <channel GRP="101" code="268" name="ZEE TELUGU" />
+          <channel GRP="98" code="123" name="TEJA TV" />
+          <channel GRP="39" code="242" name="TV9 TELUGU NEWS" />
+          <channel GRP="37" code="571" name="Polimer TV" />
+          <channel GRP="35" code="406" name="ASIANET SUVARNA" />
+          <channel GRP="27" code="295" name="AMRITHA TV" />
+          <channel GRP="24" code="356" name="ZEE KANNADA" />
+          <channel GRP="22" code="499" name="ZEE TAMIZH" />
+          <channel GRP="12" code="459" name="SUVARNA NEWS" />
+          <channel GRP="11" code="402" name="WE" />
+          <channel GRP="10" code="516" name="Adithya TV" />
+          <channel GRP="8" code="420" name="NTV NEWS" />
+          <channel GRP="8" code="781" name="10 TV" />
+          <channel GRP="7" code="532" name="Zee 24 Ghantalu" />
+          <channel GRP="7" code="467" name="VASANT" />
+          <channel GRP="7" code="665" name="Discovery Channel Tamil" />
+          <channel GRP="6" code="240" name="ETV2 TELUGU NEWS" />
+          <channel GRP="5" code="536" name="GCV" />
+          <channel GRP="4" code="274" name="TOON DISNEY" />
+          <channel GRP="4" code="705" name="V6 NEWS" />
+          <channel GRP="3" code="643" name="Janashri" />
+          <channel GRP="3" code="369" name="MAKKAL TV" />
+          <channel GRP="3" code="267" name="DISCOVERY TRAVEL &amp;amp; LIVING" />
+          <channel GRP="3" code="342" name="U2" />
+          <channel GRP="3" code="497" name="VANITHA TV" />
+          <channel GRP="3" code="535" name="Ushe TV" />
+          <channel GRP="2" code="671" name="PUTHIYATHALAIMURAI TV" />
+          <channel GRP="1" code="255" name="ZEE PREMIER" />
+          <channel GRP="1" code="273" name="ZEE BUSINESS" />
+          <channel GRP="1" code="470" name="NATIONAL GEOGRAPHIC WILD" />
+          <channel GRP="1" code="253" name="ZEE SMILE" />
+          <channel GRP="0" code="279" name="AWAAZ" />
+          <channel GRP="0" code="257" name="ZEE CLASSIC" />
+          <channel GRP="0" code="256" name="ZEE ACTION" />
+          <channel GRP="0" code="137" name="AASTHA" />
+          <channel GRP="0" code="584" name="Zee Salaam" />
+          <channel GRP="0" code="831" name="&amp;amp;pictures" />
+          <channel GRP="0" code="611" name="ACV (Only for Ker10L+)" />
+          <channel GRP="0" code="485" name="SAAM TV" />
+          <channel GRP="0" code="339" name="FILMI" />
+          <channel GRP="0" code="431" name="9X MUSIC" />
+          <channel GRP="0" code="441" name="CHANNEL 8 TALKIES" />
+          <channel GRP="0" code="408" name="ABP MAZA" />
+          <channel GRP="0" code="451" name="WORLD MOVIES" />
+          <channel GRP="0" code="245" name="7 STAR CARE" />
+          <channel GRP="0" code="484" name="MAHUA TV" />
+          <channel GRP="0" code="418" name="ZEE TALKIES" />
+          <channel GRP="0" code="219" name="SAHARA SAMAY NATIONAL" />
+          <channel GRP="0" code="469" name="NEWS LIVE" />
+          <channel GRP="0" code="303" name="SANGEET BANGLA" />
+          <channel GRP="0" code="506" name="TV9 MUMBAI" />
+          <channel GRP="0" code="612" name="Rosebowl (Only for Ker10L+)" />
+          <channel GRP="0" code="400" name="MH1 SHRADDHA" />
+          <channel GRP="0" code="450" name="TV9 GUJRATI" />
+          <channel GRP="0" code="664" name="News Xpress" />
+          <channel GRP="0" code="352" name="24 GHANTA TV" />
+          <channel GRP="0" code="190" name="ETV RAJASTAN" />
+          <channel GRP="0" code="509" name="DY365" />
+        </genre>
+      </channel_share>
+      <TopTenPrograms>
+        <Program avgTVR="5.95" channelcode="198" channelname="MAA TELUGU" name="TGF MIRCHI" rank="1" start_hour="18:30:00" />
+        <Program avgTVR="5.89" channelcode="16" channelname="SUN TV" name="TMF CHANDRA MUKHI" rank="2" start_hour="19:30:00" />
+        <Program avgTVR="5.738333" channelcode="16" channelname="SUN TV" name="DEIVA MAGAL" rank="3" start_hour="20:00:00" />
+        <Program avgTVR="5.464" channelcode="62" channelname="EENADU TV" name="MADHUCURE JABARDAST" rank="4" start_hour="21:30:00" />
+        <Program avgTVR="5.189048" channelcode="16" channelname="SUN TV" name="THENDRAL" rank="5" start_hour="21:00:00" />
+        <Program avgTVR="5.087619" channelcode="16" channelname="SUN TV" name="VANI RANI" rank="6" start_hour="21:30:00" />
+        <Program avgTVR="5.0" channelcode="198" channelname="MAA TELUGU" name="TGF SINGAM YAMUDU-2" rank="7" start_hour="19:30:00" />
+        <Program avgTVR="4.88" channelcode="16" channelname="SUN TV" name="TMF 7 AM ARIVU" rank="8" start_hour="19:30:00" />
+        <Program avgTVR="4.836667" channelcode="16" channelname="SUN TV" name="NADASWARAM" rank="9" start_hour="19:30:00" />
+        <Program avgTVR="4.8" channelcode="198" channelname="MAA TELUGU" name="TGF SAAHASAM" rank="10" start_hour="19:30:00" />
+      </TopTenPrograms>
+    </output>
+  </TG_MG>
+  <TG_MG name="CS 15-24 A~SouthStates" type="Reference">
+    <tg name="CS 15-24 A">
+      <cs>1</cs>
+      <sec>1</sec>
+      <sex>1,2</sex>
+      <age>3</age>
+    </tg>
+    <mg name="SouthStates" type="Group">
+      <market>8</market>
+      <market>9</market>
+      <market>G</market>
+      <market>H</market>
+      <market>I</market>
+      <market>Q</market>
+      <market>R</market>
+    </mg>
+    <genre name="OTHERS" />
+    <genre name="TELUGU SAT" />
+    <genre name="TAM SAT" />
+    <genre name="KANNADA SAT" />
+    <genre name="SPORTS" />
+    <genre name="MALAYALAM SAT" />
+    <genre name="KIDS" />
+    <genre name="GEC1" />
+    <genre name="INFOTAINMENT" />
+    <genre name="MUSIC" />
+    <output>
+      <channel_share>
+        <genre name="TELUGU SAT">
+          <channel GRP="115" code="52" name="GEMINI TV" />
+          <channel GRP="42" code="62" name="EENADU TV" />
+          <channel GRP="37" code="523" name="Sakshi TV" />
+          <channel GRP="34" code="473" name="MAA MUSIC" />
+          <channel GRP="34" code="421" name="BHAKTI TV" />
+          <channel GRP="32" code="298" name="GEMINI MUSIC" />
+          <channel GRP="30" code="638" name="Maa Movies" />
+          <channel GRP="15" code="698" name="Maa GOLD" />
+          <channel GRP="13" code="834" name="TOLLYWOOD" />
+          <channel GRP="11" code="518" name="I News" />
+          <channel GRP="10" code="430" name="TV5 NEWS" />
+          <channel GRP="10" code="573" name="ABN Andhra Jyothi" />
+          <channel GRP="10" code="548" name="Studio N" />
+          <channel GRP="7" code="519" name="HM TV" />
+          <channel GRP="4" code="646" name="T News" />
+          <channel GRP="4" code="26" name="DD8 TELUGU" />
+          <channel GRP="3" code="262" name="GEMINI NEWS" />
+          <channel GRP="3" code="541" name="Kushi TV" />
+          <channel GRP="0" code="230" name="VISSA" />
+        </genre>
+        <genre name="GEC1">
+          <channel GRP="23" code="3" name="ZEE TV" />
+          <channel GRP="16" code="4" name="STAR PLUS" />
+          <channel GRP="14" code="479" name="COLORS" />
+          <channel GRP="11" code="60" name="SONY ENTERTAINMENT TV" />
+        </genre>
+        <genre name="INFOTAINMENT">
+          <channel GRP="19" code="71" name="NATIONAL GEOGRAPHIC CHANNEL" />
+          <channel GRP="15" code="49" name="DISCOVERY" />
+          <channel GRP="10" code="677" name="History TV18" />
+          <channel GRP="9" code="89" name="ANIMAL PLANET" />
+          <channel GRP="4" code="239" name="HISTORY" />
+          <channel GRP="2" code="422" name="NDTV GOOD TIMES" />
+          <channel GRP="1" code="587" name="Discovery Turbo" />
+          <channel GRP="1" code="586" name="Discovery Science" />
+        </genre>
+        <genre name="KIDS">
+          <channel GRP="33" code="39" name="CARTOON NETWORK" />
+          <channel GRP="28" code="241" name="POGO" />
+          <channel GRP="16" code="275" name="DISNEY CHANNEL" />
+          <channel GRP="6" code="100" name="NICKELODEON" />
+          <channel GRP="2" code="265" name="HUNGAMA TV" />
+          <channel GRP="0" code="689" name="Sonic Nickelodeon" />
+        </genre>
+        <genre name="MALAYALAM SAT">
+          <channel GRP="71" code="19" name="ASIANET" />
+          <channel GRP="53" code="75" name="SURYA TV" />
+          <channel GRP="30" code="309" name="ASIANET PLUS" />
+          <channel GRP="24" code="281" name="KIRAN TV" />
+          <channel GRP="17" code="683" name="Mazhavil Manorama" />
+          <channel GRP="10" code="145" name="KAIRALI" />
+          <channel GRP="10" code="722" name="ASIANET MOVIES" />
+          <channel GRP="9" code="368" name="MANORAMA NEWS" />
+          <channel GRP="7" code="679" name="Kochu TV" />
+          <channel GRP="5" code="416" name="JAIHIND TV" />
+          <channel GRP="5" code="778" name="Kappa TV" />
+          <channel GRP="4" code="22" name="DD4 MALAYALAM" />
+          <channel GRP="4" code="167" name="ASIANET NEWS" />
+          <channel GRP="2" code="234" name="INDIAVISION" />
+          <channel GRP="2" code="315" name="PEOPLE" />
+          <channel GRP="2" code="772" name="Mathrubhumi News" />
+          <channel GRP="1" code="777" name="MEDIA ONE" />
+          <channel GRP="1" code="651" name="Reporter" />
+          <channel GRP="0" code="832" name="SURYA MUSIC" />
+        </genre>
+        <genre name="MUSIC">
+          <channel GRP="12" code="61" name="MTV" />
+          <channel GRP="8" code="7" name="CHANNEL V" />
+          <channel GRP="8" code="457" name="E 24" />
+          <channel GRP="6" code="120" name="B4U MUSIC" />
+          <channel GRP="4" code="266" name="ZOOM" />
+          <channel GRP="4" code="652" name="M Tunes HD" />
+          <channel GRP="1" code="669" name="UTV Stars" />
+          <channel GRP="1" code="36" name="ZEE MUSIC" />
+          <channel GRP="1" code="423" name="BINDASS" />
+          <channel GRP="1" code="650" name="Music Xpress" />
+          <channel GRP="1" code="14" name="ETC" />
+          <channel GRP="1" code="366" name="MUSIC INDIA" />
+          <channel GRP="0" code="602" name="Mastiii" />
+          <channel GRP="0" code="673" name="Sony Mix" />
+          <channel GRP="0" code="282" name="VH1" />
+          <channel GRP="0" code="700" name="9X Jalwa" />
+          <channel GRP="0" code="709" name="9XO" />
+          <channel GRP="0" code="127" name="JUKEBOX" />
+        </genre>
+        <genre name="KANNADA SAT">
+          <channel GRP="99" code="17" name="UDAYA TV" />
+          <channel GRP="67" code="155" name="ETV KANNADA" />
+          <channel GRP="49" code="379" name="TV9 KARNATAKA" />
+          <channel GRP="34" code="144" name="UDAYA VARTHEGALU" />
+          <channel GRP="28" code="427" name="KASTURI" />
+          <channel GRP="27" code="130" name="UDAYA MOVIES" />
+          <channel GRP="19" code="684" name="Kasthuri Newz 24" />
+          <channel GRP="17" code="27" name="DD9 CHANDANA (KANNADA)" />
+          <channel GRP="13" code="827" name="Plus Suvarna" />
+          <channel GRP="10" code="699" name="PUBLiC TV" />
+          <channel GRP="7" code="542" name="Chintu TV" />
+          <channel GRP="4" code="813" name="Raj News Kannada" />
+          <channel GRP="3" code="507" name="Sri Sankara" />
+          <channel GRP="2" code="514" name="Raj Musix Kannada" />
+        </genre>
+        <genre name="SPORTS">
+          <channel GRP="159" code="6" name="STAR SPORTS" />
+          <channel GRP="76" code="410" name="STAR CRICKET" />
+          <channel GRP="31" code="197" name="TEN SPORTS" />
+          <channel GRP="22" code="59" name="ESPN" />
+          <channel GRP="14" code="780" name="Star Sports2" />
+          <channel GRP="9" code="607" name="Ten Cricket" />
+          <channel GRP="0" code="87" name="DD SPORTS" />
+          <channel GRP="0" code="719" name="TEN ACTION" />
+          <channel GRP="0" code="374" name="NEO SPORTS" />
+          <channel GRP="0" code="716" name="NEO PRIME" />
+          <channel GRP="0" code="706" name="SONY SIX" />
+        </genre>
+        <genre name="TAM SAT">
+          <channel GRP="108" code="16" name="SUN TV" />
+          <channel GRP="69" code="53" name="VIJAY TV" />
+          <channel GRP="58" code="178" name="K TV" />
+          <channel GRP="22" code="40" name="JAYA TV" />
+          <channel GRP="21" code="424" name="KALAIGNAR TV" />
+          <channel GRP="11" code="119" name="SUN NEWS" />
+          <channel GRP="10" code="18" name="RAJ TV" />
+          <channel GRP="9" code="435" name="MEGA TV" />
+          <channel GRP="9" code="504" name="SEITHIGAL" />
+          <channel GRP="7" code="717" name="MURASU" />
+          <channel GRP="7" code="721" name="J MOVIE" />
+          <channel GRP="7" code="23" name="DD5 PODHIGAI (TAMIL)" />
+          <channel GRP="7" code="231" name="RAJ MUSIX" />
+          <channel GRP="6" code="688" name="Peppers" />
+          <channel GRP="6" code="88" name="RAJ DIGITAL PLUS" />
+          <channel GRP="6" code="287" name="SUN MUSIC" />
+          <channel GRP="6" code="748" name="THANTHI TV" />
+          <channel GRP="6" code="675" name="Sathiyam TV" />
+          <channel GRP="5" code="599" name="Chithiram" />
+          <channel GRP="4" code="729" name="SUN LIFE" />
+          <channel GRP="4" code="438" name="JAYA PLUS" />
+          <channel GRP="3" code="448" name="ISAIYARUVI" />
+          <channel GRP="3" code="521" name="Siripoli" />
+          <channel GRP="2" code="627" name="Mega Musiq" />
+          <channel GRP="2" code="466" name="RAJ NEWS 24x7" />
+          <channel GRP="2" code="403" name="CHUTTI TV" />
+          <channel GRP="2" code="594" name="Captain TV" />
+          <channel GRP="1" code="628" name="Mega 24" />
+          <channel GRP="1" code="439" name="JAYA MAX" />
+          <channel GRP="1" code="736" name="C NEWS" />
+        </genre>
+        <genre name="OTHERS">
+          <channel GRP="98" code="268" name="ZEE TELUGU" />
+          <channel GRP="94" code="198" name="MAA TELUGU" />
+          <channel GRP="72" code="123" name="TEJA TV" />
+          <channel GRP="43" code="459" name="SUVARNA NEWS" />
+          <channel GRP="36" code="406" name="ASIANET SUVARNA" />
+          <channel GRP="31" code="571" name="Polimer TV" />
+          <channel GRP="26" code="242" name="TV9 TELUGU NEWS" />
+          <channel GRP="25" code="356" name="ZEE KANNADA" />
+          <channel GRP="17" code="781" name="10 TV" />
+          <channel GRP="16" code="499" name="ZEE TAMIZH" />
+          <channel GRP="13" code="295" name="AMRITHA TV" />
+          <channel GRP="11" code="536" name="GCV" />
+          <channel GRP="10" code="532" name="Zee 24 Ghantalu" />
+          <channel GRP="9" code="420" name="NTV NEWS" />
+          <channel GRP="8" code="643" name="Janashri" />
+          <channel GRP="8" code="665" name="Discovery Channel Tamil" />
+          <channel GRP="8" code="240" name="ETV2 TELUGU NEWS" />
+          <channel GRP="8" code="516" name="Adithya TV" />
+          <channel GRP="7" code="705" name="V6 NEWS" />
+          <channel GRP="6" code="402" name="WE" />
+          <channel GRP="5" code="274" name="TOON DISNEY" />
+          <channel GRP="5" code="467" name="VASANT" />
+          <channel GRP="4" code="671" name="PUTHIYATHALAIMURAI TV" />
+          <channel GRP="4" code="342" name="U2" />
+          <channel GRP="3" code="369" name="MAKKAL TV" />
+          <channel GRP="3" code="190" name="ETV RAJASTAN" />
+          <channel GRP="3" code="584" name="Zee Salaam" />
+          <channel GRP="2" code="535" name="Ushe TV" />
+          <channel GRP="2" code="470" name="NATIONAL GEOGRAPHIC WILD" />
+          <channel GRP="2" code="267" name="DISCOVERY TRAVEL &amp;amp; LIVING" />
+          <channel GRP="1" code="273" name="ZEE BUSINESS" />
+          <channel GRP="1" code="497" name="VANITHA TV" />
+          <channel GRP="1" code="245" name="7 STAR CARE" />
+          <channel GRP="0" code="431" name="9X MUSIC" />
+          <channel GRP="0" code="611" name="ACV (Only for Ker10L+)" />
+          <channel GRP="0" code="279" name="AWAAZ" />
+          <channel GRP="0" code="137" name="AASTHA" />
+          <channel GRP="0" code="612" name="Rosebowl (Only for Ker10L+)" />
+          <channel GRP="0" code="255" name="ZEE PREMIER" />
+          <channel GRP="0" code="253" name="ZEE SMILE" />
+          <channel GRP="0" code="451" name="WORLD MOVIES" />
+          <channel GRP="0" code="339" name="FILMI" />
+          <channel GRP="0" code="257" name="ZEE CLASSIC" />
+          <channel GRP="0" code="469" name="NEWS LIVE" />
+          <channel GRP="0" code="831" name="&amp;amp;pictures" />
+          <channel GRP="0" code="256" name="ZEE ACTION" />
+        </genre>
+      </channel_share>
+      <TopTenPrograms>
+        <Program avgTVR="8.676087" channelcode="17" channelname="UDAYA TV" name="MADARANGI" rank="1" start_hour="21:30:00" />
+        <Program avgTVR="5.841429" channelcode="17" channelname="UDAYA TV" name="PREETHI PREMA" rank="2" start_hour="21:00:00" />
+        <Program avgTVR="5.73" channelcode="6" channelname="STAR SPORTS" name="L/T KARBONN CLT20-13 SF TT/MI (ENG)" rank="3" start_hour="22:00:00" />
+        <Program avgTVR="4.81" channelcode="16" channelname="SUN TV" name="TMF GHILLI" rank="4" start_hour="11:00:00" />
+        <Program avgTVR="4.76" channelcode="6" channelname="STAR SPORTS" name="L/T KARBONN CLT20-13 F MI/RR (ENG)" rank="5" start_hour="21:30:00" />
+        <Program avgTVR="4.74" channelcode="6" channelname="STAR SPORTS" name="L/T STAR SPORTS CUP-13 2 ODI AUS/IND" rank="6" start_hour="17:30:00" />
+        <Program avgTVR="4.666667" channelcode="17" channelname="UDAYA TV" name="ALAGULIMANE" rank="7" start_hour="19:00:00" />
+        <Program avgTVR="4.56" channelcode="6" channelname="STAR SPORTS" name="L/T KARBONN CLT20-13 SF RR/CSK (ENG)" rank="8" start_hour="21:30:00" />
+        <Program avgTVR="4.42" channelcode="6" channelname="STAR SPORTS" name="L/T STAR SPORTS CUP-13 3 ODI IND/AUS" rank="9" start_hour="18:00:00" />
+        <Program avgTVR="4.419167" channelcode="155" channelname="ETV KANNADA" name="ASHWINI NAKSHATRA" rank="10" start_hour="22:00:00" />
+      </TopTenPrograms>
+    </output>
+  </TG_MG>
+  <TG_MG name="CS 15-24 A~Kerala" type="Reference">
+    <tg name="CS 15-24 A">
+      <cs>1</cs>
+      <sec>1</sec>
+      <sex>1,2</sex>
+      <age>3</age>
+    </tg>
+    <mg name="Kerala" type="Group">
+      <market>H</market>
+      <market>I</market>
+    </mg>
+    <genre name="OTHERS" />
+    <genre name="TELUGU SAT" />
+    <genre name="TAM SAT" />
+    <genre name="KANNADA SAT" />
+    <genre name="SPORTS" />
+    <genre name="MALAYALAM SAT" />
+    <genre name="KIDS" />
+    <genre name="GEC1" />
+    <genre name="INFOTAINMENT" />
+    <genre name="MUSIC" />
+    <output>
+      <channel_share>
+        <genre name="TELUGU SAT">
+          <channel GRP="4" code="638" name="Maa Movies" />
+          <channel GRP="0" code="430" name="TV5 NEWS" />
+        </genre>
+        <genre name="GEC1">
+          <channel GRP="25" code="4" name="STAR PLUS" />
+          <channel GRP="22" code="3" name="ZEE TV" />
+          <channel GRP="3" code="60" name="SONY ENTERTAINMENT TV" />
+          <channel GRP="2" code="479" name="COLORS" />
+        </genre>
+        <genre name="INFOTAINMENT">
+          <channel GRP="18" code="677" name="History TV18" />
+          <channel GRP="13" code="71" name="NATIONAL GEOGRAPHIC CHANNEL" />
+          <channel GRP="12" code="49" name="DISCOVERY" />
+          <channel GRP="9" code="587" name="Discovery Turbo" />
+          <channel GRP="5" code="586" name="Discovery Science" />
+          <channel GRP="4" code="239" name="HISTORY" />
+          <channel GRP="4" code="422" name="NDTV GOOD TIMES" />
+          <channel GRP="0" code="89" name="ANIMAL PLANET" />
+        </genre>
+        <genre name="KIDS">
+          <channel GRP="9" code="241" name="POGO" />
+          <channel GRP="3" code="265" name="HUNGAMA TV" />
+          <channel GRP="2" code="275" name="DISNEY CHANNEL" />
+          <channel GRP="2" code="39" name="CARTOON NETWORK" />
+          <channel GRP="0" code="100" name="NICKELODEON" />
+        </genre>
+        <genre name="MALAYALAM SAT">
+          <channel GRP="416" code="19" name="ASIANET" />
+          <channel GRP="255" code="75" name="SURYA TV" />
+          <channel GRP="180" code="309" name="ASIANET PLUS" />
+          <channel GRP="133" code="281" name="KIRAN TV" />
+          <channel GRP="99" code="683" name="Mazhavil Manorama" />
+          <channel GRP="60" code="145" name="KAIRALI" />
+          <channel GRP="60" code="722" name="ASIANET MOVIES" />
+          <channel GRP="56" code="368" name="MANORAMA NEWS" />
+          <channel GRP="43" code="679" name="Kochu TV" />
+          <channel GRP="32" code="416" name="JAIHIND TV" />
+          <channel GRP="30" code="778" name="Kappa TV" />
+          <channel GRP="24" code="22" name="DD4 MALAYALAM" />
+          <channel GRP="23" code="167" name="ASIANET NEWS" />
+          <channel GRP="16" code="234" name="INDIAVISION" />
+          <channel GRP="14" code="315" name="PEOPLE" />
+          <channel GRP="13" code="772" name="Mathrubhumi News" />
+          <channel GRP="10" code="777" name="MEDIA ONE" />
+          <channel GRP="6" code="651" name="Reporter" />
+          <channel GRP="4" code="832" name="SURYA MUSIC" />
+        </genre>
+        <genre name="MUSIC">
+          <channel GRP="26" code="652" name="M Tunes HD" />
+          <channel GRP="14" code="457" name="E 24" />
+          <channel GRP="5" code="7" name="CHANNEL V" />
+          <channel GRP="5" code="366" name="MUSIC INDIA" />
+          <channel GRP="5" code="266" name="ZOOM" />
+          <channel GRP="4" code="120" name="B4U MUSIC" />
+          <channel GRP="1" code="282" name="VH1" />
+          <channel GRP="1" code="36" name="ZEE MUSIC" />
+          <channel GRP="1" code="61" name="MTV" />
+          <channel GRP="1" code="127" name="JUKEBOX" />
+          <channel GRP="0" code="709" name="9XO" />
+          <channel GRP="0" code="423" name="BINDASS" />
+          <channel GRP="0" code="673" name="Sony Mix" />
+          <channel GRP="0" code="14" name="ETC" />
+        </genre>
+        <genre name="SPORTS">
+          <channel GRP="283" code="6" name="STAR SPORTS" />
+          <channel GRP="89" code="59" name="ESPN" />
+          <channel GRP="83" code="410" name="STAR CRICKET" />
+          <channel GRP="47" code="197" name="TEN SPORTS" />
+          <channel GRP="30" code="607" name="Ten Cricket" />
+          <channel GRP="1" code="87" name="DD SPORTS" />
+          <channel GRP="0" code="374" name="NEO SPORTS" />
+          <channel GRP="0" code="719" name="TEN ACTION" />
+        </genre>
+        <genre name="TAM SAT">
+          <channel GRP="34" code="178" name="K TV" />
+          <channel GRP="32" code="16" name="SUN TV" />
+          <channel GRP="14" code="287" name="SUN MUSIC" />
+          <channel GRP="3" code="53" name="VIJAY TV" />
+          <channel GRP="2" code="448" name="ISAIYARUVI" />
+          <channel GRP="2" code="119" name="SUN NEWS" />
+          <channel GRP="1" code="40" name="JAYA TV" />
+          <channel GRP="0" code="599" name="Chithiram" />
+          <channel GRP="0" code="439" name="JAYA MAX" />
+          <channel GRP="0" code="521" name="Siripoli" />
+          <channel GRP="0" code="424" name="KALAIGNAR TV" />
+          <channel GRP="0" code="721" name="J MOVIE" />
+        </genre>
+        <genre name="OTHERS">
+          <channel GRP="79" code="295" name="AMRITHA TV" />
+          <channel GRP="38" code="402" name="WE" />
+          <channel GRP="6" code="267" name="DISCOVERY TRAVEL &amp;amp; LIVING" />
+          <channel GRP="4" code="611" name="ACV (Only for Ker10L+)" />
+          <channel GRP="2" code="612" name="Rosebowl (Only for Ker10L+)" />
+          <channel GRP="1" code="499" name="ZEE TAMIZH" />
+          <channel GRP="1" code="470" name="NATIONAL GEOGRAPHIC WILD" />
+          <channel GRP="0" code="536" name="GCV" />
+          <channel GRP="0" code="451" name="WORLD MOVIES" />
+          <channel GRP="0" code="406" name="ASIANET SUVARNA" />
+          <channel GRP="0" code="273" name="ZEE BUSINESS" />
+          <channel GRP="0" code="431" name="9X MUSIC" />
+          <channel GRP="0" code="137" name="AASTHA" />
+          <channel GRP="0" code="198" name="MAA TELUGU" />
+          <channel GRP="0" code="571" name="Polimer TV" />
+        </genre>
+      </channel_share>
+      <TopTenPrograms>
+        <Program avgTVR="22.06" channelcode="309" channelname="ASIANET PLUS" name="A SONG BREAK" rank="1" start_hour="21:30:00" />
+        <Program avgTVR="19.62" channelcode="6" channelname="STAR SPORTS" name="L/T STAR SPORTS CUP-13 6 ODI AUS/IND" rank="2" start_hour="13:30:00" />
+        <Program avgTVR="18.54" channelcode="19" channelname="ASIANET" name="MLF MY BIG FATHER" rank="3" start_hour="15:00:00" />
+        <Program avgTVR="18.38" channelcode="19" channelname="ASIANET" name="FILM SONGS" rank="4" start_hour="23:30:00" />
+        <Program avgTVR="18.38" channelcode="6" channelname="STAR SPORTS" name="KARBONN CLT20-13 SRH/TTN (HIN)" rank="5" start_hour="17:00:00" />
+        <Program avgTVR="17.76" channelcode="19" channelname="ASIANET" name="MAHABHARATHAM-CR" rank="6" start_hour="20:30:00" />
+        <Program avgTVR="16.63" channelcode="59" channelname="ESPN" name="NATWEST-13 1 T20 AUS/ENG" rank="7" start_hour="12:00:00" />
+        <Program avgTVR="16.08" channelcode="607" channelname="Ten Cricket" name="INCREDIBLE INNINGS" rank="8" start_hour="14:00:00" />
+        <Program avgTVR="15.99" channelcode="19" channelname="ASIANET" name="NESTLE MUNCH STARS-GF" rank="9" start_hour="19:00:00" />
+        <Program avgTVR="15.72" channelcode="410" channelname="STAR CRICKET" name="L/T BARCLAYS PRE LEAG-13 CHE/MANC" rank="10" start_hour="21:30:00" />
+      </TopTenPrograms>
+    </output>
+  </TG_MG>
+</input>

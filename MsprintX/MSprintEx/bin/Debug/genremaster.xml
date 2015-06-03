@@ -1,0 +1,795 @@
+ <genre>
+        <genre channel_code="1" genre_name="DD"/>
+        <genre channel_code="10" genre_name="HIN NEWS"/>
+        <genre channel_code="100" genre_name="KIDS"/>
+        <genre channel_code="101" genre_name="NON-ACTIVE"/>
+        <genre channel_code="102" genre_name="PUNJABI SAT"/>
+        <genre channel_code="103" genre_name="NON-ACTIVE"/>
+        <genre channel_code="104" genre_name="OTHERS"/>
+        <genre channel_code="105" genre_name="NON-ACTIVE"/>
+        <genre channel_code="106" genre_name="OTHERS"/>
+        <genre channel_code="107" genre_name="NON-ACTIVE"/>
+        <genre channel_code="108" genre_name="OTHERS"/>
+        <genre channel_code="109" genre_name="NON-ACTIVE"/>
+        <genre channel_code="11" genre_name="HIN NEWS"/>
+        <genre channel_code="110" genre_name="ENG MOVIES"/>
+        <genre channel_code="111" genre_name="SPORTS"/>
+        <genre channel_code="112" genre_name="ENG MOVIES"/>
+        <genre channel_code="113" genre_name="ENG ENTT"/>
+        <genre channel_code="114" genre_name="GEC2"/>
+        <genre channel_code="115" genre_name="GEC2"/>
+        <genre channel_code="116" genre_name="BENGALI SAT"/>
+        <genre channel_code="117" genre_name="OTHERS"/>
+        <genre channel_code="118" genre_name="OTHERS"/>
+        <genre channel_code="119" genre_name="TAM SAT"/>
+        <genre channel_code="12" genre_name="CABLE REGIONAL"/>
+        <genre channel_code="120" genre_name="MUSIC"/>
+        <genre channel_code="121" genre_name="OTHERS"/>
+        <genre channel_code="122" genre_name="NON-ACTIVE"/>
+        <genre channel_code="123" genre_name="OTHERS"/>
+        <genre channel_code="124" genre_name="NON-ACTIVE"/>
+        <genre channel_code="125" genre_name="ENG NEWS"/>
+        <genre channel_code="126" genre_name="NON-ACTIVE"/>
+        <genre channel_code="127" genre_name="MUSIC"/>
+        <genre channel_code="128" genre_name="MALAYALAM SAT"/>
+        <genre channel_code="129" genre_name="NON-ACTIVE"/>
+        <genre channel_code="13" genre_name="CABLE REGIONAL"/>
+        <genre channel_code="130" genre_name="KANNADA SAT"/>
+        <genre channel_code="131" genre_name="NON-ACTIVE"/>
+        <genre channel_code="132" genre_name="MARATHI SAT"/>
+        <genre channel_code="133" genre_name="PUNJABI SAT"/>
+        <genre channel_code="134" genre_name="NON-ACTIVE"/>
+        <genre channel_code="135" genre_name="NON-ACTIVE"/>
+        <genre channel_code="136" genre_name="NON-ACTIVE"/>
+        <genre channel_code="137" genre_name="OTHERS"/>
+        <genre channel_code="138" genre_name="NON-ACTIVE"/>
+        <genre channel_code="139" genre_name="NON-ACTIVE"/>
+        <genre channel_code="14" genre_name="MUSIC"/>
+        <genre channel_code="141" genre_name="OTHERS"/>
+        <genre channel_code="142" genre_name="OTHERS"/>
+        <genre channel_code="143" genre_name="PUNJABI SAT"/>
+        <genre channel_code="144" genre_name="KANNADA SAT"/>
+        <genre channel_code="145" genre_name="MALAYALAM SAT"/>
+        <genre channel_code="147" genre_name="NON-ACTIVE"/>
+        <genre channel_code="148" genre_name="HIN MOVIES"/>
+        <genre channel_code="149" genre_name="NON-ACTIVE"/>
+        <genre channel_code="15" genre_name="DD"/>
+        <genre channel_code="150" genre_name="NON-ACTIVE"/>
+        <genre channel_code="151" genre_name="NON-ACTIVE"/>
+        <genre channel_code="152" genre_name="NON-ACTIVE"/>
+        <genre channel_code="153" genre_name="OTHERS"/>
+        <genre channel_code="154" genre_name="NON-ACTIVE"/>
+        <genre channel_code="155" genre_name="KANNADA SAT"/>
+        <genre channel_code="156" genre_name="HIN NEWS"/>
+        <genre channel_code="157" genre_name="OTHERS"/>
+        <genre channel_code="158" genre_name="NON-ACTIVE"/>
+        <genre channel_code="159" genre_name="NON-ACTIVE"/>
+        <genre channel_code="16" genre_name="TAM SAT"/>
+        <genre channel_code="160" genre_name="NON-ACTIVE"/>
+        <genre channel_code="161" genre_name="OTHERS"/>
+        <genre channel_code="162" genre_name="BENGALI SAT"/>
+        <genre channel_code="163" genre_name="MUSIC"/>
+        <genre channel_code="165" genre_name="DD"/>
+        <genre channel_code="166" genre_name="OTHERS"/>
+        <genre channel_code="167" genre_name="MALAYALAM SAT"/>
+        <genre channel_code="168" genre_name="UP/BIHAR/JHARKHAND"/>
+        <genre channel_code="169" genre_name="NON-ACTIVE"/>
+        <genre channel_code="17" genre_name="KANNADA SAT"/>
+        <genre channel_code="170" genre_name="HIN MOVIES"/>
+        <genre channel_code="171" genre_name="NON-ACTIVE"/>
+        <genre channel_code="172" genre_name="NON-ACTIVE"/>
+        <genre channel_code="173" genre_name="NON-ACTIVE"/>
+        <genre channel_code="174" genre_name="NON-ACTIVE"/>
+        <genre channel_code="175" genre_name="NON-ACTIVE"/>
+        <genre channel_code="177" genre_name="OTHERS"/>
+        <genre channel_code="178" genre_name="TAM SAT"/>
+        <genre channel_code="179" genre_name="OTHERS"/>
+        <genre channel_code="18" genre_name="TAM SAT"/>
+        <genre channel_code="180" genre_name="NON-ACTIVE"/>
+        <genre channel_code="181" genre_name="CABLE REGIONAL"/>
+        <genre channel_code="182" genre_name="OTHERS"/>
+        <genre channel_code="183" genre_name="CABLE REGIONAL"/>
+        <genre channel_code="184" genre_name="OTHERS"/>
+        <genre channel_code="185" genre_name="TAM SAT"/>
+        <genre channel_code="186" genre_name="DD"/>
+        <genre channel_code="187" genre_name="OTHER REGIONALS"/>
+        <genre channel_code="188" genre_name="ORIYA SAT"/>
+        <genre channel_code="189" genre_name="UP/BIHAR/JHARKHAND"/>
+        <genre channel_code="19" genre_name="MALAYALAM SAT"/>
+        <genre channel_code="190" genre_name="OTHERS"/>
+        <genre channel_code="191" genre_name="OTHER REGIONALS"/>
+        <genre channel_code="192" genre_name="UP/BIHAR/JHARKHAND"/>
+        <genre channel_code="193" genre_name="OTHERS"/>
+        <genre channel_code="194" genre_name="NON-ACTIVE"/>
+        <genre channel_code="195" genre_name="DD"/>
+        <genre channel_code="196" genre_name="OTHERS"/>
+        <genre channel_code="197" genre_name="SPORTS"/>
+        <genre channel_code="198" genre_name="OTHERS"/>
+        <genre channel_code="199" genre_name="NON-ACTIVE"/>
+        <genre channel_code="2" genre_name="NON-ACTIVE"/>
+        <genre channel_code="20" genre_name="NON-ACTIVE"/>
+        <genre channel_code="200" genre_name="NON-ACTIVE"/>
+        <genre channel_code="201" genre_name="NON-ACTIVE"/>
+        <genre channel_code="202" genre_name="NON-ACTIVE"/>
+        <genre channel_code="203" genre_name="NON-ACTIVE"/>
+        <genre channel_code="204" genre_name="ENG NEWS"/>
+        <genre channel_code="205" genre_name="OTHERS"/>
+        <genre channel_code="206" genre_name="OTHERS"/>
+        <genre channel_code="207" genre_name="OTHERS"/>
+        <genre channel_code="208" genre_name="OTHERS"/>
+        <genre channel_code="209" genre_name="NON-ACTIVE"/>
+        <genre channel_code="210" genre_name="NON-ACTIVE"/>
+        <genre channel_code="211" genre_name="OTHERS"/>
+        <genre channel_code="212" genre_name="DD"/>
+        <genre channel_code="213" genre_name="OTHERS"/>
+        <genre channel_code="214" genre_name="NON-ACTIVE"/>
+        <genre channel_code="215" genre_name="OTHERS"/>
+        <genre channel_code="216" genre_name="NON-ACTIVE"/>
+        <genre channel_code="217" genre_name="NON-ACTIVE"/>
+        <genre channel_code="218" genre_name="OTHERS"/>
+        <genre channel_code="219" genre_name="OTHERS"/>
+        <genre channel_code="22" genre_name="MALAYALAM SAT"/>
+        <genre channel_code="220" genre_name="UP/BIHAR/JHARKHAND"/>
+        <genre channel_code="221" genre_name="ENG NEWS"/>
+        <genre channel_code="222" genre_name="HIN NEWS"/>
+        <genre channel_code="223" genre_name="ENG NEWS"/>
+        <genre channel_code="224" genre_name="NON-ACTIVE"/>
+        <genre channel_code="225" genre_name="OTHERS"/>
+        <genre channel_code="226" genre_name="NON-ACTIVE"/>
+        <genre channel_code="227" genre_name="OTHERS"/>
+        <genre channel_code="228" genre_name="OTHERS"/>
+        <genre channel_code="229" genre_name="NON-ACTIVE"/>
+        <genre channel_code="23" genre_name="TAM SAT"/>
+        <genre channel_code="230" genre_name="TELUGU SAT"/>
+        <genre channel_code="231" genre_name="TAM SAT"/>
+        <genre channel_code="232" genre_name="NON-ACTIVE"/>
+        <genre channel_code="233" genre_name="PUNJABI SAT"/>
+        <genre channel_code="234" genre_name="MALAYALAM SAT"/>
+        <genre channel_code="235" genre_name="OTHER REGIONALS"/>
+        <genre channel_code="236" genre_name="HIN NEWS"/>
+        <genre channel_code="237" genre_name="NON-ACTIVE"/>
+        <genre channel_code="238" genre_name="NON-ACTIVE"/>
+        <genre channel_code="239" genre_name="INFOTAINMENT"/>
+        <genre channel_code="24" genre_name="DD"/>
+        <genre channel_code="240" genre_name="OTHERS"/>
+        <genre channel_code="241" genre_name="KIDS"/>
+        <genre channel_code="242" genre_name="OTHERS"/>
+        <genre channel_code="243" genre_name="OTHERS"/>
+        <genre channel_code="244" genre_name="OTHERS"/>
+        <genre channel_code="245" genre_name="OTHERS"/>
+        <genre channel_code="246" genre_name="OTHERS"/>
+        <genre channel_code="247" genre_name="OTHER REGIONALS"/>
+        <genre channel_code="248" genre_name="OTHERS"/>
+        <genre channel_code="249" genre_name="OTHERS"/>
+        <genre channel_code="25" genre_name="BENGALI SAT"/>
+        <genre channel_code="250" genre_name="GEC2"/>
+        <genre channel_code="251" genre_name="HIN NEWS"/>
+        <genre channel_code="252" genre_name="NON-ACTIVE"/>
+        <genre channel_code="253" genre_name="OTHERS"/>
+        <genre channel_code="254" genre_name="OTHERS"/>
+        <genre channel_code="255" genre_name="OTHERS"/>
+        <genre channel_code="256" genre_name="OTHERS"/>
+        <genre channel_code="257" genre_name="OTHERS"/>
+        <genre channel_code="258" genre_name="HIN NEWS"/>
+        <genre channel_code="259" genre_name="OTHERS"/>
+        <genre channel_code="26" genre_name="TELUGU SAT"/>
+        <genre channel_code="260" genre_name="NON-ACTIVE"/>
+        <genre channel_code="261" genre_name="KIDS"/>
+        <genre channel_code="262" genre_name="TELUGU SAT"/>
+        <genre channel_code="263" genre_name="DD"/>
+        <genre channel_code="264" genre_name="NON-ACTIVE"/>
+        <genre channel_code="265" genre_name="KIDS"/>
+        <genre channel_code="266" genre_name="MUSIC"/>
+        <genre channel_code="267" genre_name="OTHERS"/>
+        <genre channel_code="268" genre_name="OTHERS"/>
+        <genre channel_code="269" genre_name="NON-ACTIVE"/>
+        <genre channel_code="27" genre_name="KANNADA SAT"/>
+        <genre channel_code="270" genre_name="NON-ACTIVE"/>
+        <genre channel_code="271" genre_name="NON-ACTIVE"/>
+        <genre channel_code="272" genre_name="NON-ACTIVE"/>
+        <genre channel_code="273" genre_name="OTHERS"/>
+        <genre channel_code="274" genre_name="OTHERS"/>
+        <genre channel_code="275" genre_name="KIDS"/>
+        <genre channel_code="276" genre_name="OTHERS"/>
+        <genre channel_code="277" genre_name="OTHERS"/>
+        <genre channel_code="278" genre_name="OTHERS"/>
+        <genre channel_code="279" genre_name="OTHERS"/>
+        <genre channel_code="28" genre_name="MARATHI SAT"/>
+        <genre channel_code="280" genre_name="ENG NEWS"/>
+        <genre channel_code="281" genre_name="MALAYALAM SAT"/>
+        <genre channel_code="282" genre_name="MUSIC"/>
+        <genre channel_code="283" genre_name="OTHERS"/>
+        <genre channel_code="284" genre_name="BENGALI SAT"/>
+        <genre channel_code="285" genre_name="BENGALI SAT"/>
+        <genre channel_code="286" genre_name="NON-ACTIVE"/>
+        <genre channel_code="287" genre_name="TAM SAT"/>
+        <genre channel_code="288" genre_name="HIN NEWS"/>
+        <genre channel_code="289" genre_name="NON-ACTIVE"/>
+        <genre channel_code="29" genre_name="DD"/>
+        <genre channel_code="290" genre_name="NON-ACTIVE"/>
+        <genre channel_code="291" genre_name="HIN NEWS"/>
+        <genre channel_code="292" genre_name="NON-ACTIVE"/>
+        <genre channel_code="293" genre_name="NON-ACTIVE"/>
+        <genre channel_code="294" genre_name="OTHERS"/>
+        <genre channel_code="295" genre_name="OTHERS"/>
+        <genre channel_code="296" genre_name="HIN NEWS"/>
+        <genre channel_code="297" genre_name="OTHERS"/>
+        <genre channel_code="298" genre_name="TELUGU SAT"/>
+        <genre channel_code="299" genre_name="NON-ACTIVE"/>
+        <genre channel_code="3" genre_name="GEC1"/>
+        <genre channel_code="30" genre_name="DD"/>
+        <genre channel_code="300" genre_name="MALAYALAM SAT"/>
+        <genre channel_code="301" genre_name="NON-ACTIVE"/>
+        <genre channel_code="302" genre_name="NON-ACTIVE"/>
+        <genre channel_code="303" genre_name="OTHERS"/>
+        <genre channel_code="304" genre_name="NON-ACTIVE"/>
+        <genre channel_code="305" genre_name="NON-ACTIVE"/>
+        <genre channel_code="306" genre_name="BENGALI SAT"/>
+        <genre channel_code="307" genre_name="NON-ACTIVE"/>
+        <genre channel_code="308" genre_name="NON-ACTIVE"/>
+        <genre channel_code="309" genre_name="MALAYALAM SAT"/>
+        <genre channel_code="31" genre_name="DD"/>
+        <genre channel_code="310" genre_name="NON-ACTIVE"/>
+        <genre channel_code="311" genre_name="NON-ACTIVE"/>
+        <genre channel_code="312" genre_name="NON-ACTIVE"/>
+        <genre channel_code="313" genre_name="NON-ACTIVE"/>
+        <genre channel_code="314" genre_name="NON-ACTIVE"/>
+        <genre channel_code="315" genre_name="MALAYALAM SAT"/>
+        <genre channel_code="316" genre_name="HIN NEWS"/>
+        <genre channel_code="317" genre_name="NON-ACTIVE"/>
+        <genre channel_code="318" genre_name="NON-ACTIVE"/>
+        <genre channel_code="319" genre_name="HIN NEWS"/>
+        <genre channel_code="320" genre_name="NON-ACTIVE"/>
+        <genre channel_code="321" genre_name="NON-ACTIVE"/>
+        <genre channel_code="322" genre_name="NON-ACTIVE"/>
+        <genre channel_code="323" genre_name="NON-ACTIVE"/>
+        <genre channel_code="324" genre_name="OTHERS"/>
+        <genre channel_code="325" genre_name="NON-ACTIVE"/>
+        <genre channel_code="326" genre_name="NON-ACTIVE"/>
+        <genre channel_code="327" genre_name="NON-ACTIVE"/>
+        <genre channel_code="328" genre_name="NON-ACTIVE"/>
+        <genre channel_code="329" genre_name="NON-ACTIVE"/>
+        <genre channel_code="33" genre_name="DD"/>
+        <genre channel_code="330" genre_name="NON-ACTIVE"/>
+        <genre channel_code="331" genre_name="NON-ACTIVE"/>
+        <genre channel_code="332" genre_name="ENG NEWS"/>
+        <genre channel_code="333" genre_name="NON-ACTIVE"/>
+        <genre channel_code="334" genre_name="NON-ACTIVE"/>
+        <genre channel_code="335" genre_name="OTHERS"/>
+        <genre channel_code="336" genre_name="NON-ACTIVE"/>
+        <genre channel_code="337" genre_name="ENG NEWS"/>
+        <genre channel_code="338" genre_name="OTHERS"/>
+        <genre channel_code="339" genre_name="OTHERS"/>
+        <genre channel_code="34" genre_name="HIN MOVIES"/>
+        <genre channel_code="340" genre_name="NON-ACTIVE"/>
+        <genre channel_code="341" genre_name="OTHERS"/>
+        <genre channel_code="342" genre_name="OTHERS"/>
+        <genre channel_code="343" genre_name="NON-ACTIVE"/>
+        <genre channel_code="344" genre_name="NON-ACTIVE"/>
+        <genre channel_code="345" genre_name="OTHERS"/>
+        <genre channel_code="346" genre_name="NON-ACTIVE"/>
+        <genre channel_code="347" genre_name="NON-ACTIVE"/>
+        <genre channel_code="348" genre_name="NON-ACTIVE"/>
+        <genre channel_code="349" genre_name="NON-ACTIVE"/>
+        <genre channel_code="35" genre_name="OTHERS"/>
+        <genre channel_code="350" genre_name="BENGALI SAT"/>
+        <genre channel_code="351" genre_name="NON-ACTIVE"/>
+        <genre channel_code="352" genre_name="OTHERS"/>
+        <genre channel_code="353" genre_name="TAM SAT"/>
+        <genre channel_code="354" genre_name="ENG MOVIES"/>
+        <genre channel_code="355" genre_name="ENG MOVIES"/>
+        <genre channel_code="356" genre_name="OTHERS"/>
+        <genre channel_code="357" genre_name="NON-ACTIVE"/>
+        <genre channel_code="358" genre_name="NON-ACTIVE"/>
+        <genre channel_code="359" genre_name="NON-ACTIVE"/>
+        <genre channel_code="36" genre_name="MUSIC"/>
+        <genre channel_code="360" genre_name="NON-ACTIVE"/>
+        <genre channel_code="361" genre_name="HIN NEWS"/>
+        <genre channel_code="362" genre_name="OTHERS"/>
+        <genre channel_code="363" genre_name="NON-ACTIVE"/>
+        <genre channel_code="364" genre_name="NON-ACTIVE"/>
+        <genre channel_code="365" genre_name="NON-ACTIVE"/>
+        <genre channel_code="366" genre_name="MUSIC"/>
+        <genre channel_code="367" genre_name="DD"/>
+        <genre channel_code="368" genre_name="MALAYALAM SAT"/>
+        <genre channel_code="369" genre_name="OTHERS"/>
+        <genre channel_code="37" genre_name="BENGALI SAT"/>
+        <genre channel_code="370" genre_name="OTHERS"/>
+        <genre channel_code="371" genre_name="NON-ACTIVE"/>
+        <genre channel_code="372" genre_name="ENG ENTT"/>
+        <genre channel_code="373" genre_name="OTHERS"/>
+        <genre channel_code="374" genre_name="SPORTS"/>
+        <genre channel_code="375" genre_name="OTHERS"/>
+        <genre channel_code="376" genre_name="BENGALI SAT"/>
+        <genre channel_code="378" genre_name="SPORTS"/>
+        <genre channel_code="379" genre_name="KANNADA SAT"/>
+        <genre channel_code="38" genre_name="HIN MOVIES"/>
+        <genre channel_code="380" genre_name="HIN MOVIES"/>
+        <genre channel_code="381" genre_name="ORIYA SAT"/>
+        <genre channel_code="383" genre_name="NON-ACTIVE"/>
+        <genre channel_code="384" genre_name="NON-ACTIVE"/>
+        <genre channel_code="385" genre_name="NON-ACTIVE"/>
+        <genre channel_code="386" genre_name="NON-ACTIVE"/>
+        <genre channel_code="387" genre_name="NON-ACTIVE"/>
+        <genre channel_code="388" genre_name="PUNJABI SAT"/>
+        <genre channel_code="389" genre_name="OTHERS"/>
+        <genre channel_code="39" genre_name="KIDS"/>
+        <genre channel_code="390" genre_name="OTHERS"/>
+        <genre channel_code="391" genre_name="OTHERS"/>
+        <genre channel_code="392" genre_name="ASSAM SAT"/>
+        <genre channel_code="393" genre_name="NON-ACTIVE"/>
+        <genre channel_code="394" genre_name="NON-ACTIVE"/>
+        <genre channel_code="395" genre_name="NON-ACTIVE"/>
+        <genre channel_code="396" genre_name="MARATHI SAT"/>
+        <genre channel_code="397" genre_name="NON-ACTIVE"/>
+        <genre channel_code="398" genre_name="NON-ACTIVE"/>
+        <genre channel_code="399" genre_name="NON-ACTIVE"/>
+        <genre channel_code="4" genre_name="GEC1"/>
+        <genre channel_code="40" genre_name="TAM SAT"/>
+        <genre channel_code="400" genre_name="OTHERS"/>
+        <genre channel_code="401" genre_name="NON-ACTIVE"/>
+        <genre channel_code="402" genre_name="OTHERS"/>
+        <genre channel_code="403" genre_name="TAM SAT"/>
+        <genre channel_code="404" genre_name="NON-ACTIVE"/>
+        <genre channel_code="405" genre_name="NON-ACTIVE"/>
+        <genre channel_code="406" genre_name="OTHERS"/>
+        <genre channel_code="408" genre_name="OTHERS"/>
+        <genre channel_code="409" genre_name="PUNJABI SAT"/>
+        <genre channel_code="41" genre_name="OTHERS"/>
+        <genre channel_code="410" genre_name="SPORTS"/>
+        <genre channel_code="411" genre_name="OTHERS"/>
+        <genre channel_code="412" genre_name="NON-ACTIVE"/>
+        <genre channel_code="413" genre_name="OTHERS"/>
+        <genre channel_code="414" genre_name="NON-ACTIVE"/>
+        <genre channel_code="415" genre_name="BENGALI SAT"/>
+        <genre channel_code="416" genre_name="MALAYALAM SAT"/>
+        <genre channel_code="417" genre_name="NON-ACTIVE"/>
+        <genre channel_code="418" genre_name="OTHERS"/>
+        <genre channel_code="419" genre_name="NON-ACTIVE"/>
+        <genre channel_code="42" genre_name="OTHERS"/>
+        <genre channel_code="420" genre_name="OTHERS"/>
+        <genre channel_code="421" genre_name="TELUGU SAT"/>
+        <genre channel_code="422" genre_name="INFOTAINMENT"/>
+        <genre channel_code="423" genre_name="MUSIC"/>
+        <genre channel_code="424" genre_name="TAM SAT"/>
+        <genre channel_code="425" genre_name="NON-ACTIVE"/>
+        <genre channel_code="426" genre_name="NON-ACTIVE"/>
+        <genre channel_code="427" genre_name="KANNADA SAT"/>
+        <genre channel_code="428" genre_name="OTHERS"/>
+        <genre channel_code="429" genre_name="HIN MOVIES"/>
+        <genre channel_code="430" genre_name="TELUGU SAT"/>
+        <genre channel_code="431" genre_name="OTHERS"/>
+        <genre channel_code="432" genre_name="HIN MOVIES"/>
+        <genre channel_code="433" genre_name="OTHERS"/>
+        <genre channel_code="434" genre_name="OTHERS"/>
+        <genre channel_code="435" genre_name="TAM SAT"/>
+        <genre channel_code="436" genre_name="OTHERS"/>
+        <genre channel_code="437" genre_name="OTHERS"/>
+        <genre channel_code="438" genre_name="TAM SAT"/>
+        <genre channel_code="439" genre_name="TAM SAT"/>
+        <genre channel_code="44" genre_name="ENG NEWS"/>
+        <genre channel_code="440" genre_name="HIN NEWS"/>
+        <genre channel_code="441" genre_name="OTHERS"/>
+        <genre channel_code="442" genre_name="NON-ACTIVE"/>
+        <genre channel_code="443" genre_name="NON-ACTIVE"/>
+        <genre channel_code="444" genre_name="OTHER REGIONALS"/>
+        <genre channel_code="445" genre_name="MUSIC"/>
+        <genre channel_code="446" genre_name="NON-ACTIVE"/>
+        <genre channel_code="447" genre_name="HIN NEWS"/>
+        <genre channel_code="448" genre_name="TAM SAT"/>
+        <genre channel_code="449" genre_name="OTHERS"/>
+        <genre channel_code="450" genre_name="OTHERS"/>
+        <genre channel_code="451" genre_name="OTHERS"/>
+        <genre channel_code="452" genre_name="HIN MOVIES"/>
+        <genre channel_code="453" genre_name="OTHER REGIONALS"/>
+        <genre channel_code="454" genre_name="NON-ACTIVE"/>
+        <genre channel_code="455" genre_name="NON-ACTIVE"/>
+        <genre channel_code="456" genre_name="ENG NEWS"/>
+        <genre channel_code="457" genre_name="MUSIC"/>
+        <genre channel_code="458" genre_name="HIN NEWS"/>
+        <genre channel_code="459" genre_name="OTHERS"/>
+        <genre channel_code="46" genre_name="OTHERS"/>
+        <genre channel_code="460" genre_name="MARATHI SAT"/>
+        <genre channel_code="461" genre_name="MARATHI SAT"/>
+        <genre channel_code="462" genre_name="NON-ACTIVE"/>
+        <genre channel_code="463" genre_name="NON-ACTIVE"/>
+        <genre channel_code="464" genre_name="OTHERS"/>
+        <genre channel_code="465" genre_name="OTHERS"/>
+        <genre channel_code="466" genre_name="TAM SAT"/>
+        <genre channel_code="467" genre_name="OTHERS"/>
+        <genre channel_code="468" genre_name="NON-ACTIVE"/>
+        <genre channel_code="469" genre_name="OTHERS"/>
+        <genre channel_code="47" genre_name="NON-ACTIVE"/>
+        <genre channel_code="470" genre_name="OTHERS"/>
+        <genre channel_code="471" genre_name="NON-ACTIVE"/>
+        <genre channel_code="472" genre_name="NON-ACTIVE"/>
+        <genre channel_code="473" genre_name="TELUGU SAT"/>
+        <genre channel_code="474" genre_name="NON-ACTIVE"/>
+        <genre channel_code="475" genre_name="NON-ACTIVE"/>
+        <genre channel_code="476" genre_name="OTHERS"/>
+        <genre channel_code="477" genre_name="UP/BIHAR/JHARKHAND"/>
+        <genre channel_code="478" genre_name="NON-ACTIVE"/>
+        <genre channel_code="479" genre_name="GEC1"/>
+        <genre channel_code="480" genre_name="OTHERS"/>
+        <genre channel_code="481" genre_name="OTHERS"/>
+        <genre channel_code="482" genre_name="NON-ACTIVE"/>
+        <genre channel_code="483" genre_name="OTHERS"/>
+        <genre channel_code="484" genre_name="OTHERS"/>
+        <genre channel_code="485" genre_name="OTHERS"/>
+        <genre channel_code="486" genre_name="NON-ACTIVE"/>
+        <genre channel_code="487" genre_name="PUNJABI SAT"/>
+        <genre channel_code="488" genre_name="NON-ACTIVE"/>
+        <genre channel_code="489" genre_name="BENGALI SAT"/>
+        <genre channel_code="49" genre_name="INFOTAINMENT"/>
+        <genre channel_code="490" genre_name="NON-ACTIVE"/>
+        <genre channel_code="491" genre_name="NON-ACTIVE"/>
+        <genre channel_code="492" genre_name="OTHERS"/>
+        <genre channel_code="493" genre_name="NON-ACTIVE"/>
+        <genre channel_code="494" genre_name="NON-ACTIVE"/>
+        <genre channel_code="495" genre_name="OTHERS"/>
+        <genre channel_code="496" genre_name="OTHERS"/>
+        <genre channel_code="497" genre_name="OTHERS"/>
+        <genre channel_code="498" genre_name="BENGALI SAT"/>
+        <genre channel_code="499" genre_name="OTHERS"/>
+        <genre channel_code="5" genre_name="ENG NEWS"/>
+        <genre channel_code="50" genre_name="NON-ACTIVE"/>
+        <genre channel_code="500" genre_name="OTHERS"/>
+        <genre channel_code="501" genre_name="OTHERS"/>
+        <genre channel_code="502" genre_name="ORIYA SAT"/>
+        <genre channel_code="503" genre_name="MARATHI SAT"/>
+        <genre channel_code="504" genre_name="TAM SAT"/>
+        <genre channel_code="505" genre_name="OTHERS"/>
+        <genre channel_code="506" genre_name="OTHERS"/>
+        <genre channel_code="507" genre_name="KANNADA SAT"/>
+        <genre channel_code="508" genre_name="NON-ACTIVE"/>
+        <genre channel_code="509" genre_name="OTHERS"/>
+        <genre channel_code="51" genre_name="NON-ACTIVE"/>
+        <genre channel_code="510" genre_name="NON-ACTIVE"/>
+        <genre channel_code="511" genre_name="OTHERS"/>
+        <genre channel_code="512" genre_name="ENG NEWS"/>
+        <genre channel_code="513" genre_name="NON-ACTIVE"/>
+        <genre channel_code="514" genre_name="KANNADA SAT"/>
+        <genre channel_code="515" genre_name="NON-ACTIVE"/>
+        <genre channel_code="516" genre_name="OTHERS"/>
+        <genre channel_code="517" genre_name="TELUGU SAT"/>
+        <genre channel_code="518" genre_name="TELUGU SAT"/>
+        <genre channel_code="519" genre_name="TELUGU SAT"/>
+        <genre channel_code="52" genre_name="TELUGU SAT"/>
+        <genre channel_code="520" genre_name="NON-ACTIVE"/>
+        <genre channel_code="521" genre_name="TAM SAT"/>
+        <genre channel_code="522" genre_name="NON-ACTIVE"/>
+        <genre channel_code="523" genre_name="TELUGU SAT"/>
+        <genre channel_code="524" genre_name="UP/BIHAR/JHARKHAND"/>
+        <genre channel_code="525" genre_name="NON-ACTIVE"/>
+        <genre channel_code="526" genre_name="UP/BIHAR/JHARKHAND"/>
+        <genre channel_code="527" genre_name="UP/BIHAR/JHARKHAND"/>
+        <genre channel_code="528" genre_name="ENG MOVIES"/>
+        <genre channel_code="529" genre_name="TELUGU SAT"/>
+        <genre channel_code="53" genre_name="TAM SAT"/>
+        <genre channel_code="530" genre_name="PUNJABI SAT"/>
+        <genre channel_code="531" genre_name="NON-ACTIVE"/>
+        <genre channel_code="532" genre_name="OTHERS"/>
+        <genre channel_code="533" genre_name="PUNJABI SAT"/>
+        <genre channel_code="534" genre_name="ORIYA SAT"/>
+        <genre channel_code="535" genre_name="OTHERS"/>
+        <genre channel_code="536" genre_name="OTHERS"/>
+        <genre channel_code="537" genre_name="NON-ACTIVE"/>
+        <genre channel_code="538" genre_name="OTHERS"/>
+        <genre channel_code="539" genre_name="UP/BIHAR/JHARKHAND"/>
+        <genre channel_code="54" genre_name="NON-ACTIVE"/>
+        <genre channel_code="540" genre_name="OTHERS"/>
+        <genre channel_code="541" genre_name="TELUGU SAT"/>
+        <genre channel_code="542" genre_name="KANNADA SAT"/>
+        <genre channel_code="543" genre_name="ENG ENTT"/>
+        <genre channel_code="544" genre_name="ENG ENTT"/>
+        <genre channel_code="545" genre_name="KIDS"/>
+        <genre channel_code="546" genre_name="NON-ACTIVE"/>
+        <genre channel_code="547" genre_name="ORIYA SAT"/>
+        <genre channel_code="548" genre_name="TELUGU SAT"/>
+        <genre channel_code="549" genre_name="HIN NEWS"/>
+        <genre channel_code="55" genre_name="OTHERS"/>
+        <genre channel_code="550" genre_name="NON-ACTIVE"/>
+        <genre channel_code="551" genre_name="OTHERS"/>
+        <genre channel_code="552" genre_name="UP/BIHAR/JHARKHAND"/>
+        <genre channel_code="553" genre_name="NON-ACTIVE"/>
+        <genre channel_code="554" genre_name="OTHERS"/>
+        <genre channel_code="555" genre_name="NON-ACTIVE"/>
+        <genre channel_code="556" genre_name="OTHERS"/>
+        <genre channel_code="557" genre_name="HIN NEWS"/>
+        <genre channel_code="558" genre_name="HIN NEWS"/>
+        <genre channel_code="559" genre_name="OTHER REGIONALS"/>
+        <genre channel_code="56" genre_name="CABLE REGIONAL"/>
+        <genre channel_code="560" genre_name="NON-ACTIVE"/>
+        <genre channel_code="561" genre_name="ENG NEWS"/>
+        <genre channel_code="562" genre_name="TAM SAT"/>
+        <genre channel_code="563" genre_name="OTHERS"/>
+        <genre channel_code="564" genre_name="OTHER REGIONALS"/>
+        <genre channel_code="565" genre_name="OTHERS"/>
+        <genre channel_code="566" genre_name="UP/BIHAR/JHARKHAND"/>
+        <genre channel_code="567" genre_name="BENGALI SAT"/>
+        <genre channel_code="568" genre_name="OTHERS"/>
+        <genre channel_code="569" genre_name="ORIYA SAT"/>
+        <genre channel_code="571" genre_name="OTHERS"/>
+        <genre channel_code="572" genre_name="OTHER REGIONALS"/>
+        <genre channel_code="573" genre_name="TELUGU SAT"/>
+        <genre channel_code="574" genre_name="NON-ACTIVE"/>
+        <genre channel_code="575" genre_name="NON-ACTIVE"/>
+        <genre channel_code="576" genre_name="OTHERS"/>
+        <genre channel_code="577" genre_name="NON-ACTIVE"/>
+        <genre channel_code="578" genre_name="NON-ACTIVE"/>
+        <genre channel_code="579" genre_name="ASSAM SAT"/>
+        <genre channel_code="580" genre_name="HIN MOVIES"/>
+        <genre channel_code="582" genre_name="NON-ACTIVE"/>
+        <genre channel_code="583" genre_name="OTHERS"/>
+        <genre channel_code="584" genre_name="OTHERS"/>
+        <genre channel_code="585" genre_name="UP/BIHAR/JHARKHAND"/>
+        <genre channel_code="586" genre_name="INFOTAINMENT"/>
+        <genre channel_code="587" genre_name="INFOTAINMENT"/>
+        <genre channel_code="588" genre_name="NON-ACTIVE"/>
+        <genre channel_code="589" genre_name="MALAYALAM SAT"/>
+        <genre channel_code="59" genre_name="SPORTS"/>
+        <genre channel_code="590" genre_name="NON-ACTIVE"/>
+        <genre channel_code="591" genre_name="NON-ACTIVE"/>
+        <genre channel_code="592" genre_name="NON-ACTIVE"/>
+        <genre channel_code="593" genre_name="OTHERS"/>
+        <genre channel_code="594" genre_name="TAM SAT"/>
+        <genre channel_code="595" genre_name="OTHERS"/>
+        <genre channel_code="596" genre_name="OTHERS"/>
+        <genre channel_code="597" genre_name="NON-ACTIVE"/>
+        <genre channel_code="598" genre_name="BENGALI SAT"/>
+        <genre channel_code="599" genre_name="TAM SAT"/>
+        <genre channel_code="6" genre_name="SPORTS"/>
+        <genre channel_code="60" genre_name="GEC1"/>
+        <genre channel_code="600" genre_name="KANNADA SAT"/>
+        <genre channel_code="601" genre_name="OTHERS"/>
+        <genre channel_code="602" genre_name="MUSIC"/>
+        <genre channel_code="603" genre_name="NON-ACTIVE"/>
+        <genre channel_code="604" genre_name="NON-ACTIVE"/>
+        <genre channel_code="605" genre_name="OTHERS"/>
+        <genre channel_code="606" genre_name="NON-ACTIVE"/>
+        <genre channel_code="607" genre_name="SPORTS"/>
+        <genre channel_code="608" genre_name="OTHERS"/>
+        <genre channel_code="609" genre_name="PUNJABI SAT"/>
+        <genre channel_code="61" genre_name="MUSIC"/>
+        <genre channel_code="610" genre_name="NON-ACTIVE"/>
+        <genre channel_code="611" genre_name="OTHERS"/>
+        <genre channel_code="612" genre_name="OTHERS"/>
+        <genre channel_code="613" genre_name="OTHERS"/>
+        <genre channel_code="614" genre_name="OTHERS"/>
+        <genre channel_code="615" genre_name="ORIYA SAT"/>
+        <genre channel_code="616" genre_name="OTHERS"/>
+        <genre channel_code="617" genre_name="NON-ACTIVE"/>
+        <genre channel_code="618" genre_name="NON-ACTIVE"/>
+        <genre channel_code="619" genre_name="ENG ENTT"/>
+        <genre channel_code="62" genre_name="TELUGU SAT"/>
+        <genre channel_code="620" genre_name="OTHERS"/>
+        <genre channel_code="621" genre_name="OTHERS"/>
+        <genre channel_code="622" genre_name="OTHERS"/>
+        <genre channel_code="623" genre_name="NON-ACTIVE"/>
+        <genre channel_code="624" genre_name="UP/BIHAR/JHARKHAND"/>
+        <genre channel_code="625" genre_name="BENGALI SAT"/>
+        <genre channel_code="626" genre_name="ENG MOVIES"/>
+        <genre channel_code="627" genre_name="TAM SAT"/>
+        <genre channel_code="628" genre_name="TAM SAT"/>
+        <genre channel_code="629" genre_name="NON-ACTIVE"/>
+        <genre channel_code="630" genre_name="INFOTAINMENT"/>
+        <genre channel_code="631" genre_name="OTHERS"/>
+        <genre channel_code="632" genre_name="ASSAM SAT"/>
+        <genre channel_code="633" genre_name="PUNJABI SAT"/>
+        <genre channel_code="634" genre_name="OTHERS"/>
+        <genre channel_code="635" genre_name="INFOTAINMENT"/>
+        <genre channel_code="636" genre_name="INFOTAINMENT"/>
+        <genre channel_code="637" genre_name="NON-ACTIVE"/>
+        <genre channel_code="638" genre_name="TELUGU SAT"/>
+        <genre channel_code="639" genre_name="NON-ACTIVE"/>
+        <genre channel_code="64" genre_name="DD"/>
+        <genre channel_code="640" genre_name="MUSIC"/>
+        <genre channel_code="641" genre_name="UP/BIHAR/JHARKHAND"/>
+        <genre channel_code="642" genre_name="UP/BIHAR/JHARKHAND"/>
+        <genre channel_code="643" genre_name="OTHERS"/>
+        <genre channel_code="644" genre_name="ENG ENTT"/>
+        <genre channel_code="645" genre_name="OTHERS"/>
+        <genre channel_code="646" genre_name="TELUGU SAT"/>
+        <genre channel_code="647" genre_name="OTHER REGIONALS"/>
+        <genre channel_code="648" genre_name="UP/BIHAR/JHARKHAND"/>
+        <genre channel_code="649" genre_name="OTHERS"/>
+        <genre channel_code="65" genre_name="HIN MOVIES"/>
+        <genre channel_code="650" genre_name="MUSIC"/>
+        <genre channel_code="651" genre_name="MALAYALAM SAT"/>
+        <genre channel_code="652" genre_name="MUSIC"/>
+        <genre channel_code="653" genre_name="ORIYA SAT"/>
+        <genre channel_code="654" genre_name="ORIYA SAT"/>
+        <genre channel_code="655" genre_name="UP/BIHAR/JHARKHAND"/>
+        <genre channel_code="656" genre_name="OTHERS"/>
+        <genre channel_code="657" genre_name="ASSAM SAT"/>
+        <genre channel_code="658" genre_name="NON-ACTIVE"/>
+        <genre channel_code="659" genre_name="TELUGU SAT"/>
+        <genre channel_code="66" genre_name="NON-ACTIVE"/>
+        <genre channel_code="660" genre_name="NON-ACTIVE"/>
+        <genre channel_code="661" genre_name="OTHERS"/>
+        <genre channel_code="662" genre_name="OTHER REGIONALS"/>
+        <genre channel_code="663" genre_name="NON-ACTIVE"/>
+        <genre channel_code="664" genre_name="OTHERS"/>
+        <genre channel_code="665" genre_name="OTHERS"/>
+        <genre channel_code="666" genre_name="NON-ACTIVE"/>
+        <genre channel_code="667" genre_name="NON-ACTIVE"/>
+        <genre channel_code="668" genre_name="OTHERS"/>
+        <genre channel_code="669" genre_name="MUSIC"/>
+        <genre channel_code="67" genre_name="DD"/>
+        <genre channel_code="670" genre_name="UP/BIHAR/JHARKHAND"/>
+        <genre channel_code="671" genre_name="OTHERS"/>
+        <genre channel_code="672" genre_name="PUNJABI SAT"/>
+        <genre channel_code="673" genre_name="MUSIC"/>
+        <genre channel_code="674" genre_name="OTHER REGIONALS"/>
+        <genre channel_code="675" genre_name="TAM SAT"/>
+        <genre channel_code="676" genre_name="OTHERS"/>
+        <genre channel_code="677" genre_name="INFOTAINMENT"/>
+        <genre channel_code="678" genre_name="TELUGU SAT"/>
+        <genre channel_code="679" genre_name="MALAYALAM SAT"/>
+        <genre channel_code="68" genre_name="OTHERS"/>
+        <genre channel_code="680" genre_name="HIN NEWS"/>
+        <genre channel_code="681" genre_name="OTHERS"/>
+        <genre channel_code="682" genre_name="MARATHI SAT"/>
+        <genre channel_code="683" genre_name="MALAYALAM SAT"/>
+        <genre channel_code="684" genre_name="KANNADA SAT"/>
+        <genre channel_code="685" genre_name="ASSAM SAT"/>
+        <genre channel_code="686" genre_name="GEC2"/>
+        <genre channel_code="687" genre_name="OTHER REGIONALS"/>
+        <genre channel_code="688" genre_name="TAM SAT"/>
+        <genre channel_code="689" genre_name="KIDS"/>
+        <genre channel_code="69" genre_name="NON-ACTIVE"/>
+        <genre channel_code="690" genre_name="NON-ACTIVE"/>
+        <genre channel_code="691" genre_name="NON-ACTIVE"/>
+        <genre channel_code="692" genre_name="OTHERS"/>
+        <genre channel_code="693" genre_name="TELUGU SAT"/>
+        <genre channel_code="694" genre_name="OTHERS"/>
+        <genre channel_code="695" genre_name="NON-ACTIVE"/>
+        <genre channel_code="696" genre_name="ENG ENTT"/>
+        <genre channel_code="697" genre_name="UP/BIHAR/JHARKHAND"/>
+        <genre channel_code="698" genre_name="TELUGU SAT"/>
+        <genre channel_code="699" genre_name="KANNADA SAT"/>
+        <genre channel_code="7" genre_name="MUSIC"/>
+        <genre channel_code="70" genre_name="NON-ACTIVE"/>
+        <genre channel_code="700" genre_name="MUSIC"/>
+        <genre channel_code="702" genre_name="ENG NEWS"/>
+        <genre channel_code="703" genre_name="SPORTS"/>
+        <genre channel_code="704" genre_name="TAM SAT"/>
+        <genre channel_code="705" genre_name="OTHERS"/>
+        <genre channel_code="706" genre_name="SPORTS"/>
+        <genre channel_code="707" genre_name="NON-ACTIVE"/>
+        <genre channel_code="708" genre_name="NON-ACTIVE"/>
+        <genre channel_code="709" genre_name="MUSIC"/>
+        <genre channel_code="71" genre_name="INFOTAINMENT"/>
+        <genre channel_code="710" genre_name="OTHERS"/>
+        <genre channel_code="711" genre_name="HIN MOVIES"/>
+        <genre channel_code="712" genre_name="NON-ACTIVE"/>
+        <genre channel_code="713" genre_name="HIN MOVIES"/>
+        <genre channel_code="714" genre_name="KIDS"/>
+        <genre channel_code="715" genre_name="TELUGU SAT"/>
+        <genre channel_code="716" genre_name="SPORTS"/>
+        <genre channel_code="717" genre_name="TAM SAT"/>
+        <genre channel_code="718" genre_name="BENGALI SAT"/>
+        <genre channel_code="719" genre_name="SPORTS"/>
+        <genre channel_code="72" genre_name="NON-ACTIVE"/>
+        <genre channel_code="720" genre_name="INFOTAINMENT"/>
+        <genre channel_code="721" genre_name="TAM SAT"/>
+        <genre channel_code="722" genre_name="MALAYALAM SAT"/>
+        <genre channel_code="723" genre_name="PUNJABI SAT"/>
+        <genre channel_code="724" genre_name="HIN NEWS"/>
+        <genre channel_code="725" genre_name="TAM SAT"/>
+        <genre channel_code="726" genre_name="UP/BIHAR/JHARKHAND"/>
+        <genre channel_code="727" genre_name="UP/BIHAR/JHARKHAND"/>
+        <genre channel_code="728" genre_name="UP/BIHAR/JHARKHAND"/>
+        <genre channel_code="729" genre_name="TAM SAT"/>
+        <genre channel_code="73" genre_name="BENGALI SAT"/>
+        <genre channel_code="730" genre_name="TELUGU SAT"/>
+        <genre channel_code="731" genre_name="TELUGU SAT"/>
+        <genre channel_code="732" genre_name="TAM SAT"/>
+        <genre channel_code="733" genre_name="TAM SAT"/>
+        <genre channel_code="734" genre_name="MALAYALAM SAT"/>
+        <genre channel_code="735" genre_name="TAM SAT"/>
+        <genre channel_code="736" genre_name="TAM SAT"/>
+        <genre channel_code="737" genre_name="UP/BIHAR/JHARKHAND"/>
+        <genre channel_code="738" genre_name="UP/BIHAR/JHARKHAND"/>
+        <genre channel_code="739" genre_name="BENGALI SAT"/>
+        <genre channel_code="74" genre_name="NON-ACTIVE"/>
+        <genre channel_code="740" genre_name="BENGALI SAT"/>
+        <genre channel_code="741" genre_name="HIN NEWS"/>
+        <genre channel_code="742" genre_name="TELUGU SAT"/>
+        <genre channel_code="743" genre_name="TELUGU SAT"/>
+        <genre channel_code="744" genre_name="TAM SAT"/>
+        <genre channel_code="745" genre_name="KIDS"/>
+        <genre channel_code="746" genre_name="NON-ACTIVE"/>
+        <genre channel_code="747" genre_name="ENG MOVIES"/>
+        <genre channel_code="748" genre_name="TAM SAT"/>
+        <genre channel_code="749" genre_name="HIN NEWS"/>
+        <genre channel_code="75" genre_name="MALAYALAM SAT"/>
+        <genre channel_code="750" genre_name="HIN MOVIES"/>
+        <genre channel_code="76" genre_name="ENG ENTT"/>
+        <genre channel_code="761" genre_name="KIDS"/>
+        <genre channel_code="762" genre_name="OTHER REGIONALS"/>
+        <genre channel_code="763" genre_name="BENGALI SAT"/>
+        <genre channel_code="764" genre_name="GEC2"/>
+        <genre channel_code="765" genre_name="OTHER REGIONALS"/>
+        <genre channel_code="766" genre_name="OTHER REGIONALS"/>
+        <genre channel_code="767" genre_name="OTHERS"/>
+        <genre channel_code="768" genre_name="OTHERS"/>
+        <genre channel_code="769" genre_name="OTHERS"/>
+        <genre channel_code="77" genre_name="NON-ACTIVE"/>
+        <genre channel_code="770" genre_name="HIN NEWS"/>
+        <genre channel_code="771" genre_name="KIDS"/>
+        <genre channel_code="772" genre_name="MALAYALAM SAT"/>
+        <genre channel_code="773" genre_name="UP/BIHAR/JHARKHAND"/>
+        <genre channel_code="774" genre_name="NON-ACTIVE"/>
+        <genre channel_code="775" genre_name="UP/BIHAR/JHARKHAND"/>
+        <genre channel_code="776" genre_name="ASSAM SAT"/>
+        <genre channel_code="777" genre_name="MALAYALAM SAT"/>
+        <genre channel_code="778" genre_name="MALAYALAM SAT"/>
+        <genre channel_code="779" genre_name="HIN NEWS"/>
+        <genre channel_code="78" genre_name="TELUGU SAT"/>
+        <genre channel_code="780" genre_name="SPORTS"/>
+        <genre channel_code="781" genre_name="OTHERS"/>
+        <genre channel_code="782" genre_name="HIN NEWS"/>
+        <genre channel_code="783" genre_name="BENGALI SAT"/>
+        <genre channel_code="79" genre_name="CABLE REGIONAL"/>
+        <genre channel_code="8" genre_name="ENG MOVIES"/>
+        <genre channel_code="80" genre_name="NON-ACTIVE"/>
+        <genre channel_code="81" genre_name="OTHERS"/>
+        <genre channel_code="810" genre_name="ENG MOVIES"/>
+        <genre channel_code="811" genre_name="ENG MOVIES"/>
+        <genre channel_code="812" genre_name="NON-ACTIVE"/>
+        <genre channel_code="813" genre_name="KANNADA SAT"/>
+        <genre channel_code="814" genre_name="MUSIC"/>
+        <genre channel_code="815" genre_name="NON-ACTIVE"/>
+        <genre channel_code="816" genre_name="OTHERS"/>
+        <genre channel_code="817" genre_name="MARATHI SAT"/>
+        <genre channel_code="818" genre_name="OTHERS"/>
+        <genre channel_code="819" genre_name="OTHER REGIONALS"/>
+        <genre channel_code="82" genre_name="OTHERS"/>
+        <genre channel_code="820" genre_name="HIN NEWS"/>
+        <genre channel_code="821" genre_name="ASSAM SAT"/>
+        <genre channel_code="822" genre_name="OTHERS"/>
+        <genre channel_code="823" genre_name="OTHERS"/>
+        <genre channel_code="824" genre_name="OTHERS"/>
+        <genre channel_code="825" genre_name="TAM SAT"/>
+        <genre channel_code="826" genre_name="OTHERS"/>
+        <genre channel_code="827" genre_name="KANNADA SAT"/>
+        <genre channel_code="828" genre_name="BENGALI SAT"/>
+        <genre channel_code="829" genre_name="OTHER REGIONALS"/>
+        <genre channel_code="83" genre_name="CABLE REGIONAL"/>
+        <genre channel_code="830" genre_name="MUSIC"/>
+        <genre channel_code="831" genre_name="OTHERS"/>
+        <genre channel_code="832" genre_name="MALAYALAM SAT"/>
+        <genre channel_code="833" genre_name="OTHERS"/>
+        <genre channel_code="834" genre_name="TELUGU SAT"/>
+        <genre channel_code="835" genre_name="GEC2"/>
+        <genre channel_code="836" genre_name="TELUGU SAT"/>
+        <genre channel_code="837" genre_name="MARATHI SAT"/>
+        <genre channel_code="838" genre_name="OTHER REGIONALS"/>
+        <genre channel_code="839" genre_name="UP/BIHAR/JHARKHAND"/>
+        <genre channel_code="84" genre_name="ENG ENTT"/>
+        <genre channel_code="840" genre_name="ENG ENTT"/>
+        <genre channel_code="841" genre_name="TELUGU SAT"/>
+        <genre channel_code="842" genre_name="TAM SAT"/>
+        <genre channel_code="843" genre_name="TAM SAT"/>
+        <genre channel_code="844" genre_name="HIN NEWS"/>
+        <genre channel_code="845" genre_name="OTHERS"/>
+        <genre channel_code="846" genre_name="KANNADA SAT"/>
+        <genre channel_code="85" genre_name="OTHERS"/>
+        <genre channel_code="86" genre_name="OTHERS"/>
+        <genre channel_code="87" genre_name="SPORTS"/>
+        <genre channel_code="88" genre_name="TAM SAT"/>
+        <genre channel_code="89" genre_name="INFOTAINMENT"/>
+        <genre channel_code="9" genre_name="ENG NEWS"/>
+        <genre channel_code="90" genre_name="OTHERS"/>
+        <genre channel_code="91" genre_name="OTHERS"/>
+        <genre channel_code="92" genre_name="INFOTAINMENT"/>
+        <genre channel_code="93" genre_name="NON-ACTIVE"/>
+        <genre channel_code="94" genre_name="NON-ACTIVE"/>
+        <genre channel_code="95" genre_name="NON-ACTIVE"/>
+        <genre channel_code="96" genre_name="NON-ACTIVE"/>
+        <genre channel_code="97" genre_name="OTHERS"/>
+        <genre channel_code="98" genre_name="MARATHI SAT"/>
+        <genre channel_code="99" genre_name="DD"/>
+        <genre channel_code="999" genre_name="OTHERS "/>
+    </genre>

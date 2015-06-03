@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<mg name="trial" type="Group">
+  <market>!</market>
+  <market>%</market>
+  <market>&amp;gt;</market>
+  <market>7</market>
+  <market>8</market>
+  <market>9</market>
+  <market>A</market>
+  <market>C</market>
+</mg>

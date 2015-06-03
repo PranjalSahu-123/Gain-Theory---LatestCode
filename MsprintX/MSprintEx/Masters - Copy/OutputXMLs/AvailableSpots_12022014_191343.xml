@@ -1,0 +1,1963 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<mediaplan>
+  <PreEvalPeriod>
+    <StartDate>20130901</StartDate>
+    <EndDate>20130928</EndDate>
+  </PreEvalPeriod>
+  <tg age="3" cs="1" name="CS 15-24 A" sec="1" sex="1,2">
+    <mg name="Metros" type="Group">
+      <market>1</market>
+      <market>2</market>
+      <market>3</market>
+      <market>4</market>
+      <market>6</market>
+    </mg>
+    <mg name="NStates" type="Group">
+      <market>!</market>
+      <market>#</market>
+      <market>$</market>
+      <market>%</market>
+      <market>&amp;</market>
+      <market>@</market>
+      <market>&gt;</market>
+      <market>B</market>
+      <market>E</market>
+      <market>F</market>
+      <market>J</market>
+      <market>K</market>
+      <market>L</market>
+      <market>N</market>
+      <market>O</market>
+      <market>P</market>
+      <market>S</market>
+      <market>T</market>
+      <market>W</market>
+      <market>X</market>
+      <market>Z</market>
+    </mg>
+    <mg name="SouthStates" type="Group">
+      <market>8</market>
+      <market>9</market>
+      <market>G</market>
+      <market>H</market>
+      <market>I</market>
+      <market>Q</market>
+      <market>R</market>
+    </mg>
+  </tg>
+  <plan type="weekwise">
+    <period EndDate="20130907" StartDate="20130901" WeekNum="36" year="2013">
+      <programme AdDuration="Geyser" ChannelCode="60" ChannelName="SONY ENTERTAINMENT TV" CostPer10s="" EndTime="20:30" NumberOfSpots="9" ProgName="Adalat" SeqNumber="1" StartTime="19:30" caption="20" days="SAT,SUN" guid="570280a2-b857-4d96-94de-e77981de5c7e">
+        <selected_spots>
+          <spot log="60,20130901,194740,194800,0,1,27,20" />
+          <spot log="60,20130901,194945,195015,0,10,27,30" />
+          <spot log="60,20130901,201109,201129,0,3,23,20" />
+          <spot log="60,20130901,201404,201414,0,11,23,10" />
+          <spot log="60,20130901,201649,201709,0,20,23,20" />
+          <spot log="60,20130907,195146,195216,0,12,17,30" />
+          <spot log="60,20130907,195306,195336,0,15,17,30" />
+          <spot log="60,20130907,201435,201450,0,8,27,15" />
+          <spot log="60,20130907,201950,202005,0,22,27,15" />
+        </selected_spots>
+        <available_spots>
+          <spot log="60,20130901,194800,194805,0,2,27,5">
+            <TVR tm="CS 15-24 A~NStates" val="0.77,27.6977" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="2.42,66.3949" />
+          </spot>
+          <spot log="60,20130901,194805,194810,0,3,27,5">
+            <TVR tm="CS 15-24 A~NStates" val="0.77,27.6977" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="2.42,66.3949" />
+          </spot>
+          <spot log="60,20130901,194810,194813,0,4,27,3">
+            <TVR tm="CS 15-24 A~NStates" val="0.77,27.6977" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="2.42,66.3949" />
+          </spot>
+          <spot log="60,20130901,194813,194815,0,5,27,2">
+            <TVR tm="CS 15-24 A~NStates" val="0.77,27.6977" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="2.42,66.3949" />
+          </spot>
+          <spot log="60,20130901,194815,194835,0,6,27,20">
+            <TVR tm="CS 15-24 A~NStates" val="0.77,27.6977" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="2.42,66.3949" />
+          </spot>
+          <spot log="60,20130901,194835,194855,0,7,27,20">
+            <TVR tm="CS 15-24 A~NStates" val="0.77,27.6977" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="2.42,66.3949" />
+          </spot>
+          <spot log="60,20130901,194855,194935,0,8,27,40">
+            <TVR tm="CS 15-24 A~NStates" val="0.77,27.6977" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="2.42,66.3949" />
+          </spot>
+          <spot log="60,20130901,194935,194945,0,9,27,10">
+            <TVR tm="CS 15-24 A~NStates" val="0.77,27.6977" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="1.28,35.0246" />
+          </spot>
+          <spot log="60,20130901,195015,195040,0,11,27,25">
+            <TVR tm="CS 15-24 A~NStates" val="0.77,27.6977" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="1.28,35.0246" />
+          </spot>
+          <spot log="60,20130901,195040,195110,0,12,27,30">
+            <TVR tm="CS 15-24 A~NStates" val="0.77,27.6977" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="1.28,35.0246" />
+          </spot>
+          <spot log="60,20130901,195110,195140,0,13,27,30">
+            <TVR tm="CS 15-24 A~NStates" val="0.16,5.7042" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="1.63,44.7672" />
+          </spot>
+          <spot log="60,20130901,195140,195155,0,14,27,15">
+            <TVR tm="CS 15-24 A~NStates" val="0.16,5.7042" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="1.63,44.7672" />
+          </spot>
+          <spot log="60,20130901,195155,195215,0,15,27,20">
+            <TVR tm="CS 15-24 A~NStates" val="0.16,5.7042" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="1.63,44.7672" />
+          </spot>
+          <spot log="60,20130901,195215,195235,0,16,27,20">
+            <TVR tm="CS 15-24 A~NStates" val="0.35,12.382" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="1.97,54.0127" />
+          </spot>
+          <spot log="60,20130901,195235,195255,0,17,27,20">
+            <TVR tm="CS 15-24 A~NStates" val="0.35,12.382" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="1.97,54.0127" />
+          </spot>
+          <spot log="60,20130901,195255,195257,0,18,27,2">
+            <TVR tm="CS 15-24 A~NStates" val="0.35,12.382" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="1.97,54.0127" />
+          </spot>
+          <spot log="60,20130901,195257,195300,0,19,27,3">
+            <TVR tm="CS 15-24 A~NStates" val="0.35,12.382" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="1.97,54.0127" />
+          </spot>
+          <spot log="60,20130901,195300,195320,0,20,27,20">
+            <TVR tm="CS 15-24 A~NStates" val="0.16,5.7042" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="1.97,54.0127" />
+          </spot>
+          <spot log="60,20130901,195320,195400,0,21,27,40">
+            <TVR tm="CS 15-24 A~NStates" val="0.16,5.7042" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="1.97,54.0127" />
+          </spot>
+          <spot log="60,20130901,195400,195420,0,22,27,20">
+            <TVR tm="CS 15-24 A~NStates" val="0.16,5.7042" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="1.62,44.2701" />
+          </spot>
+          <spot log="60,20130901,195420,195440,0,23,27,20">
+            <TVR tm="CS 15-24 A~NStates" val="0.16,5.7042" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="1.62,44.2701" />
+          </spot>
+          <spot log="60,20130901,195440,195455,0,24,27,15">
+            <TVR tm="CS 15-24 A~NStates" val="0.16,5.7042" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="1.62,44.2701" />
+          </spot>
+          <spot log="60,20130901,195455,195500,0,25,27,5">
+            <TVR tm="CS 15-24 A~NStates" val="0.16,5.7042" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="1.62,44.2701" />
+          </spot>
+          <spot log="60,20130901,195500,195505,0,26,27,5">
+            <TVR tm="CS 15-24 A~NStates" val="0.35,12.382" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="1.62,44.2701" />
+          </spot>
+          <spot log="60,20130901,195505,195510,0,27,27,5">
+            <TVR tm="CS 15-24 A~NStates" val="0.35,12.382" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="1.62,44.2701" />
+          </spot>
+          <spot log="60,20130901,201029,201049,0,1,23,20">
+            <TVR tm="CS 15-24 A~NStates" val="2.09,74.7073" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="2.65,72.5438" />
+          </spot>
+          <spot log="60,20130901,201049,201109,0,2,23,20">
+            <TVR tm="CS 15-24 A~NStates" val="2.09,74.7073" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="2.65,72.5438" />
+          </spot>
+          <spot log="60,20130901,201129,201144,0,4,23,15">
+            <TVR tm="CS 15-24 A~NStates" val="0.76,27.142801" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="2.31,63.298298" />
+          </spot>
+          <spot log="60,20130901,201144,201204,0,5,23,20">
+            <TVR tm="CS 15-24 A~NStates" val="0.76,27.142801" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="2.31,63.298298" />
+          </spot>
+          <spot log="60,20130901,201204,201239,0,6,23,35">
+            <TVR tm="CS 15-24 A~NStates" val="0.76,27.142801" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="1.96,53.5557" />
+          </spot>
+          <spot log="60,20130901,201239,201304,0,7,23,25">
+            <TVR tm="CS 15-24 A~NStates" val="0.76,27.142801" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="1.96,53.5557" />
+          </spot>
+          <spot log="60,20130901,201304,201314,0,8,23,10">
+            <TVR tm="CS 15-24 A~NStates" val="0.96,34.4191" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="1.96,53.5557" />
+          </spot>
+          <spot log="60,20130901,201314,201334,0,9,23,20">
+            <TVR tm="CS 15-24 A~NStates" val="0.96,34.4191" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="1.96,53.5557" />
+          </spot>
+          <spot log="60,20130901,201334,201404,0,10,23,30">
+            <TVR tm="CS 15-24 A~NStates" val="0.96,34.4191" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="1.96,53.5557" />
+          </spot>
+          <spot log="60,20130901,201414,201429,0,12,23,15">
+            <TVR tm="CS 15-24 A~NStates" val="1.37,49.1992" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="2.31,63.298298" />
+          </spot>
+          <spot log="60,20130901,201429,201459,0,13,23,30">
+            <TVR tm="CS 15-24 A~NStates" val="1.37,49.1992" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="2.31,63.298298" />
+          </spot>
+          <spot log="60,20130901,201459,201524,0,14,23,25">
+            <TVR tm="CS 15-24 A~NStates" val="1.37,49.1992" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="2.31,63.298298" />
+          </spot>
+          <spot log="60,20130901,201524,201526,0,15,23,2">
+            <TVR tm="CS 15-24 A~NStates" val="1.37,49.1992" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="2.31,63.298298" />
+          </spot>
+          <spot log="60,20130901,201526,201529,0,16,23,3">
+            <TVR tm="CS 15-24 A~NStates" val="1.37,49.1992" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="2.31,63.298298" />
+          </spot>
+          <spot log="60,20130901,201529,201559,0,17,23,30">
+            <TVR tm="CS 15-24 A~NStates" val="1.37,49.1992" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="2.31,63.298298" />
+          </spot>
+          <spot log="60,20130901,201559,201619,0,18,23,20">
+            <TVR tm="CS 15-24 A~NStates" val="1.37,49.1992" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="2.31,63.298298" />
+          </spot>
+          <spot log="60,20130901,201619,201649,0,19,23,30">
+            <TVR tm="CS 15-24 A~NStates" val="1.37,49.1992" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="1.58,43.295498" />
+          </spot>
+          <spot log="60,20130901,201709,201719,0,21,23,10">
+            <TVR tm="CS 15-24 A~NStates" val="0.96,34.4191" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="1.58,43.295498" />
+          </spot>
+          <spot log="60,20130901,201719,201739,0,22,23,20">
+            <TVR tm="CS 15-24 A~NStates" val="0.96,34.4191" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="1.58,43.295498" />
+          </spot>
+          <spot log="60,20130901,201739,201754,0,23,23,15">
+            <TVR tm="CS 15-24 A~NStates" val="0.96,34.4191" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="1.58,43.295498" />
+          </spot>
+          <spot log="60,20130907,194656,194721,0,1,17,25">
+            <TVR tm="CS 15-24 A~NStates" val="1.23,44.1239" />
+            <TVR tm="CS 15-24 A~SouthStates" val="1.13,5.5913" />
+            <TVR tm="CS 15-24 A~Metros" val="1.69,46.2882" />
+          </spot>
+          <spot log="60,20130907,194721,194741,0,2,17,20">
+            <TVR tm="CS 15-24 A~NStates" val="1.04,37.3925" />
+            <TVR tm="CS 15-24 A~SouthStates" val="1.13,5.5913" />
+            <TVR tm="CS 15-24 A~Metros" val="1.69,46.2882" />
+          </spot>
+          <spot log="60,20130907,194741,194746,0,3,17,5">
+            <TVR tm="CS 15-24 A~NStates" val="1.04,37.3925" />
+            <TVR tm="CS 15-24 A~SouthStates" val="1.13,5.5913" />
+            <TVR tm="CS 15-24 A~Metros" val="1.69,46.2882" />
+          </spot>
+          <spot log="60,20130907,194746,194816,0,4,17,30">
+            <TVR tm="CS 15-24 A~NStates" val="1.04,37.3925" />
+            <TVR tm="CS 15-24 A~SouthStates" val="1.13,5.5913" />
+            <TVR tm="CS 15-24 A~Metros" val="1.69,46.2882" />
+          </spot>
+          <spot log="60,20130907,194816,194826,0,5,17,10">
+            <TVR tm="CS 15-24 A~NStates" val="0.89,31.989302" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="1.29,35.339798" />
+          </spot>
+          <spot log="60,20130907,194826,194911,0,6,17,45">
+            <TVR tm="CS 15-24 A~NStates" val="0.89,31.989302" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="1.29,35.339798" />
+          </spot>
+          <spot log="60,20130907,194911,194941,0,7,17,30">
+            <TVR tm="CS 15-24 A~NStates" val="0.89,31.989302" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="1.29,35.339798" />
+          </spot>
+          <spot log="60,20130907,194941,195006,0,8,17,25">
+            <TVR tm="CS 15-24 A~NStates" val="0.89,31.989302" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="1.29,35.339798" />
+          </spot>
+          <spot log="60,20130907,195006,195046,0,9,17,40">
+            <TVR tm="CS 15-24 A~NStates" val="0.64,22.9098" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="1.29,35.339798" />
+          </spot>
+          <spot log="60,20130907,195046,195126,0,10,17,40">
+            <TVR tm="CS 15-24 A~NStates" val="0.64,22.9098" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="1.29,35.339798" />
+          </spot>
+          <spot log="60,20130907,195126,195146,0,11,17,20">
+            <TVR tm="CS 15-24 A~NStates" val="0.89,31.989302" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="1.29,35.339798" />
+          </spot>
+          <spot log="60,20130907,195216,195256,0,13,17,40">
+            <TVR tm="CS 15-24 A~NStates" val="0.89,31.989302" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="1.29,35.339798" />
+          </spot>
+          <spot log="60,20130907,195256,195306,0,14,17,10">
+            <TVR tm="CS 15-24 A~NStates" val="0.89,31.989302" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="1.29,35.339798" />
+          </spot>
+          <spot log="60,20130907,195336,195346,0,16,17,10">
+            <TVR tm="CS 15-24 A~NStates" val="0.94,33.519" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="2.04,55.834" />
+          </spot>
+          <spot log="60,20130907,195346,195431,0,17,17,45">
+            <TVR tm="CS 15-24 A~NStates" val="0.94,33.519" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="2.04,55.834" />
+          </spot>
+          <spot log="60,20130907,201335,201355,0,1,27,20">
+            <TVR tm="CS 15-24 A~NStates" val="1.14,40.8741" />
+            <TVR tm="CS 15-24 A~SouthStates" val="1.13,5.5913" />
+            <TVR tm="CS 15-24 A~Metros" val="1.15,31.442598" />
+          </spot>
+          <spot log="60,20130907,201355,201400,0,2,27,5">
+            <TVR tm="CS 15-24 A~NStates" val="1.14,40.8741" />
+            <TVR tm="CS 15-24 A~SouthStates" val="1.13,5.5913" />
+            <TVR tm="CS 15-24 A~Metros" val="1.15,31.442598" />
+          </spot>
+          <spot log="60,20130907,201400,201420,0,3,27,20">
+            <TVR tm="CS 15-24 A~NStates" val="1.14,40.8741" />
+            <TVR tm="CS 15-24 A~SouthStates" val="1.13,5.5913" />
+            <TVR tm="CS 15-24 A~Metros" val="1.95,53.339397" />
+          </spot>
+          <spot log="60,20130907,201420,201425,0,4,27,5">
+            <TVR tm="CS 15-24 A~NStates" val="1.14,40.8741" />
+            <TVR tm="CS 15-24 A~SouthStates" val="1.13,5.5913" />
+            <TVR tm="CS 15-24 A~Metros" val="1.95,53.339397" />
+          </spot>
+          <spot log="60,20130907,201425,201430,0,5,27,5">
+            <TVR tm="CS 15-24 A~NStates" val="1.14,40.8741" />
+            <TVR tm="CS 15-24 A~SouthStates" val="1.13,5.5913" />
+            <TVR tm="CS 15-24 A~Metros" val="1.95,53.339397" />
+          </spot>
+          <spot log="60,20130907,201430,201433,0,6,27,3">
+            <TVR tm="CS 15-24 A~NStates" val="1.14,40.8741" />
+            <TVR tm="CS 15-24 A~SouthStates" val="1.13,5.5913" />
+            <TVR tm="CS 15-24 A~Metros" val="1.95,53.339397" />
+          </spot>
+          <spot log="60,20130907,201433,201435,0,7,27,2">
+            <TVR tm="CS 15-24 A~NStates" val="1.14,40.8741" />
+            <TVR tm="CS 15-24 A~SouthStates" val="1.13,5.5913" />
+            <TVR tm="CS 15-24 A~Metros" val="1.95,53.339397" />
+          </spot>
+          <spot log="60,20130907,201450,201505,0,9,27,15">
+            <TVR tm="CS 15-24 A~NStates" val="1.14,40.8741" />
+            <TVR tm="CS 15-24 A~SouthStates" val="1.13,5.5913" />
+            <TVR tm="CS 15-24 A~Metros" val="1.95,53.339397" />
+          </spot>
+          <spot log="60,20130907,201505,201515,0,10,27,10">
+            <TVR tm="CS 15-24 A~NStates" val="0.71,25.5331" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="0.00,0.0" />
+          </spot>
+          <spot log="60,20130907,201515,201535,0,11,27,20">
+            <TVR tm="CS 15-24 A~NStates" val="0.71,25.5331" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="0.00,0.0" />
+          </spot>
+          <spot log="60,20130907,201535,201600,0,12,27,25">
+            <TVR tm="CS 15-24 A~NStates" val="0.71,25.5331" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="0.00,0.0" />
+          </spot>
+          <spot log="60,20130907,201600,201630,0,13,27,30">
+            <TVR tm="CS 15-24 A~NStates" val="0.88,31.3234" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="0.00,0.0" />
+          </spot>
+          <spot log="60,20130907,201630,201650,0,14,27,20">
+            <TVR tm="CS 15-24 A~NStates" val="0.88,31.3234" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="0.00,0.0" />
+          </spot>
+          <spot log="60,20130907,201650,201745,0,15,27,55">
+            <TVR tm="CS 15-24 A~NStates" val="0.88,31.3234" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="0.00,0.0" />
+          </spot>
+          <spot log="60,20130907,201745,201815,0,16,27,30">
+            <TVR tm="CS 15-24 A~NStates" val="0.71,25.5331" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="0.00,0.0" />
+          </spot>
+          <spot log="60,20130907,201815,201830,0,17,27,15">
+            <TVR tm="CS 15-24 A~NStates" val="0.71,25.5331" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="0.40,10.9484" />
+          </spot>
+          <spot log="60,20130907,201830,201850,0,18,27,20">
+            <TVR tm="CS 15-24 A~NStates" val="0.71,25.5331" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="0.40,10.9484" />
+          </spot>
+          <spot log="60,20130907,201850,201910,0,19,27,20">
+            <TVR tm="CS 15-24 A~NStates" val="0.71,25.5331" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="0.40,10.9484" />
+          </spot>
+          <spot log="60,20130907,201910,201920,0,20,27,10">
+            <TVR tm="CS 15-24 A~NStates" val="0.71,25.5331" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="0.40,10.9484" />
+          </spot>
+          <spot log="60,20130907,201920,201950,0,21,27,30">
+            <TVR tm="CS 15-24 A~NStates" val="0.71,25.5331" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="0.40,10.9484" />
+          </spot>
+          <spot log="60,20130907,202005,202015,0,23,27,10">
+            <TVR tm="CS 15-24 A~NStates" val="0.97,34.7949" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="0.75,20.4942" />
+          </spot>
+          <spot log="60,20130907,202015,202025,0,24,27,10">
+            <TVR tm="CS 15-24 A~NStates" val="0.97,34.7949" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="0.75,20.4942" />
+          </spot>
+          <spot log="60,20130907,202025,202050,0,25,27,25">
+            <TVR tm="CS 15-24 A~NStates" val="0.97,34.7949" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="0.75,20.4942" />
+          </spot>
+          <spot log="60,20130907,202050,202055,0,26,27,5">
+            <TVR tm="CS 15-24 A~NStates" val="0.97,34.7949" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="0.75,20.4942" />
+          </spot>
+          <spot log="60,20130907,202055,202115,0,27,27,20">
+            <TVR tm="CS 15-24 A~NStates" val="0.97,34.7949" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="0.75,20.4942" />
+          </spot>
+        </available_spots>
+      </programme>
+    </period>
+    <period EndDate="20130914" StartDate="20130908" WeekNum="37" year="2013">
+      <programme AdDuration="Geyser" ChannelCode="60" ChannelName="SONY ENTERTAINMENT TV" CostPer10s="" EndTime="20:30" NumberOfSpots="9" ProgName="Adalat" SeqNumber="1" StartTime="19:30" caption="20" days="SAT,SUN" guid="570280a2-b857-4d96-94de-e77981de5c7e">
+        <selected_spots>
+          <spot log="60,20130908,194541,194601,0,1,29,20" />
+          <spot log="60,20130908,194751,194816,0,8,29,25" />
+          <spot log="60,20130908,201312,201352,0,6,24,40" />
+          <spot log="60,20130908,201507,201532,0,12,24,25" />
+          <spot log="60,20130908,201642,201645,0,16,24,3" />
+          <spot log="60,20130914,195120,195205,0,11,18,45" />
+          <spot log="60,20130914,195245,195315,0,13,18,30" />
+          <spot log="60,20130914,200741,200811,0,7,22,30" />
+          <spot log="60,20130914,201151,201201,0,18,22,10" />
+        </selected_spots>
+        <available_spots>
+          <spot log="60,20130908,194601,194606,0,2,29,5">
+            <TVR tm="CS 15-24 A~NStates" val="0.59,21.167599" />
+            <TVR tm="CS 15-24 A~SouthStates" val="1.13,5.6361" />
+            <TVR tm="CS 15-24 A~Metros" val="1.17,32.0662" />
+          </spot>
+          <spot log="60,20130908,194606,194611,0,3,29,5">
+            <TVR tm="CS 15-24 A~NStates" val="0.59,21.167599" />
+            <TVR tm="CS 15-24 A~SouthStates" val="1.13,5.6361" />
+            <TVR tm="CS 15-24 A~Metros" val="1.17,32.0662" />
+          </spot>
+          <spot log="60,20130908,194611,194614,0,4,29,3">
+            <TVR tm="CS 15-24 A~NStates" val="0.59,21.167599" />
+            <TVR tm="CS 15-24 A~SouthStates" val="1.13,5.6361" />
+            <TVR tm="CS 15-24 A~Metros" val="1.17,32.0662" />
+          </spot>
+          <spot log="60,20130908,194614,194616,0,5,29,2">
+            <TVR tm="CS 15-24 A~NStates" val="0.59,21.167599" />
+            <TVR tm="CS 15-24 A~SouthStates" val="1.13,5.6361" />
+            <TVR tm="CS 15-24 A~Metros" val="1.17,32.0662" />
+          </spot>
+          <spot log="60,20130908,194616,194701,0,6,29,45">
+            <TVR tm="CS 15-24 A~NStates" val="0.59,21.167599" />
+            <TVR tm="CS 15-24 A~SouthStates" val="1.13,5.6361" />
+            <TVR tm="CS 15-24 A~Metros" val="1.17,32.0662" />
+          </spot>
+          <spot log="60,20130908,194701,194751,0,7,29,50">
+            <TVR tm="CS 15-24 A~NStates" val="0.59,21.167599" />
+            <TVR tm="CS 15-24 A~SouthStates" val="1.13,5.6361" />
+            <TVR tm="CS 15-24 A~Metros" val="1.04,28.5028" />
+          </spot>
+          <spot log="60,20130908,194816,194826,0,9,29,10">
+            <TVR tm="CS 15-24 A~NStates" val="0.23,8.2303" />
+            <TVR tm="CS 15-24 A~SouthStates" val="1.13,5.6361" />
+            <TVR tm="CS 15-24 A~Metros" val="1.04,28.5028" />
+          </spot>
+          <spot log="60,20130908,194826,194829,0,10,29,3">
+            <TVR tm="CS 15-24 A~NStates" val="0.23,8.2303" />
+            <TVR tm="CS 15-24 A~SouthStates" val="1.13,5.6361" />
+            <TVR tm="CS 15-24 A~Metros" val="1.04,28.5028" />
+          </spot>
+          <spot log="60,20130908,194829,194831,0,11,29,2">
+            <TVR tm="CS 15-24 A~NStates" val="0.23,8.2303" />
+            <TVR tm="CS 15-24 A~SouthStates" val="1.13,5.6361" />
+            <TVR tm="CS 15-24 A~Metros" val="1.04,28.5028" />
+          </spot>
+          <spot log="60,20130908,194831,194856,0,12,29,25">
+            <TVR tm="CS 15-24 A~NStates" val="0.23,8.2303" />
+            <TVR tm="CS 15-24 A~SouthStates" val="1.13,5.6361" />
+            <TVR tm="CS 15-24 A~Metros" val="1.04,28.5028" />
+          </spot>
+          <spot log="60,20130908,194856,194916,0,13,29,20">
+            <TVR tm="CS 15-24 A~NStates" val="0.23,8.2303" />
+            <TVR tm="CS 15-24 A~SouthStates" val="1.13,5.6361" />
+            <TVR tm="CS 15-24 A~Metros" val="1.04,28.5028" />
+          </spot>
+          <spot log="60,20130908,194916,194936,0,14,29,20">
+            <TVR tm="CS 15-24 A~NStates" val="1.20,43.221302" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="1.04,28.5028" />
+          </spot>
+          <spot log="60,20130908,194936,194951,0,15,29,15">
+            <TVR tm="CS 15-24 A~NStates" val="1.20,43.221302" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="1.04,28.5028" />
+          </spot>
+          <spot log="60,20130908,194951,195011,0,16,29,20">
+            <TVR tm="CS 15-24 A~NStates" val="1.20,43.221302" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="1.04,28.5028" />
+          </spot>
+          <spot log="60,20130908,195011,195026,0,17,29,15">
+            <TVR tm="CS 15-24 A~NStates" val="1.20,43.221302" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="0.41,11.275" />
+          </spot>
+          <spot log="60,20130908,195026,195041,0,18,29,15">
+            <TVR tm="CS 15-24 A~NStates" val="1.20,43.221302" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="0.41,11.275" />
+          </spot>
+          <spot log="60,20130908,195041,195111,0,19,29,30">
+            <TVR tm="CS 15-24 A~NStates" val="1.20,43.221302" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="0.41,11.275" />
+          </spot>
+          <spot log="60,20130908,195111,195113,0,20,29,2">
+            <TVR tm="CS 15-24 A~NStates" val="0.60,21.392399" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="0.41,11.275" />
+          </spot>
+          <spot log="60,20130908,195113,195116,0,21,29,3">
+            <TVR tm="CS 15-24 A~NStates" val="0.60,21.392399" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="0.41,11.275" />
+          </spot>
+          <spot log="60,20130908,195116,195136,0,22,29,20">
+            <TVR tm="CS 15-24 A~NStates" val="0.60,21.392399" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="0.41,11.275" />
+          </spot>
+          <spot log="60,20130908,195136,195206,0,23,29,30">
+            <TVR tm="CS 15-24 A~NStates" val="0.60,21.392399" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="0.41,11.275" />
+          </spot>
+          <spot log="60,20130908,195206,195216,0,24,29,10">
+            <TVR tm="CS 15-24 A~NStates" val="0.23,8.2303" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="0.41,11.275" />
+          </spot>
+          <spot log="60,20130908,195216,195236,0,25,29,20">
+            <TVR tm="CS 15-24 A~NStates" val="0.23,8.2303" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="0.41,11.275" />
+          </spot>
+          <spot log="60,20130908,195236,195246,0,26,29,10">
+            <TVR tm="CS 15-24 A~NStates" val="0.23,8.2303" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="0.41,11.275" />
+          </spot>
+          <spot log="60,20130908,195246,195306,0,27,29,20">
+            <TVR tm="CS 15-24 A~NStates" val="0.23,8.2303" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="0.41,11.275" />
+          </spot>
+          <spot log="60,20130908,195306,195331,0,28,29,25">
+            <TVR tm="CS 15-24 A~NStates" val="0.45,16.0326" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="0.84,23.0807" />
+          </spot>
+          <spot log="60,20130908,195331,195335,0,29,29,4">
+            <TVR tm="CS 15-24 A~NStates" val="0.45,16.0326" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="0.84,23.0807" />
+          </spot>
+          <spot log="60,20130908,201209,201229,0,1,24,20">
+            <TVR tm="CS 15-24 A~NStates" val="0.22,7.8023" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="0.79,21.6706" />
+          </spot>
+          <spot log="60,20130908,201229,201233,0,2,24,4">
+            <TVR tm="CS 15-24 A~NStates" val="0.22,7.8023" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="0.79,21.6706" />
+          </spot>
+          <spot log="60,20130908,201233,201253,0,3,24,20">
+            <TVR tm="CS 15-24 A~NStates" val="0.22,7.8023" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="0.79,21.6706" />
+          </spot>
+          <spot log="60,20130908,201253,201257,0,4,24,4">
+            <TVR tm="CS 15-24 A~NStates" val="0.22,7.8023" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="0.79,21.6706" />
+          </spot>
+          <spot log="60,20130908,201257,201312,0,5,24,15">
+            <TVR tm="CS 15-24 A~NStates" val="0.22,7.8023" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="0.79,21.6706" />
+          </spot>
+          <spot log="60,20130908,201352,201402,0,7,24,10">
+            <TVR tm="CS 15-24 A~NStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="0.41,11.275" />
+          </spot>
+          <spot log="60,20130908,201402,201417,0,8,24,15">
+            <TVR tm="CS 15-24 A~NStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="0.41,11.275" />
+          </spot>
+          <spot log="60,20130908,201417,201502,0,9,24,45">
+            <TVR tm="CS 15-24 A~NStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="0.41,11.275" />
+          </spot>
+          <spot log="60,20130908,201502,201504,0,10,24,2">
+            <TVR tm="CS 15-24 A~NStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="0.41,11.275" />
+          </spot>
+          <spot log="60,20130908,201504,201507,0,11,24,3">
+            <TVR tm="CS 15-24 A~NStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="0.41,11.275" />
+          </spot>
+          <spot log="60,20130908,201532,201557,0,13,24,25">
+            <TVR tm="CS 15-24 A~NStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="0.41,11.275" />
+          </spot>
+          <spot log="60,20130908,201557,201627,0,14,24,30">
+            <TVR tm="CS 15-24 A~NStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="0.41,11.275" />
+          </spot>
+          <spot log="60,20130908,201627,201642,0,15,24,15">
+            <TVR tm="CS 15-24 A~NStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="0.41,11.275" />
+          </spot>
+          <spot log="60,20130908,201645,201647,0,17,24,2">
+            <TVR tm="CS 15-24 A~NStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="0.41,11.275" />
+          </spot>
+          <spot log="60,20130908,201647,201712,0,18,24,25">
+            <TVR tm="CS 15-24 A~NStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="0.41,11.275" />
+          </spot>
+          <spot log="60,20130908,201712,201752,0,19,24,40">
+            <TVR tm="CS 15-24 A~NStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~SouthStates" val="1.13,5.6361" />
+            <TVR tm="CS 15-24 A~Metros" val="0.41,11.275" />
+          </spot>
+          <spot log="60,20130908,201752,201832,0,20,24,40">
+            <TVR tm="CS 15-24 A~NStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~SouthStates" val="1.13,5.6361" />
+            <TVR tm="CS 15-24 A~Metros" val="0.41,11.275" />
+          </spot>
+          <spot log="60,20130908,201832,201852,0,21,24,20">
+            <TVR tm="CS 15-24 A~NStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~SouthStates" val="1.13,5.6361" />
+            <TVR tm="CS 15-24 A~Metros" val="0.41,11.275" />
+          </spot>
+          <spot log="60,20130908,201852,201912,0,22,24,20">
+            <TVR tm="CS 15-24 A~NStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~SouthStates" val="1.13,5.6361" />
+            <TVR tm="CS 15-24 A~Metros" val="0.41,11.275" />
+          </spot>
+          <spot log="60,20130908,201912,201932,0,23,24,20">
+            <TVR tm="CS 15-24 A~NStates" val="0.16,5.6905" />
+            <TVR tm="CS 15-24 A~SouthStates" val="1.13,5.6361" />
+            <TVR tm="CS 15-24 A~Metros" val="0.41,11.275" />
+          </spot>
+          <spot log="60,20130908,201932,201952,0,24,24,20">
+            <TVR tm="CS 15-24 A~NStates" val="0.16,5.6905" />
+            <TVR tm="CS 15-24 A~SouthStates" val="1.13,5.6361" />
+            <TVR tm="CS 15-24 A~Metros" val="0.41,11.275" />
+          </spot>
+          <spot log="60,20130914,194735,194755,0,1,18,20">
+            <TVR tm="CS 15-24 A~NStates" val="0.49,17.5949" />
+            <TVR tm="CS 15-24 A~SouthStates" val="1.01,5.037" />
+            <TVR tm="CS 15-24 A~Metros" val="0.00,0.0" />
+          </spot>
+          <spot log="60,20130914,194755,194800,0,2,18,5">
+            <TVR tm="CS 15-24 A~NStates" val="0.49,17.5949" />
+            <TVR tm="CS 15-24 A~SouthStates" val="1.01,5.037" />
+            <TVR tm="CS 15-24 A~Metros" val="0.00,0.0" />
+          </spot>
+          <spot log="60,20130914,194800,194805,0,3,18,5">
+            <TVR tm="CS 15-24 A~NStates" val="0.24,8.4797" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="0.00,0.0" />
+          </spot>
+          <spot log="60,20130914,194805,194810,0,4,18,5">
+            <TVR tm="CS 15-24 A~NStates" val="0.24,8.4797" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="0.00,0.0" />
+          </spot>
+          <spot log="60,20130914,194810,194855,0,5,18,45">
+            <TVR tm="CS 15-24 A~NStates" val="0.24,8.4797" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="0.00,0.0" />
+          </spot>
+          <spot log="60,20130914,194855,194935,0,6,18,40">
+            <TVR tm="CS 15-24 A~NStates" val="0.24,8.4797" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="0.00,0.0" />
+          </spot>
+          <spot log="60,20130914,194935,195005,0,7,18,30">
+            <TVR tm="CS 15-24 A~NStates" val="0.24,8.4797" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="0.00,0.0" />
+          </spot>
+          <spot log="60,20130914,195005,195035,0,8,18,30">
+            <TVR tm="CS 15-24 A~NStates" val="0.24,8.4797" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="0.00,0.0" />
+          </spot>
+          <spot log="60,20130914,195035,195050,0,9,18,15">
+            <TVR tm="CS 15-24 A~NStates" val="0.24,8.4797" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="0.00,0.0" />
+          </spot>
+          <spot log="60,20130914,195050,195120,0,10,18,30">
+            <TVR tm="CS 15-24 A~NStates" val="0.24,8.4797" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="0.00,0.0" />
+          </spot>
+          <spot log="60,20130914,195205,195245,0,12,18,40">
+            <TVR tm="CS 15-24 A~NStates" val="0.44,15.6858" />
+            <TVR tm="CS 15-24 A~SouthStates" val="1.01,5.037" />
+            <TVR tm="CS 15-24 A~Metros" val="0.88,24.112" />
+          </spot>
+          <spot log="60,20130914,195315,195345,0,14,18,30">
+            <TVR tm="CS 15-24 A~NStates" val="0.69,24.801" />
+            <TVR tm="CS 15-24 A~SouthStates" val="1.01,5.037" />
+            <TVR tm="CS 15-24 A~Metros" val="0.88,24.112" />
+          </spot>
+          <spot log="60,20130914,195345,195355,0,15,18,10">
+            <TVR tm="CS 15-24 A~NStates" val="0.69,24.801" />
+            <TVR tm="CS 15-24 A~SouthStates" val="1.01,5.037" />
+            <TVR tm="CS 15-24 A~Metros" val="0.88,24.112" />
+          </spot>
+          <spot log="60,20130914,195355,195415,0,16,18,20">
+            <TVR tm="CS 15-24 A~NStates" val="0.69,24.801" />
+            <TVR tm="CS 15-24 A~SouthStates" val="1.01,5.037" />
+            <TVR tm="CS 15-24 A~Metros" val="0.88,24.112" />
+          </spot>
+          <spot log="60,20130914,195415,195425,0,17,18,10">
+            <TVR tm="CS 15-24 A~NStates" val="0.24,8.4797" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="0.88,24.112" />
+          </spot>
+          <spot log="60,20130914,195425,195440,0,18,18,15">
+            <TVR tm="CS 15-24 A~NStates" val="0.24,8.4797" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="0.88,24.112" />
+          </spot>
+          <spot log="60,20130914,200511,200531,0,1,22,20">
+            <TVR tm="CS 15-24 A~NStates" val="0.49,17.5949" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="0.00,0.0" />
+          </spot>
+          <spot log="60,20130914,200531,200551,0,2,22,20">
+            <TVR tm="CS 15-24 A~NStates" val="0.49,17.5949" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="0.00,0.0" />
+          </spot>
+          <spot log="60,20130914,200551,200641,0,3,22,50">
+            <TVR tm="CS 15-24 A~NStates" val="0.49,17.5949" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="0.00,0.0" />
+          </spot>
+          <spot log="60,20130914,200641,200701,0,4,22,20">
+            <TVR tm="CS 15-24 A~NStates" val="0.24,8.4797" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="0.00,0.0" />
+          </spot>
+          <spot log="60,20130914,200701,200721,0,5,22,20">
+            <TVR tm="CS 15-24 A~NStates" val="0.24,8.4797" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="0.00,0.0" />
+          </spot>
+          <spot log="60,20130914,200721,200741,0,6,22,20">
+            <TVR tm="CS 15-24 A~NStates" val="0.24,8.4797" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="0.00,0.0" />
+          </spot>
+          <spot log="60,20130914,200811,200836,0,8,22,25">
+            <TVR tm="CS 15-24 A~NStates" val="0.24,8.4797" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="0.37,10.0833" />
+          </spot>
+          <spot log="60,20130914,200836,200856,0,9,22,20">
+            <TVR tm="CS 15-24 A~NStates" val="0.24,8.4797" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="0.37,10.0833" />
+          </spot>
+          <spot log="60,20130914,200856,200921,0,10,22,25">
+            <TVR tm="CS 15-24 A~NStates" val="0.24,8.4797" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="0.37,10.0833" />
+          </spot>
+          <spot log="60,20130914,200921,201006,0,11,22,45">
+            <TVR tm="CS 15-24 A~NStates" val="0.24,8.4797" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="0.00,0.0" />
+          </spot>
+          <spot log="60,20130914,201006,201026,0,12,22,20">
+            <TVR tm="CS 15-24 A~NStates" val="0.24,8.4797" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="0.88,24.112" />
+          </spot>
+          <spot log="60,20130914,201026,201036,0,13,22,10">
+            <TVR tm="CS 15-24 A~NStates" val="0.24,8.4797" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="0.88,24.112" />
+          </spot>
+          <spot log="60,20130914,201036,201046,0,14,22,10">
+            <TVR tm="CS 15-24 A~NStates" val="0.24,8.4797" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="0.88,24.112" />
+          </spot>
+          <spot log="60,20130914,201046,201056,0,15,22,10">
+            <TVR tm="CS 15-24 A~NStates" val="0.24,8.4797" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="0.88,24.112" />
+          </spot>
+          <spot log="60,20130914,201056,201121,0,16,22,25">
+            <TVR tm="CS 15-24 A~NStates" val="0.24,8.4797" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="0.88,24.112" />
+          </spot>
+          <spot log="60,20130914,201121,201151,0,17,22,30">
+            <TVR tm="CS 15-24 A~NStates" val="0.24,8.4797" />
+            <TVR tm="CS 15-24 A~SouthStates" val="1.01,5.037" />
+            <TVR tm="CS 15-24 A~Metros" val="0.88,24.112" />
+          </spot>
+          <spot log="60,20130914,201201,201205,0,19,22,4">
+            <TVR tm="CS 15-24 A~NStates" val="0.24,8.4797" />
+            <TVR tm="CS 15-24 A~SouthStates" val="1.01,5.037" />
+            <TVR tm="CS 15-24 A~Metros" val="0.88,24.112" />
+          </spot>
+          <spot log="60,20130914,201205,201225,0,20,22,20">
+            <TVR tm="CS 15-24 A~NStates" val="0.24,8.4797" />
+            <TVR tm="CS 15-24 A~SouthStates" val="1.01,5.037" />
+            <TVR tm="CS 15-24 A~Metros" val="0.88,24.112" />
+          </spot>
+          <spot log="60,20130914,201225,201230,0,21,22,5">
+            <TVR tm="CS 15-24 A~NStates" val="0.24,8.4797" />
+            <TVR tm="CS 15-24 A~SouthStates" val="1.01,5.037" />
+            <TVR tm="CS 15-24 A~Metros" val="0.88,24.112" />
+          </spot>
+          <spot log="60,20130914,201230,201250,0,22,22,20">
+            <TVR tm="CS 15-24 A~NStates" val="0.24,8.4797" />
+            <TVR tm="CS 15-24 A~SouthStates" val="1.01,5.037" />
+            <TVR tm="CS 15-24 A~Metros" val="0.88,24.112" />
+          </spot>
+        </available_spots>
+      </programme>
+    </period>
+    <period EndDate="20130921" StartDate="20130915" WeekNum="38" year="2013">
+      <programme AdDuration="Geyser" ChannelCode="60" ChannelName="SONY ENTERTAINMENT TV" CostPer10s="" EndTime="20:30" NumberOfSpots="9" ProgName="Adalat" SeqNumber="1" StartTime="19:30" caption="20" days="SAT,SUN" guid="570280a2-b857-4d96-94de-e77981de5c7e">
+        <selected_spots>
+          <spot log="60,20130915,195115,195135,0,15,28,20" />
+          <spot log="60,20130915,195500,195520,0,27,28,20" />
+          <spot log="60,20130915,201052,201057,0,3,24,5" />
+          <spot log="60,20130915,201140,201142,0,9,24,2" />
+          <spot log="60,20130915,201622,201637,0,24,24,15" />
+          <spot log="60,20130921,194935,194955,0,12,25,20" />
+          <spot log="60,20130921,195245,195305,0,22,25,20" />
+          <spot log="60,20130921,200702,200712,0,4,25,10" />
+          <spot log="60,20130921,200712,200715,0,5,25,3" />
+        </selected_spots>
+        <available_spots>
+          <spot log="60,20130915,194810,194825,0,1,28,15">
+            <TVR tm="CS 15-24 A~NStates" val="1.63,58.008198" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="0.72,20.036299" />
+          </spot>
+          <spot log="60,20130915,194825,194830,0,2,28,5">
+            <TVR tm="CS 15-24 A~NStates" val="1.63,58.008198" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="0.72,20.036299" />
+          </spot>
+          <spot log="60,20130915,194830,194835,0,3,28,5">
+            <TVR tm="CS 15-24 A~NStates" val="1.63,58.008198" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="0.72,20.036299" />
+          </spot>
+          <spot log="60,20130915,194835,194838,0,4,28,3">
+            <TVR tm="CS 15-24 A~NStates" val="1.63,58.008198" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="0.72,20.036299" />
+          </spot>
+          <spot log="60,20130915,194838,194840,0,5,28,2">
+            <TVR tm="CS 15-24 A~NStates" val="1.63,58.008198" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="0.72,20.036299" />
+          </spot>
+          <spot log="60,20130915,194840,194855,0,6,28,15">
+            <TVR tm="CS 15-24 A~NStates" val="1.63,58.008198" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="0.72,20.036299" />
+          </spot>
+          <spot log="60,20130915,194855,194915,0,7,28,20">
+            <TVR tm="CS 15-24 A~NStates" val="1.63,58.008198" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="0.72,20.036299" />
+          </spot>
+          <spot log="60,20130915,194915,194945,0,8,28,30">
+            <TVR tm="CS 15-24 A~NStates" val="1.63,58.008198" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="0.00,0.0" />
+          </spot>
+          <spot log="60,20130915,194945,194948,0,9,28,3">
+            <TVR tm="CS 15-24 A~NStates" val="1.63,58.008198" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="0.00,0.0" />
+          </spot>
+          <spot log="60,20130915,194948,194950,0,10,28,2">
+            <TVR tm="CS 15-24 A~NStates" val="1.63,58.008198" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="0.00,0.0" />
+          </spot>
+          <spot log="60,20130915,194950,195010,0,11,28,20">
+            <TVR tm="CS 15-24 A~NStates" val="1.63,58.008198" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="0.00,0.0" />
+          </spot>
+          <spot log="60,20130915,195010,195020,0,12,28,10">
+            <TVR tm="CS 15-24 A~NStates" val="1.63,58.008198" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="0.00,0.0" />
+          </spot>
+          <spot log="60,20130915,195020,195050,0,13,28,30">
+            <TVR tm="CS 15-24 A~NStates" val="1.63,58.008198" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="0.00,0.0" />
+          </spot>
+          <spot log="60,20130915,195050,195115,0,14,28,25">
+            <TVR tm="CS 15-24 A~NStates" val="1.63,58.008198" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="0.00,0.0" />
+          </spot>
+          <spot log="60,20130915,195135,195220,0,16,28,45">
+            <TVR tm="CS 15-24 A~NStates" val="1.63,58.008198" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="0.32,8.8638" />
+          </spot>
+          <spot log="60,20130915,195220,195235,0,17,28,15">
+            <TVR tm="CS 15-24 A~NStates" val="1.63,58.008198" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="0.32,8.8638" />
+          </spot>
+          <spot log="60,20130915,195235,195255,0,18,28,20">
+            <TVR tm="CS 15-24 A~NStates" val="1.63,58.008198" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="0.32,8.8638" />
+          </spot>
+          <spot log="60,20130915,195255,195315,0,19,28,20">
+            <TVR tm="CS 15-24 A~NStates" val="1.63,58.008198" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="0.32,8.8638" />
+          </spot>
+          <spot log="60,20130915,195315,195325,0,20,28,10">
+            <TVR tm="CS 15-24 A~NStates" val="1.63,58.008198" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="0.32,8.8638" />
+          </spot>
+          <spot log="60,20130915,195325,195345,0,21,28,20">
+            <TVR tm="CS 15-24 A~NStates" val="1.63,58.008198" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="0.32,8.8638" />
+          </spot>
+          <spot log="60,20130915,195345,195348,0,22,28,3">
+            <TVR tm="CS 15-24 A~NStates" val="1.63,58.008198" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="0.32,8.8638" />
+          </spot>
+          <spot log="60,20130915,195348,195350,0,23,28,2">
+            <TVR tm="CS 15-24 A~NStates" val="1.63,58.008198" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="0.32,8.8638" />
+          </spot>
+          <spot log="60,20130915,195350,195410,0,24,28,20">
+            <TVR tm="CS 15-24 A~NStates" val="1.63,58.008198" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="0.32,8.8638" />
+          </spot>
+          <spot log="60,20130915,195410,195440,0,25,28,30">
+            <TVR tm="CS 15-24 A~NStates" val="1.63,58.008198" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="0.72,20.036299" />
+          </spot>
+          <spot log="60,20130915,195440,195500,0,26,28,20">
+            <TVR tm="CS 15-24 A~NStates" val="1.63,58.008198" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="0.72,20.036299" />
+          </spot>
+          <spot log="60,20130915,195520,195540,0,28,28,20">
+            <TVR tm="CS 15-24 A~NStates" val="1.63,58.008198" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="0.32,8.8638" />
+          </spot>
+          <spot log="60,20130915,201007,201032,0,1,24,25">
+            <TVR tm="CS 15-24 A~NStates" val="1.43,50.8948" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="1.09,30.1126" />
+          </spot>
+          <spot log="60,20130915,201032,201052,0,2,24,20">
+            <TVR tm="CS 15-24 A~NStates" val="1.43,50.8948" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="1.09,30.1126" />
+          </spot>
+          <spot log="60,20130915,201057,201103,0,4,24,6">
+            <TVR tm="CS 15-24 A~NStates" val="1.43,50.8948" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="1.09,30.1126" />
+          </spot>
+          <spot log="60,20130915,201103,201105,0,5,24,2">
+            <TVR tm="CS 15-24 A~NStates" val="0.73,26.123999" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="0.69,18.9401" />
+          </spot>
+          <spot log="60,20130915,201105,201108,0,6,24,3">
+            <TVR tm="CS 15-24 A~NStates" val="0.73,26.123999" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="0.69,18.9401" />
+          </spot>
+          <spot log="60,20130915,201108,201138,0,7,24,30">
+            <TVR tm="CS 15-24 A~NStates" val="0.73,26.123999" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="0.69,18.9401" />
+          </spot>
+          <spot log="60,20130915,201138,201140,0,8,24,2">
+            <TVR tm="CS 15-24 A~NStates" val="0.73,26.123999" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="0.69,18.9401" />
+          </spot>
+          <spot log="60,20130915,201142,201152,0,10,24,10">
+            <TVR tm="CS 15-24 A~NStates" val="0.73,26.123999" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="0.69,18.9401" />
+          </spot>
+          <spot log="60,20130915,201152,201217,0,11,24,25">
+            <TVR tm="CS 15-24 A~NStates" val="0.73,26.123999" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="0.69,18.9401" />
+          </spot>
+          <spot log="60,20130915,201217,201302,0,12,24,45">
+            <TVR tm="CS 15-24 A~NStates" val="0.94,33.520298" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="1.45,40.0742" />
+          </spot>
+          <spot log="60,20130915,201302,201332,0,13,24,30">
+            <TVR tm="CS 15-24 A~NStates" val="1.27,45.397297" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="1.49,41.0557" />
+          </spot>
+          <spot log="60,20130915,201332,201352,0,14,24,20">
+            <TVR tm="CS 15-24 A~NStates" val="1.27,45.397297" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="1.49,41.0557" />
+          </spot>
+          <spot log="60,20130915,201352,201402,0,15,24,10">
+            <TVR tm="CS 15-24 A~NStates" val="1.27,45.397297" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="1.49,41.0557" />
+          </spot>
+          <spot log="60,20130915,201402,201417,0,16,24,15">
+            <TVR tm="CS 15-24 A~NStates" val="1.27,45.397297" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="0.69,18.9401" />
+          </spot>
+          <spot log="60,20130915,201417,201437,0,17,24,20">
+            <TVR tm="CS 15-24 A~NStates" val="1.27,45.397297" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="0.69,18.9401" />
+          </spot>
+          <spot log="60,20130915,201437,201440,0,18,24,3">
+            <TVR tm="CS 15-24 A~NStates" val="1.27,45.397297" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="0.69,18.9401" />
+          </spot>
+          <spot log="60,20130915,201440,201442,0,19,24,2">
+            <TVR tm="CS 15-24 A~NStates" val="1.27,45.397297" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="0.69,18.9401" />
+          </spot>
+          <spot log="60,20130915,201442,201522,0,20,24,40">
+            <TVR tm="CS 15-24 A~NStates" val="1.27,45.397297" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="0.69,18.9401" />
+          </spot>
+          <spot log="60,20130915,201522,201532,0,21,24,10">
+            <TVR tm="CS 15-24 A~NStates" val="1.27,45.397297" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="0.69,18.9401" />
+          </spot>
+          <spot log="60,20130915,201532,201602,0,22,24,30">
+            <TVR tm="CS 15-24 A~NStates" val="1.27,45.397297" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="0.69,18.9401" />
+          </spot>
+          <spot log="60,20130915,201602,201622,0,23,24,20">
+            <TVR tm="CS 15-24 A~NStates" val="1.07,38.001" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="1.12,30.9794" />
+          </spot>
+          <spot log="60,20130921,194735,194750,0,1,25,15">
+            <TVR tm="CS 15-24 A~NStates" val="0.57,20.350399" />
+            <TVR tm="CS 15-24 A~SouthStates" val="1.16,5.6455" />
+            <TVR tm="CS 15-24 A~Metros" val="1.60,44.3319" />
+          </spot>
+          <spot log="60,20130921,194750,194815,0,2,25,25">
+            <TVR tm="CS 15-24 A~NStates" val="0.57,20.350399" />
+            <TVR tm="CS 15-24 A~SouthStates" val="1.16,5.6455" />
+            <TVR tm="CS 15-24 A~Metros" val="1.60,44.3319" />
+          </spot>
+          <spot log="60,20130921,194815,194820,0,3,25,5">
+            <TVR tm="CS 15-24 A~NStates" val="1.63,58.0015" />
+            <TVR tm="CS 15-24 A~SouthStates" val="1.16,5.6455" />
+            <TVR tm="CS 15-24 A~Metros" val="1.20,33.2147" />
+          </spot>
+          <spot log="60,20130921,194820,194825,0,4,25,5">
+            <TVR tm="CS 15-24 A~NStates" val="1.63,58.0015" />
+            <TVR tm="CS 15-24 A~SouthStates" val="1.16,5.6455" />
+            <TVR tm="CS 15-24 A~Metros" val="1.20,33.2147" />
+          </spot>
+          <spot log="60,20130921,194825,194828,0,5,25,3">
+            <TVR tm="CS 15-24 A~NStates" val="1.63,58.0015" />
+            <TVR tm="CS 15-24 A~SouthStates" val="1.16,5.6455" />
+            <TVR tm="CS 15-24 A~Metros" val="1.20,33.2147" />
+          </spot>
+          <spot log="60,20130921,194828,194830,0,6,25,2">
+            <TVR tm="CS 15-24 A~NStates" val="1.63,58.0015" />
+            <TVR tm="CS 15-24 A~SouthStates" val="1.16,5.6455" />
+            <TVR tm="CS 15-24 A~Metros" val="1.20,33.2147" />
+          </spot>
+          <spot log="60,20130921,194830,194900,0,7,25,30">
+            <TVR tm="CS 15-24 A~NStates" val="1.63,58.0015" />
+            <TVR tm="CS 15-24 A~SouthStates" val="1.16,5.6455" />
+            <TVR tm="CS 15-24 A~Metros" val="1.20,33.2147" />
+          </spot>
+          <spot log="60,20130921,194900,194903,0,8,25,3">
+            <TVR tm="CS 15-24 A~NStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~SouthStates" val="1.16,5.6455" />
+            <TVR tm="CS 15-24 A~Metros" val="1.20,33.2147" />
+          </spot>
+          <spot log="60,20130921,194903,194905,0,9,25,2">
+            <TVR tm="CS 15-24 A~NStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~SouthStates" val="1.16,5.6455" />
+            <TVR tm="CS 15-24 A~Metros" val="1.20,33.2147" />
+          </spot>
+          <spot log="60,20130921,194905,194925,0,10,25,20">
+            <TVR tm="CS 15-24 A~NStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~SouthStates" val="1.16,5.6455" />
+            <TVR tm="CS 15-24 A~Metros" val="1.20,33.2147" />
+          </spot>
+          <spot log="60,20130921,194925,194935,0,11,25,10">
+            <TVR tm="CS 15-24 A~NStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~SouthStates" val="1.16,5.6455" />
+            <TVR tm="CS 15-24 A~Metros" val="1.20,33.2147" />
+          </spot>
+          <spot log="60,20130921,194955,195025,0,13,25,30">
+            <TVR tm="CS 15-24 A~NStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~SouthStates" val="1.16,5.6455" />
+            <TVR tm="CS 15-24 A~Metros" val="1.20,33.2147" />
+          </spot>
+          <spot log="60,20130921,195025,195045,0,14,25,20">
+            <TVR tm="CS 15-24 A~NStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="1.20,33.2147" />
+          </spot>
+          <spot log="60,20130921,195045,195110,0,15,25,25">
+            <TVR tm="CS 15-24 A~NStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="1.20,33.2147" />
+          </spot>
+          <spot log="60,20130921,195110,195125,0,16,25,15">
+            <TVR tm="CS 15-24 A~NStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="1.20,33.2147" />
+          </spot>
+          <spot log="60,20130921,195125,195128,0,17,25,3">
+            <TVR tm="CS 15-24 A~NStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="1.20,33.2147" />
+          </spot>
+          <spot log="60,20130921,195128,195130,0,18,25,2">
+            <TVR tm="CS 15-24 A~NStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="1.20,33.2147" />
+          </spot>
+          <spot log="60,20130921,195130,195150,0,19,25,20">
+            <TVR tm="CS 15-24 A~NStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="1.20,33.2147" />
+          </spot>
+          <spot log="60,20130921,195150,195210,0,20,25,20">
+            <TVR tm="CS 15-24 A~NStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="1.20,33.2147" />
+          </spot>
+          <spot log="60,20130921,195210,195245,0,21,25,35">
+            <TVR tm="CS 15-24 A~NStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="1.60,44.3319" />
+          </spot>
+          <spot log="60,20130921,195305,195325,0,23,25,20">
+            <TVR tm="CS 15-24 A~NStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="1.20,33.2147" />
+          </spot>
+          <spot log="60,20130921,195325,195345,0,24,25,20">
+            <TVR tm="CS 15-24 A~NStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="1.20,33.2147" />
+          </spot>
+          <spot log="60,20130921,195345,195400,0,25,25,15">
+            <TVR tm="CS 15-24 A~NStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="1.20,33.2147" />
+          </spot>
+          <spot log="60,20130921,200537,200607,0,1,25,30">
+            <TVR tm="CS 15-24 A~NStates" val="1.28,45.717102" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="1.21,33.3516" />
+          </spot>
+          <spot log="60,20130921,200607,200627,0,2,25,20">
+            <TVR tm="CS 15-24 A~NStates" val="1.09,38.9827" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="1.21,33.3516" />
+          </spot>
+          <spot log="60,20130921,200627,200702,0,3,25,35">
+            <TVR tm="CS 15-24 A~NStates" val="1.09,38.9827" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="1.21,33.3516" />
+          </spot>
+          <spot log="60,20130921,200715,200717,0,6,25,2">
+            <TVR tm="CS 15-24 A~NStates" val="0.34,11.9767" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="1.21,33.3516" />
+          </spot>
+          <spot log="60,20130921,200717,200732,0,7,25,15">
+            <TVR tm="CS 15-24 A~NStates" val="0.34,11.9767" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="1.21,33.3516" />
+          </spot>
+          <spot log="60,20130921,200732,200802,0,8,25,30">
+            <TVR tm="CS 15-24 A~NStates" val="0.34,11.9767" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="1.21,33.3516" />
+          </spot>
+          <spot log="60,20130921,200802,200822,0,9,25,20">
+            <TVR tm="CS 15-24 A~NStates" val="0.15,5.3775" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="0.80,22.2344" />
+          </spot>
+          <spot log="60,20130921,200822,200832,0,10,25,10">
+            <TVR tm="CS 15-24 A~NStates" val="0.15,5.3775" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="0.80,22.2344" />
+          </spot>
+          <spot log="60,20130921,200832,200847,0,11,25,15">
+            <TVR tm="CS 15-24 A~NStates" val="0.15,5.3775" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="0.80,22.2344" />
+          </spot>
+          <spot log="60,20130921,200847,200932,0,12,25,45">
+            <TVR tm="CS 15-24 A~NStates" val="0.15,5.3775" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="0.80,22.2344" />
+          </spot>
+          <spot log="60,20130921,200932,200935,0,13,25,3">
+            <TVR tm="CS 15-24 A~NStates" val="0.15,5.3775" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="0.80,22.2344" />
+          </spot>
+          <spot log="60,20130921,200935,200937,0,14,25,2">
+            <TVR tm="CS 15-24 A~NStates" val="0.15,5.3775" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="0.80,22.2344" />
+          </spot>
+          <spot log="60,20130921,200937,201007,0,15,25,30">
+            <TVR tm="CS 15-24 A~NStates" val="0.15,5.3775" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="0.80,22.2344" />
+          </spot>
+          <spot log="60,20130921,201007,201032,0,16,25,25">
+            <TVR tm="CS 15-24 A~NStates" val="0.15,5.3775" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="0.80,22.2344" />
+          </spot>
+          <spot log="60,20130921,201032,201052,0,17,25,20">
+            <TVR tm="CS 15-24 A~NStates" val="0.15,5.3775" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="0.80,22.2344" />
+          </spot>
+          <spot log="60,20130921,201052,201102,0,18,25,10">
+            <TVR tm="CS 15-24 A~NStates" val="0.15,5.3775" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="0.80,22.2344" />
+          </spot>
+          <spot log="60,20130921,201102,201122,0,19,25,20">
+            <TVR tm="CS 15-24 A~NStates" val="0.56,19.935299" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="1.21,33.3516" />
+          </spot>
+          <spot log="60,20130921,201122,201142,0,20,25,20">
+            <TVR tm="CS 15-24 A~NStates" val="0.56,19.935299" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="1.21,33.3516" />
+          </spot>
+          <spot log="60,20130921,201142,201147,0,21,25,5">
+            <TVR tm="CS 15-24 A~NStates" val="0.56,19.935299" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="1.21,33.3516" />
+          </spot>
+          <spot log="60,20130921,201147,201152,0,22,25,5">
+            <TVR tm="CS 15-24 A~NStates" val="0.56,19.935299" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="1.21,33.3516" />
+          </spot>
+          <spot log="60,20130921,201152,201155,0,23,25,3">
+            <TVR tm="CS 15-24 A~NStates" val="0.56,19.935299" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="1.21,33.3516" />
+          </spot>
+          <spot log="60,20130921,201155,201157,0,24,25,2">
+            <TVR tm="CS 15-24 A~NStates" val="0.56,19.935299" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="1.21,33.3516" />
+          </spot>
+          <spot log="60,20130921,201157,201212,0,25,25,15">
+            <TVR tm="CS 15-24 A~NStates" val="0.56,19.935299" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="1.21,33.3516" />
+          </spot>
+        </available_spots>
+      </programme>
+    </period>
+    <period EndDate="20130928" StartDate="20130922" WeekNum="39" year="2013">
+      <programme AdDuration="Geyser" ChannelCode="60" ChannelName="SONY ENTERTAINMENT TV" CostPer10s="" EndTime="20:30" NumberOfSpots="9" ProgName="Adalat" SeqNumber="1" StartTime="19:30" caption="20" days="SAT,SUN" guid="570280a2-b857-4d96-94de-e77981de5c7e">
+        <selected_spots>
+          <spot log="60,20130922,194500,194530,0,1,26,30" />
+          <spot log="60,20130922,194738,194740,0,8,26,2" />
+          <spot log="60,20130922,200756,200806,0,9,26,10" />
+          <spot log="60,20130922,200949,200951,0,16,26,2" />
+          <spot log="60,20130922,201136,201201,0,22,26,25" />
+          <spot log="60,20130928,194811,194841,0,10,32,30" />
+          <spot log="60,20130928,195310,195312,0,31,32,2" />
+          <spot log="60,20130928,200457,200527,0,1,32,30" />
+          <spot log="60,20130928,200832,200852,0,15,32,20" />
+        </selected_spots>
+        <available_spots>
+          <spot log="60,20130922,194530,194555,0,2,26,25">
+            <TVR tm="CS 15-24 A~NStates" val="0.25,9.0289" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="1.12,31.0274" />
+          </spot>
+          <spot log="60,20130922,194555,194630,0,3,26,35">
+            <TVR tm="CS 15-24 A~NStates" val="0.25,9.0289" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="1.12,31.0274" />
+          </spot>
+          <spot log="60,20130922,194630,194650,0,4,26,20">
+            <TVR tm="CS 15-24 A~NStates" val="0.25,9.0289" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="0.38,10.5637" />
+          </spot>
+          <spot log="60,20130922,194650,194705,0,5,26,15">
+            <TVR tm="CS 15-24 A~NStates" val="0.25,9.0289" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="0.38,10.5637" />
+          </spot>
+          <spot log="60,20130922,194705,194735,0,6,26,30">
+            <TVR tm="CS 15-24 A~NStates" val="0.25,9.0289" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="0.38,10.5637" />
+          </spot>
+          <spot log="60,20130922,194735,194738,0,7,26,3">
+            <TVR tm="CS 15-24 A~NStates" val="0.25,9.0289" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="0.38,10.5637" />
+          </spot>
+          <spot log="60,20130922,194740,194750,0,9,26,10">
+            <TVR tm="CS 15-24 A~NStates" val="0.25,9.0289" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="0.38,10.5637" />
+          </spot>
+          <spot log="60,20130922,194750,194800,0,10,26,10">
+            <TVR tm="CS 15-24 A~NStates" val="0.25,9.0289" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="0.38,10.5637" />
+          </spot>
+          <spot log="60,20130922,194800,194820,0,11,26,20">
+            <TVR tm="CS 15-24 A~NStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="0.76,21.1274" />
+          </spot>
+          <spot log="60,20130922,194820,194845,0,12,26,25">
+            <TVR tm="CS 15-24 A~NStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="0.76,21.1274" />
+          </spot>
+          <spot log="60,20130922,194845,194905,0,13,26,20">
+            <TVR tm="CS 15-24 A~NStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="0.76,21.1274" />
+          </spot>
+          <spot log="60,20130922,194905,194935,0,14,26,30">
+            <TVR tm="CS 15-24 A~NStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="0.76,21.1274" />
+          </spot>
+          <spot log="60,20130922,194935,194938,0,15,26,3">
+            <TVR tm="CS 15-24 A~NStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="0.76,21.1274" />
+          </spot>
+          <spot log="60,20130922,194938,194940,0,16,26,2">
+            <TVR tm="CS 15-24 A~NStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="0.76,21.1274" />
+          </spot>
+          <spot log="60,20130922,194940,194955,0,17,26,15">
+            <TVR tm="CS 15-24 A~NStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="0.76,21.1274" />
+          </spot>
+          <spot log="60,20130922,194955,195015,0,18,26,20">
+            <TVR tm="CS 15-24 A~NStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="0.76,21.1274" />
+          </spot>
+          <spot log="60,20130922,195015,195035,0,19,26,20">
+            <TVR tm="CS 15-24 A~NStates" val="0.25,9.0289" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="0.76,21.1274" />
+          </spot>
+          <spot log="60,20130922,195035,195105,0,20,26,30">
+            <TVR tm="CS 15-24 A~NStates" val="0.25,9.0289" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="0.76,21.1274" />
+          </spot>
+          <spot log="60,20130922,195105,195125,0,21,26,20">
+            <TVR tm="CS 15-24 A~NStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="0.76,21.1274" />
+          </spot>
+          <spot log="60,20130922,195125,195130,0,22,26,5">
+            <TVR tm="CS 15-24 A~NStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="0.76,21.1274" />
+          </spot>
+          <spot log="60,20130922,195130,195150,0,23,26,20">
+            <TVR tm="CS 15-24 A~NStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="0.76,21.1274" />
+          </spot>
+          <spot log="60,20130922,195150,195210,0,24,26,20">
+            <TVR tm="CS 15-24 A~NStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="0.76,21.1274" />
+          </spot>
+          <spot log="60,20130922,195210,195214,0,25,26,4">
+            <TVR tm="CS 15-24 A~NStates" val="0.25,9.0289" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="1.52,42.2548" />
+          </spot>
+          <spot log="60,20130922,195214,195229,0,26,26,15">
+            <TVR tm="CS 15-24 A~NStates" val="0.25,9.0289" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="1.52,42.2548" />
+          </spot>
+          <spot log="60,20130922,200541,200556,0,1,26,15">
+            <TVR tm="CS 15-24 A~NStates" val="1.58,56.0138" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="1.88,52.1548" />
+          </spot>
+          <spot log="60,20130922,200556,200616,0,2,26,20">
+            <TVR tm="CS 15-24 A~NStates" val="1.58,56.0138" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="1.88,52.1548" />
+          </spot>
+          <spot log="60,20130922,200616,200646,0,3,26,30">
+            <TVR tm="CS 15-24 A~NStates" val="1.18,41.9491" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="1.12,31.0274" />
+          </spot>
+          <spot log="60,20130922,200646,200701,0,4,26,15">
+            <TVR tm="CS 15-24 A~NStates" val="1.18,41.9491" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="1.12,31.0274" />
+          </spot>
+          <spot log="60,20130922,200701,200736,0,5,26,35">
+            <TVR tm="CS 15-24 A~NStates" val="1.18,41.9491" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="1.43,39.623398" />
+          </spot>
+          <spot log="60,20130922,200736,200751,0,6,26,15">
+            <TVR tm="CS 15-24 A~NStates" val="1.18,41.9491" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="1.43,39.623398" />
+          </spot>
+          <spot log="60,20130922,200751,200754,0,7,26,3">
+            <TVR tm="CS 15-24 A~NStates" val="1.18,41.9491" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="1.43,39.623398" />
+          </spot>
+          <spot log="60,20130922,200754,200756,0,8,26,2">
+            <TVR tm="CS 15-24 A~NStates" val="1.18,41.9491" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="1.43,39.623398" />
+          </spot>
+          <spot log="60,20130922,200806,200816,0,10,26,10">
+            <TVR tm="CS 15-24 A~NStates" val="1.18,41.9491" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="1.43,39.623398" />
+          </spot>
+          <spot log="60,20130922,200816,200856,0,11,26,40">
+            <TVR tm="CS 15-24 A~NStates" val="1.18,41.9491" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="1.43,39.623398" />
+          </spot>
+          <spot log="60,20130922,200856,200916,0,12,26,20">
+            <TVR tm="CS 15-24 A~NStates" val="1.18,41.9491" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="1.43,39.623398" />
+          </spot>
+          <spot log="60,20130922,200916,200926,0,13,26,10">
+            <TVR tm="CS 15-24 A~NStates" val="1.54,54.7596" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="1.43,39.623398" />
+          </spot>
+          <spot log="60,20130922,200926,200946,0,14,26,20">
+            <TVR tm="CS 15-24 A~NStates" val="1.54,54.7596" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="1.43,39.623398" />
+          </spot>
+          <spot log="60,20130922,200946,200949,0,15,26,3">
+            <TVR tm="CS 15-24 A~NStates" val="1.54,54.7596" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="1.43,39.623398" />
+          </spot>
+          <spot log="60,20130922,200951,201016,0,17,26,25">
+            <TVR tm="CS 15-24 A~NStates" val="1.54,54.7596" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="1.43,39.623398" />
+          </spot>
+          <spot log="60,20130922,201016,201036,0,18,26,20">
+            <TVR tm="CS 15-24 A~NStates" val="0.99,35.0904" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="1.43,39.623398" />
+          </spot>
+          <spot log="60,20130922,201036,201056,0,19,26,20">
+            <TVR tm="CS 15-24 A~NStates" val="0.99,35.0904" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="1.43,39.623398" />
+          </spot>
+          <spot log="60,20130922,201056,201116,0,20,26,20">
+            <TVR tm="CS 15-24 A~NStates" val="0.99,35.0904" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="1.43,39.623398" />
+          </spot>
+          <spot log="60,20130922,201116,201136,0,21,26,20">
+            <TVR tm="CS 15-24 A~NStates" val="1.43,50.978" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="1.43,39.623398" />
+          </spot>
+          <spot log="60,20130922,201201,201206,0,23,26,5">
+            <TVR tm="CS 15-24 A~NStates" val="1.43,50.978" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="1.78,49.249897" />
+          </spot>
+          <spot log="60,20130922,201206,201211,0,24,26,5">
+            <TVR tm="CS 15-24 A~NStates" val="1.43,50.978" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="1.78,49.249897" />
+          </spot>
+          <spot log="60,20130922,201211,201214,0,25,26,3">
+            <TVR tm="CS 15-24 A~NStates" val="1.43,50.978" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="1.78,49.249897" />
+          </spot>
+          <spot log="60,20130922,201214,201216,0,26,26,2">
+            <TVR tm="CS 15-24 A~NStates" val="1.43,50.978" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="1.78,49.249897" />
+          </spot>
+          <spot log="60,20130928,194551,194611,0,1,32,20">
+            <TVR tm="CS 15-24 A~NStates" val="1.22,43.4856" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="0.75,20.873" />
+          </spot>
+          <spot log="60,20130928,194611,194636,0,2,32,25">
+            <TVR tm="CS 15-24 A~NStates" val="0.19,6.7306" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="0.75,20.873" />
+          </spot>
+          <spot log="60,20130928,194636,194656,0,3,32,20">
+            <TVR tm="CS 15-24 A~NStates" val="0.19,6.7306" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="0.75,20.873" />
+          </spot>
+          <spot log="60,20130928,194656,194711,0,4,32,15">
+            <TVR tm="CS 15-24 A~NStates" val="0.19,6.7306" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="0.75,20.873" />
+          </spot>
+          <spot log="60,20130928,194711,194714,0,5,32,3">
+            <TVR tm="CS 15-24 A~NStates" val="0.19,6.7306" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="0.75,20.873" />
+          </spot>
+          <spot log="60,20130928,194714,194716,0,6,32,2">
+            <TVR tm="CS 15-24 A~NStates" val="0.19,6.7306" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="0.75,20.873" />
+          </spot>
+          <spot log="60,20130928,194716,194746,0,7,32,30">
+            <TVR tm="CS 15-24 A~NStates" val="0.19,6.7306" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="0.75,20.873" />
+          </spot>
+          <spot log="60,20130928,194746,194801,0,8,32,15">
+            <TVR tm="CS 15-24 A~NStates" val="0.19,6.7306" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="0.75,20.873" />
+          </spot>
+          <spot log="60,20130928,194801,194811,0,9,32,10">
+            <TVR tm="CS 15-24 A~NStates" val="1.05,37.1704" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="0.75,20.873" />
+          </spot>
+          <spot log="60,20130928,194841,194911,0,11,32,30">
+            <TVR tm="CS 15-24 A~NStates" val="1.05,37.1704" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="0.75,20.873" />
+          </spot>
+          <spot log="60,20130928,194911,194936,0,12,32,25">
+            <TVR tm="CS 15-24 A~NStates" val="0.19,6.7306" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="0.41,11.438" />
+          </spot>
+          <spot log="60,20130928,194936,194956,0,13,32,20">
+            <TVR tm="CS 15-24 A~NStates" val="0.19,6.7306" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="0.41,11.438" />
+          </spot>
+          <spot log="60,20130928,194956,194959,0,14,32,3">
+            <TVR tm="CS 15-24 A~NStates" val="0.19,6.7306" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="0.41,11.438" />
+          </spot>
+          <spot log="60,20130928,194959,195002,0,15,32,3">
+            <TVR tm="CS 15-24 A~NStates" val="0.19,6.7306" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="0.41,11.438" />
+          </spot>
+          <spot log="60,20130928,195002,195017,0,16,32,15">
+            <TVR tm="CS 15-24 A~NStates" val="0.19,6.7306" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="0.41,11.438" />
+          </spot>
+          <spot log="60,20130928,195017,195047,0,17,32,30">
+            <TVR tm="CS 15-24 A~NStates" val="0.19,6.7306" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="0.41,11.438" />
+          </spot>
+          <spot log="60,20130928,195047,195107,0,18,32,20">
+            <TVR tm="CS 15-24 A~NStates" val="0.19,6.7306" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="0.41,11.438" />
+          </spot>
+          <spot log="60,20130928,195107,195122,0,19,32,15">
+            <TVR tm="CS 15-24 A~NStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="0.34,9.435" />
+          </spot>
+          <spot log="60,20130928,195122,195137,0,20,32,15">
+            <TVR tm="CS 15-24 A~NStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="0.34,9.435" />
+          </spot>
+          <spot log="60,20130928,195137,195157,0,21,32,20">
+            <TVR tm="CS 15-24 A~NStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="0.34,9.435" />
+          </spot>
+          <spot log="60,20130928,195157,195200,0,22,32,3">
+            <TVR tm="CS 15-24 A~NStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="0.34,9.435" />
+          </spot>
+          <spot log="60,20130928,195200,195203,0,23,32,3">
+            <TVR tm="CS 15-24 A~NStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="0.34,9.435" />
+          </spot>
+          <spot log="60,20130928,195203,195223,0,24,32,20">
+            <TVR tm="CS 15-24 A~NStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="0.34,9.435" />
+          </spot>
+          <spot log="60,20130928,195223,195233,0,25,32,10">
+            <TVR tm="CS 15-24 A~NStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="0.34,9.435" />
+          </spot>
+          <spot log="60,20130928,195233,195253,0,26,32,20">
+            <TVR tm="CS 15-24 A~NStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="0.34,9.435" />
+          </spot>
+          <spot log="60,20130928,195253,195303,0,27,32,10">
+            <TVR tm="CS 15-24 A~NStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="0.34,9.435" />
+          </spot>
+          <spot log="60,20130928,195303,195305,0,28,32,2">
+            <TVR tm="CS 15-24 A~NStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="0.34,9.435" />
+          </spot>
+          <spot log="60,20130928,195305,195308,0,29,32,3">
+            <TVR tm="CS 15-24 A~NStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="0.34,9.435" />
+          </spot>
+          <spot log="60,20130928,195308,195310,0,30,32,2">
+            <TVR tm="CS 15-24 A~NStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="0.34,9.435" />
+          </spot>
+          <spot log="60,20130928,195312,195322,0,32,32,10">
+            <TVR tm="CS 15-24 A~NStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="0.34,9.435" />
+          </spot>
+          <spot log="60,20130928,200527,200537,0,2,32,10">
+            <TVR tm="CS 15-24 A~NStates" val="0.92,32.5979" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="0.34,9.435" />
+          </spot>
+          <spot log="60,20130928,200537,200607,0,3,32,30">
+            <TVR tm="CS 15-24 A~NStates" val="0.92,32.5979" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="0.34,9.435" />
+          </spot>
+          <spot log="60,20130928,200607,200610,0,4,32,3">
+            <TVR tm="CS 15-24 A~NStates" val="0.30,10.6034" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="0.34,9.435" />
+          </spot>
+          <spot log="60,20130928,200610,200612,0,5,32,2">
+            <TVR tm="CS 15-24 A~NStates" val="0.30,10.6034" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="0.34,9.435" />
+          </spot>
+          <spot log="60,20130928,200612,200632,0,6,32,20">
+            <TVR tm="CS 15-24 A~NStates" val="0.30,10.6034" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="0.34,9.435" />
+          </spot>
+          <spot log="60,20130928,200632,200642,0,7,32,10">
+            <TVR tm="CS 15-24 A~NStates" val="0.30,10.6034" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="0.34,9.435" />
+          </spot>
+          <spot log="60,20130928,200642,200712,0,8,32,30">
+            <TVR tm="CS 15-24 A~NStates" val="0.30,10.6034" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="0.34,9.435" />
+          </spot>
+          <spot log="60,20130928,200712,200727,0,9,32,15">
+            <TVR tm="CS 15-24 A~NStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="0.34,9.435" />
+          </spot>
+          <spot log="60,20130928,200727,200742,0,10,32,15">
+            <TVR tm="CS 15-24 A~NStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="0.34,9.435" />
+          </spot>
+          <spot log="60,20130928,200742,200807,0,11,32,25">
+            <TVR tm="CS 15-24 A~NStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="0.34,9.435" />
+          </spot>
+          <spot log="60,20130928,200807,200827,0,12,32,20">
+            <TVR tm="CS 15-24 A~NStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="0.34,9.435" />
+          </spot>
+          <spot log="60,20130928,200827,200830,0,13,32,3">
+            <TVR tm="CS 15-24 A~NStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="0.34,9.435" />
+          </spot>
+          <spot log="60,20130928,200830,200832,0,14,32,2">
+            <TVR tm="CS 15-24 A~NStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="0.34,9.435" />
+          </spot>
+          <spot log="60,20130928,200852,200927,0,16,32,35">
+            <TVR tm="CS 15-24 A~NStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="0.34,9.435" />
+          </spot>
+          <spot log="60,20130928,200927,200942,0,17,32,15">
+            <TVR tm="CS 15-24 A~NStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="0.34,9.435" />
+          </spot>
+          <spot log="60,20130928,200942,200952,0,18,32,10">
+            <TVR tm="CS 15-24 A~NStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="0.34,9.435" />
+          </spot>
+          <spot log="60,20130928,200952,201022,0,19,32,30">
+            <TVR tm="CS 15-24 A~NStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="0.34,9.435" />
+          </spot>
+          <spot log="60,20130928,201022,201032,0,20,32,10">
+            <TVR tm="CS 15-24 A~NStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="0.34,9.435" />
+          </spot>
+          <spot log="60,20130928,201032,201102,0,21,32,30">
+            <TVR tm="CS 15-24 A~NStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="0.34,9.435" />
+          </spot>
+          <spot log="60,20130928,201102,201105,0,22,32,3">
+            <TVR tm="CS 15-24 A~NStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="0.34,9.435" />
+          </spot>
+          <spot log="60,20130928,201105,201107,0,23,32,2">
+            <TVR tm="CS 15-24 A~NStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="0.34,9.435" />
+          </spot>
+          <spot log="60,20130928,201107,201127,0,24,32,20">
+            <TVR tm="CS 15-24 A~NStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="0.34,9.435" />
+          </spot>
+          <spot log="60,20130928,201127,201152,0,25,32,25">
+            <TVR tm="CS 15-24 A~NStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="0.34,9.435" />
+          </spot>
+          <spot log="60,20130928,201152,201202,0,26,32,10">
+            <TVR tm="CS 15-24 A~NStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="0.34,9.435" />
+          </spot>
+          <spot log="60,20130928,201202,201227,0,27,32,25">
+            <TVR tm="CS 15-24 A~NStates" val="0.30,10.6034" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="0.34,9.435" />
+          </spot>
+          <spot log="60,20130928,201227,201252,0,28,32,25">
+            <TVR tm="CS 15-24 A~NStates" val="0.30,10.6034" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="0.34,9.435" />
+          </spot>
+          <spot log="60,20130928,201252,201257,0,29,32,5">
+            <TVR tm="CS 15-24 A~NStates" val="0.30,10.6034" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="0.34,9.435" />
+          </spot>
+          <spot log="60,20130928,201257,201302,0,30,32,5">
+            <TVR tm="CS 15-24 A~NStates" val="0.30,10.6034" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="0.34,9.435" />
+          </spot>
+          <spot log="60,20130928,201302,201305,0,31,32,3">
+            <TVR tm="CS 15-24 A~NStates" val="0.30,10.6034" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="0.34,9.435" />
+          </spot>
+          <spot log="60,20130928,201305,201307,0,32,32,2">
+            <TVR tm="CS 15-24 A~NStates" val="0.30,10.6034" />
+            <TVR tm="CS 15-24 A~SouthStates" val="0.00,0.0" />
+            <TVR tm="CS 15-24 A~Metros" val="0.34,9.435" />
+          </spot>
+        </available_spots>
+      </programme>
+    </period>
+  </plan>
+</mediaplan>

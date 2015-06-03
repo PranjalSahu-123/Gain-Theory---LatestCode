@@ -1,0 +1,171 @@
+<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <Markets>
+    <ID>!</ID>
+    <Name>Raj  LCI</Name>
+  </Markets>
+  <Markets>
+    <ID>#</ID>
+    <Name>MP  LCI</Name>
+  </Markets>
+  <Markets>
+    <ID>$</ID>
+    <Name>PCHP  .1  to  1Mn.</Name>
+  </Markets>
+  <Markets>
+    <ID>%</ID>
+    <Name>UP  LCI</Name>
+  </Markets>
+  <Markets>
+    <ID>&amp;</ID>
+    <Name>Punjab  1Mn.+</Name>
+  </Markets>
+  <Markets>
+    <ID>&amp;gt;</ID>
+    <Name>Chattisgarh  .1  to  1  Mn.</Name>
+  </Markets>
+  <Markets>
+    <ID>1</ID>
+    <Name>Mumbai</Name>
+  </Markets>
+  <Markets>
+    <ID>2</ID>
+    <Name>Calcutta</Name>
+  </Markets>
+  <Markets>
+    <ID>3</ID>
+    <Name>Delhi</Name>
+  </Markets>
+  <Markets>
+    <ID>4</ID>
+    <Name>Chennai</Name>
+  </Markets>
+  <Markets>
+    <ID>5</ID>
+    <Name>Pune</Name>
+  </Markets>
+  <Markets>
+    <ID>6</ID>
+    <Name>Bangalore</Name>
+  </Markets>
+  <Markets>
+    <ID>7</ID>
+    <Name>Hyderabad</Name>
+  </Markets>
+  <Markets>
+    <ID>8</ID>
+    <Name>AP  Rest  1Mn.+</Name>
+  </Markets>
+  <Markets>
+    <ID>9</ID>
+    <Name>AP  .1  to  1  Mn.</Name>
+  </Markets>
+  <Markets>
+    <ID>@</ID>
+    <Name>PHPH  LCI</Name>
+  </Markets>
+  <Markets>
+    <ID>A</ID>
+    <Name>Ahmedabad</Name>
+  </Markets>
+  <Markets>
+    <ID>B</ID>
+    <Name>MP  .1  to  1  Mn.</Name>
+  </Markets>
+  <Markets>
+    <ID>C</ID>
+    <Name>Guj  1Mn.+</Name>
+  </Markets>
+  <Markets>
+    <ID>D</ID>
+    <Name>Guj  .1  to  1  Mn.</Name>
+  </Markets>
+  <Markets>
+    <ID>E</ID>
+    <Name>PHCHP  1Mn.+</Name>
+  </Markets>
+  <Markets>
+    <ID>F</ID>
+    <Name>PHCHP  .1  to  1  Mn.</Name>
+  </Markets>
+  <Markets>
+    <ID>G</ID>
+    <Name>Karnataka  .1  to  1Mn.</Name>
+  </Markets>
+  <Markets>
+    <ID>H</ID>
+    <Name>Kerala  1Mn.+</Name>
+  </Markets>
+  <Markets>
+    <ID>I</ID>
+    <Name>Kerala  .1  to  1  Mn.</Name>
+  </Markets>
+  <Markets>
+    <ID>J</ID>
+    <Name>MAH  Rest  1Mn.+</Name>
+  </Markets>
+  <Markets>
+    <ID>K</ID>
+    <Name>MAH  .1  to  1  Mn.</Name>
+  </Markets>
+  <Markets>
+    <ID>L</ID>
+    <Name>MP  1Mn.+</Name>
+  </Markets>
+  <Markets>
+    <ID>N</ID>
+    <Name>Orissa  .1  to  1  Mn.</Name>
+  </Markets>
+  <Markets>
+    <ID>O</ID>
+    <Name>Rajasthan  1Mn.+</Name>
+  </Markets>
+  <Markets>
+    <ID>P</ID>
+    <Name>Rajasthan  .1  to  1  Mn.</Name>
+  </Markets>
+  <Markets>
+    <ID>Q</ID>
+    <Name>TN  Rest  1Mn.+</Name>
+  </Markets>
+  <Markets>
+    <ID>R</ID>
+    <Name>TN  .1  to  1  Mn.</Name>
+  </Markets>
+  <Markets>
+    <ID>S</ID>
+    <Name>UP  1Mn.+</Name>
+  </Markets>
+  <Markets>
+    <ID>T</ID>
+    <Name>UP  .1  to  1  Mn.</Name>
+  </Markets>
+  <Markets>
+    <ID>U</ID>
+    <Name>WB  1Mn.+</Name>
+  </Markets>
+  <Markets>
+    <ID>V</ID>
+    <Name>WB  .1  to  1  Mn.</Name>
+  </Markets>
+  <Markets>
+    <ID>W</ID>
+    <Name>Jharkhand  (Wk  1115  onwards)</Name>
+  </Markets>
+  <Markets>
+    <ID>X</ID>
+    <Name>Bihar</Name>
+  </Markets>
+  <Markets>
+    <ID>Y</ID>
+    <Name>Assam</Name>
+  </Markets>
+  <Markets>
+    <ID>Z</ID>
+    <Name>Maharashtra  L  C  I</Name>
+  </Markets>
+  <Markets>
+    <ID>^</ID>
+    <Name>Guj  LCI</Name>
+  </Markets>
+</DocumentElement>

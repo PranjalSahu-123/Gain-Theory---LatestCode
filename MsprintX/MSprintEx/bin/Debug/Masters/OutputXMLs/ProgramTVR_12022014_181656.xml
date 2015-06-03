@@ -1,0 +1,1302 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<input>
+  <pre-eval-period>
+    <startdate>20130804</startdate>
+    <enddate>20130831</enddate>
+  </pre-eval-period>
+  <day_parts />
+  <TG_MG name="CS 15-24 A~Metros" type="Planning">
+    <tg name="CS 15-24 A">
+      <cs>1</cs>
+      <sec>1</sec>
+      <sex>1,2</sex>
+      <age>3</age>
+    </tg>
+    <mg name="Metros" type="Group">
+      <market>1</market>
+      <market>2</market>
+      <market>3</market>
+      <market>4</market>
+      <market>6</market>
+    </mg>
+    <calc display="week-wise" logic="ProgTVR" />
+    <num_programs>30</num_programs>
+    <channel code="571" name="Polimer TV" />
+    <channel code="479" name="COLORS" />
+    <channel code="16" name="SUN TV" />
+    <output>
+      <channel code="16" name="SUN TV">
+        <period enddate="10/08/2013" startdate="04/08/2013">
+          <program averagetvr="1.12" day="Sun" name="TOP TEN MOVIE" rank="1" time="08:30:00" tvr="3.62" variance="223.21" />
+          <program averagetvr="1.86" day="Sun" name="KALYANA MALAI" rank="2" time="08:00:00" tvr="2.73" variance="47.17" />
+          <program averagetvr="0.52" day="Sat" name="AMUL SUPER KUDUKBAM 2" rank="3" time="21:00:00" tvr="1.95" variance="273.21" />
+          <program averagetvr="0.58" day="Sun" name="SUNDAY GALATTA" rank="4" time="09:00:00" tvr="1.46" variance="151.72" />
+          <program averagetvr="0.32" day="Sat" name="TMF MAPPILLAI(DHANUSH)" rank="5" time="19:30:00" tvr="1.27" variance="300.00" />
+          <program averagetvr="2.42" day="Sun" name="SOLLUNGANNE SOLLUNGA" rank="6" time="09:30:00" tvr="0.92" variance="-61.94" />
+          <program averagetvr="0.70" day="Mon" name="ILAVARASI" rank="7" time="13:30:00" tvr="0.82" variance="16.39" />
+          <program averagetvr="0.23" day="Mon" name="DEIVA MAGAL" rank="8" time="20:00:00" tvr="0.82" variance="260.35" />
+          <program averagetvr="0.22" day="Mon" name="VALLI" rank="9" time="14:00:00" tvr="0.76" variance="246.56" />
+          <program averagetvr="0.19" day="Mon" name="MARUTHANI" rank="10" time="10:30:00" tvr="0.74" variance="300.00" />
+          <program averagetvr="0.29" day="Tue" name="THYAGAM" rank="11" time="13:00:00" tvr="0.71" variance="146.51" />
+          <program averagetvr="0.17" day="Sun" name="CADBURY OREO SUN SINGER-GF" rank="12" time="11:00:00" tvr="0.67" variance="300.00" />
+          <program averagetvr="0.17" day="Sun" name="TMF HARRY POTTER AND THE CHAMBER OF SECR" rank="13" time="15:00:00" tvr="0.67" variance="300.00" />
+          <program averagetvr="0.16" day="Mon" name="SONDHA BANDHAM" rank="14" time="11:00:00" tvr="0.65" variance="300.00" />
+          <program averagetvr="0.15" day="Mon" name="KARTHIGAI PENGAL" rank="15" time="22:00:00" tvr="0.61" variance="300.00" />
+          <program averagetvr="0.48" day="Tue" name="MUTHARAM" rank="16" time="12:30:00" tvr="0.59" variance="22.60" />
+          <program averagetvr="0.35" day="Mon" name="HEADLINE NEWS" rank="17" time="14:30:00" tvr="0.58" variance="66.27" />
+          <program averagetvr="0.14" day="Mon" name="CINEMA SEITHIGAL" rank="18" time="10:00:00" tvr="0.57" variance="300.00" />
+          <program averagetvr="0.14" day="Mon" name="NADASWARAM" rank="19" time="19:30:00" tvr="0.56" variance="300.00" />
+          <program averagetvr="0.17" day="Mon" name="VANI RANI" rank="20" time="21:30:00" tvr="0.51" variance="206.35" />
+          <program averagetvr="0.13" day="Wed" name="TMF NARASHIMA" rank="21" time="15:00:00" tvr="0.51" variance="300.00" />
+          <program averagetvr="0.13" day="Sun" name="TMF MAMBATTIYAN" rank="22" time="18:30:00" tvr="0.50" variance="300.00" />
+          <program averagetvr="0.12" day="Sat" name="TMF SARAVANAA" rank="23" time="14:30:00" tvr="0.49" variance="300.00" />
+          <program averagetvr="0.53" day="Sun" name="SUN SAITHEGAL" rank="24" time="07:30:00" tvr="0.48" variance="-8.59" />
+          <program averagetvr="0.24" day="Mon" name="THENDRAL" rank="25" time="21:00:00" tvr="0.48" variance="95.40" />
+          <program averagetvr="0.12" day="Sat" name="TMF MAPPILLAI(DHANUSH)" rank="26" time="17:30:00" tvr="0.47" variance="300.00" />
+          <program averagetvr="0.55" day="Wed" name="MUNTHANAI MUDITCHU" rank="27" time="18:00:00" tvr="0.47" variance="-14.68" />
+          <program averagetvr="0.18" day="Mon" name="NAGAICHUVAI GALATTA" rank="28" time="09:00:00" tvr="0.43" variance="137.79" />
+          <program averagetvr="0.11" day="Tue" name="DEVATHAI" rank="29" time="12:00:00" tvr="0.42" variance="300.00" />
+          <program averagetvr="0.10" day="Mon" name="BOMMALATTAM" rank="30" time="11:30:00" tvr="0.41" variance="300.00" />
+        </period>
+        <period enddate="17/08/2013" startdate="11/08/2013">
+          <program averagetvr="0.33" day="Thu" name="TMF CHENNAIEIL ORU NAAL" rank="1" time="11:00:00" tvr="1.30" variance="300.00" />
+          <program averagetvr="0.32" day="Thu" name="TMF POKKIRI" rank="2" time="13:30:00" tvr="1.27" variance="300.00" />
+          <program averagetvr="0.31" day="Thu" name="TMF SUNDARA PANDIAN" rank="3" time="19:30:00" tvr="1.22" variance="300.00" />
+          <program averagetvr="0.46" day="Sun" name="THIRAI VIMARSANAM" rank="4" time="17:30:00" tvr="1.17" variance="152.97" />
+          <program averagetvr="0.25" day="Sat" name="TMF ARUL" rank="5" time="15:00:00" tvr="1.00" variance="300.00" />
+          <program averagetvr="0.35" day="Mon" name="HEADLINE NEWS" rank="6" time="14:30:00" tvr="0.82" variance="133.73" />
+          <program averagetvr="0.26" day="Wed" name="MARUTHANI" rank="7" time="10:30:00" tvr="0.80" variance="209.68" />
+          <program averagetvr="1.03" day="Sun" name="RAMRAJ KUTTY CHUTTIES" rank="8" time="18:00:00" tvr="0.78" variance="-23.90" />
+          <program averagetvr="0.42" day="Sun" name="BHAIRAVI" rank="9" time="22:00:00" tvr="0.77" variance="84.43" />
+          <program averagetvr="0.19" day="Thu" name="TMF POKKIRI" rank="10" time="14:30:00" tvr="0.77" variance="300.00" />
+          <program averagetvr="0.19" day="Sat" name="TMF ARUL" rank="11" time="13:30:00" tvr="0.75" variance="300.00" />
+          <program averagetvr="0.16" day="Thu" name="TMF RUSH HOUR" rank="12" time="22:00:00" tvr="0.64" variance="300.00" />
+          <program averagetvr="0.15" day="Sun" name="TMF MOUNA GURU" rank="13" time="19:30:00" tvr="0.61" variance="300.00" />
+          <program averagetvr="0.15" day="Thu" name="TMF SUNDARA PANDIAN" rank="14" time="18:00:00" tvr="0.60" variance="300.00" />
+          <program averagetvr="0.22" day="Mon" name="THYAGAM" rank="15" time="13:00:00" tvr="0.54" variance="146.60" />
+          <program averagetvr="0.14" day="Thu" name="RAGALAPURAM ADU SAGALAPURAM" rank="16" time="08:30:00" tvr="0.54" variance="300.00" />
+          <program averagetvr="0.13" day="Thu" name="ENGAL SUDHANTHIRAM (INTERVIEW)" rank="17" time="17:00:00" tvr="0.53" variance="300.00" />
+          <program averagetvr="0.70" day="Mon" name="ILAVARASI" rank="18" time="13:30:00" tvr="0.52" variance="-26.19" />
+          <program averagetvr="0.13" day="Tue" name="SURYA VANAKKAM" rank="19" time="08:00:00" tvr="0.51" variance="300.00" />
+          <program averagetvr="0.24" day="Mon" name="THENDRAL" rank="20" time="21:00:00" tvr="0.50" variance="104.60" />
+          <program averagetvr="0.09" day="Tue" name="TMF UNAKKAKA ELLAM UNAKKAKA" rank="21" time="15:00:00" tvr="0.37" variance="300.00" />
+          <program averagetvr="0.09" day="Thu" name="COMEDYYAI THAVIRA VERILLAI" rank="22" time="17:30:00" tvr="0.36" variance="300.00" />
+          <program averagetvr="0.07" day="Sat" name="SUN SAITHEGAL" rank="23" time="07:30:00" tvr="0.29" variance="300.00" />
+          <program averagetvr="0.07" day="Wed" name="TMF PALLIKKOODAM" rank="24" time="14:30:00" tvr="0.29" variance="300.00" />
+          <program averagetvr="0.07" day="Sun" name="TMF SURA" rank="25" time="14:30:00" tvr="0.26" variance="300.00" />
+          <program averagetvr="0.06" day="Thu" name="VAANGA PAZHAGALAM" rank="26" time="08:00:00" tvr="0.25" variance="300.00" />
+          <program averagetvr="0.06" day="Mon" name="MUTHARAM" rank="27" time="12:30:00" tvr="0.25" variance="300.00" />
+          <program averagetvr="0.14" day="Wed" name="SONDHA BANDHAM" rank="28" time="11:00:00" tvr="0.24" variance="66.96" />
+          <program averagetvr="0.06" day="Sat" name="TMF MAALAI POZHUTHIN MAYAKATHILAEY" rank="29" time="10:30:00" tvr="0.22" variance="300.00" />
+          <program averagetvr="0.40" day="Sun" name="CADBURY OREO SUN SINGER" rank="30" time="11:00:00" tvr="0.21" variance="-47.83" />
+        </period>
+        <period enddate="24/08/2013" startdate="18/08/2013">
+          <program averagetvr="0.36" day="Sat" name="TMF ORU KAL ORU KANNADI" rank="1" time="19:30:00" tvr="1.42" variance="300.00" />
+          <program averagetvr="0.34" day="Sun" name="TMF MUNI-2 KANCHANA" rank="2" time="14:30:00" tvr="1.37" variance="300.00" />
+          <program averagetvr="0.24" day="Tue" name="TMF ANANTHA POONGATTRE" rank="3" time="15:00:00" tvr="0.96" variance="300.00" />
+          <program averagetvr="1.03" day="Sun" name="RAMRAJ KUTTY CHUTTIES" rank="4" time="18:00:00" tvr="0.94" variance="-8.29" />
+          <program averagetvr="0.23" day="Sun" name="TMF INKHEART" rank="5" time="12:30:00" tvr="0.91" variance="300.00" />
+          <program averagetvr="1.86" day="Sun" name="KALYANA MALAI" rank="6" time="08:00:00" tvr="0.86" variance="-53.64" />
+          <program averagetvr="0.58" day="Sun" name="SUNDAY GALATTA" rank="7" time="09:00:00" tvr="0.86" variance="48.28" />
+          <program averagetvr="1.12" day="Sun" name="TOP TEN MOVIE" rank="8" time="08:30:00" tvr="0.86" variance="-23.21" />
+          <program averagetvr="0.21" day="Sat" name="TMF ORU KAL ORU KANNADI" rank="9" time="17:30:00" tvr="0.85" variance="300.00" />
+          <program averagetvr="0.21" day="Sun" name="TMF MUGAMOODI" rank="10" time="18:30:00" tvr="0.83" variance="300.00" />
+          <program averagetvr="0.29" day="Sun" name="HEADLINE NEWS" rank="11" time="14:30:00" tvr="0.81" variance="180.61" />
+          <program averagetvr="0.17" day="Sun" name="TMF MUGAMOODI" rank="12" time="19:30:00" tvr="0.68" variance="300.00" />
+          <program averagetvr="0.16" day="Wed" name="DEIVA MAGAL" rank="13" time="20:00:00" tvr="0.65" variance="300.00" />
+          <program averagetvr="0.43" day="Tue" name="PILLAI NILA" rank="14" time="17:30:00" tvr="0.64" variance="47.41" />
+          <program averagetvr="0.55" day="Wed" name="MUNTHANAI MUDITCHU" rank="15" time="18:00:00" tvr="0.61" variance="11.93" />
+          <program averagetvr="0.15" day="Sat" name="AMUL SUPER KUDUKBAM 2" rank="16" time="21:30:00" tvr="0.53" variance="247.54" />
+          <program averagetvr="2.42" day="Sun" name="SOLLUNGANNE SOLLUNGA" rank="17" time="09:30:00" tvr="0.53" variance="-78.08" />
+          <program averagetvr="0.34" day="Tue" name="VANI RANI" rank="18" time="21:30:00" tvr="0.52" variance="50.36" />
+          <program averagetvr="0.25" day="Sat" name="CADBURYS BOURN VITA QUIZ CONTEST AMMA K" rank="19" time="17:00:00" tvr="0.51" variance="108.16" />
+          <program averagetvr="0.44" day="Sat" name="SIVA SANKARI" rank="20" time="22:30:00" tvr="0.51" variance="15.25" />
+          <program averagetvr="0.13" day="Sat" name="VAZHKKAI KOVIGAL" rank="21" time="08:00:00" tvr="0.51" variance="300.00" />
+          <program averagetvr="0.53" day="Sun" name="SUN SAITHEGAL" rank="22" time="07:30:00" tvr="0.50" variance="-6.04" />
+          <program averagetvr="0.12" day="Wed" name="VAMSAM" rank="23" time="20:30:00" tvr="0.49" variance="300.00" />
+          <program averagetvr="0.12" day="Tue" name="KARTHIGAI PENGAL" rank="24" time="22:00:00" tvr="0.44" variance="282.70" />
+          <program averagetvr="0.29" day="Tue" name="THYAGAM" rank="25" time="13:00:00" tvr="0.44" variance="53.49" />
+          <program averagetvr="0.10" day="Thu" name="NADASWARAM" rank="26" time="19:30:00" tvr="0.39" variance="300.00" />
+          <program averagetvr="0.09" day="Tue" name="ILAVARASI" rank="27" time="13:30:00" tvr="0.36" variance="300.00" />
+          <program averagetvr="0.09" day="Tue" name="VALLI" rank="28" time="14:00:00" tvr="0.35" variance="300.00" />
+          <program averagetvr="0.24" day="Fri" name="BOMMALATTAM" rank="29" time="11:30:00" tvr="0.33" variance="37.50" />
+          <program averagetvr="0.08" day="Sat" name="TMF FRIENDS" rank="30" time="13:30:00" tvr="0.31" variance="300.00" />
+        </period>
+        <period enddate="31/08/2013" startdate="25/08/2013">
+          <program averagetvr="0.27" day="Sun" name="TMF M KUMARAN SON OF MAHALAIKS" rank="1" time="14:30:00" tvr="1.07" variance="300.00" />
+          <program averagetvr="0.34" day="Tue" name="VANI RANI" rank="2" time="21:30:00" tvr="0.86" variance="149.64" />
+          <program averagetvr="0.24" day="Tue" name="THENDRAL" rank="3" time="21:00:00" tvr="0.74" variance="205.40" />
+          <program averagetvr="0.46" day="Sun" name="THIRAI VIMARSANAM" rank="4" time="17:30:00" tvr="0.68" variance="47.03" />
+          <program averagetvr="0.17" day="Sun" name="TMF PADIKKAATHAVAN (DHANUSH)" rank="5" time="18:30:00" tvr="0.68" variance="300.00" />
+          <program averagetvr="1.03" day="Sun" name="RAMRAJ KUTTY CHUTTIES" rank="6" time="18:00:00" tvr="0.66" variance="-35.61" />
+          <program averagetvr="0.24" day="Fri" name="BOMMALATTAM" rank="7" time="11:30:00" tvr="0.63" variance="162.50" />
+          <program averagetvr="0.16" day="Fri" name="DEVATHAI" rank="8" time="12:00:00" tvr="0.63" variance="300.00" />
+          <program averagetvr="0.15" day="Tue" name="THENNILAVU" rank="9" time="22:00:00" tvr="0.62" variance="300.00" />
+          <program averagetvr="0.40" day="Sun" name="CADBURY OREO SUN SINGER" rank="10" time="11:00:00" tvr="0.59" variance="46.58" />
+          <program averagetvr="0.43" day="Mon" name="VAMSAM" rank="11" time="20:30:00" tvr="0.55" variance="25.86" />
+          <program averagetvr="0.12" day="Wed" name="TMF SRI RAM RAJIYAM" rank="12" time="14:30:00" tvr="0.49" variance="300.00" />
+          <program averagetvr="0.12" day="Tue" name="DEIVA MAGAL" rank="13" time="20:00:00" tvr="0.48" variance="300.00" />
+          <program averagetvr="0.25" day="Sat" name="CADBURYS BOURN VITA QUIZ CONTEST AMMA K" rank="14" time="17:00:00" tvr="0.47" variance="91.84" />
+          <program averagetvr="0.12" day="Sun" name="TMF M KUMARAN SON OF MAHALAIKS" rank="15" time="14:00:00" tvr="0.46" variance="300.00" />
+          <program averagetvr="0.11" day="Sat" name="TMF ROWTHIRAM" rank="16" time="19:30:00" tvr="0.43" variance="300.00" />
+          <program averagetvr="0.11" day="Sun" name="TMF THE TOURIST" rank="17" time="12:30:00" tvr="0.42" variance="300.00" />
+          <program averagetvr="0.10" day="Sat" name="TMF ROWTHIRAM" rank="18" time="17:30:00" tvr="0.41" variance="300.00" />
+          <program averagetvr="0.41" day="Mon" name="SURYA VANAKKAM" rank="19" time="08:00:00" tvr="0.39" variance="-5.74" />
+          <program averagetvr="0.44" day="Sat" name="SIVA SANKARI" rank="20" time="22:30:00" tvr="0.36" variance="-18.64" />
+          <program averagetvr="0.09" day="Thu" name="VALLI" rank="21" time="14:00:00" tvr="0.36" variance="300.00" />
+          <program averagetvr="0.09" day="Fri" name="TMF CHATRIYAN" rank="22" time="15:00:00" tvr="0.35" variance="300.00" />
+          <program averagetvr="0.29" day="Sun" name="HEADLINE NEWS" rank="23" time="14:30:00" tvr="0.34" variance="19.39" />
+          <program averagetvr="0.22" day="Mon" name="THYAGAM" rank="24" time="13:00:00" tvr="0.34" variance="53.40" />
+          <program averagetvr="0.14" day="Wed" name="SONDHA BANDHAM" rank="25" time="11:00:00" tvr="0.34" variance="133.04" />
+          <program averagetvr="0.48" day="Tue" name="MUTHARAM" rank="26" time="12:30:00" tvr="0.33" variance="-30.91" />
+          <program averagetvr="2.42" day="Sun" name="SOLLUNGANNE SOLLUNGA" rank="27" time="09:30:00" tvr="0.31" variance="-87.18" />
+          <program averagetvr="0.18" day="Mon" name="NAGAICHUVAI GALATTA" rank="28" time="09:00:00" tvr="0.29" variance="62.21" />
+          <program averagetvr="0.14" day="Sun" name="SUN SAITHEGAL" rank="29" time="19:00:00" tvr="0.29" variance="112.01" />
+          <program averagetvr="0.07" day="Mon" name="TMF THULLATHA MANAMUM THULLUM" rank="30" time="15:00:00" tvr="0.29" variance="300.00" />
+        </period>
+      </channel>
+      <channel code="479" name="COLORS">
+        <period enddate="10/08/2013" startdate="04/08/2013">
+          <program averagetvr="9.58" day="Sun" name="COMEDY NIGHTS WITH KAPIL" rank="1" time="22:30:00" tvr="8.54" variance="-10.89" />
+          <program averagetvr="23.02" day="Sun" name="JHALAK DIKHHLA JAA" rank="2" time="21:00:00" tvr="5.06" variance="-78.02" />
+          <program averagetvr="12.03" day="Mon" name="MADHUBALA EK ISHQ EK JUNOON" rank="3" time="20:30:00" tvr="3.23" variance="-73.17" />
+          <program averagetvr="10.42" day="Mon" name="BALIKA VADHU" rank="4" time="20:00:00" tvr="2.91" variance="-72.10" />
+          <program averagetvr="2.10" day="Sun" name="JHALAK DIKHHLA JAA" rank="5" time="11:00:00" tvr="2.25" variance="7.27" />
+          <program averagetvr="8.30" day="Mon" name="BANI-ISHQ DA KALMA" rank="6" time="22:30:00" tvr="2.22" variance="-73.28" />
+          <program averagetvr="0.55" day="Sun" name="HFF SPECIAL 26" rank="7" time="12:30:00" tvr="2.20" variance="300.00" />
+          <program averagetvr="7.27" day="Mon" name="SASURAL SIMAR KA" rank="8" time="19:30:00" tvr="2.16" variance="-70.36" />
+          <program averagetvr="6.33" day="Mon" name="BALIKA VADHU" rank="9" time="23:00:00" tvr="1.62" variance="-74.33" />
+          <program averagetvr="0.41" day="Sun" name="JHALAK DIKHHLA JAA" rank="10" time="17:00:00" tvr="1.62" variance="300.00" />
+          <program averagetvr="0.35" day="Wed" name="NA BOLE TUM NA MAINE KUCHH KAHA-2" rank="11" time="00:30:00" tvr="1.40" variance="300.00" />
+          <program averagetvr="7.68" day="Sun" name="COMEDY NIGHTS WITH KAPIL" rank="12" time="23:30:00" tvr="1.34" variance="-82.56" />
+          <program averagetvr="8.12" day="Mon" name="SANSKAAR DHAROHAR APNON KI" rank="13" time="21:00:00" tvr="1.27" variance="-84.37" />
+          <program averagetvr="5.99" day="Mon" name="NA BOLE TUM NA MAINE KUCHH KAHA-2" rank="14" time="21:30:00" tvr="1.25" variance="-79.18" />
+          <program averagetvr="0.31" day="Fri" name="JHALAK DIKHHLA JAA" rank="15" time="10:30:00" tvr="1.24" variance="300.00" />
+          <program averagetvr="5.80" day="Mon" name="UTTARAN" rank="16" time="22:00:00" tvr="1.17" variance="-79.80" />
+          <program averagetvr="0.52" day="Sat" name="COMEDY NIGHTS WITH KAPIL" rank="17" time="16:00:00" tvr="1.10" variance="112.56" />
+          <program averagetvr="0.27" day="Sat" name="HFF READY" rank="18" time="12:30:00" tvr="1.06" variance="300.00" />
+          <program averagetvr="5.27" day="Mon" name="BANI-ISHQ DA KALMA" rank="19" time="16:00:00" tvr="1.03" variance="-80.45" />
+          <program averagetvr="0.26" day="Fri" name="COMEDY NIGHTS WITH KAPIL" rank="20" time="15:00:00" tvr="1.02" variance="300.00" />
+          <program averagetvr="2.55" day="Mon" name="BALIKA VADHU" rank="21" time="18:00:00" tvr="0.97" variance="-61.81" />
+          <program averagetvr="3.18" day="Mon" name="BANI-ISHQ DA KALMA" rank="22" time="13:00:00" tvr="0.97" variance="-69.54" />
+          <program averagetvr="0.28" day="Tue" name="SASURAL SIMAR KA" rank="23" time="00:00:00" tvr="0.93" variance="232.74" />
+          <program averagetvr="3.30" day="Mon" name="MRS PAMMI PYARELAL" rank="24" time="19:00:00" tvr="0.92" variance="-72.04" />
+          <program averagetvr="2.77" day="Mon" name="MADHUBALA EK ISHQ EK JUNOON" rank="25" time="23:30:00" tvr="0.92" variance="-66.93" />
+          <program averagetvr="0.90" day="Mon" name="UTTARAN" rank="26" time="10:30:00" tvr="0.91" variance="1.51" />
+          <program averagetvr="0.22" day="Fri" name="COMEDY NIGHTS WITH KAPIL" rank="27" time="12:30:00" tvr="0.87" variance="300.00" />
+          <program averagetvr="0.48" day="Sat" name="COMEDY NIGHTS WITH KAPIL" rank="28" time="18:00:00" tvr="0.76" variance="58.33" />
+          <program averagetvr="1.62" day="Mon" name="BALIKA VADHU" rank="29" time="09:00:00" tvr="0.74" variance="-54.68" />
+          <program averagetvr="0.70" day="Mon" name="SASURAL SIMAR KA" rank="30" time="08:30:00" tvr="0.72" variance="2.44" />
+        </period>
+        <period enddate="17/08/2013" startdate="11/08/2013">
+          <program averagetvr="9.58" day="Sun" name="COMEDY NIGHTS WITH KAPIL" rank="1" time="22:30:00" tvr="6.87" variance="-28.37" />
+          <program averagetvr="23.02" day="Sun" name="JHALAK DIKHHLA JAA" rank="2" time="21:00:00" tvr="4.85" variance="-78.95" />
+          <program averagetvr="12.03" day="Mon" name="MADHUBALA EK ISHQ EK JUNOON" rank="3" time="20:30:00" tvr="2.33" variance="-80.61" />
+          <program averagetvr="10.42" day="Mon" name="BALIKA VADHU" rank="4" time="20:00:00" tvr="2.25" variance="-78.44" />
+          <program averagetvr="0.54" day="Thu" name="COMEDY NIGHTS WITH KAPIL" rank="5" time="15:00:00" tvr="2.16" variance="300.00" />
+          <program averagetvr="0.51" day="Sun" name="JASHAN E EID" rank="6" time="19:00:00" tvr="2.05" variance="300.00" />
+          <program averagetvr="8.30" day="Mon" name="BANI-ISHQ DA KALMA" rank="7" time="22:30:00" tvr="1.83" variance="-77.95" />
+          <program averagetvr="7.68" day="Sun" name="COMEDY NIGHTS WITH KAPIL" rank="8" time="23:30:00" tvr="1.82" variance="-76.31" />
+          <program averagetvr="0.42" day="Sat" name="JHALAK DIKHHLA JAA" rank="9" time="12:00:00" tvr="1.68" variance="300.00" />
+          <program averagetvr="5.80" day="Mon" name="UTTARAN" rank="10" time="22:00:00" tvr="1.59" variance="-72.67" />
+          <program averagetvr="7.27" day="Mon" name="SASURAL SIMAR KA" rank="11" time="19:30:00" tvr="1.56" variance="-78.54" />
+          <program averagetvr="8.12" day="Mon" name="SANSKAAR DHAROHAR APNON KI" rank="12" time="21:00:00" tvr="1.55" variance="-80.94" />
+          <program averagetvr="0.36" day="Sat" name="COMEDY NIGHTS WITH KAPIL" rank="13" time="13:30:00" tvr="1.44" variance="300.00" />
+          <program averagetvr="5.99" day="Mon" name="NA BOLE TUM NA MAINE KUCHH KAHA-2" rank="14" time="21:30:00" tvr="1.32" variance="-77.92" />
+          <program averagetvr="2.10" day="Sun" name="JHALAK DIKHHLA JAA" rank="15" time="11:00:00" tvr="1.32" variance="-37.31" />
+          <program averagetvr="6.33" day="Mon" name="BALIKA VADHU" rank="16" time="23:00:00" tvr="1.29" variance="-79.67" />
+          <program averagetvr="0.32" day="Thu" name="HFF POLICEGIRI" rank="17" time="16:00:00" tvr="1.28" variance="300.00" />
+          <program averagetvr="0.28" day="Sat" name="COMEDY NIGHTS WITH KAPIL" rank="18" time="14:30:00" tvr="1.11" variance="300.00" />
+          <program averagetvr="0.27" day="Thu" name="HFF POLICEGIRI" rank="19" time="12:00:00" tvr="1.09" variance="300.00" />
+          <program averagetvr="0.27" day="Sun" name="HFF SUPER HERO SHEHANSHAH" rank="20" time="12:30:00" tvr="1.09" variance="300.00" />
+          <program averagetvr="3.11" day="Sun" name="COMEDY NIGHTS WITH KAPIL" rank="21" time="10:00:00" tvr="1.07" variance="-65.61" />
+          <program averagetvr="0.25" day="Sun" name="COMEDY NIGHTS WITH KAPIL" rank="22" time="18:00:00" tvr="1.00" variance="300.00" />
+          <program averagetvr="0.52" day="Sat" name="COMEDY NIGHTS WITH KAPIL" rank="23" time="16:00:00" tvr="0.97" variance="87.44" />
+          <program averagetvr="0.52" day="Sun" name="JHALAK DIKHHLA JAA" rank="24" time="16:00:00" tvr="0.87" variance="66.51" />
+          <program averagetvr="0.21" day="Sat" name="JASHAN E EID" rank="25" time="17:00:00" tvr="0.83" variance="300.00" />
+          <program averagetvr="0.47" day="Sat" name="COMEDY NIGHTS WITH KAPIL" rank="26" time="09:30:00" tvr="0.68" variance="44.68" />
+          <program averagetvr="0.15" day="Sat" name="SANSKAAR DHAROHAR APNON KI" rank="27" time="01:00:00" tvr="0.61" variance="300.00" />
+          <program averagetvr="0.15" day="Sat" name="SAPTARISHI" rank="28" time="01:00:00" tvr="0.61" variance="300.00" />
+          <program averagetvr="0.15" day="Sat" name="SAPTARISHI" rank="29" time="01:30:00" tvr="0.61" variance="300.00" />
+          <program averagetvr="0.38" day="Sat" name="UTTARAN" rank="30" time="00:30:00" tvr="0.61" variance="62.67" />
+        </period>
+        <period enddate="24/08/2013" startdate="18/08/2013">
+          <program averagetvr="9.58" day="Sun" name="COMEDY NIGHTS WITH KAPIL" rank="1" time="22:30:00" tvr="7.20" variance="-24.93" />
+          <program averagetvr="23.02" day="Sun" name="JHALAK DIKHHLA JAA" rank="2" time="21:00:00" tvr="5.63" variance="-75.54" />
+          <program averagetvr="8.30" day="Mon" name="BANI-ISHQ DA KALMA" rank="3" time="22:30:00" tvr="1.94" variance="-76.67" />
+          <program averagetvr="10.42" day="Mon" name="BALIKA VADHU" rank="4" time="20:00:00" tvr="1.93" variance="-81.47" />
+          <program averagetvr="12.03" day="Mon" name="MADHUBALA EK ISHQ EK JUNOON" rank="5" time="20:30:00" tvr="1.84" variance="-84.71" />
+          <program averagetvr="0.43" day="Sat" name="HFF POLICEGIRI" rank="6" time="12:30:00" tvr="1.72" variance="300.00" />
+          <program averagetvr="5.99" day="Mon" name="NA BOLE TUM NA MAINE KUCHH KAHA-2" rank="7" time="21:30:00" tvr="1.60" variance="-73.24" />
+          <program averagetvr="6.33" day="Mon" name="BALIKA VADHU" rank="8" time="23:00:00" tvr="1.53" variance="-75.88" />
+          <program averagetvr="8.12" day="Mon" name="SANSKAAR DHAROHAR APNON KI" rank="9" time="21:00:00" tvr="1.52" variance="-81.29" />
+          <program averagetvr="5.80" day="Mon" name="UTTARAN" rank="10" time="22:00:00" tvr="1.46" variance="-74.80" />
+          <program averagetvr="1.55" day="Sun" name="COMEDY NIGHTS WITH KAPIL" rank="11" time="17:00:00" tvr="1.45" variance="-6.15" />
+          <program averagetvr="5.27" day="Mon" name="BANI-ISHQ DA KALMA" rank="12" time="16:00:00" tvr="1.37" variance="-73.96" />
+          <program averagetvr="0.33" day="Sat" name="COMEDY NIGHTS WITH KAPIL" rank="13" time="15:30:00" tvr="1.32" variance="300.00" />
+          <program averagetvr="2.10" day="Sun" name="JHALAK DIKHHLA JAA" rank="14" time="11:00:00" tvr="1.26" variance="-39.93" />
+          <program averagetvr="0.52" day="Sun" name="JHALAK DIKHHLA JAA" rank="15" time="16:00:00" tvr="1.22" variance="133.49" />
+          <program averagetvr="0.48" day="Sat" name="COMEDY NIGHTS WITH KAPIL" rank="16" time="18:00:00" tvr="1.16" variance="141.67" />
+          <program averagetvr="0.25" day="Sun" name="HFF POLICEGIRI" rank="17" time="18:00:00" tvr="0.99" variance="300.00" />
+          <program averagetvr="2.77" day="Mon" name="COMEDY NIGHTS WITH KAPIL" rank="18" time="16:30:00" tvr="0.98" variance="-64.49" />
+          <program averagetvr="0.38" day="Sat" name="UTTARAN" rank="19" time="00:30:00" tvr="0.89" variance="137.33" />
+          <program averagetvr="3.18" day="Mon" name="BANI-ISHQ DA KALMA" rank="20" time="13:00:00" tvr="0.85" variance="-73.43" />
+          <program averagetvr="7.27" day="Mon" name="SASURAL SIMAR KA" rank="21" time="19:30:00" tvr="0.81" variance="-88.86" />
+          <program averagetvr="2.59" day="Mon" name="MRS PAMMI PYARELAL" rank="22" time="15:30:00" tvr="0.70" variance="-73.02" />
+          <program averagetvr="2.07" day="Mon" name="UTTARAN" rank="23" time="13:30:00" tvr="0.70" variance="-66.31" />
+          <program averagetvr="0.30" day="Sat" name="JHALAK DIKHHLA JAA" rank="24" time="11:30:00" tvr="0.65" variance="114.88" />
+          <program averagetvr="0.15" day="Wed" name="UTTARAN" rank="25" time="10:30:00" tvr="0.62" variance="300.00" />
+          <program averagetvr="3.11" day="Sun" name="COMEDY NIGHTS WITH KAPIL" rank="26" time="10:00:00" tvr="0.62" variance="-80.23" />
+          <program averagetvr="2.77" day="Mon" name="MADHUBALA EK ISHQ EK JUNOON" rank="27" time="23:30:00" tvr="0.54" variance="-80.43" />
+          <program averagetvr="1.93" day="Mon" name="SASURAL SIMAR KA" rank="28" time="14:00:00" tvr="0.51" variance="-73.75" />
+          <program averagetvr="0.70" day="Mon" name="SASURAL SIMAR KA" rank="29" time="08:30:00" tvr="0.50" variance="-28.14" />
+          <program averagetvr="3.47" day="Tue" name="JHALAK DIKHHLA JAA" rank="30" time="16:30:00" tvr="0.50" variance="-85.58" />
+        </period>
+        <period enddate="31/08/2013" startdate="25/08/2013">
+          <program averagetvr="2.59" day="Sat" name="COMEDY NIGHTS WITH KAPIL" rank="1" time="22:30:00" tvr="10.37" variance="300.00" />
+          <program averagetvr="1.93" day="Sun" name="COMEDY NIGHTS WITH KAPIL" rank="2" time="22:00:00" tvr="7.71" variance="300.00" />
+          <program averagetvr="23.02" day="Sun" name="JHALAK DIKHHLA JAA" rank="3" time="21:00:00" tvr="6.38" variance="-72.29" />
+          <program averagetvr="12.03" day="Mon" name="MADHUBALA EK ISHQ EK JUNOON" rank="4" time="20:30:00" tvr="3.32" variance="-72.41" />
+          <program averagetvr="8.12" day="Mon" name="SANSKAAR DHAROHAR APNON KI" rank="5" time="21:00:00" tvr="2.90" variance="-64.35" />
+          <program averagetvr="0.67" day="Sun" name="HFF GO GOA GONE" rank="6" time="18:30:00" tvr="2.68" variance="300.00" />
+          <program averagetvr="10.42" day="Mon" name="BALIKA VADHU" rank="7" time="20:00:00" tvr="2.60" variance="-75.10" />
+          <program averagetvr="7.68" day="Sun" name="COMEDY NIGHTS WITH KAPIL" rank="8" time="23:30:00" tvr="2.55" variance="-66.81" />
+          <program averagetvr="0.53" day="Sat" name="JHALAK DIKHHLA JAA" rank="9" time="11:00:00" tvr="2.10" variance="300.00" />
+          <program averagetvr="0.51" day="Sat" name="COMEDY NIGHTS WITH KAPIL" rank="10" time="15:00:00" tvr="2.05" variance="300.00" />
+          <program averagetvr="8.30" day="Mon" name="BANI-ISHQ DA KALMA" rank="11" time="22:30:00" tvr="2.04" variance="-75.40" />
+          <program averagetvr="7.27" day="Mon" name="SASURAL SIMAR KA" rank="12" time="19:30:00" tvr="1.78" variance="-75.56" />
+          <program averagetvr="0.44" day="Sat" name="HFF OMG OH MY GOD" rank="13" time="12:00:00" tvr="1.74" variance="300.00" />
+          <program averagetvr="6.33" day="Mon" name="BALIKA VADHU" rank="14" time="23:00:00" tvr="1.62" variance="-74.45" />
+          <program averagetvr="5.27" day="Mon" name="BANI-ISHQ DA KALMA" rank="15" time="16:00:00" tvr="1.55" variance="-70.66" />
+          <program averagetvr="1.55" day="Sun" name="COMEDY NIGHTS WITH KAPIL" rank="16" time="17:00:00" tvr="1.53" variance="-0.97" />
+          <program averagetvr="5.99" day="Mon" name="NA BOLE TUM NA MAINE KUCHH KAHA-2" rank="17" time="21:30:00" tvr="1.52" variance="-74.61" />
+          <program averagetvr="3.47" day="Tue" name="JHALAK DIKHHLA JAA" rank="18" time="16:30:00" tvr="1.42" variance="-59.03" />
+          <program averagetvr="0.31" day="Sat" name="HFF POLICEGIRI" rank="19" time="16:00:00" tvr="1.25" variance="300.00" />
+          <program averagetvr="5.80" day="Mon" name="UTTARAN" rank="20" time="22:00:00" tvr="1.25" variance="-78.46" />
+          <program averagetvr="0.47" day="Sat" name="COMEDY NIGHTS WITH KAPIL" rank="21" time="09:30:00" tvr="1.20" variance="155.32" />
+          <program averagetvr="0.27" day="Sun" name="JHALAK DIKHHLA JAA" rank="22" time="11:30:00" tvr="1.09" variance="300.00" />
+          <program averagetvr="3.30" day="Mon" name="MRS PAMMI PYARELAL" rank="23" time="19:00:00" tvr="0.98" variance="-70.38" />
+          <program averagetvr="0.21" day="Sun" name="JHALAK DIKHHLA JAA" rank="24" time="15:30:00" tvr="0.82" variance="300.00" />
+          <program averagetvr="0.20" day="Thu" name="SASURAL SIMAR KA" rank="25" time="00:00:00" tvr="0.79" variance="300.00" />
+          <program averagetvr="2.12" day="Mon" name="BALIKA VADHU" rank="26" time="11:30:00" tvr="0.71" variance="-66.36" />
+          <program averagetvr="0.90" day="Mon" name="UTTARAN" rank="27" time="10:30:00" tvr="0.71" variance="-21.03" />
+          <program averagetvr="0.58" day="Mon" name="MADHUBALA EK ISHQ EK JUNOON" rank="28" time="10:00:00" tvr="0.70" variance="21.66" />
+          <program averagetvr="0.17" day="Sun" name="MADHUBALA EK ISHQ EK JUNOON" rank="29" time="01:00:00" tvr="0.67" variance="300.00" />
+          <program averagetvr="1.95" day="Mon" name="BALIKA VADHU" rank="30" time="14:30:00" tvr="0.61" variance="-68.92" />
+        </period>
+      </channel>
+      <channel code="571" name="Polimer TV">
+        <period enddate="10/08/2013" startdate="04/08/2013">
+          <program averagetvr="0.57" day="Sun" name="POLIMAR SEIDIGAL" rank="1" time="07:00:00" tvr="0.96" variance="69.91" />
+          <program averagetvr="0.39" day="Tue" name="DEIVEEGA GANAM" rank="2" time="06:00:00" tvr="0.86" variance="122.29" />
+          <program averagetvr="1.65" day="Tue" name="RAASI PALAN" rank="3" time="07:30:00" tvr="0.81" variance="-50.88" />
+          <program averagetvr="0.16" day="Tue" name="MADHUBALA" rank="4" time="20:00:00" tvr="0.65" variance="300.00" />
+          <program averagetvr="0.31" day="Fri" name="MOONDRU MUDICHU" rank="5" time="21:30:00" tvr="0.60" variance="95.12" />
+          <program averagetvr="0.80" day="Mon" name="POLIMAR SEIDIGAL" rank="6" time="22:30:00" tvr="0.50" variance="-37.76" />
+          <program averagetvr="0.13" day="Mon" name="ULLAM KOLLAI POGUDHADA" rank="7" time="23:00:00" tvr="0.50" variance="300.00" />
+          <program averagetvr="0.12" day="Tue" name="MADHUBALA" rank="8" time="13:00:00" tvr="0.49" variance="300.00" />
+          <program averagetvr="0.12" day="Tue" name="SAKTHI POLA YARUMILLA (VALLAMAI THARAIY)" rank="9" time="19:30:00" tvr="0.47" variance="300.00" />
+          <program averagetvr="0.11" day="Mon" name="COMEDY EXPRESS" rank="10" time="23:30:00" tvr="0.44" variance="300.00" />
+          <program averagetvr="0.24" day="Fri" name="MAYAKKAM ENNA" rank="11" time="21:00:00" tvr="0.34" variance="40.21" />
+          <program averagetvr="0.08" day="Sat" name="MUSIC EXPRESS" rank="12" time="02:00:00" tvr="0.33" variance="300.00" />
+          <program averagetvr="0.08" day="Sun" name="CINEMA CINEMA" rank="13" time="11:00:00" tvr="0.31" variance="300.00" />
+          <program averagetvr="0.08" day="Tue" name="SAMI POTTA MUDICHU" rank="14" time="20:30:00" tvr="0.30" variance="300.00" />
+          <program averagetvr="0.15" day="Sun" name="TELEBUY" rank="15" time="07:30:00" tvr="0.25" variance="66.67" />
+          <program averagetvr="0.06" day="Tue" name="MAYAKKAM ENNA" rank="16" time="12:30:00" tvr="0.24" variance="300.00" />
+          <program averagetvr="0.05" day="Sat" name="CINEMA CINEMA" rank="17" time="17:00:00" tvr="0.18" variance="260.00" />
+          <program averagetvr="0.06" day="Wed" name="COMEDY EXPRESS" rank="18" time="17:30:00" tvr="0.17" variance="195.65" />
+          <program averagetvr="0.04" day="Sun" name="COMEDY EXPRESS" rank="19" time="22:00:00" tvr="0.15" variance="300.00" />
+          <program averagetvr="0.95" day="Mon" name="ULLAM KOLLAI POGUDHADA" rank="20" time="22:00:00" tvr="0.14" variance="-85.30" />
+          <program averagetvr="1.42" day="Tue" name="MUSIC EXPRESS" rank="21" time="08:00:00" tvr="0.09" variance="-93.65" />
+          <program averagetvr="0.02" day="Sat" name="SKS SHOPPING" rank="22" time="08:00:00" tvr="0.09" variance="300.00" />
+          <program averagetvr="0.02" day="Tue" name="MOONDRU MUDICHU" rank="23" time="12:30:00" tvr="0.08" variance="300.00" />
+          <program averagetvr="0.02" day="Sun" name="MUSIC EXPRESS" rank="24" time="09:00:00" tvr="0.08" variance="300.00" />
+          <program averagetvr="0.01" day="Wed" name="THIRAI KADHAMBAM" rank="25" time="23:00:00" tvr="0.05" variance="300.00" />
+          <program averagetvr="0.01" day="Sun" name="JUNIOR SUPER DANCER" rank="26" time="10:00:00" tvr="0.04" variance="300.00" />
+          <program averagetvr="0.02" day="Sat" name="MOONDRU MUDICHU" rank="27" time="18:00:00" tvr="0.04" variance="77.78" />
+          <program averagetvr="0.01" day="Tue" name="GTM (GLOBAL TELE MALL)" rank="28" time="16:30:00" tvr="0.03" variance="300.00" />
+          <program averagetvr="0.01" day="Sat" name="SAMI POTTA MUDICHU" rank="29" time="12:00:00" tvr="0.03" variance="140.00" />
+          <program averagetvr="0.01" day="Tue" name="SKS SHOPPING" rank="30" time="17:00:00" tvr="0.03" variance="300.00" />
+        </period>
+        <period enddate="17/08/2013" startdate="11/08/2013">
+          <program averagetvr="1.42" day="Tue" name="MUSIC EXPRESS" rank="1" time="08:00:00" tvr="1.94" variance="36.51" />
+          <program averagetvr="1.65" day="Tue" name="RAASI PALAN" rank="2" time="07:30:00" tvr="1.80" variance="9.35" />
+          <program averagetvr="0.57" day="Sun" name="POLIMAR SEIDIGAL" rank="3" time="07:00:00" tvr="1.30" variance="130.09" />
+          <program averagetvr="0.32" day="Tue" name="SKS SHOPPING" rank="4" time="08:30:00" tvr="1.17" variance="259.85" />
+          <program averagetvr="0.39" day="Tue" name="DEIVEEGA GANAM" rank="5" time="06:00:00" tvr="0.69" variance="77.71" />
+          <program averagetvr="0.15" day="Sun" name="TELEBUY" rank="6" time="07:30:00" tvr="0.35" variance="133.33" />
+          <program averagetvr="0.57" day="Mon" name="MAYAKKAM ENNA" rank="7" time="21:00:00" tvr="0.35" variance="-39.07" />
+          <program averagetvr="0.09" day="Mon" name="THIRAI KADHAMBAM" rank="8" time="23:00:00" tvr="0.34" variance="300.00" />
+          <program averagetvr="0.41" day="Mon" name="MOONDRU MUDICHU" rank="9" time="21:30:00" tvr="0.31" variance="-26.43" />
+          <program averagetvr="0.42" day="Mon" name="SAMI POTTA MUDICHU" rank="10" time="20:30:00" tvr="0.31" variance="-28.02" />
+          <program averagetvr="0.95" day="Mon" name="ULLAM KOLLAI POGUDHADA" rank="11" time="22:00:00" tvr="0.31" variance="-67.98" />
+          <program averagetvr="0.80" day="Mon" name="POLIMAR SEIDIGAL" rank="12" time="22:30:00" tvr="0.27" variance="-65.98" />
+          <program averagetvr="0.06" day="Mon" name="MADHUBALA" rank="13" time="20:00:00" tvr="0.25" variance="300.00" />
+          <program averagetvr="0.04" day="Sat" name="TMF MARUTHANI" rank="14" time="14:00:00" tvr="0.17" variance="300.00" />
+          <program averagetvr="0.03" day="Tue" name="TMF SINGARAVELAN" rank="15" time="14:00:00" tvr="0.12" variance="300.00" />
+          <program averagetvr="0.03" day="Thu" name="SAKTHI POLA YARUMILLA (VALLAMAI THARAIY)" rank="16" time="19:30:00" tvr="0.10" variance="300.00" />
+          <program averagetvr="0.02" day="Sun" name="TMF BLACK &amp; WHITE" rank="17" time="14:00:00" tvr="0.09" variance="300.00" />
+          <program averagetvr="0.02" day="Thu" name="TMF MUTHU" rank="18" time="14:00:00" tvr="0.06" variance="300.00" />
+          <program averagetvr="0.01" day="Sat" name="MOVIE MUNNOTTAM" rank="19" time="16:30:00" tvr="0.04" variance="300.00" />
+          <program averagetvr="0.01" day="Thu" name="CINI MINI" rank="20" time="17:00:00" tvr="0.03" variance="300.00" />
+          <program averagetvr="0.01" day="Thu" name="MADHUBALA" rank="21" time="18:30:00" tvr="0.03" variance="300.00" />
+          <program averagetvr="0.01" day="Thu" name="ULLAM KOLLAI POGUDHADA" rank="22" time="19:00:00" tvr="0.03" variance="300.00" />
+          <program averagetvr="0.01" day="Thu" name="DREAM HOMES-G GLOD GARDEN" rank="23" time="09:00:00" tvr="0.02" variance="300.00" />
+          <program averagetvr="0.00" day="Wed" name="MUSIC EXPRESS" rank="24" time="02:00:00" tvr="0.01" variance="300.00" />
+          <program averagetvr="0.00" day="Mon" name="MUSIC EXPRESS" rank="25" time="00:00:00" tvr="0.00" variance="0.00" />
+        </period>
+        <period enddate="24/08/2013" startdate="18/08/2013">
+          <program averagetvr="0.57" day="Mon" name="MAYAKKAM ENNA" rank="1" time="21:00:00" tvr="1.92" variance="239.07" />
+          <program averagetvr="0.45" day="Wed" name="MADHUBALA" rank="2" time="18:30:00" tvr="1.79" variance="300.00" />
+          <program averagetvr="0.45" day="Wed" name="MADHUBALA" rank="3" time="20:00:00" tvr="1.79" variance="300.00" />
+          <program averagetvr="0.45" day="Wed" name="SAKTHI POLA YARUMILLA (VALLAMAI THARAIY)" rank="4" time="19:30:00" tvr="1.79" variance="300.00" />
+          <program averagetvr="0.95" day="Mon" name="ULLAM KOLLAI POGUDHADA" rank="5" time="22:00:00" tvr="1.53" variance="60.63" />
+          <program averagetvr="0.42" day="Mon" name="SAMI POTTA MUDICHU" rank="6" time="20:30:00" tvr="1.39" variance="228.02" />
+          <program averagetvr="0.41" day="Mon" name="MOONDRU MUDICHU" rank="7" time="21:30:00" tvr="1.35" variance="226.43" />
+          <program averagetvr="1.65" day="Tue" name="RAASI PALAN" rank="8" time="07:30:00" tvr="1.09" variance="-33.91" />
+          <program averagetvr="0.26" day="Tue" name="DEIVEEGA GANAM" rank="9" time="07:00:00" tvr="1.04" variance="300.00" />
+          <program averagetvr="0.80" day="Mon" name="POLIMAR SEIDIGAL" rank="10" time="22:30:00" tvr="0.97" variance="20.75" />
+          <program averagetvr="0.23" day="Mon" name="POLIMAR SEIDIGAL" rank="11" time="07:00:00" tvr="0.92" variance="300.00" />
+          <program averagetvr="0.23" day="Mon" name="ULLAM KOLLAI POGUDHADA" rank="12" time="19:00:00" tvr="0.92" variance="300.00" />
+          <program averagetvr="0.22" day="Wed" name="DINAM ORU THIRUTHALAM" rank="13" time="06:30:00" tvr="0.87" variance="300.00" />
+          <program averagetvr="1.42" day="Tue" name="MUSIC EXPRESS" rank="14" time="08:00:00" tvr="0.86" variance="-39.68" />
+          <program averagetvr="0.18" day="Fri" name="THIRAI KADHAMBAM" rank="15" time="23:00:00" tvr="0.72" variance="300.00" />
+          <program averagetvr="0.18" day="Mon" name="DEIVEEGA GANAM" rank="16" time="06:00:00" tvr="0.71" variance="300.00" />
+          <program averagetvr="0.32" day="Tue" name="SKS SHOPPING" rank="17" time="08:30:00" tvr="0.13" variance="-59.85" />
+          <program averagetvr="0.02" day="Fri" name="COMEDY EXPRESS" rank="18" time="23:30:00" tvr="0.07" variance="300.00" />
+          <program averagetvr="0.02" day="Wed" name="SAMI POTTA MUDICHU" rank="19" time="18:00:00" tvr="0.06" variance="200.00" />
+          <program averagetvr="0.01" day="Sat" name="COMEDY EXPRESS" rank="20" time="19:30:00" tvr="0.05" variance="300.00" />
+          <program averagetvr="0.02" day="Sat" name="MOONDRU MUDICHU" rank="21" time="18:00:00" tvr="0.05" variance="122.22" />
+          <program averagetvr="0.01" day="Fri" name="GTM (GLOBAL TELE MALL)" rank="22" time="11:30:00" tvr="0.03" variance="300.00" />
+          <program averagetvr="0.01" day="Fri" name="TMF KANDHAN KARUNAI" rank="23" time="14:00:00" tvr="0.03" variance="300.00" />
+          <program averagetvr="0.05" day="Sat" name="CINEMA CINEMA" rank="24" time="17:00:00" tvr="0.02" variance="-60.00" />
+          <program averagetvr="0.01" day="Wed" name="MADHUBALA" rank="25" time="13:00:00" tvr="0.02" variance="300.00" />
+          <program averagetvr="0.01" day="Sat" name="SAMI POTTA MUDICHU" rank="26" time="12:00:00" tvr="0.02" variance="60.00" />
+          <program averagetvr="0.01" day="Sat" name="SOUTH INDIA PROP-SHRI PADMANABHAA NAGAR" rank="27" time="08:30:00" tvr="0.02" variance="300.00" />
+          <program averagetvr="0.00" day="Sun" name="ULLAM KOLLAI POGUDHADA" rank="28" time="11:30:00" tvr="0.01" variance="300.00" />
+        </period>
+        <period enddate="31/08/2013" startdate="25/08/2013">
+          <program averagetvr="0.59" day="Thu" name="RPG METRO CITY" rank="1" time="11:00:00" tvr="2.37" variance="300.00" />
+          <program averagetvr="0.53" day="Sat" name="COMEDY EXPRESS" rank="2" time="08:30:00" tvr="2.13" variance="300.00" />
+          <program averagetvr="0.53" day="Sat" name="DINAM ORU THIRUTHALAM" rank="3" time="06:30:00" tvr="2.13" variance="300.00" />
+          <program averagetvr="0.53" day="Sat" name="RAASI PALAN" rank="4" time="07:30:00" tvr="2.13" variance="300.00" />
+          <program averagetvr="0.44" day="Sat" name="POLIMAR SEIDIGAL" rank="5" time="07:00:00" tvr="1.77" variance="300.00" />
+          <program averagetvr="0.38" day="Thu" name="JCL TELESHOPPING" rank="6" time="09:30:00" tvr="1.50" variance="300.00" />
+          <program averagetvr="0.38" day="Thu" name="SKY HOME ENTERPRISES-SRI YOHAN CITY" rank="7" time="09:00:00" tvr="1.50" variance="300.00" />
+          <program averagetvr="0.37" day="Thu" name="GTM (GLOBAL TELE MALL)" rank="8" time="11:30:00" tvr="1.46" variance="300.00" />
+          <program averagetvr="0.35" day="Thu" name="SKS SHOPPING" rank="9" time="08:30:00" tvr="1.41" variance="300.00" />
+          <program averagetvr="0.34" day="Thu" name="SKS SHOPPING" rank="10" time="10:00:00" tvr="1.34" variance="300.00" />
+          <program averagetvr="0.31" day="Fri" name="MUSIC EXPRESS" rank="11" time="08:00:00" tvr="1.22" variance="300.00" />
+          <program averagetvr="0.21" day="Sat" name="DEIVEEGA GANAM" rank="12" time="06:00:00" tvr="0.85" variance="300.00" />
+          <program averagetvr="0.20" day="Thu" name="SAMI POTTA MUDICHU" rank="13" time="12:00:00" tvr="0.79" variance="300.00" />
+          <program averagetvr="0.18" day="Thu" name="JCL TELESHOPPING" rank="14" time="10:00:00" tvr="0.73" variance="300.00" />
+          <program averagetvr="0.18" day="Thu" name="SKS SHOPPING" rank="15" time="10:30:00" tvr="0.73" variance="300.00" />
+          <program averagetvr="0.16" day="Fri" name="MADHUBALA" rank="16" time="13:00:00" tvr="0.63" variance="300.00" />
+          <program averagetvr="0.16" day="Fri" name="MADHUBALA" rank="17" time="20:00:00" tvr="0.63" variance="300.00" />
+          <program averagetvr="0.24" day="Fri" name="MAYAKKAM ENNA" rank="18" time="21:00:00" tvr="0.63" variance="159.79" />
+          <program averagetvr="0.16" day="Fri" name="MOONDRU MUDICHU" rank="19" time="12:30:00" tvr="0.63" variance="300.00" />
+          <program averagetvr="0.31" day="Fri" name="MOONDRU MUDICHU" rank="20" time="21:30:00" tvr="0.63" variance="104.88" />
+          <program averagetvr="0.16" day="Fri" name="SAKTHI POLA YARUMILLA (VALLAMAI THARAIY)" rank="21" time="19:30:00" tvr="0.63" variance="300.00" />
+          <program averagetvr="0.16" day="Fri" name="SAMI POTTA MUDICHU" rank="22" time="20:30:00" tvr="0.63" variance="300.00" />
+          <program averagetvr="0.08" day="Fri" name="MAYAKKAM ENNA" rank="23" time="12:30:00" tvr="0.30" variance="300.00" />
+          <program averagetvr="0.06" day="Fri" name="ULLAM KOLLAI POGUDHADA" rank="24" time="19:00:00" tvr="0.22" variance="266.67" />
+          <program averagetvr="0.05" day="Sat" name="TMF SILANERANGALIL" rank="25" time="14:00:00" tvr="0.21" variance="300.00" />
+          <program averagetvr="0.04" day="Tue" name="ULLAM KOLLAI POGUDHADA" rank="26" time="22:00:00" tvr="0.15" variance="300.00" />
+          <program averagetvr="0.02" day="Fri" name="TMF DEVI BHAGAVATHI" rank="27" time="14:00:00" tvr="0.09" variance="300.00" />
+          <program averagetvr="0.02" day="Sat" name="JCL TELESHOPPING" rank="28" time="09:00:00" tvr="0.08" variance="300.00" />
+          <program averagetvr="0.02" day="Sat" name="MUSIC EXPRESS" rank="29" time="16:00:00" tvr="0.08" variance="300.00" />
+          <program averagetvr="0.06" day="Wed" name="COMEDY EXPRESS" rank="30" time="17:30:00" tvr="0.06" variance="4.35" />
+        </period>
+      </channel>
+    </output>
+  </TG_MG>
+  <TG_MG name="CS 15-24 A~NStates" type="Planning">
+    <tg name="CS 15-24 A">
+      <cs>1</cs>
+      <sec>1</sec>
+      <sex>1,2</sex>
+      <age>3</age>
+    </tg>
+    <mg name="NStates" type="Group">
+      <market>!</market>
+      <market>#</market>
+      <market>$</market>
+      <market>%</market>
+      <market>&amp;</market>
+      <market>@</market>
+      <market>&gt;</market>
+      <market>B</market>
+      <market>E</market>
+      <market>F</market>
+      <market>J</market>
+      <market>K</market>
+      <market>L</market>
+      <market>N</market>
+      <market>O</market>
+      <market>P</market>
+      <market>S</market>
+      <market>T</market>
+      <market>W</market>
+      <market>X</market>
+      <market>Z</market>
+    </mg>
+    <calc display="week-wise" logic="ProgTVR" />
+    <num_programs>30</num_programs>
+    <channel code="571" name="Polimer TV" />
+    <channel code="479" name="COLORS" />
+    <channel code="16" name="SUN TV" />
+    <output>
+      <channel code="16" name="SUN TV">
+        <period enddate="10/08/2013" startdate="04/08/2013">
+          <program averagetvr="0.03" day="Thu" name="MARUTHANI" rank="1" time="10:30:00" tvr="0.00" variance="-100.00" />
+        </period>
+        <period enddate="17/08/2013" startdate="11/08/2013">
+          <program averagetvr="0.07" day="Wed" name="VAMSAM" rank="1" time="20:30:00" tvr="0.22" variance="225.93" />
+          <program averagetvr="0.03" day="Wed" name="MARUTHANI" rank="2" time="10:30:00" tvr="0.10" variance="300.00" />
+          <program averagetvr="0.01" day="Tue" name="HEADLINE NEWS" rank="3" time="14:30:00" tvr="0.02" variance="300.00" />
+          <program averagetvr="0.01" day="Wed" name="THENDRAL" rank="4" time="21:00:00" tvr="0.01" variance="0.00" />
+          <program averagetvr="0.00" day="Thu" name="TMF SUNDARA PANDIAN" rank="5" time="19:30:00" tvr="0.01" variance="300.00" />
+          <program averagetvr="0.00" day="Sat" name="TMF UNAKKUM ENAKKUM" rank="6" time="19:30:00" tvr="0.01" variance="300.00" />
+          <program averagetvr="0.00" day="Sat" name="AMUL SUPER KUDUKBAM 2" rank="7" time="21:30:00" tvr="0.00" variance="0.00" />
+        </period>
+        <period enddate="24/08/2013" startdate="18/08/2013">
+          <program averagetvr="0.07" day="Thu" name="DEIVA MAGAL" rank="1" time="20:00:00" tvr="0.27" variance="300.00" />
+          <program averagetvr="0.01" day="Sun" name="TMF MUGAMOODI" rank="2" time="19:30:00" tvr="0.05" variance="300.00" />
+          <program averagetvr="0.01" day="Thu" name="SUN SAITHEGAL" rank="3" time="19:00:00" tvr="0.02" variance="300.00" />
+          <program averagetvr="0.01" day="Sun" name="SUNDAY GALATTA" rank="4" time="09:00:00" tvr="0.02" variance="300.00" />
+          <program averagetvr="0.01" day="Sat" name="TMF ORU KAL ORU KANNADI" rank="5" time="17:30:00" tvr="0.02" variance="300.00" />
+          <program averagetvr="0.01" day="Thu" name="UTHIRIPOOKKAL" rank="6" time="18:30:00" tvr="0.02" variance="300.00" />
+          <program averagetvr="0.00" day="Sat" name="TMF NARASIMMAN IPS" rank="7" time="10:00:00" tvr="0.00" variance="0.00" />
+        </period>
+        <period enddate="31/08/2013" startdate="25/08/2013">
+          <program averagetvr="0.03" day="Sun" name="MAHABHARATHAM (CINE VISTA)" rank="1" time="10:00:00" tvr="0.12" variance="300.00" />
+          <program averagetvr="0.03" day="Sat" name="TMF ROWTHIRAM" rank="2" time="17:30:00" tvr="0.12" variance="300.00" />
+          <program averagetvr="0.03" day="Thu" name="MARUTHANI" rank="3" time="10:30:00" tvr="0.10" variance="300.00" />
+          <program averagetvr="0.03" day="Sun" name="SOLLUNGANNE SOLLUNGA" rank="4" time="09:30:00" tvr="0.10" variance="300.00" />
+          <program averagetvr="0.02" day="Sat" name="HEADLINE NEWS" rank="5" time="14:30:00" tvr="0.08" variance="300.00" />
+          <program averagetvr="0.02" day="Wed" name="ILAVARASI" rank="6" time="13:30:00" tvr="0.08" variance="300.00" />
+          <program averagetvr="0.07" day="Wed" name="VAMSAM" rank="7" time="20:30:00" tvr="0.05" variance="-25.93" />
+          <program averagetvr="0.01" day="Wed" name="THENDRAL" rank="8" time="21:00:00" tvr="0.03" variance="200.00" />
+          <program averagetvr="0.01" day="Sat" name="TMF YOUTH" rank="9" time="13:30:00" tvr="0.03" variance="300.00" />
+          <program averagetvr="0.00" day="Wed" name="DEIVA MAGAL" rank="10" time="20:00:00" tvr="0.01" variance="300.00" />
+          <program averagetvr="0.00" day="Wed" name="NADASWARAM" rank="11" time="19:30:00" tvr="0.01" variance="300.00" />
+          <program averagetvr="0.00" day="Wed" name="TMF SRI RAM RAJIYAM" rank="12" time="14:30:00" tvr="0.01" variance="300.00" />
+          <program averagetvr="0.00" day="Wed" name="VANI RANI" rank="13" time="21:30:00" tvr="0.01" variance="300.00" />
+          <program averagetvr="0.00" day="Wed" name="BOMMALATTAM" rank="14" time="11:30:00" tvr="0.00" variance="0.00" />
+          <program averagetvr="0.00" day="Sun" name="TMF M KUMARAN SON OF MAHALAIKS" rank="15" time="14:30:00" tvr="0.00" variance="0.00" />
+          <program averagetvr="0.00" day="Thu" name="TMF SIMMARASI" rank="16" time="14:30:00" tvr="0.00" variance="0.00" />
+        </period>
+      </channel>
+      <channel code="479" name="COLORS">
+        <period enddate="10/08/2013" startdate="04/08/2013">
+          <program averagetvr="6.11" day="Sun" name="COMEDY NIGHTS WITH KAPIL" rank="1" time="22:30:00" tvr="4.70" variance="-23.11" />
+          <program averagetvr="14.30" day="Mon" name="BALIKA VADHU" rank="2" time="20:00:00" tvr="3.82" variance="-73.26" />
+          <program averagetvr="16.20" day="Sun" name="JHALAK DIKHHLA JAA" rank="3" time="21:00:00" tvr="3.57" variance="-77.96" />
+          <program averagetvr="10.46" day="Mon" name="MADHUBALA EK ISHQ EK JUNOON" rank="4" time="20:30:00" tvr="2.49" variance="-76.16" />
+          <program averagetvr="9.17" day="Mon" name="UTTARAN" rank="5" time="22:00:00" tvr="2.07" variance="-77.45" />
+          <program averagetvr="0.50" day="Sun" name="COMEDY NIGHTS WITH KAPIL" rank="6" time="15:30:00" tvr="2.00" variance="300.00" />
+          <program averagetvr="7.13" day="Mon" name="NA BOLE TUM NA MAINE KUCHH KAHA-2" rank="7" time="21:30:00" tvr="2.00" variance="-71.97" />
+          <program averagetvr="7.58" day="Mon" name="SASURAL SIMAR KA" rank="8" time="19:30:00" tvr="1.83" variance="-75.85" />
+          <program averagetvr="6.59" day="Mon" name="BANI-ISHQ DA KALMA" rank="9" time="22:30:00" tvr="1.63" variance="-75.25" />
+          <program averagetvr="0.37" day="Fri" name="COMEDY NIGHTS WITH KAPIL" rank="10" time="15:00:00" tvr="1.48" variance="300.00" />
+          <program averagetvr="4.97" day="Mon" name="SANSKAAR DHAROHAR APNON KI" rank="11" time="21:00:00" tvr="1.39" variance="-72.13" />
+          <program averagetvr="1.23" day="Sun" name="JHALAK DIKHHLA JAA" rank="12" time="11:00:00" tvr="1.29" variance="4.67" />
+          <program averagetvr="3.91" day="Mon" name="BANI-ISHQ DA KALMA" rank="13" time="13:00:00" tvr="1.29" variance="-67.07" />
+          <program averagetvr="0.31" day="Fri" name="COMEDY NIGHTS WITH KAPIL" rank="14" time="12:30:00" tvr="1.23" variance="300.00" />
+          <program averagetvr="0.30" day="Sun" name="HFF SPECIAL 26" rank="15" time="12:30:00" tvr="1.21" variance="300.00" />
+          <program averagetvr="0.30" day="Fri" name="HFF KHILADI 786" rank="16" time="16:00:00" tvr="1.20" variance="300.00" />
+          <program averagetvr="0.28" day="Fri" name="COMEDY NIGHTS WITH KAPIL" rank="17" time="13:30:00" tvr="1.13" variance="300.00" />
+          <program averagetvr="4.01" day="Mon" name="MRS PAMMI PYARELAL" rank="18" time="19:00:00" tvr="1.12" variance="-71.98" />
+          <program averagetvr="4.17" day="Mon" name="BALIKA VADHU" rank="19" time="23:00:00" tvr="1.09" variance="-73.95" />
+          <program averagetvr="2.82" day="Mon" name="UTTARAN" rank="20" time="13:30:00" tvr="1.08" variance="-61.81" />
+          <program averagetvr="2.82" day="Mon" name="SASURAL SIMAR KA" rank="21" time="14:00:00" tvr="1.00" variance="-64.49" />
+          <program averagetvr="0.39" day="Sat" name="COMEDY NIGHTS WITH KAPIL" rank="22" time="16:00:00" tvr="0.99" variance="150.63" />
+          <program averagetvr="0.24" day="Fri" name="JHALAK DIKHHLA JAA" rank="23" time="10:30:00" tvr="0.97" variance="300.00" />
+          <program averagetvr="2.82" day="Mon" name="NA BOLE TUM NA MAINE KUCHH KAHA-2" rank="24" time="12:30:00" tvr="0.94" variance="-66.82" />
+          <program averagetvr="3.46" day="Mon" name="COMEDY NIGHTS WITH KAPIL" rank="25" time="16:30:00" tvr="0.89" variance="-74.17" />
+          <program averagetvr="0.64" day="Sat" name="COMEDY NIGHTS WITH KAPIL" rank="26" time="18:00:00" tvr="0.88" variance="36.96" />
+          <program averagetvr="0.21" day="Sun" name="JHALAK DIKHHLA JAA" rank="27" time="17:00:00" tvr="0.83" variance="300.00" />
+          <program averagetvr="0.20" day="Sat" name="HFF READY" rank="28" time="12:30:00" tvr="0.79" variance="300.00" />
+          <program averagetvr="2.46" day="Mon" name="BALIKA VADHU" rank="29" time="11:30:00" tvr="0.79" variance="-68.08" />
+          <program averagetvr="0.20" day="Sun" name="HFF KHILADI 786" rank="30" time="18:00:00" tvr="0.78" variance="300.00" />
+        </period>
+        <period enddate="17/08/2013" startdate="11/08/2013">
+          <program averagetvr="6.11" day="Sun" name="COMEDY NIGHTS WITH KAPIL" rank="1" time="22:30:00" tvr="4.90" variance="-19.75" />
+          <program averagetvr="16.20" day="Sun" name="JHALAK DIKHHLA JAA" rank="2" time="21:00:00" tvr="4.03" variance="-75.15" />
+          <program averagetvr="14.30" day="Mon" name="BALIKA VADHU" rank="3" time="20:00:00" tvr="3.71" variance="-74.08" />
+          <program averagetvr="9.17" day="Mon" name="UTTARAN" rank="4" time="22:00:00" tvr="2.70" variance="-70.58" />
+          <program averagetvr="10.46" day="Mon" name="MADHUBALA EK ISHQ EK JUNOON" rank="5" time="20:30:00" tvr="2.57" variance="-75.42" />
+          <program averagetvr="7.58" day="Mon" name="SASURAL SIMAR KA" rank="6" time="19:30:00" tvr="2.24" variance="-70.44" />
+          <program averagetvr="0.50" day="Sun" name="JASHAN E EID" rank="7" time="19:00:00" tvr="2.00" variance="300.00" />
+          <program averagetvr="7.13" day="Mon" name="NA BOLE TUM NA MAINE KUCHH KAHA-2" rank="8" time="21:30:00" tvr="1.96" variance="-72.53" />
+          <program averagetvr="0.49" day="Sun" name="COMEDY NIGHTS WITH KAPIL" rank="9" time="18:00:00" tvr="1.94" variance="300.00" />
+          <program averagetvr="0.49" day="Thu" name="COMEDY NIGHTS WITH KAPIL" rank="10" time="15:00:00" tvr="1.94" variance="300.00" />
+          <program averagetvr="0.44" day="Thu" name="HFF POLICEGIRI" rank="11" time="12:00:00" tvr="1.76" variance="300.00" />
+          <program averagetvr="6.59" day="Mon" name="BANI-ISHQ DA KALMA" rank="12" time="22:30:00" tvr="1.60" variance="-75.71" />
+          <program averagetvr="0.38" day="Thu" name="HFF POLICEGIRI" rank="13" time="16:00:00" tvr="1.53" variance="300.00" />
+          <program averagetvr="0.33" day="Sat" name="COMEDY NIGHTS WITH KAPIL" rank="14" time="13:30:00" tvr="1.30" variance="300.00" />
+          <program averagetvr="4.97" day="Mon" name="SANSKAAR DHAROHAR APNON KI" rank="15" time="21:00:00" tvr="1.24" variance="-75.10" />
+          <program averagetvr="4.68" day="Sun" name="COMEDY NIGHTS WITH KAPIL" rank="16" time="10:00:00" tvr="1.23" variance="-73.74" />
+          <program averagetvr="0.31" day="Sun" name="HFF SUPER HERO SHEHANSHAH" rank="17" time="12:30:00" tvr="1.23" variance="300.00" />
+          <program averagetvr="4.17" day="Mon" name="BALIKA VADHU" rank="18" time="23:00:00" tvr="1.15" variance="-72.37" />
+          <program averagetvr="3.26" day="Mon" name="BALIKA VADHU" rank="19" time="18:00:00" tvr="1.07" variance="-67.22" />
+          <program averagetvr="4.01" day="Mon" name="MRS PAMMI PYARELAL" rank="20" time="19:00:00" tvr="1.00" variance="-75.14" />
+          <program averagetvr="1.23" day="Sun" name="JHALAK DIKHHLA JAA" rank="21" time="11:00:00" tvr="0.96" variance="-22.52" />
+          <program averagetvr="0.21" day="Sat" name="JASHAN E EID" rank="22" time="17:00:00" tvr="0.84" variance="300.00" />
+          <program averagetvr="2.96" day="Tue" name="JHALAK DIKHHLA JAA" rank="23" time="16:30:00" tvr="0.84" variance="-71.66" />
+          <program averagetvr="3.46" day="Mon" name="COMEDY NIGHTS WITH KAPIL" rank="24" time="16:30:00" tvr="0.81" variance="-76.58" />
+          <program averagetvr="3.67" day="Sun" name="COMEDY NIGHTS WITH KAPIL" rank="25" time="23:30:00" tvr="0.81" variance="-77.91" />
+          <program averagetvr="0.44" day="Sun" name="JHALAK DIKHHLA JAA" rank="26" time="16:00:00" tvr="0.78" variance="76.27" />
+          <program averagetvr="1.52" day="Sun" name="COMEDY NIGHTS WITH KAPIL" rank="27" time="17:00:00" tvr="0.74" variance="-51.48" />
+          <program averagetvr="3.91" day="Mon" name="BANI-ISHQ DA KALMA" rank="28" time="13:00:00" tvr="0.72" variance="-81.58" />
+          <program averagetvr="2.39" day="Mon" name="UTTARAN" rank="29" time="10:30:00" tvr="0.67" variance="-72.14" />
+          <program averagetvr="0.16" day="Thu" name="JASHAN E EID" rank="30" time="10:00:00" tvr="0.65" variance="300.00" />
+        </period>
+        <period enddate="24/08/2013" startdate="18/08/2013">
+          <program averagetvr="6.11" day="Sun" name="COMEDY NIGHTS WITH KAPIL" rank="1" time="22:30:00" tvr="4.97" variance="-18.69" />
+          <program averagetvr="16.20" day="Sun" name="JHALAK DIKHHLA JAA" rank="2" time="21:00:00" tvr="4.41" variance="-72.77" />
+          <program averagetvr="14.30" day="Mon" name="BALIKA VADHU" rank="3" time="20:00:00" tvr="3.15" variance="-78.00" />
+          <program averagetvr="10.46" day="Mon" name="MADHUBALA EK ISHQ EK JUNOON" rank="4" time="20:30:00" tvr="2.53" variance="-75.79" />
+          <program averagetvr="9.17" day="Mon" name="UTTARAN" rank="5" time="22:00:00" tvr="2.07" variance="-77.41" />
+          <program averagetvr="0.51" day="Sun" name="HFF POLICEGIRI" rank="6" time="18:00:00" tvr="2.05" variance="300.00" />
+          <program averagetvr="1.52" day="Sun" name="COMEDY NIGHTS WITH KAPIL" rank="7" time="17:00:00" tvr="1.81" variance="18.69" />
+          <program averagetvr="6.59" day="Mon" name="BANI-ISHQ DA KALMA" rank="8" time="22:30:00" tvr="1.71" variance="-74.13" />
+          <program averagetvr="0.64" day="Sat" name="COMEDY NIGHTS WITH KAPIL" rank="9" time="18:00:00" tvr="1.69" variance="163.04" />
+          <program averagetvr="7.58" day="Mon" name="SASURAL SIMAR KA" rank="10" time="19:30:00" tvr="1.49" variance="-80.36" />
+          <program averagetvr="7.13" day="Mon" name="NA BOLE TUM NA MAINE KUCHH KAHA-2" rank="11" time="21:30:00" tvr="1.09" variance="-84.74" />
+          <program averagetvr="0.44" day="Sun" name="JHALAK DIKHHLA JAA" rank="12" time="16:00:00" tvr="0.99" variance="123.73" />
+          <program averagetvr="4.68" day="Sun" name="COMEDY NIGHTS WITH KAPIL" rank="13" time="10:00:00" tvr="0.96" variance="-79.61" />
+          <program averagetvr="4.01" day="Mon" name="MRS PAMMI PYARELAL" rank="14" time="19:00:00" tvr="0.93" variance="-76.89" />
+          <program averagetvr="0.39" day="Sat" name="JHALAK DIKHHLA JAA" rank="15" time="11:30:00" tvr="0.90" variance="133.77" />
+          <program averagetvr="4.97" day="Mon" name="SANSKAAR DHAROHAR APNON KI" rank="16" time="21:00:00" tvr="0.89" variance="-82.02" />
+          <program averagetvr="0.39" day="Mon" name="BANI-ISHQ DA KALMA" rank="17" time="18:30:00" tvr="0.89" variance="129.53" />
+          <program averagetvr="3.67" day="Sun" name="COMEDY NIGHTS WITH KAPIL" rank="18" time="23:30:00" tvr="0.89" variance="-75.87" />
+          <program averagetvr="3.46" day="Mon" name="COMEDY NIGHTS WITH KAPIL" rank="19" time="16:30:00" tvr="0.88" variance="-74.48" />
+          <program averagetvr="3.91" day="Mon" name="BANI-ISHQ DA KALMA" rank="20" time="13:00:00" tvr="0.86" variance="-78.05" />
+          <program averagetvr="4.17" day="Mon" name="BALIKA VADHU" rank="21" time="23:00:00" tvr="0.84" variance="-79.85" />
+          <program averagetvr="0.20" day="Sat" name="COMEDY NIGHTS WITH KAPIL" rank="22" time="15:30:00" tvr="0.78" variance="300.00" />
+          <program averagetvr="3.26" day="Mon" name="BALIKA VADHU" rank="23" time="18:00:00" tvr="0.61" variance="-81.27" />
+          <program averagetvr="0.15" day="Sun" name="HFF YAMLA PAGLA DEEWANA 2" rank="24" time="12:30:00" tvr="0.60" variance="300.00" />
+          <program averagetvr="2.82" day="Mon" name="SASURAL SIMAR KA" rank="25" time="14:00:00" tvr="0.59" variance="-78.91" />
+          <program averagetvr="2.49" day="Mon" name="MADHUBALA EK ISHQ EK JUNOON" rank="26" time="23:30:00" tvr="0.55" variance="-78.11" />
+          <program averagetvr="2.73" day="Mon" name="BANI-ISHQ DA KALMA" rank="27" time="16:00:00" tvr="0.51" variance="-81.21" />
+          <program averagetvr="2.47" day="Mon" name="BALIKA VADHU" rank="28" time="14:30:00" tvr="0.51" variance="-79.34" />
+          <program averagetvr="2.82" day="Mon" name="UTTARAN" rank="29" time="13:30:00" tvr="0.49" variance="-82.77" />
+          <program averagetvr="2.82" day="Mon" name="NA BOLE TUM NA MAINE KUCHH KAHA-2" rank="30" time="12:30:00" tvr="0.47" variance="-83.46" />
+        </period>
+        <period enddate="31/08/2013" startdate="25/08/2013">
+          <program averagetvr="1.08" day="Sat" name="COMEDY NIGHTS WITH KAPIL" rank="1" time="22:30:00" tvr="4.32" variance="300.00" />
+          <program averagetvr="1.08" day="Sun" name="COMEDY NIGHTS WITH KAPIL" rank="2" time="22:00:00" tvr="4.31" variance="300.00" />
+          <program averagetvr="16.20" day="Sun" name="JHALAK DIKHHLA JAA" rank="3" time="21:00:00" tvr="3.47" variance="-78.61" />
+          <program averagetvr="10.46" day="Mon" name="MADHUBALA EK ISHQ EK JUNOON" rank="4" time="20:30:00" tvr="2.72" variance="-73.99" />
+          <program averagetvr="14.30" day="Mon" name="BALIKA VADHU" rank="5" time="20:00:00" tvr="2.58" variance="-81.94" />
+          <program averagetvr="0.48" day="Sat" name="COMEDY NIGHTS WITH KAPIL" rank="6" time="15:00:00" tvr="1.93" variance="300.00" />
+          <program averagetvr="9.17" day="Mon" name="UTTARAN" rank="7" time="22:00:00" tvr="1.86" variance="-79.70" />
+          <program averagetvr="0.45" day="Sun" name="HFF GO GOA GONE" rank="8" time="18:30:00" tvr="1.78" variance="300.00" />
+          <program averagetvr="0.44" day="Sat" name="JHALAK DIKHHLA JAA" rank="9" time="11:00:00" tvr="1.76" variance="300.00" />
+          <program averagetvr="6.59" day="Mon" name="BANI-ISHQ DA KALMA" rank="10" time="22:30:00" tvr="1.54" variance="-76.59" />
+          <program averagetvr="7.58" day="Mon" name="SASURAL SIMAR KA" rank="11" time="19:30:00" tvr="1.43" variance="-81.19" />
+          <program averagetvr="0.35" day="Sun" name="JHALAK DIKHHLA JAA" rank="12" time="11:30:00" tvr="1.41" variance="300.00" />
+          <program averagetvr="4.68" day="Sun" name="COMEDY NIGHTS WITH KAPIL" rank="13" time="10:00:00" tvr="1.32" variance="-71.82" />
+          <program averagetvr="0.33" day="Sat" name="HFF OMG OH MY GOD" rank="14" time="12:00:00" tvr="1.30" variance="300.00" />
+          <program averagetvr="7.13" day="Mon" name="NA BOLE TUM NA MAINE KUCHH KAHA-2" rank="15" time="21:30:00" tvr="1.23" variance="-82.75" />
+          <program averagetvr="4.97" day="Mon" name="SANSKAAR DHAROHAR APNON KI" rank="16" time="21:00:00" tvr="1.08" variance="-78.20" />
+          <program averagetvr="3.67" day="Sun" name="COMEDY NIGHTS WITH KAPIL" rank="17" time="23:30:00" tvr="1.03" variance="-71.92" />
+          <program averagetvr="0.26" day="Sat" name="HFF POLICEGIRI" rank="18" time="16:00:00" tvr="1.02" variance="300.00" />
+          <program averagetvr="2.73" day="Mon" name="BANI-ISHQ DA KALMA" rank="19" time="16:00:00" tvr="0.91" variance="-66.68" />
+          <program averagetvr="1.52" day="Sun" name="COMEDY NIGHTS WITH KAPIL" rank="20" time="17:00:00" tvr="0.87" variance="-42.95" />
+          <program averagetvr="3.46" day="Mon" name="COMEDY NIGHTS WITH KAPIL" rank="21" time="16:30:00" tvr="0.75" variance="-78.41" />
+          <program averagetvr="4.17" day="Mon" name="BALIKA VADHU" rank="22" time="23:00:00" tvr="0.73" variance="-82.54" />
+          <program averagetvr="2.96" day="Tue" name="JHALAK DIKHHLA JAA" rank="23" time="16:30:00" tvr="0.67" variance="-77.56" />
+          <program averagetvr="0.39" day="Mon" name="BANI-ISHQ DA KALMA" rank="24" time="18:30:00" tvr="0.66" variance="70.47" />
+          <program averagetvr="2.39" day="Mon" name="UTTARAN" rank="25" time="10:30:00" tvr="0.62" variance="-74.19" />
+          <program averagetvr="3.91" day="Mon" name="BANI-ISHQ DA KALMA" rank="26" time="13:00:00" tvr="0.61" variance="-84.50" />
+          <program averagetvr="2.82" day="Mon" name="NA BOLE TUM NA MAINE KUCHH KAHA-2" rank="27" time="12:30:00" tvr="0.61" variance="-78.50" />
+          <program averagetvr="2.20" day="Mon" name="MRS PAMMI PYARELAL" rank="28" time="15:30:00" tvr="0.61" variance="-72.51" />
+          <program averagetvr="2.47" day="Mon" name="BALIKA VADHU" rank="29" time="14:30:00" tvr="0.60" variance="-75.53" />
+          <program averagetvr="2.09" day="Mon" name="MADHUBALA EK ISHQ EK JUNOON" rank="30" time="15:00:00" tvr="0.58" variance="-72.03" />
+        </period>
+      </channel>
+      <channel code="571" name="Polimer TV">
+        <period enddate="10/08/2013" startdate="04/08/2013">
+          <program averagetvr="0.03" day="Sun" name="CINEMA CINEMA" rank="1" time="11:00:00" tvr="0.13" variance="300.00" />
+          <program averagetvr="0.03" day="Fri" name="RPG SRIMATHI CITY" rank="2" time="11:00:00" tvr="0.11" variance="300.00" />
+          <program averagetvr="0.01" day="Fri" name="GTM (GLOBAL TELE MALL)" rank="3" time="11:30:00" tvr="0.05" variance="300.00" />
+          <program averagetvr="0.00" day="Sun" name="JUNIOR SUPER DANCER" rank="4" time="10:00:00" tvr="0.01" variance="300.00" />
+        </period>
+        <period enddate="17/08/2013" startdate="11/08/2013">
+          <program averagetvr="0.02" day="Wed" name="SAKTHI POLA YARUMILLA (VALLAMAI THARAIY)" rank="1" time="19:30:00" tvr="0.07" variance="300.00" />
+          <program averagetvr="0.01" day="Mon" name="GTM (GLOBAL TELE MALL)" rank="2" time="16:30:00" tvr="0.03" variance="300.00" />
+          <program averagetvr="0.01" day="Thu" name="KADAL NAYGAN" rank="3" time="12:30:00" tvr="0.03" variance="300.00" />
+          <program averagetvr="0.00" day="Mon" name="SKS SHOPPING" rank="4" time="10:30:00" tvr="0.01" variance="300.00" />
+          <program averagetvr="0.00" day="Wed" name="TMF VALLAMAI THAARAAYO" rank="5" time="14:00:00" tvr="0.00" variance="0.00" />
+        </period>
+        <period enddate="24/08/2013" startdate="18/08/2013">
+          <program averagetvr="0.04" day="Fri" name="SKS SHOPPING" rank="1" time="17:00:00" tvr="0.14" variance="300.00" />
+          <program averagetvr="0.01" day="Fri" name="COMEDY EXPRESS" rank="2" time="23:30:00" tvr="0.03" variance="300.00" />
+          <program averagetvr="0.01" day="Sun" name="COMEDY EXPRESS" rank="3" time="17:30:00" tvr="0.02" variance="300.00" />
+          <program averagetvr="0.00" day="Fri" name="MAYAKKAM ENNA" rank="4" time="21:00:00" tvr="0.01" variance="300.00" />
+          <program averagetvr="0.00" day="Sun" name="MOVIE MUNNOTTAM" rank="5" time="16:30:00" tvr="0.01" variance="300.00" />
+          <program averagetvr="0.00" day="Sun" name="TMF UDHAYAN" rank="6" time="14:00:00" tvr="0.01" variance="300.00" />
+          <program averagetvr="0.00" day="Tue" name="TMF COOLEE" rank="7" time="14:00:00" tvr="0.00" variance="0.00" />
+          <program averagetvr="0.00" day="Sun" name="TMF ETHAN" rank="8" time="18:00:00" tvr="0.00" variance="0.00" />
+        </period>
+        <period enddate="31/08/2013" startdate="25/08/2013">
+          <program averagetvr="0.05" day="Sun" name="POLIMAR SEIDIGAL" rank="1" time="22:30:00" tvr="0.20" variance="300.00" />
+          <program averagetvr="0.03" day="Sun" name="CINEMA CINEMA" rank="2" time="23:00:00" tvr="0.11" variance="300.00" />
+          <program averagetvr="0.02" day="Tue" name="SKS SHOPPING" rank="3" time="10:30:00" tvr="0.06" variance="300.00" />
+          <program averagetvr="0.01" day="Mon" name="ULLAM KOLLAI POGUDHADA" rank="4" time="13:30:00" tvr="0.03" variance="300.00" />
+          <program averagetvr="0.01" day="Mon" name="TMF VELLAI PURA ONRU" rank="5" time="14:00:00" tvr="0.02" variance="300.00" />
+          <program averagetvr="0.00" day="Mon" name="MADHUBALA" rank="6" time="20:00:00" tvr="0.01" variance="300.00" />
+        </period>
+      </channel>
+    </output>
+  </TG_MG>
+  <TG_MG name="CS 15-24 A~Metros" type="Reference">
+    <tg name="CS 15-24 A">
+      <cs>1</cs>
+      <sec>1</sec>
+      <sex>1,2</sex>
+      <age>3</age>
+    </tg>
+    <mg name="Metros" type="Group">
+      <market>1</market>
+      <market>2</market>
+      <market>3</market>
+      <market>4</market>
+      <market>6</market>
+    </mg>
+    <calc display="week-wise" logic="ProgTVR" />
+    <num_programs>30</num_programs>
+    <channel code="571" name="Polimer TV" />
+    <channel code="479" name="COLORS" />
+    <channel code="16" name="SUN TV" />
+    <output>
+      <channel code="16" name="SUN TV">
+        <period enddate="10/08/2013" startdate="04/08/2013">
+          <program averagetvr="1.12" day="Sun" name="TOP TEN MOVIE" rank="1" time="08:30:00" tvr="3.62" variance="223.21" />
+          <program averagetvr="1.86" day="Sun" name="KALYANA MALAI" rank="2" time="08:00:00" tvr="2.73" variance="47.17" />
+          <program averagetvr="0.52" day="Sat" name="AMUL SUPER KUDUKBAM 2" rank="3" time="21:00:00" tvr="1.95" variance="273.21" />
+          <program averagetvr="0.58" day="Sun" name="SUNDAY GALATTA" rank="4" time="09:00:00" tvr="1.46" variance="151.72" />
+          <program averagetvr="0.32" day="Sat" name="TMF MAPPILLAI(DHANUSH)" rank="5" time="19:30:00" tvr="1.27" variance="300.00" />
+          <program averagetvr="2.42" day="Sun" name="SOLLUNGANNE SOLLUNGA" rank="6" time="09:30:00" tvr="0.92" variance="-61.94" />
+          <program averagetvr="0.70" day="Mon" name="ILAVARASI" rank="7" time="13:30:00" tvr="0.82" variance="16.39" />
+          <program averagetvr="0.23" day="Mon" name="DEIVA MAGAL" rank="8" time="20:00:00" tvr="0.82" variance="260.35" />
+          <program averagetvr="0.22" day="Mon" name="VALLI" rank="9" time="14:00:00" tvr="0.76" variance="246.56" />
+          <program averagetvr="0.19" day="Mon" name="MARUTHANI" rank="10" time="10:30:00" tvr="0.74" variance="300.00" />
+          <program averagetvr="0.29" day="Tue" name="THYAGAM" rank="11" time="13:00:00" tvr="0.71" variance="146.51" />
+          <program averagetvr="0.17" day="Sun" name="CADBURY OREO SUN SINGER-GF" rank="12" time="11:00:00" tvr="0.67" variance="300.00" />
+          <program averagetvr="0.17" day="Sun" name="TMF HARRY POTTER AND THE CHAMBER OF SECR" rank="13" time="15:00:00" tvr="0.67" variance="300.00" />
+          <program averagetvr="0.16" day="Mon" name="SONDHA BANDHAM" rank="14" time="11:00:00" tvr="0.65" variance="300.00" />
+          <program averagetvr="0.15" day="Mon" name="KARTHIGAI PENGAL" rank="15" time="22:00:00" tvr="0.61" variance="300.00" />
+          <program averagetvr="0.48" day="Tue" name="MUTHARAM" rank="16" time="12:30:00" tvr="0.59" variance="22.60" />
+          <program averagetvr="0.35" day="Mon" name="HEADLINE NEWS" rank="17" time="14:30:00" tvr="0.58" variance="66.27" />
+          <program averagetvr="0.14" day="Mon" name="CINEMA SEITHIGAL" rank="18" time="10:00:00" tvr="0.57" variance="300.00" />
+          <program averagetvr="0.14" day="Mon" name="NADASWARAM" rank="19" time="19:30:00" tvr="0.56" variance="300.00" />
+          <program averagetvr="0.17" day="Mon" name="VANI RANI" rank="20" time="21:30:00" tvr="0.51" variance="206.35" />
+          <program averagetvr="0.13" day="Wed" name="TMF NARASHIMA" rank="21" time="15:00:00" tvr="0.51" variance="300.00" />
+          <program averagetvr="0.13" day="Sun" name="TMF MAMBATTIYAN" rank="22" time="18:30:00" tvr="0.50" variance="300.00" />
+          <program averagetvr="0.12" day="Sat" name="TMF SARAVANAA" rank="23" time="14:30:00" tvr="0.49" variance="300.00" />
+          <program averagetvr="0.53" day="Sun" name="SUN SAITHEGAL" rank="24" time="07:30:00" tvr="0.48" variance="-8.59" />
+          <program averagetvr="0.24" day="Mon" name="THENDRAL" rank="25" time="21:00:00" tvr="0.48" variance="95.40" />
+          <program averagetvr="0.12" day="Sat" name="TMF MAPPILLAI(DHANUSH)" rank="26" time="17:30:00" tvr="0.47" variance="300.00" />
+          <program averagetvr="0.55" day="Wed" name="MUNTHANAI MUDITCHU" rank="27" time="18:00:00" tvr="0.47" variance="-14.68" />
+          <program averagetvr="0.18" day="Mon" name="NAGAICHUVAI GALATTA" rank="28" time="09:00:00" tvr="0.43" variance="137.79" />
+          <program averagetvr="0.11" day="Tue" name="DEVATHAI" rank="29" time="12:00:00" tvr="0.42" variance="300.00" />
+          <program averagetvr="0.10" day="Mon" name="BOMMALATTAM" rank="30" time="11:30:00" tvr="0.41" variance="300.00" />
+        </period>
+        <period enddate="17/08/2013" startdate="11/08/2013">
+          <program averagetvr="0.33" day="Thu" name="TMF CHENNAIEIL ORU NAAL" rank="1" time="11:00:00" tvr="1.30" variance="300.00" />
+          <program averagetvr="0.32" day="Thu" name="TMF POKKIRI" rank="2" time="13:30:00" tvr="1.27" variance="300.00" />
+          <program averagetvr="0.31" day="Thu" name="TMF SUNDARA PANDIAN" rank="3" time="19:30:00" tvr="1.22" variance="300.00" />
+          <program averagetvr="0.46" day="Sun" name="THIRAI VIMARSANAM" rank="4" time="17:30:00" tvr="1.17" variance="152.97" />
+          <program averagetvr="0.25" day="Sat" name="TMF ARUL" rank="5" time="15:00:00" tvr="1.00" variance="300.00" />
+          <program averagetvr="0.35" day="Mon" name="HEADLINE NEWS" rank="6" time="14:30:00" tvr="0.82" variance="133.73" />
+          <program averagetvr="0.26" day="Wed" name="MARUTHANI" rank="7" time="10:30:00" tvr="0.80" variance="209.68" />
+          <program averagetvr="1.03" day="Sun" name="RAMRAJ KUTTY CHUTTIES" rank="8" time="18:00:00" tvr="0.78" variance="-23.90" />
+          <program averagetvr="0.42" day="Sun" name="BHAIRAVI" rank="9" time="22:00:00" tvr="0.77" variance="84.43" />
+          <program averagetvr="0.19" day="Thu" name="TMF POKKIRI" rank="10" time="14:30:00" tvr="0.77" variance="300.00" />
+          <program averagetvr="0.19" day="Sat" name="TMF ARUL" rank="11" time="13:30:00" tvr="0.75" variance="300.00" />
+          <program averagetvr="0.16" day="Thu" name="TMF RUSH HOUR" rank="12" time="22:00:00" tvr="0.64" variance="300.00" />
+          <program averagetvr="0.15" day="Sun" name="TMF MOUNA GURU" rank="13" time="19:30:00" tvr="0.61" variance="300.00" />
+          <program averagetvr="0.15" day="Thu" name="TMF SUNDARA PANDIAN" rank="14" time="18:00:00" tvr="0.60" variance="300.00" />
+          <program averagetvr="0.22" day="Mon" name="THYAGAM" rank="15" time="13:00:00" tvr="0.54" variance="146.60" />
+          <program averagetvr="0.14" day="Thu" name="RAGALAPURAM ADU SAGALAPURAM" rank="16" time="08:30:00" tvr="0.54" variance="300.00" />
+          <program averagetvr="0.13" day="Thu" name="ENGAL SUDHANTHIRAM (INTERVIEW)" rank="17" time="17:00:00" tvr="0.53" variance="300.00" />
+          <program averagetvr="0.70" day="Mon" name="ILAVARASI" rank="18" time="13:30:00" tvr="0.52" variance="-26.19" />
+          <program averagetvr="0.13" day="Tue" name="SURYA VANAKKAM" rank="19" time="08:00:00" tvr="0.51" variance="300.00" />
+          <program averagetvr="0.24" day="Mon" name="THENDRAL" rank="20" time="21:00:00" tvr="0.50" variance="104.60" />
+          <program averagetvr="0.09" day="Tue" name="TMF UNAKKAKA ELLAM UNAKKAKA" rank="21" time="15:00:00" tvr="0.37" variance="300.00" />
+          <program averagetvr="0.09" day="Thu" name="COMEDYYAI THAVIRA VERILLAI" rank="22" time="17:30:00" tvr="0.36" variance="300.00" />
+          <program averagetvr="0.07" day="Sat" name="SUN SAITHEGAL" rank="23" time="07:30:00" tvr="0.29" variance="300.00" />
+          <program averagetvr="0.07" day="Wed" name="TMF PALLIKKOODAM" rank="24" time="14:30:00" tvr="0.29" variance="300.00" />
+          <program averagetvr="0.07" day="Sun" name="TMF SURA" rank="25" time="14:30:00" tvr="0.26" variance="300.00" />
+          <program averagetvr="0.06" day="Thu" name="VAANGA PAZHAGALAM" rank="26" time="08:00:00" tvr="0.25" variance="300.00" />
+          <program averagetvr="0.06" day="Mon" name="MUTHARAM" rank="27" time="12:30:00" tvr="0.25" variance="300.00" />
+          <program averagetvr="0.14" day="Wed" name="SONDHA BANDHAM" rank="28" time="11:00:00" tvr="0.24" variance="66.96" />
+          <program averagetvr="0.06" day="Sat" name="TMF MAALAI POZHUTHIN MAYAKATHILAEY" rank="29" time="10:30:00" tvr="0.22" variance="300.00" />
+          <program averagetvr="0.40" day="Sun" name="CADBURY OREO SUN SINGER" rank="30" time="11:00:00" tvr="0.21" variance="-47.83" />
+        </period>
+        <period enddate="24/08/2013" startdate="18/08/2013">
+          <program averagetvr="0.36" day="Sat" name="TMF ORU KAL ORU KANNADI" rank="1" time="19:30:00" tvr="1.42" variance="300.00" />
+          <program averagetvr="0.34" day="Sun" name="TMF MUNI-2 KANCHANA" rank="2" time="14:30:00" tvr="1.37" variance="300.00" />
+          <program averagetvr="0.24" day="Tue" name="TMF ANANTHA POONGATTRE" rank="3" time="15:00:00" tvr="0.96" variance="300.00" />
+          <program averagetvr="1.03" day="Sun" name="RAMRAJ KUTTY CHUTTIES" rank="4" time="18:00:00" tvr="0.94" variance="-8.29" />
+          <program averagetvr="0.23" day="Sun" name="TMF INKHEART" rank="5" time="12:30:00" tvr="0.91" variance="300.00" />
+          <program averagetvr="1.86" day="Sun" name="KALYANA MALAI" rank="6" time="08:00:00" tvr="0.86" variance="-53.64" />
+          <program averagetvr="0.58" day="Sun" name="SUNDAY GALATTA" rank="7" time="09:00:00" tvr="0.86" variance="48.28" />
+          <program averagetvr="1.12" day="Sun" name="TOP TEN MOVIE" rank="8" time="08:30:00" tvr="0.86" variance="-23.21" />
+          <program averagetvr="0.21" day="Sat" name="TMF ORU KAL ORU KANNADI" rank="9" time="17:30:00" tvr="0.85" variance="300.00" />
+          <program averagetvr="0.21" day="Sun" name="TMF MUGAMOODI" rank="10" time="18:30:00" tvr="0.83" variance="300.00" />
+          <program averagetvr="0.29" day="Sun" name="HEADLINE NEWS" rank="11" time="14:30:00" tvr="0.81" variance="180.61" />
+          <program averagetvr="0.17" day="Sun" name="TMF MUGAMOODI" rank="12" time="19:30:00" tvr="0.68" variance="300.00" />
+          <program averagetvr="0.16" day="Wed" name="DEIVA MAGAL" rank="13" time="20:00:00" tvr="0.65" variance="300.00" />
+          <program averagetvr="0.43" day="Tue" name="PILLAI NILA" rank="14" time="17:30:00" tvr="0.64" variance="47.41" />
+          <program averagetvr="0.55" day="Wed" name="MUNTHANAI MUDITCHU" rank="15" time="18:00:00" tvr="0.61" variance="11.93" />
+          <program averagetvr="0.15" day="Sat" name="AMUL SUPER KUDUKBAM 2" rank="16" time="21:30:00" tvr="0.53" variance="247.54" />
+          <program averagetvr="2.42" day="Sun" name="SOLLUNGANNE SOLLUNGA" rank="17" time="09:30:00" tvr="0.53" variance="-78.08" />
+          <program averagetvr="0.34" day="Tue" name="VANI RANI" rank="18" time="21:30:00" tvr="0.52" variance="50.36" />
+          <program averagetvr="0.25" day="Sat" name="CADBURYS BOURN VITA QUIZ CONTEST AMMA K" rank="19" time="17:00:00" tvr="0.51" variance="108.16" />
+          <program averagetvr="0.44" day="Sat" name="SIVA SANKARI" rank="20" time="22:30:00" tvr="0.51" variance="15.25" />
+          <program averagetvr="0.13" day="Sat" name="VAZHKKAI KOVIGAL" rank="21" time="08:00:00" tvr="0.51" variance="300.00" />
+          <program averagetvr="0.53" day="Sun" name="SUN SAITHEGAL" rank="22" time="07:30:00" tvr="0.50" variance="-6.04" />
+          <program averagetvr="0.12" day="Wed" name="VAMSAM" rank="23" time="20:30:00" tvr="0.49" variance="300.00" />
+          <program averagetvr="0.12" day="Tue" name="KARTHIGAI PENGAL" rank="24" time="22:00:00" tvr="0.44" variance="282.70" />
+          <program averagetvr="0.29" day="Tue" name="THYAGAM" rank="25" time="13:00:00" tvr="0.44" variance="53.49" />
+          <program averagetvr="0.10" day="Thu" name="NADASWARAM" rank="26" time="19:30:00" tvr="0.39" variance="300.00" />
+          <program averagetvr="0.09" day="Tue" name="ILAVARASI" rank="27" time="13:30:00" tvr="0.36" variance="300.00" />
+          <program averagetvr="0.09" day="Tue" name="VALLI" rank="28" time="14:00:00" tvr="0.35" variance="300.00" />
+          <program averagetvr="0.24" day="Fri" name="BOMMALATTAM" rank="29" time="11:30:00" tvr="0.33" variance="37.50" />
+          <program averagetvr="0.08" day="Sat" name="TMF FRIENDS" rank="30" time="13:30:00" tvr="0.31" variance="300.00" />
+        </period>
+        <period enddate="31/08/2013" startdate="25/08/2013">
+          <program averagetvr="0.27" day="Sun" name="TMF M KUMARAN SON OF MAHALAIKS" rank="1" time="14:30:00" tvr="1.07" variance="300.00" />
+          <program averagetvr="0.34" day="Tue" name="VANI RANI" rank="2" time="21:30:00" tvr="0.86" variance="149.64" />
+          <program averagetvr="0.24" day="Tue" name="THENDRAL" rank="3" time="21:00:00" tvr="0.74" variance="205.40" />
+          <program averagetvr="0.46" day="Sun" name="THIRAI VIMARSANAM" rank="4" time="17:30:00" tvr="0.68" variance="47.03" />
+          <program averagetvr="0.17" day="Sun" name="TMF PADIKKAATHAVAN (DHANUSH)" rank="5" time="18:30:00" tvr="0.68" variance="300.00" />
+          <program averagetvr="1.03" day="Sun" name="RAMRAJ KUTTY CHUTTIES" rank="6" time="18:00:00" tvr="0.66" variance="-35.61" />
+          <program averagetvr="0.24" day="Fri" name="BOMMALATTAM" rank="7" time="11:30:00" tvr="0.63" variance="162.50" />
+          <program averagetvr="0.16" day="Fri" name="DEVATHAI" rank="8" time="12:00:00" tvr="0.63" variance="300.00" />
+          <program averagetvr="0.15" day="Tue" name="THENNILAVU" rank="9" time="22:00:00" tvr="0.62" variance="300.00" />
+          <program averagetvr="0.40" day="Sun" name="CADBURY OREO SUN SINGER" rank="10" time="11:00:00" tvr="0.59" variance="46.58" />
+          <program averagetvr="0.43" day="Mon" name="VAMSAM" rank="11" time="20:30:00" tvr="0.55" variance="25.86" />
+          <program averagetvr="0.12" day="Wed" name="TMF SRI RAM RAJIYAM" rank="12" time="14:30:00" tvr="0.49" variance="300.00" />
+          <program averagetvr="0.12" day="Tue" name="DEIVA MAGAL" rank="13" time="20:00:00" tvr="0.48" variance="300.00" />
+          <program averagetvr="0.25" day="Sat" name="CADBURYS BOURN VITA QUIZ CONTEST AMMA K" rank="14" time="17:00:00" tvr="0.47" variance="91.84" />
+          <program averagetvr="0.12" day="Sun" name="TMF M KUMARAN SON OF MAHALAIKS" rank="15" time="14:00:00" tvr="0.46" variance="300.00" />
+          <program averagetvr="0.11" day="Sat" name="TMF ROWTHIRAM" rank="16" time="19:30:00" tvr="0.43" variance="300.00" />
+          <program averagetvr="0.11" day="Sun" name="TMF THE TOURIST" rank="17" time="12:30:00" tvr="0.42" variance="300.00" />
+          <program averagetvr="0.10" day="Sat" name="TMF ROWTHIRAM" rank="18" time="17:30:00" tvr="0.41" variance="300.00" />
+          <program averagetvr="0.41" day="Mon" name="SURYA VANAKKAM" rank="19" time="08:00:00" tvr="0.39" variance="-5.74" />
+          <program averagetvr="0.44" day="Sat" name="SIVA SANKARI" rank="20" time="22:30:00" tvr="0.36" variance="-18.64" />
+          <program averagetvr="0.09" day="Thu" name="VALLI" rank="21" time="14:00:00" tvr="0.36" variance="300.00" />
+          <program averagetvr="0.09" day="Fri" name="TMF CHATRIYAN" rank="22" time="15:00:00" tvr="0.35" variance="300.00" />
+          <program averagetvr="0.29" day="Sun" name="HEADLINE NEWS" rank="23" time="14:30:00" tvr="0.34" variance="19.39" />
+          <program averagetvr="0.22" day="Mon" name="THYAGAM" rank="24" time="13:00:00" tvr="0.34" variance="53.40" />
+          <program averagetvr="0.14" day="Wed" name="SONDHA BANDHAM" rank="25" time="11:00:00" tvr="0.34" variance="133.04" />
+          <program averagetvr="0.48" day="Tue" name="MUTHARAM" rank="26" time="12:30:00" tvr="0.33" variance="-30.91" />
+          <program averagetvr="2.42" day="Sun" name="SOLLUNGANNE SOLLUNGA" rank="27" time="09:30:00" tvr="0.31" variance="-87.18" />
+          <program averagetvr="0.18" day="Mon" name="NAGAICHUVAI GALATTA" rank="28" time="09:00:00" tvr="0.29" variance="62.21" />
+          <program averagetvr="0.14" day="Sun" name="SUN SAITHEGAL" rank="29" time="19:00:00" tvr="0.29" variance="112.01" />
+          <program averagetvr="0.07" day="Mon" name="TMF THULLATHA MANAMUM THULLUM" rank="30" time="15:00:00" tvr="0.29" variance="300.00" />
+        </period>
+      </channel>
+      <channel code="479" name="COLORS">
+        <period enddate="10/08/2013" startdate="04/08/2013">
+          <program averagetvr="9.58" day="Sun" name="COMEDY NIGHTS WITH KAPIL" rank="1" time="22:30:00" tvr="8.54" variance="-10.89" />
+          <program averagetvr="23.02" day="Sun" name="JHALAK DIKHHLA JAA" rank="2" time="21:00:00" tvr="5.06" variance="-78.02" />
+          <program averagetvr="12.03" day="Mon" name="MADHUBALA EK ISHQ EK JUNOON" rank="3" time="20:30:00" tvr="3.23" variance="-73.17" />
+          <program averagetvr="10.42" day="Mon" name="BALIKA VADHU" rank="4" time="20:00:00" tvr="2.91" variance="-72.10" />
+          <program averagetvr="2.10" day="Sun" name="JHALAK DIKHHLA JAA" rank="5" time="11:00:00" tvr="2.25" variance="7.27" />
+          <program averagetvr="8.30" day="Mon" name="BANI-ISHQ DA KALMA" rank="6" time="22:30:00" tvr="2.22" variance="-73.28" />
+          <program averagetvr="0.55" day="Sun" name="HFF SPECIAL 26" rank="7" time="12:30:00" tvr="2.20" variance="300.00" />
+          <program averagetvr="7.27" day="Mon" name="SASURAL SIMAR KA" rank="8" time="19:30:00" tvr="2.16" variance="-70.36" />
+          <program averagetvr="6.33" day="Mon" name="BALIKA VADHU" rank="9" time="23:00:00" tvr="1.62" variance="-74.33" />
+          <program averagetvr="0.41" day="Sun" name="JHALAK DIKHHLA JAA" rank="10" time="17:00:00" tvr="1.62" variance="300.00" />
+          <program averagetvr="0.35" day="Wed" name="NA BOLE TUM NA MAINE KUCHH KAHA-2" rank="11" time="00:30:00" tvr="1.40" variance="300.00" />
+          <program averagetvr="7.68" day="Sun" name="COMEDY NIGHTS WITH KAPIL" rank="12" time="23:30:00" tvr="1.34" variance="-82.56" />
+          <program averagetvr="8.12" day="Mon" name="SANSKAAR DHAROHAR APNON KI" rank="13" time="21:00:00" tvr="1.27" variance="-84.37" />
+          <program averagetvr="5.99" day="Mon" name="NA BOLE TUM NA MAINE KUCHH KAHA-2" rank="14" time="21:30:00" tvr="1.25" variance="-79.18" />
+          <program averagetvr="0.31" day="Fri" name="JHALAK DIKHHLA JAA" rank="15" time="10:30:00" tvr="1.24" variance="300.00" />
+          <program averagetvr="5.80" day="Mon" name="UTTARAN" rank="16" time="22:00:00" tvr="1.17" variance="-79.80" />
+          <program averagetvr="0.52" day="Sat" name="COMEDY NIGHTS WITH KAPIL" rank="17" time="16:00:00" tvr="1.10" variance="112.56" />
+          <program averagetvr="0.27" day="Sat" name="HFF READY" rank="18" time="12:30:00" tvr="1.06" variance="300.00" />
+          <program averagetvr="5.27" day="Mon" name="BANI-ISHQ DA KALMA" rank="19" time="16:00:00" tvr="1.03" variance="-80.45" />
+          <program averagetvr="0.26" day="Fri" name="COMEDY NIGHTS WITH KAPIL" rank="20" time="15:00:00" tvr="1.02" variance="300.00" />
+          <program averagetvr="2.55" day="Mon" name="BALIKA VADHU" rank="21" time="18:00:00" tvr="0.97" variance="-61.81" />
+          <program averagetvr="3.18" day="Mon" name="BANI-ISHQ DA KALMA" rank="22" time="13:00:00" tvr="0.97" variance="-69.54" />
+          <program averagetvr="0.28" day="Tue" name="SASURAL SIMAR KA" rank="23" time="00:00:00" tvr="0.93" variance="232.74" />
+          <program averagetvr="3.30" day="Mon" name="MRS PAMMI PYARELAL" rank="24" time="19:00:00" tvr="0.92" variance="-72.04" />
+          <program averagetvr="2.77" day="Mon" name="MADHUBALA EK ISHQ EK JUNOON" rank="25" time="23:30:00" tvr="0.92" variance="-66.93" />
+          <program averagetvr="0.90" day="Mon" name="UTTARAN" rank="26" time="10:30:00" tvr="0.91" variance="1.51" />
+          <program averagetvr="0.22" day="Fri" name="COMEDY NIGHTS WITH KAPIL" rank="27" time="12:30:00" tvr="0.87" variance="300.00" />
+          <program averagetvr="0.48" day="Sat" name="COMEDY NIGHTS WITH KAPIL" rank="28" time="18:00:00" tvr="0.76" variance="58.33" />
+          <program averagetvr="1.62" day="Mon" name="BALIKA VADHU" rank="29" time="09:00:00" tvr="0.74" variance="-54.68" />
+          <program averagetvr="0.70" day="Mon" name="SASURAL SIMAR KA" rank="30" time="08:30:00" tvr="0.72" variance="2.44" />
+        </period>
+        <period enddate="17/08/2013" startdate="11/08/2013">
+          <program averagetvr="9.58" day="Sun" name="COMEDY NIGHTS WITH KAPIL" rank="1" time="22:30:00" tvr="6.87" variance="-28.37" />
+          <program averagetvr="23.02" day="Sun" name="JHALAK DIKHHLA JAA" rank="2" time="21:00:00" tvr="4.85" variance="-78.95" />
+          <program averagetvr="12.03" day="Mon" name="MADHUBALA EK ISHQ EK JUNOON" rank="3" time="20:30:00" tvr="2.33" variance="-80.61" />
+          <program averagetvr="10.42" day="Mon" name="BALIKA VADHU" rank="4" time="20:00:00" tvr="2.25" variance="-78.44" />
+          <program averagetvr="0.54" day="Thu" name="COMEDY NIGHTS WITH KAPIL" rank="5" time="15:00:00" tvr="2.16" variance="300.00" />
+          <program averagetvr="0.51" day="Sun" name="JASHAN E EID" rank="6" time="19:00:00" tvr="2.05" variance="300.00" />
+          <program averagetvr="8.30" day="Mon" name="BANI-ISHQ DA KALMA" rank="7" time="22:30:00" tvr="1.83" variance="-77.95" />
+          <program averagetvr="7.68" day="Sun" name="COMEDY NIGHTS WITH KAPIL" rank="8" time="23:30:00" tvr="1.82" variance="-76.31" />
+          <program averagetvr="0.42" day="Sat" name="JHALAK DIKHHLA JAA" rank="9" time="12:00:00" tvr="1.68" variance="300.00" />
+          <program averagetvr="5.80" day="Mon" name="UTTARAN" rank="10" time="22:00:00" tvr="1.59" variance="-72.67" />
+          <program averagetvr="7.27" day="Mon" name="SASURAL SIMAR KA" rank="11" time="19:30:00" tvr="1.56" variance="-78.54" />
+          <program averagetvr="8.12" day="Mon" name="SANSKAAR DHAROHAR APNON KI" rank="12" time="21:00:00" tvr="1.55" variance="-80.94" />
+          <program averagetvr="0.36" day="Sat" name="COMEDY NIGHTS WITH KAPIL" rank="13" time="13:30:00" tvr="1.44" variance="300.00" />
+          <program averagetvr="5.99" day="Mon" name="NA BOLE TUM NA MAINE KUCHH KAHA-2" rank="14" time="21:30:00" tvr="1.32" variance="-77.92" />
+          <program averagetvr="2.10" day="Sun" name="JHALAK DIKHHLA JAA" rank="15" time="11:00:00" tvr="1.32" variance="-37.31" />
+          <program averagetvr="6.33" day="Mon" name="BALIKA VADHU" rank="16" time="23:00:00" tvr="1.29" variance="-79.67" />
+          <program averagetvr="0.32" day="Thu" name="HFF POLICEGIRI" rank="17" time="16:00:00" tvr="1.28" variance="300.00" />
+          <program averagetvr="0.28" day="Sat" name="COMEDY NIGHTS WITH KAPIL" rank="18" time="14:30:00" tvr="1.11" variance="300.00" />
+          <program averagetvr="0.27" day="Thu" name="HFF POLICEGIRI" rank="19" time="12:00:00" tvr="1.09" variance="300.00" />
+          <program averagetvr="0.27" day="Sun" name="HFF SUPER HERO SHEHANSHAH" rank="20" time="12:30:00" tvr="1.09" variance="300.00" />
+          <program averagetvr="3.11" day="Sun" name="COMEDY NIGHTS WITH KAPIL" rank="21" time="10:00:00" tvr="1.07" variance="-65.61" />
+          <program averagetvr="0.25" day="Sun" name="COMEDY NIGHTS WITH KAPIL" rank="22" time="18:00:00" tvr="1.00" variance="300.00" />
+          <program averagetvr="0.52" day="Sat" name="COMEDY NIGHTS WITH KAPIL" rank="23" time="16:00:00" tvr="0.97" variance="87.44" />
+          <program averagetvr="0.52" day="Sun" name="JHALAK DIKHHLA JAA" rank="24" time="16:00:00" tvr="0.87" variance="66.51" />
+          <program averagetvr="0.21" day="Sat" name="JASHAN E EID" rank="25" time="17:00:00" tvr="0.83" variance="300.00" />
+          <program averagetvr="0.47" day="Sat" name="COMEDY NIGHTS WITH KAPIL" rank="26" time="09:30:00" tvr="0.68" variance="44.68" />
+          <program averagetvr="0.15" day="Sat" name="SANSKAAR DHAROHAR APNON KI" rank="27" time="01:00:00" tvr="0.61" variance="300.00" />
+          <program averagetvr="0.15" day="Sat" name="SAPTARISHI" rank="28" time="01:00:00" tvr="0.61" variance="300.00" />
+          <program averagetvr="0.15" day="Sat" name="SAPTARISHI" rank="29" time="01:30:00" tvr="0.61" variance="300.00" />
+          <program averagetvr="0.38" day="Sat" name="UTTARAN" rank="30" time="00:30:00" tvr="0.61" variance="62.67" />
+        </period>
+        <period enddate="24/08/2013" startdate="18/08/2013">
+          <program averagetvr="9.58" day="Sun" name="COMEDY NIGHTS WITH KAPIL" rank="1" time="22:30:00" tvr="7.20" variance="-24.93" />
+          <program averagetvr="23.02" day="Sun" name="JHALAK DIKHHLA JAA" rank="2" time="21:00:00" tvr="5.63" variance="-75.54" />
+          <program averagetvr="8.30" day="Mon" name="BANI-ISHQ DA KALMA" rank="3" time="22:30:00" tvr="1.94" variance="-76.67" />
+          <program averagetvr="10.42" day="Mon" name="BALIKA VADHU" rank="4" time="20:00:00" tvr="1.93" variance="-81.47" />
+          <program averagetvr="12.03" day="Mon" name="MADHUBALA EK ISHQ EK JUNOON" rank="5" time="20:30:00" tvr="1.84" variance="-84.71" />
+          <program averagetvr="0.43" day="Sat" name="HFF POLICEGIRI" rank="6" time="12:30:00" tvr="1.72" variance="300.00" />
+          <program averagetvr="5.99" day="Mon" name="NA BOLE TUM NA MAINE KUCHH KAHA-2" rank="7" time="21:30:00" tvr="1.60" variance="-73.24" />
+          <program averagetvr="6.33" day="Mon" name="BALIKA VADHU" rank="8" time="23:00:00" tvr="1.53" variance="-75.88" />
+          <program averagetvr="8.12" day="Mon" name="SANSKAAR DHAROHAR APNON KI" rank="9" time="21:00:00" tvr="1.52" variance="-81.29" />
+          <program averagetvr="5.80" day="Mon" name="UTTARAN" rank="10" time="22:00:00" tvr="1.46" variance="-74.80" />
+          <program averagetvr="1.55" day="Sun" name="COMEDY NIGHTS WITH KAPIL" rank="11" time="17:00:00" tvr="1.45" variance="-6.15" />
+          <program averagetvr="5.27" day="Mon" name="BANI-ISHQ DA KALMA" rank="12" time="16:00:00" tvr="1.37" variance="-73.96" />
+          <program averagetvr="0.33" day="Sat" name="COMEDY NIGHTS WITH KAPIL" rank="13" time="15:30:00" tvr="1.32" variance="300.00" />
+          <program averagetvr="2.10" day="Sun" name="JHALAK DIKHHLA JAA" rank="14" time="11:00:00" tvr="1.26" variance="-39.93" />
+          <program averagetvr="0.52" day="Sun" name="JHALAK DIKHHLA JAA" rank="15" time="16:00:00" tvr="1.22" variance="133.49" />
+          <program averagetvr="0.48" day="Sat" name="COMEDY NIGHTS WITH KAPIL" rank="16" time="18:00:00" tvr="1.16" variance="141.67" />
+          <program averagetvr="0.25" day="Sun" name="HFF POLICEGIRI" rank="17" time="18:00:00" tvr="0.99" variance="300.00" />
+          <program averagetvr="2.77" day="Mon" name="COMEDY NIGHTS WITH KAPIL" rank="18" time="16:30:00" tvr="0.98" variance="-64.49" />
+          <program averagetvr="0.38" day="Sat" name="UTTARAN" rank="19" time="00:30:00" tvr="0.89" variance="137.33" />
+          <program averagetvr="3.18" day="Mon" name="BANI-ISHQ DA KALMA" rank="20" time="13:00:00" tvr="0.85" variance="-73.43" />
+          <program averagetvr="7.27" day="Mon" name="SASURAL SIMAR KA" rank="21" time="19:30:00" tvr="0.81" variance="-88.86" />
+          <program averagetvr="2.59" day="Mon" name="MRS PAMMI PYARELAL" rank="22" time="15:30:00" tvr="0.70" variance="-73.02" />
+          <program averagetvr="2.07" day="Mon" name="UTTARAN" rank="23" time="13:30:00" tvr="0.70" variance="-66.31" />
+          <program averagetvr="0.30" day="Sat" name="JHALAK DIKHHLA JAA" rank="24" time="11:30:00" tvr="0.65" variance="114.88" />
+          <program averagetvr="0.15" day="Wed" name="UTTARAN" rank="25" time="10:30:00" tvr="0.62" variance="300.00" />
+          <program averagetvr="3.11" day="Sun" name="COMEDY NIGHTS WITH KAPIL" rank="26" time="10:00:00" tvr="0.62" variance="-80.23" />
+          <program averagetvr="2.77" day="Mon" name="MADHUBALA EK ISHQ EK JUNOON" rank="27" time="23:30:00" tvr="0.54" variance="-80.43" />
+          <program averagetvr="1.93" day="Mon" name="SASURAL SIMAR KA" rank="28" time="14:00:00" tvr="0.51" variance="-73.75" />
+          <program averagetvr="0.70" day="Mon" name="SASURAL SIMAR KA" rank="29" time="08:30:00" tvr="0.50" variance="-28.14" />
+          <program averagetvr="3.47" day="Tue" name="JHALAK DIKHHLA JAA" rank="30" time="16:30:00" tvr="0.50" variance="-85.58" />
+        </period>
+        <period enddate="31/08/2013" startdate="25/08/2013">
+          <program averagetvr="2.59" day="Sat" name="COMEDY NIGHTS WITH KAPIL" rank="1" time="22:30:00" tvr="10.37" variance="300.00" />
+          <program averagetvr="1.93" day="Sun" name="COMEDY NIGHTS WITH KAPIL" rank="2" time="22:00:00" tvr="7.71" variance="300.00" />
+          <program averagetvr="23.02" day="Sun" name="JHALAK DIKHHLA JAA" rank="3" time="21:00:00" tvr="6.38" variance="-72.29" />
+          <program averagetvr="12.03" day="Mon" name="MADHUBALA EK ISHQ EK JUNOON" rank="4" time="20:30:00" tvr="3.32" variance="-72.41" />
+          <program averagetvr="8.12" day="Mon" name="SANSKAAR DHAROHAR APNON KI" rank="5" time="21:00:00" tvr="2.90" variance="-64.35" />
+          <program averagetvr="0.67" day="Sun" name="HFF GO GOA GONE" rank="6" time="18:30:00" tvr="2.68" variance="300.00" />
+          <program averagetvr="10.42" day="Mon" name="BALIKA VADHU" rank="7" time="20:00:00" tvr="2.60" variance="-75.10" />
+          <program averagetvr="7.68" day="Sun" name="COMEDY NIGHTS WITH KAPIL" rank="8" time="23:30:00" tvr="2.55" variance="-66.81" />
+          <program averagetvr="0.53" day="Sat" name="JHALAK DIKHHLA JAA" rank="9" time="11:00:00" tvr="2.10" variance="300.00" />
+          <program averagetvr="0.51" day="Sat" name="COMEDY NIGHTS WITH KAPIL" rank="10" time="15:00:00" tvr="2.05" variance="300.00" />
+          <program averagetvr="8.30" day="Mon" name="BANI-ISHQ DA KALMA" rank="11" time="22:30:00" tvr="2.04" variance="-75.40" />
+          <program averagetvr="7.27" day="Mon" name="SASURAL SIMAR KA" rank="12" time="19:30:00" tvr="1.78" variance="-75.56" />
+          <program averagetvr="0.44" day="Sat" name="HFF OMG OH MY GOD" rank="13" time="12:00:00" tvr="1.74" variance="300.00" />
+          <program averagetvr="6.33" day="Mon" name="BALIKA VADHU" rank="14" time="23:00:00" tvr="1.62" variance="-74.45" />
+          <program averagetvr="5.27" day="Mon" name="BANI-ISHQ DA KALMA" rank="15" time="16:00:00" tvr="1.55" variance="-70.66" />
+          <program averagetvr="1.55" day="Sun" name="COMEDY NIGHTS WITH KAPIL" rank="16" time="17:00:00" tvr="1.53" variance="-0.97" />
+          <program averagetvr="5.99" day="Mon" name="NA BOLE TUM NA MAINE KUCHH KAHA-2" rank="17" time="21:30:00" tvr="1.52" variance="-74.61" />
+          <program averagetvr="3.47" day="Tue" name="JHALAK DIKHHLA JAA" rank="18" time="16:30:00" tvr="1.42" variance="-59.03" />
+          <program averagetvr="0.31" day="Sat" name="HFF POLICEGIRI" rank="19" time="16:00:00" tvr="1.25" variance="300.00" />
+          <program averagetvr="5.80" day="Mon" name="UTTARAN" rank="20" time="22:00:00" tvr="1.25" variance="-78.46" />
+          <program averagetvr="0.47" day="Sat" name="COMEDY NIGHTS WITH KAPIL" rank="21" time="09:30:00" tvr="1.20" variance="155.32" />
+          <program averagetvr="0.27" day="Sun" name="JHALAK DIKHHLA JAA" rank="22" time="11:30:00" tvr="1.09" variance="300.00" />
+          <program averagetvr="3.30" day="Mon" name="MRS PAMMI PYARELAL" rank="23" time="19:00:00" tvr="0.98" variance="-70.38" />
+          <program averagetvr="0.21" day="Sun" name="JHALAK DIKHHLA JAA" rank="24" time="15:30:00" tvr="0.82" variance="300.00" />
+          <program averagetvr="0.20" day="Thu" name="SASURAL SIMAR KA" rank="25" time="00:00:00" tvr="0.79" variance="300.00" />
+          <program averagetvr="2.12" day="Mon" name="BALIKA VADHU" rank="26" time="11:30:00" tvr="0.71" variance="-66.36" />
+          <program averagetvr="0.90" day="Mon" name="UTTARAN" rank="27" time="10:30:00" tvr="0.71" variance="-21.03" />
+          <program averagetvr="0.58" day="Mon" name="MADHUBALA EK ISHQ EK JUNOON" rank="28" time="10:00:00" tvr="0.70" variance="21.66" />
+          <program averagetvr="0.17" day="Sun" name="MADHUBALA EK ISHQ EK JUNOON" rank="29" time="01:00:00" tvr="0.67" variance="300.00" />
+          <program averagetvr="1.95" day="Mon" name="BALIKA VADHU" rank="30" time="14:30:00" tvr="0.61" variance="-68.92" />
+        </period>
+      </channel>
+      <channel code="571" name="Polimer TV">
+        <period enddate="10/08/2013" startdate="04/08/2013">
+          <program averagetvr="0.57" day="Sun" name="POLIMAR SEIDIGAL" rank="1" time="07:00:00" tvr="0.96" variance="69.91" />
+          <program averagetvr="0.39" day="Tue" name="DEIVEEGA GANAM" rank="2" time="06:00:00" tvr="0.86" variance="122.29" />
+          <program averagetvr="1.65" day="Tue" name="RAASI PALAN" rank="3" time="07:30:00" tvr="0.81" variance="-50.88" />
+          <program averagetvr="0.16" day="Tue" name="MADHUBALA" rank="4" time="20:00:00" tvr="0.65" variance="300.00" />
+          <program averagetvr="0.31" day="Fri" name="MOONDRU MUDICHU" rank="5" time="21:30:00" tvr="0.60" variance="95.12" />
+          <program averagetvr="0.80" day="Mon" name="POLIMAR SEIDIGAL" rank="6" time="22:30:00" tvr="0.50" variance="-37.76" />
+          <program averagetvr="0.13" day="Mon" name="ULLAM KOLLAI POGUDHADA" rank="7" time="23:00:00" tvr="0.50" variance="300.00" />
+          <program averagetvr="0.12" day="Tue" name="MADHUBALA" rank="8" time="13:00:00" tvr="0.49" variance="300.00" />
+          <program averagetvr="0.12" day="Tue" name="SAKTHI POLA YARUMILLA (VALLAMAI THARAIY)" rank="9" time="19:30:00" tvr="0.47" variance="300.00" />
+          <program averagetvr="0.11" day="Mon" name="COMEDY EXPRESS" rank="10" time="23:30:00" tvr="0.44" variance="300.00" />
+          <program averagetvr="0.24" day="Fri" name="MAYAKKAM ENNA" rank="11" time="21:00:00" tvr="0.34" variance="40.21" />
+          <program averagetvr="0.08" day="Sat" name="MUSIC EXPRESS" rank="12" time="02:00:00" tvr="0.33" variance="300.00" />
+          <program averagetvr="0.08" day="Sun" name="CINEMA CINEMA" rank="13" time="11:00:00" tvr="0.31" variance="300.00" />
+          <program averagetvr="0.08" day="Tue" name="SAMI POTTA MUDICHU" rank="14" time="20:30:00" tvr="0.30" variance="300.00" />
+          <program averagetvr="0.15" day="Sun" name="TELEBUY" rank="15" time="07:30:00" tvr="0.25" variance="66.67" />
+          <program averagetvr="0.06" day="Tue" name="MAYAKKAM ENNA" rank="16" time="12:30:00" tvr="0.24" variance="300.00" />
+          <program averagetvr="0.05" day="Sat" name="CINEMA CINEMA" rank="17" time="17:00:00" tvr="0.18" variance="260.00" />
+          <program averagetvr="0.06" day="Wed" name="COMEDY EXPRESS" rank="18" time="17:30:00" tvr="0.17" variance="195.65" />
+          <program averagetvr="0.04" day="Sun" name="COMEDY EXPRESS" rank="19" time="22:00:00" tvr="0.15" variance="300.00" />
+          <program averagetvr="0.95" day="Mon" name="ULLAM KOLLAI POGUDHADA" rank="20" time="22:00:00" tvr="0.14" variance="-85.30" />
+          <program averagetvr="1.42" day="Tue" name="MUSIC EXPRESS" rank="21" time="08:00:00" tvr="0.09" variance="-93.65" />
+          <program averagetvr="0.02" day="Sat" name="SKS SHOPPING" rank="22" time="08:00:00" tvr="0.09" variance="300.00" />
+          <program averagetvr="0.02" day="Tue" name="MOONDRU MUDICHU" rank="23" time="12:30:00" tvr="0.08" variance="300.00" />
+          <program averagetvr="0.02" day="Sun" name="MUSIC EXPRESS" rank="24" time="09:00:00" tvr="0.08" variance="300.00" />
+          <program averagetvr="0.01" day="Wed" name="THIRAI KADHAMBAM" rank="25" time="23:00:00" tvr="0.05" variance="300.00" />
+          <program averagetvr="0.01" day="Sun" name="JUNIOR SUPER DANCER" rank="26" time="10:00:00" tvr="0.04" variance="300.00" />
+          <program averagetvr="0.02" day="Sat" name="MOONDRU MUDICHU" rank="27" time="18:00:00" tvr="0.04" variance="77.78" />
+          <program averagetvr="0.01" day="Tue" name="GTM (GLOBAL TELE MALL)" rank="28" time="16:30:00" tvr="0.03" variance="300.00" />
+          <program averagetvr="0.01" day="Sat" name="SAMI POTTA MUDICHU" rank="29" time="12:00:00" tvr="0.03" variance="140.00" />
+          <program averagetvr="0.01" day="Tue" name="SKS SHOPPING" rank="30" time="17:00:00" tvr="0.03" variance="300.00" />
+        </period>
+        <period enddate="17/08/2013" startdate="11/08/2013">
+          <program averagetvr="1.42" day="Tue" name="MUSIC EXPRESS" rank="1" time="08:00:00" tvr="1.94" variance="36.51" />
+          <program averagetvr="1.65" day="Tue" name="RAASI PALAN" rank="2" time="07:30:00" tvr="1.80" variance="9.35" />
+          <program averagetvr="0.57" day="Sun" name="POLIMAR SEIDIGAL" rank="3" time="07:00:00" tvr="1.30" variance="130.09" />
+          <program averagetvr="0.32" day="Tue" name="SKS SHOPPING" rank="4" time="08:30:00" tvr="1.17" variance="259.85" />
+          <program averagetvr="0.39" day="Tue" name="DEIVEEGA GANAM" rank="5" time="06:00:00" tvr="0.69" variance="77.71" />
+          <program averagetvr="0.15" day="Sun" name="TELEBUY" rank="6" time="07:30:00" tvr="0.35" variance="133.33" />
+          <program averagetvr="0.57" day="Mon" name="MAYAKKAM ENNA" rank="7" time="21:00:00" tvr="0.35" variance="-39.07" />
+          <program averagetvr="0.09" day="Mon" name="THIRAI KADHAMBAM" rank="8" time="23:00:00" tvr="0.34" variance="300.00" />
+          <program averagetvr="0.41" day="Mon" name="MOONDRU MUDICHU" rank="9" time="21:30:00" tvr="0.31" variance="-26.43" />
+          <program averagetvr="0.42" day="Mon" name="SAMI POTTA MUDICHU" rank="10" time="20:30:00" tvr="0.31" variance="-28.02" />
+          <program averagetvr="0.95" day="Mon" name="ULLAM KOLLAI POGUDHADA" rank="11" time="22:00:00" tvr="0.31" variance="-67.98" />
+          <program averagetvr="0.80" day="Mon" name="POLIMAR SEIDIGAL" rank="12" time="22:30:00" tvr="0.27" variance="-65.98" />
+          <program averagetvr="0.06" day="Mon" name="MADHUBALA" rank="13" time="20:00:00" tvr="0.25" variance="300.00" />
+          <program averagetvr="0.04" day="Sat" name="TMF MARUTHANI" rank="14" time="14:00:00" tvr="0.17" variance="300.00" />
+          <program averagetvr="0.03" day="Tue" name="TMF SINGARAVELAN" rank="15" time="14:00:00" tvr="0.12" variance="300.00" />
+          <program averagetvr="0.03" day="Thu" name="SAKTHI POLA YARUMILLA (VALLAMAI THARAIY)" rank="16" time="19:30:00" tvr="0.10" variance="300.00" />
+          <program averagetvr="0.02" day="Sun" name="TMF BLACK &amp; WHITE" rank="17" time="14:00:00" tvr="0.09" variance="300.00" />
+          <program averagetvr="0.02" day="Thu" name="TMF MUTHU" rank="18" time="14:00:00" tvr="0.06" variance="300.00" />
+          <program averagetvr="0.01" day="Sat" name="MOVIE MUNNOTTAM" rank="19" time="16:30:00" tvr="0.04" variance="300.00" />
+          <program averagetvr="0.01" day="Thu" name="CINI MINI" rank="20" time="17:00:00" tvr="0.03" variance="300.00" />
+          <program averagetvr="0.01" day="Thu" name="MADHUBALA" rank="21" time="18:30:00" tvr="0.03" variance="300.00" />
+          <program averagetvr="0.01" day="Thu" name="ULLAM KOLLAI POGUDHADA" rank="22" time="19:00:00" tvr="0.03" variance="300.00" />
+          <program averagetvr="0.01" day="Thu" name="DREAM HOMES-G GLOD GARDEN" rank="23" time="09:00:00" tvr="0.02" variance="300.00" />
+          <program averagetvr="0.00" day="Wed" name="MUSIC EXPRESS" rank="24" time="02:00:00" tvr="0.01" variance="300.00" />
+          <program averagetvr="0.00" day="Mon" name="MUSIC EXPRESS" rank="25" time="00:00:00" tvr="0.00" variance="0.00" />
+        </period>
+        <period enddate="24/08/2013" startdate="18/08/2013">
+          <program averagetvr="0.57" day="Mon" name="MAYAKKAM ENNA" rank="1" time="21:00:00" tvr="1.92" variance="239.07" />
+          <program averagetvr="0.45" day="Wed" name="MADHUBALA" rank="2" time="18:30:00" tvr="1.79" variance="300.00" />
+          <program averagetvr="0.45" day="Wed" name="MADHUBALA" rank="3" time="20:00:00" tvr="1.79" variance="300.00" />
+          <program averagetvr="0.45" day="Wed" name="SAKTHI POLA YARUMILLA (VALLAMAI THARAIY)" rank="4" time="19:30:00" tvr="1.79" variance="300.00" />
+          <program averagetvr="0.95" day="Mon" name="ULLAM KOLLAI POGUDHADA" rank="5" time="22:00:00" tvr="1.53" variance="60.63" />
+          <program averagetvr="0.42" day="Mon" name="SAMI POTTA MUDICHU" rank="6" time="20:30:00" tvr="1.39" variance="228.02" />
+          <program averagetvr="0.41" day="Mon" name="MOONDRU MUDICHU" rank="7" time="21:30:00" tvr="1.35" variance="226.43" />
+          <program averagetvr="1.65" day="Tue" name="RAASI PALAN" rank="8" time="07:30:00" tvr="1.09" variance="-33.91" />
+          <program averagetvr="0.26" day="Tue" name="DEIVEEGA GANAM" rank="9" time="07:00:00" tvr="1.04" variance="300.00" />
+          <program averagetvr="0.80" day="Mon" name="POLIMAR SEIDIGAL" rank="10" time="22:30:00" tvr="0.97" variance="20.75" />
+          <program averagetvr="0.23" day="Mon" name="POLIMAR SEIDIGAL" rank="11" time="07:00:00" tvr="0.92" variance="300.00" />
+          <program averagetvr="0.23" day="Mon" name="ULLAM KOLLAI POGUDHADA" rank="12" time="19:00:00" tvr="0.92" variance="300.00" />
+          <program averagetvr="0.22" day="Wed" name="DINAM ORU THIRUTHALAM" rank="13" time="06:30:00" tvr="0.87" variance="300.00" />
+          <program averagetvr="1.42" day="Tue" name="MUSIC EXPRESS" rank="14" time="08:00:00" tvr="0.86" variance="-39.68" />
+          <program averagetvr="0.18" day="Fri" name="THIRAI KADHAMBAM" rank="15" time="23:00:00" tvr="0.72" variance="300.00" />
+          <program averagetvr="0.18" day="Mon" name="DEIVEEGA GANAM" rank="16" time="06:00:00" tvr="0.71" variance="300.00" />
+          <program averagetvr="0.32" day="Tue" name="SKS SHOPPING" rank="17" time="08:30:00" tvr="0.13" variance="-59.85" />
+          <program averagetvr="0.02" day="Fri" name="COMEDY EXPRESS" rank="18" time="23:30:00" tvr="0.07" variance="300.00" />
+          <program averagetvr="0.02" day="Wed" name="SAMI POTTA MUDICHU" rank="19" time="18:00:00" tvr="0.06" variance="200.00" />
+          <program averagetvr="0.01" day="Sat" name="COMEDY EXPRESS" rank="20" time="19:30:00" tvr="0.05" variance="300.00" />
+          <program averagetvr="0.02" day="Sat" name="MOONDRU MUDICHU" rank="21" time="18:00:00" tvr="0.05" variance="122.22" />
+          <program averagetvr="0.01" day="Fri" name="GTM (GLOBAL TELE MALL)" rank="22" time="11:30:00" tvr="0.03" variance="300.00" />
+          <program averagetvr="0.01" day="Fri" name="TMF KANDHAN KARUNAI" rank="23" time="14:00:00" tvr="0.03" variance="300.00" />
+          <program averagetvr="0.05" day="Sat" name="CINEMA CINEMA" rank="24" time="17:00:00" tvr="0.02" variance="-60.00" />
+          <program averagetvr="0.01" day="Wed" name="MADHUBALA" rank="25" time="13:00:00" tvr="0.02" variance="300.00" />
+          <program averagetvr="0.01" day="Sat" name="SAMI POTTA MUDICHU" rank="26" time="12:00:00" tvr="0.02" variance="60.00" />
+          <program averagetvr="0.01" day="Sat" name="SOUTH INDIA PROP-SHRI PADMANABHAA NAGAR" rank="27" time="08:30:00" tvr="0.02" variance="300.00" />
+          <program averagetvr="0.00" day="Sun" name="ULLAM KOLLAI POGUDHADA" rank="28" time="11:30:00" tvr="0.01" variance="300.00" />
+        </period>
+        <period enddate="31/08/2013" startdate="25/08/2013">
+          <program averagetvr="0.59" day="Thu" name="RPG METRO CITY" rank="1" time="11:00:00" tvr="2.37" variance="300.00" />
+          <program averagetvr="0.53" day="Sat" name="COMEDY EXPRESS" rank="2" time="08:30:00" tvr="2.13" variance="300.00" />
+          <program averagetvr="0.53" day="Sat" name="DINAM ORU THIRUTHALAM" rank="3" time="06:30:00" tvr="2.13" variance="300.00" />
+          <program averagetvr="0.53" day="Sat" name="RAASI PALAN" rank="4" time="07:30:00" tvr="2.13" variance="300.00" />
+          <program averagetvr="0.44" day="Sat" name="POLIMAR SEIDIGAL" rank="5" time="07:00:00" tvr="1.77" variance="300.00" />
+          <program averagetvr="0.38" day="Thu" name="JCL TELESHOPPING" rank="6" time="09:30:00" tvr="1.50" variance="300.00" />
+          <program averagetvr="0.38" day="Thu" name="SKY HOME ENTERPRISES-SRI YOHAN CITY" rank="7" time="09:00:00" tvr="1.50" variance="300.00" />
+          <program averagetvr="0.37" day="Thu" name="GTM (GLOBAL TELE MALL)" rank="8" time="11:30:00" tvr="1.46" variance="300.00" />
+          <program averagetvr="0.35" day="Thu" name="SKS SHOPPING" rank="9" time="08:30:00" tvr="1.41" variance="300.00" />
+          <program averagetvr="0.34" day="Thu" name="SKS SHOPPING" rank="10" time="10:00:00" tvr="1.34" variance="300.00" />
+          <program averagetvr="0.31" day="Fri" name="MUSIC EXPRESS" rank="11" time="08:00:00" tvr="1.22" variance="300.00" />
+          <program averagetvr="0.21" day="Sat" name="DEIVEEGA GANAM" rank="12" time="06:00:00" tvr="0.85" variance="300.00" />
+          <program averagetvr="0.20" day="Thu" name="SAMI POTTA MUDICHU" rank="13" time="12:00:00" tvr="0.79" variance="300.00" />
+          <program averagetvr="0.18" day="Thu" name="JCL TELESHOPPING" rank="14" time="10:00:00" tvr="0.73" variance="300.00" />
+          <program averagetvr="0.18" day="Thu" name="SKS SHOPPING" rank="15" time="10:30:00" tvr="0.73" variance="300.00" />
+          <program averagetvr="0.16" day="Fri" name="MADHUBALA" rank="16" time="13:00:00" tvr="0.63" variance="300.00" />
+          <program averagetvr="0.16" day="Fri" name="MADHUBALA" rank="17" time="20:00:00" tvr="0.63" variance="300.00" />
+          <program averagetvr="0.24" day="Fri" name="MAYAKKAM ENNA" rank="18" time="21:00:00" tvr="0.63" variance="159.79" />
+          <program averagetvr="0.16" day="Fri" name="MOONDRU MUDICHU" rank="19" time="12:30:00" tvr="0.63" variance="300.00" />
+          <program averagetvr="0.31" day="Fri" name="MOONDRU MUDICHU" rank="20" time="21:30:00" tvr="0.63" variance="104.88" />
+          <program averagetvr="0.16" day="Fri" name="SAKTHI POLA YARUMILLA (VALLAMAI THARAIY)" rank="21" time="19:30:00" tvr="0.63" variance="300.00" />
+          <program averagetvr="0.16" day="Fri" name="SAMI POTTA MUDICHU" rank="22" time="20:30:00" tvr="0.63" variance="300.00" />
+          <program averagetvr="0.08" day="Fri" name="MAYAKKAM ENNA" rank="23" time="12:30:00" tvr="0.30" variance="300.00" />
+          <program averagetvr="0.06" day="Fri" name="ULLAM KOLLAI POGUDHADA" rank="24" time="19:00:00" tvr="0.22" variance="266.67" />
+          <program averagetvr="0.05" day="Sat" name="TMF SILANERANGALIL" rank="25" time="14:00:00" tvr="0.21" variance="300.00" />
+          <program averagetvr="0.04" day="Tue" name="ULLAM KOLLAI POGUDHADA" rank="26" time="22:00:00" tvr="0.15" variance="300.00" />
+          <program averagetvr="0.02" day="Fri" name="TMF DEVI BHAGAVATHI" rank="27" time="14:00:00" tvr="0.09" variance="300.00" />
+          <program averagetvr="0.02" day="Sat" name="JCL TELESHOPPING" rank="28" time="09:00:00" tvr="0.08" variance="300.00" />
+          <program averagetvr="0.02" day="Sat" name="MUSIC EXPRESS" rank="29" time="16:00:00" tvr="0.08" variance="300.00" />
+          <program averagetvr="0.06" day="Wed" name="COMEDY EXPRESS" rank="30" time="17:30:00" tvr="0.06" variance="4.35" />
+        </period>
+      </channel>
+    </output>
+  </TG_MG>
+  <TG_MG name="CS 15-24 A~NStates" type="Reference">
+    <tg name="CS 15-24 A">
+      <cs>1</cs>
+      <sec>1</sec>
+      <sex>1,2</sex>
+      <age>3</age>
+    </tg>
+    <mg name="NStates" type="Group">
+      <market>!</market>
+      <market>#</market>
+      <market>$</market>
+      <market>%</market>
+      <market>&amp;</market>
+      <market>@</market>
+      <market>&gt;</market>
+      <market>B</market>
+      <market>E</market>
+      <market>F</market>
+      <market>J</market>
+      <market>K</market>
+      <market>L</market>
+      <market>N</market>
+      <market>O</market>
+      <market>P</market>
+      <market>S</market>
+      <market>T</market>
+      <market>W</market>
+      <market>X</market>
+      <market>Z</market>
+    </mg>
+    <calc display="week-wise" logic="ProgTVR" />
+    <num_programs>30</num_programs>
+    <channel code="571" name="Polimer TV" />
+    <channel code="479" name="COLORS" />
+    <channel code="16" name="SUN TV" />
+    <output>
+      <channel code="16" name="SUN TV">
+        <period enddate="10/08/2013" startdate="04/08/2013">
+          <program averagetvr="0.03" day="Thu" name="MARUTHANI" rank="1" time="10:30:00" tvr="0.00" variance="-100.00" />
+        </period>
+        <period enddate="17/08/2013" startdate="11/08/2013">
+          <program averagetvr="0.07" day="Wed" name="VAMSAM" rank="1" time="20:30:00" tvr="0.22" variance="225.93" />
+          <program averagetvr="0.03" day="Wed" name="MARUTHANI" rank="2" time="10:30:00" tvr="0.10" variance="300.00" />
+          <program averagetvr="0.01" day="Tue" name="HEADLINE NEWS" rank="3" time="14:30:00" tvr="0.02" variance="300.00" />
+          <program averagetvr="0.01" day="Wed" name="THENDRAL" rank="4" time="21:00:00" tvr="0.01" variance="0.00" />
+          <program averagetvr="0.00" day="Thu" name="TMF SUNDARA PANDIAN" rank="5" time="19:30:00" tvr="0.01" variance="300.00" />
+          <program averagetvr="0.00" day="Sat" name="TMF UNAKKUM ENAKKUM" rank="6" time="19:30:00" tvr="0.01" variance="300.00" />
+          <program averagetvr="0.00" day="Sat" name="AMUL SUPER KUDUKBAM 2" rank="7" time="21:30:00" tvr="0.00" variance="0.00" />
+        </period>
+        <period enddate="24/08/2013" startdate="18/08/2013">
+          <program averagetvr="0.07" day="Thu" name="DEIVA MAGAL" rank="1" time="20:00:00" tvr="0.27" variance="300.00" />
+          <program averagetvr="0.01" day="Sun" name="TMF MUGAMOODI" rank="2" time="19:30:00" tvr="0.05" variance="300.00" />
+          <program averagetvr="0.01" day="Thu" name="SUN SAITHEGAL" rank="3" time="19:00:00" tvr="0.02" variance="300.00" />
+          <program averagetvr="0.01" day="Sun" name="SUNDAY GALATTA" rank="4" time="09:00:00" tvr="0.02" variance="300.00" />
+          <program averagetvr="0.01" day="Sat" name="TMF ORU KAL ORU KANNADI" rank="5" time="17:30:00" tvr="0.02" variance="300.00" />
+          <program averagetvr="0.01" day="Thu" name="UTHIRIPOOKKAL" rank="6" time="18:30:00" tvr="0.02" variance="300.00" />
+          <program averagetvr="0.00" day="Sat" name="TMF NARASIMMAN IPS" rank="7" time="10:00:00" tvr="0.00" variance="0.00" />
+        </period>
+        <period enddate="31/08/2013" startdate="25/08/2013">
+          <program averagetvr="0.03" day="Sun" name="MAHABHARATHAM (CINE VISTA)" rank="1" time="10:00:00" tvr="0.12" variance="300.00" />
+          <program averagetvr="0.03" day="Sat" name="TMF ROWTHIRAM" rank="2" time="17:30:00" tvr="0.12" variance="300.00" />
+          <program averagetvr="0.03" day="Thu" name="MARUTHANI" rank="3" time="10:30:00" tvr="0.10" variance="300.00" />
+          <program averagetvr="0.03" day="Sun" name="SOLLUNGANNE SOLLUNGA" rank="4" time="09:30:00" tvr="0.10" variance="300.00" />
+          <program averagetvr="0.02" day="Sat" name="HEADLINE NEWS" rank="5" time="14:30:00" tvr="0.08" variance="300.00" />
+          <program averagetvr="0.02" day="Wed" name="ILAVARASI" rank="6" time="13:30:00" tvr="0.08" variance="300.00" />
+          <program averagetvr="0.07" day="Wed" name="VAMSAM" rank="7" time="20:30:00" tvr="0.05" variance="-25.93" />
+          <program averagetvr="0.01" day="Wed" name="THENDRAL" rank="8" time="21:00:00" tvr="0.03" variance="200.00" />
+          <program averagetvr="0.01" day="Sat" name="TMF YOUTH" rank="9" time="13:30:00" tvr="0.03" variance="300.00" />
+          <program averagetvr="0.00" day="Wed" name="DEIVA MAGAL" rank="10" time="20:00:00" tvr="0.01" variance="300.00" />
+          <program averagetvr="0.00" day="Wed" name="NADASWARAM" rank="11" time="19:30:00" tvr="0.01" variance="300.00" />
+          <program averagetvr="0.00" day="Wed" name="TMF SRI RAM RAJIYAM" rank="12" time="14:30:00" tvr="0.01" variance="300.00" />
+          <program averagetvr="0.00" day="Wed" name="VANI RANI" rank="13" time="21:30:00" tvr="0.01" variance="300.00" />
+          <program averagetvr="0.00" day="Wed" name="BOMMALATTAM" rank="14" time="11:30:00" tvr="0.00" variance="0.00" />
+          <program averagetvr="0.00" day="Sun" name="TMF M KUMARAN SON OF MAHALAIKS" rank="15" time="14:30:00" tvr="0.00" variance="0.00" />
+          <program averagetvr="0.00" day="Thu" name="TMF SIMMARASI" rank="16" time="14:30:00" tvr="0.00" variance="0.00" />
+        </period>
+      </channel>
+      <channel code="479" name="COLORS">
+        <period enddate="10/08/2013" startdate="04/08/2013">
+          <program averagetvr="6.11" day="Sun" name="COMEDY NIGHTS WITH KAPIL" rank="1" time="22:30:00" tvr="4.70" variance="-23.11" />
+          <program averagetvr="14.30" day="Mon" name="BALIKA VADHU" rank="2" time="20:00:00" tvr="3.82" variance="-73.26" />
+          <program averagetvr="16.20" day="Sun" name="JHALAK DIKHHLA JAA" rank="3" time="21:00:00" tvr="3.57" variance="-77.96" />
+          <program averagetvr="10.46" day="Mon" name="MADHUBALA EK ISHQ EK JUNOON" rank="4" time="20:30:00" tvr="2.49" variance="-76.16" />
+          <program averagetvr="9.17" day="Mon" name="UTTARAN" rank="5" time="22:00:00" tvr="2.07" variance="-77.45" />
+          <program averagetvr="0.50" day="Sun" name="COMEDY NIGHTS WITH KAPIL" rank="6" time="15:30:00" tvr="2.00" variance="300.00" />
+          <program averagetvr="7.13" day="Mon" name="NA BOLE TUM NA MAINE KUCHH KAHA-2" rank="7" time="21:30:00" tvr="2.00" variance="-71.97" />
+          <program averagetvr="7.58" day="Mon" name="SASURAL SIMAR KA" rank="8" time="19:30:00" tvr="1.83" variance="-75.85" />
+          <program averagetvr="6.59" day="Mon" name="BANI-ISHQ DA KALMA" rank="9" time="22:30:00" tvr="1.63" variance="-75.25" />
+          <program averagetvr="0.37" day="Fri" name="COMEDY NIGHTS WITH KAPIL" rank="10" time="15:00:00" tvr="1.48" variance="300.00" />
+          <program averagetvr="4.97" day="Mon" name="SANSKAAR DHAROHAR APNON KI" rank="11" time="21:00:00" tvr="1.39" variance="-72.13" />
+          <program averagetvr="1.23" day="Sun" name="JHALAK DIKHHLA JAA" rank="12" time="11:00:00" tvr="1.29" variance="4.67" />
+          <program averagetvr="3.91" day="Mon" name="BANI-ISHQ DA KALMA" rank="13" time="13:00:00" tvr="1.29" variance="-67.07" />
+          <program averagetvr="0.31" day="Fri" name="COMEDY NIGHTS WITH KAPIL" rank="14" time="12:30:00" tvr="1.23" variance="300.00" />
+          <program averagetvr="0.30" day="Sun" name="HFF SPECIAL 26" rank="15" time="12:30:00" tvr="1.21" variance="300.00" />
+          <program averagetvr="0.30" day="Fri" name="HFF KHILADI 786" rank="16" time="16:00:00" tvr="1.20" variance="300.00" />
+          <program averagetvr="0.28" day="Fri" name="COMEDY NIGHTS WITH KAPIL" rank="17" time="13:30:00" tvr="1.13" variance="300.00" />
+          <program averagetvr="4.01" day="Mon" name="MRS PAMMI PYARELAL" rank="18" time="19:00:00" tvr="1.12" variance="-71.98" />
+          <program averagetvr="4.17" day="Mon" name="BALIKA VADHU" rank="19" time="23:00:00" tvr="1.09" variance="-73.95" />
+          <program averagetvr="2.82" day="Mon" name="UTTARAN" rank="20" time="13:30:00" tvr="1.08" variance="-61.81" />
+          <program averagetvr="2.82" day="Mon" name="SASURAL SIMAR KA" rank="21" time="14:00:00" tvr="1.00" variance="-64.49" />
+          <program averagetvr="0.39" day="Sat" name="COMEDY NIGHTS WITH KAPIL" rank="22" time="16:00:00" tvr="0.99" variance="150.63" />
+          <program averagetvr="0.24" day="Fri" name="JHALAK DIKHHLA JAA" rank="23" time="10:30:00" tvr="0.97" variance="300.00" />
+          <program averagetvr="2.82" day="Mon" name="NA BOLE TUM NA MAINE KUCHH KAHA-2" rank="24" time="12:30:00" tvr="0.94" variance="-66.82" />
+          <program averagetvr="3.46" day="Mon" name="COMEDY NIGHTS WITH KAPIL" rank="25" time="16:30:00" tvr="0.89" variance="-74.17" />
+          <program averagetvr="0.64" day="Sat" name="COMEDY NIGHTS WITH KAPIL" rank="26" time="18:00:00" tvr="0.88" variance="36.96" />
+          <program averagetvr="0.21" day="Sun" name="JHALAK DIKHHLA JAA" rank="27" time="17:00:00" tvr="0.83" variance="300.00" />
+          <program averagetvr="0.20" day="Sat" name="HFF READY" rank="28" time="12:30:00" tvr="0.79" variance="300.00" />
+          <program averagetvr="2.46" day="Mon" name="BALIKA VADHU" rank="29" time="11:30:00" tvr="0.79" variance="-68.08" />
+          <program averagetvr="0.20" day="Sun" name="HFF KHILADI 786" rank="30" time="18:00:00" tvr="0.78" variance="300.00" />
+        </period>
+        <period enddate="17/08/2013" startdate="11/08/2013">
+          <program averagetvr="6.11" day="Sun" name="COMEDY NIGHTS WITH KAPIL" rank="1" time="22:30:00" tvr="4.90" variance="-19.75" />
+          <program averagetvr="16.20" day="Sun" name="JHALAK DIKHHLA JAA" rank="2" time="21:00:00" tvr="4.03" variance="-75.15" />
+          <program averagetvr="14.30" day="Mon" name="BALIKA VADHU" rank="3" time="20:00:00" tvr="3.71" variance="-74.08" />
+          <program averagetvr="9.17" day="Mon" name="UTTARAN" rank="4" time="22:00:00" tvr="2.70" variance="-70.58" />
+          <program averagetvr="10.46" day="Mon" name="MADHUBALA EK ISHQ EK JUNOON" rank="5" time="20:30:00" tvr="2.57" variance="-75.42" />
+          <program averagetvr="7.58" day="Mon" name="SASURAL SIMAR KA" rank="6" time="19:30:00" tvr="2.24" variance="-70.44" />
+          <program averagetvr="0.50" day="Sun" name="JASHAN E EID" rank="7" time="19:00:00" tvr="2.00" variance="300.00" />
+          <program averagetvr="7.13" day="Mon" name="NA BOLE TUM NA MAINE KUCHH KAHA-2" rank="8" time="21:30:00" tvr="1.96" variance="-72.53" />
+          <program averagetvr="0.49" day="Sun" name="COMEDY NIGHTS WITH KAPIL" rank="9" time="18:00:00" tvr="1.94" variance="300.00" />
+          <program averagetvr="0.49" day="Thu" name="COMEDY NIGHTS WITH KAPIL" rank="10" time="15:00:00" tvr="1.94" variance="300.00" />
+          <program averagetvr="0.44" day="Thu" name="HFF POLICEGIRI" rank="11" time="12:00:00" tvr="1.76" variance="300.00" />
+          <program averagetvr="6.59" day="Mon" name="BANI-ISHQ DA KALMA" rank="12" time="22:30:00" tvr="1.60" variance="-75.71" />
+          <program averagetvr="0.38" day="Thu" name="HFF POLICEGIRI" rank="13" time="16:00:00" tvr="1.53" variance="300.00" />
+          <program averagetvr="0.33" day="Sat" name="COMEDY NIGHTS WITH KAPIL" rank="14" time="13:30:00" tvr="1.30" variance="300.00" />
+          <program averagetvr="4.97" day="Mon" name="SANSKAAR DHAROHAR APNON KI" rank="15" time="21:00:00" tvr="1.24" variance="-75.10" />
+          <program averagetvr="4.68" day="Sun" name="COMEDY NIGHTS WITH KAPIL" rank="16" time="10:00:00" tvr="1.23" variance="-73.74" />
+          <program averagetvr="0.31" day="Sun" name="HFF SUPER HERO SHEHANSHAH" rank="17" time="12:30:00" tvr="1.23" variance="300.00" />
+          <program averagetvr="4.17" day="Mon" name="BALIKA VADHU" rank="18" time="23:00:00" tvr="1.15" variance="-72.37" />
+          <program averagetvr="3.26" day="Mon" name="BALIKA VADHU" rank="19" time="18:00:00" tvr="1.07" variance="-67.22" />
+          <program averagetvr="4.01" day="Mon" name="MRS PAMMI PYARELAL" rank="20" time="19:00:00" tvr="1.00" variance="-75.14" />
+          <program averagetvr="1.23" day="Sun" name="JHALAK DIKHHLA JAA" rank="21" time="11:00:00" tvr="0.96" variance="-22.52" />
+          <program averagetvr="0.21" day="Sat" name="JASHAN E EID" rank="22" time="17:00:00" tvr="0.84" variance="300.00" />
+          <program averagetvr="2.96" day="Tue" name="JHALAK DIKHHLA JAA" rank="23" time="16:30:00" tvr="0.84" variance="-71.66" />
+          <program averagetvr="3.46" day="Mon" name="COMEDY NIGHTS WITH KAPIL" rank="24" time="16:30:00" tvr="0.81" variance="-76.58" />
+          <program averagetvr="3.67" day="Sun" name="COMEDY NIGHTS WITH KAPIL" rank="25" time="23:30:00" tvr="0.81" variance="-77.91" />
+          <program averagetvr="0.44" day="Sun" name="JHALAK DIKHHLA JAA" rank="26" time="16:00:00" tvr="0.78" variance="76.27" />
+          <program averagetvr="1.52" day="Sun" name="COMEDY NIGHTS WITH KAPIL" rank="27" time="17:00:00" tvr="0.74" variance="-51.48" />
+          <program averagetvr="3.91" day="Mon" name="BANI-ISHQ DA KALMA" rank="28" time="13:00:00" tvr="0.72" variance="-81.58" />
+          <program averagetvr="2.39" day="Mon" name="UTTARAN" rank="29" time="10:30:00" tvr="0.67" variance="-72.14" />
+          <program averagetvr="0.16" day="Thu" name="JASHAN E EID" rank="30" time="10:00:00" tvr="0.65" variance="300.00" />
+        </period>
+        <period enddate="24/08/2013" startdate="18/08/2013">
+          <program averagetvr="6.11" day="Sun" name="COMEDY NIGHTS WITH KAPIL" rank="1" time="22:30:00" tvr="4.97" variance="-18.69" />
+          <program averagetvr="16.20" day="Sun" name="JHALAK DIKHHLA JAA" rank="2" time="21:00:00" tvr="4.41" variance="-72.77" />
+          <program averagetvr="14.30" day="Mon" name="BALIKA VADHU" rank="3" time="20:00:00" tvr="3.15" variance="-78.00" />
+          <program averagetvr="10.46" day="Mon" name="MADHUBALA EK ISHQ EK JUNOON" rank="4" time="20:30:00" tvr="2.53" variance="-75.79" />
+          <program averagetvr="9.17" day="Mon" name="UTTARAN" rank="5" time="22:00:00" tvr="2.07" variance="-77.41" />
+          <program averagetvr="0.51" day="Sun" name="HFF POLICEGIRI" rank="6" time="18:00:00" tvr="2.05" variance="300.00" />
+          <program averagetvr="1.52" day="Sun" name="COMEDY NIGHTS WITH KAPIL" rank="7" time="17:00:00" tvr="1.81" variance="18.69" />
+          <program averagetvr="6.59" day="Mon" name="BANI-ISHQ DA KALMA" rank="8" time="22:30:00" tvr="1.71" variance="-74.13" />
+          <program averagetvr="0.64" day="Sat" name="COMEDY NIGHTS WITH KAPIL" rank="9" time="18:00:00" tvr="1.69" variance="163.04" />
+          <program averagetvr="7.58" day="Mon" name="SASURAL SIMAR KA" rank="10" time="19:30:00" tvr="1.49" variance="-80.36" />
+          <program averagetvr="7.13" day="Mon" name="NA BOLE TUM NA MAINE KUCHH KAHA-2" rank="11" time="21:30:00" tvr="1.09" variance="-84.74" />
+          <program averagetvr="0.44" day="Sun" name="JHALAK DIKHHLA JAA" rank="12" time="16:00:00" tvr="0.99" variance="123.73" />
+          <program averagetvr="4.68" day="Sun" name="COMEDY NIGHTS WITH KAPIL" rank="13" time="10:00:00" tvr="0.96" variance="-79.61" />
+          <program averagetvr="4.01" day="Mon" name="MRS PAMMI PYARELAL" rank="14" time="19:00:00" tvr="0.93" variance="-76.89" />
+          <program averagetvr="0.39" day="Sat" name="JHALAK DIKHHLA JAA" rank="15" time="11:30:00" tvr="0.90" variance="133.77" />
+          <program averagetvr="4.97" day="Mon" name="SANSKAAR DHAROHAR APNON KI" rank="16" time="21:00:00" tvr="0.89" variance="-82.02" />
+          <program averagetvr="0.39" day="Mon" name="BANI-ISHQ DA KALMA" rank="17" time="18:30:00" tvr="0.89" variance="129.53" />
+          <program averagetvr="3.67" day="Sun" name="COMEDY NIGHTS WITH KAPIL" rank="18" time="23:30:00" tvr="0.89" variance="-75.87" />
+          <program averagetvr="3.46" day="Mon" name="COMEDY NIGHTS WITH KAPIL" rank="19" time="16:30:00" tvr="0.88" variance="-74.48" />
+          <program averagetvr="3.91" day="Mon" name="BANI-ISHQ DA KALMA" rank="20" time="13:00:00" tvr="0.86" variance="-78.05" />
+          <program averagetvr="4.17" day="Mon" name="BALIKA VADHU" rank="21" time="23:00:00" tvr="0.84" variance="-79.85" />
+          <program averagetvr="0.20" day="Sat" name="COMEDY NIGHTS WITH KAPIL" rank="22" time="15:30:00" tvr="0.78" variance="300.00" />
+          <program averagetvr="3.26" day="Mon" name="BALIKA VADHU" rank="23" time="18:00:00" tvr="0.61" variance="-81.27" />
+          <program averagetvr="0.15" day="Sun" name="HFF YAMLA PAGLA DEEWANA 2" rank="24" time="12:30:00" tvr="0.60" variance="300.00" />
+          <program averagetvr="2.82" day="Mon" name="SASURAL SIMAR KA" rank="25" time="14:00:00" tvr="0.59" variance="-78.91" />
+          <program averagetvr="2.49" day="Mon" name="MADHUBALA EK ISHQ EK JUNOON" rank="26" time="23:30:00" tvr="0.55" variance="-78.11" />
+          <program averagetvr="2.73" day="Mon" name="BANI-ISHQ DA KALMA" rank="27" time="16:00:00" tvr="0.51" variance="-81.21" />
+          <program averagetvr="2.47" day="Mon" name="BALIKA VADHU" rank="28" time="14:30:00" tvr="0.51" variance="-79.34" />
+          <program averagetvr="2.82" day="Mon" name="UTTARAN" rank="29" time="13:30:00" tvr="0.49" variance="-82.77" />
+          <program averagetvr="2.82" day="Mon" name="NA BOLE TUM NA MAINE KUCHH KAHA-2" rank="30" time="12:30:00" tvr="0.47" variance="-83.46" />
+        </period>
+        <period enddate="31/08/2013" startdate="25/08/2013">
+          <program averagetvr="1.08" day="Sat" name="COMEDY NIGHTS WITH KAPIL" rank="1" time="22:30:00" tvr="4.32" variance="300.00" />
+          <program averagetvr="1.08" day="Sun" name="COMEDY NIGHTS WITH KAPIL" rank="2" time="22:00:00" tvr="4.31" variance="300.00" />
+          <program averagetvr="16.20" day="Sun" name="JHALAK DIKHHLA JAA" rank="3" time="21:00:00" tvr="3.47" variance="-78.61" />
+          <program averagetvr="10.46" day="Mon" name="MADHUBALA EK ISHQ EK JUNOON" rank="4" time="20:30:00" tvr="2.72" variance="-73.99" />
+          <program averagetvr="14.30" day="Mon" name="BALIKA VADHU" rank="5" time="20:00:00" tvr="2.58" variance="-81.94" />
+          <program averagetvr="0.48" day="Sat" name="COMEDY NIGHTS WITH KAPIL" rank="6" time="15:00:00" tvr="1.93" variance="300.00" />
+          <program averagetvr="9.17" day="Mon" name="UTTARAN" rank="7" time="22:00:00" tvr="1.86" variance="-79.70" />
+          <program averagetvr="0.45" day="Sun" name="HFF GO GOA GONE" rank="8" time="18:30:00" tvr="1.78" variance="300.00" />
+          <program averagetvr="0.44" day="Sat" name="JHALAK DIKHHLA JAA" rank="9" time="11:00:00" tvr="1.76" variance="300.00" />
+          <program averagetvr="6.59" day="Mon" name="BANI-ISHQ DA KALMA" rank="10" time="22:30:00" tvr="1.54" variance="-76.59" />
+          <program averagetvr="7.58" day="Mon" name="SASURAL SIMAR KA" rank="11" time="19:30:00" tvr="1.43" variance="-81.19" />
+          <program averagetvr="0.35" day="Sun" name="JHALAK DIKHHLA JAA" rank="12" time="11:30:00" tvr="1.41" variance="300.00" />
+          <program averagetvr="4.68" day="Sun" name="COMEDY NIGHTS WITH KAPIL" rank="13" time="10:00:00" tvr="1.32" variance="-71.82" />
+          <program averagetvr="0.33" day="Sat" name="HFF OMG OH MY GOD" rank="14" time="12:00:00" tvr="1.30" variance="300.00" />
+          <program averagetvr="7.13" day="Mon" name="NA BOLE TUM NA MAINE KUCHH KAHA-2" rank="15" time="21:30:00" tvr="1.23" variance="-82.75" />
+          <program averagetvr="4.97" day="Mon" name="SANSKAAR DHAROHAR APNON KI" rank="16" time="21:00:00" tvr="1.08" variance="-78.20" />
+          <program averagetvr="3.67" day="Sun" name="COMEDY NIGHTS WITH KAPIL" rank="17" time="23:30:00" tvr="1.03" variance="-71.92" />
+          <program averagetvr="0.26" day="Sat" name="HFF POLICEGIRI" rank="18" time="16:00:00" tvr="1.02" variance="300.00" />
+          <program averagetvr="2.73" day="Mon" name="BANI-ISHQ DA KALMA" rank="19" time="16:00:00" tvr="0.91" variance="-66.68" />
+          <program averagetvr="1.52" day="Sun" name="COMEDY NIGHTS WITH KAPIL" rank="20" time="17:00:00" tvr="0.87" variance="-42.95" />
+          <program averagetvr="3.46" day="Mon" name="COMEDY NIGHTS WITH KAPIL" rank="21" time="16:30:00" tvr="0.75" variance="-78.41" />
+          <program averagetvr="4.17" day="Mon" name="BALIKA VADHU" rank="22" time="23:00:00" tvr="0.73" variance="-82.54" />
+          <program averagetvr="2.96" day="Tue" name="JHALAK DIKHHLA JAA" rank="23" time="16:30:00" tvr="0.67" variance="-77.56" />
+          <program averagetvr="0.39" day="Mon" name="BANI-ISHQ DA KALMA" rank="24" time="18:30:00" tvr="0.66" variance="70.47" />
+          <program averagetvr="2.39" day="Mon" name="UTTARAN" rank="25" time="10:30:00" tvr="0.62" variance="-74.19" />
+          <program averagetvr="3.91" day="Mon" name="BANI-ISHQ DA KALMA" rank="26" time="13:00:00" tvr="0.61" variance="-84.50" />
+          <program averagetvr="2.82" day="Mon" name="NA BOLE TUM NA MAINE KUCHH KAHA-2" rank="27" time="12:30:00" tvr="0.61" variance="-78.50" />
+          <program averagetvr="2.20" day="Mon" name="MRS PAMMI PYARELAL" rank="28" time="15:30:00" tvr="0.61" variance="-72.51" />
+          <program averagetvr="2.47" day="Mon" name="BALIKA VADHU" rank="29" time="14:30:00" tvr="0.60" variance="-75.53" />
+          <program averagetvr="2.09" day="Mon" name="MADHUBALA EK ISHQ EK JUNOON" rank="30" time="15:00:00" tvr="0.58" variance="-72.03" />
+        </period>
+      </channel>
+      <channel code="571" name="Polimer TV">
+        <period enddate="10/08/2013" startdate="04/08/2013">
+          <program averagetvr="0.03" day="Sun" name="CINEMA CINEMA" rank="1" time="11:00:00" tvr="0.13" variance="300.00" />
+          <program averagetvr="0.03" day="Fri" name="RPG SRIMATHI CITY" rank="2" time="11:00:00" tvr="0.11" variance="300.00" />
+          <program averagetvr="0.01" day="Fri" name="GTM (GLOBAL TELE MALL)" rank="3" time="11:30:00" tvr="0.05" variance="300.00" />
+          <program averagetvr="0.00" day="Sun" name="JUNIOR SUPER DANCER" rank="4" time="10:00:00" tvr="0.01" variance="300.00" />
+        </period>
+        <period enddate="17/08/2013" startdate="11/08/2013">
+          <program averagetvr="0.02" day="Wed" name="SAKTHI POLA YARUMILLA (VALLAMAI THARAIY)" rank="1" time="19:30:00" tvr="0.07" variance="300.00" />
+          <program averagetvr="0.01" day="Mon" name="GTM (GLOBAL TELE MALL)" rank="2" time="16:30:00" tvr="0.03" variance="300.00" />
+          <program averagetvr="0.01" day="Thu" name="KADAL NAYGAN" rank="3" time="12:30:00" tvr="0.03" variance="300.00" />
+          <program averagetvr="0.00" day="Mon" name="SKS SHOPPING" rank="4" time="10:30:00" tvr="0.01" variance="300.00" />
+          <program averagetvr="0.00" day="Wed" name="TMF VALLAMAI THAARAAYO" rank="5" time="14:00:00" tvr="0.00" variance="0.00" />
+        </period>
+        <period enddate="24/08/2013" startdate="18/08/2013">
+          <program averagetvr="0.04" day="Fri" name="SKS SHOPPING" rank="1" time="17:00:00" tvr="0.14" variance="300.00" />
+          <program averagetvr="0.01" day="Fri" name="COMEDY EXPRESS" rank="2" time="23:30:00" tvr="0.03" variance="300.00" />
+          <program averagetvr="0.01" day="Sun" name="COMEDY EXPRESS" rank="3" time="17:30:00" tvr="0.02" variance="300.00" />
+          <program averagetvr="0.00" day="Fri" name="MAYAKKAM ENNA" rank="4" time="21:00:00" tvr="0.01" variance="300.00" />
+          <program averagetvr="0.00" day="Sun" name="MOVIE MUNNOTTAM" rank="5" time="16:30:00" tvr="0.01" variance="300.00" />
+          <program averagetvr="0.00" day="Sun" name="TMF UDHAYAN" rank="6" time="14:00:00" tvr="0.01" variance="300.00" />
+          <program averagetvr="0.00" day="Tue" name="TMF COOLEE" rank="7" time="14:00:00" tvr="0.00" variance="0.00" />
+          <program averagetvr="0.00" day="Sun" name="TMF ETHAN" rank="8" time="18:00:00" tvr="0.00" variance="0.00" />
+        </period>
+        <period enddate="31/08/2013" startdate="25/08/2013">
+          <program averagetvr="0.05" day="Sun" name="POLIMAR SEIDIGAL" rank="1" time="22:30:00" tvr="0.20" variance="300.00" />
+          <program averagetvr="0.03" day="Sun" name="CINEMA CINEMA" rank="2" time="23:00:00" tvr="0.11" variance="300.00" />
+          <program averagetvr="0.02" day="Tue" name="SKS SHOPPING" rank="3" time="10:30:00" tvr="0.06" variance="300.00" />
+          <program averagetvr="0.01" day="Mon" name="ULLAM KOLLAI POGUDHADA" rank="4" time="13:30:00" tvr="0.03" variance="300.00" />
+          <program averagetvr="0.01" day="Mon" name="TMF VELLAI PURA ONRU" rank="5" time="14:00:00" tvr="0.02" variance="300.00" />
+          <program averagetvr="0.00" day="Mon" name="MADHUBALA" rank="6" time="20:00:00" tvr="0.01" variance="300.00" />
+        </period>
+      </channel>
+    </output>
+  </TG_MG>
+</input>

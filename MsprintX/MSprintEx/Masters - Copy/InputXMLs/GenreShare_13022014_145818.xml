@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<input>
+  <pre-eval-period>
+    <startdate>20130804</startdate>
+    <enddate>20130901</enddate>
+  </pre-eval-period>
+  <day_parts></day_parts>
+  <TG_MG name="CHANDRIKA TG~Kerala" type="Planning">
+    <tg Name="CHANDRIKA TG">
+      <cs>1</cs>
+      <sec>1,2,3</sec>
+      <sex>2</sex>
+      <age>4,5</age>
+    </tg>
+    <mg name="Kerala" type="Group">
+      <market>H</market>
+      <market>I</market>
+    </mg>
+  </TG_MG>
+</input>

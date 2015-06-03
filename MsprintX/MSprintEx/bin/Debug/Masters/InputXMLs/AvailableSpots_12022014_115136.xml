@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<mediaplan>
+  <PreEvalPeriod>
+    <StartDate>20130804</StartDate>
+    <EndDate>20130831</EndDate>
+  </PreEvalPeriod>
+  <tg name="CS 15-24 A" cs="1" sec="1" sex="1,2" age="3">
+    <mg name="Metros" type="Group">
+      <market>1</market>
+      <market>2</market>
+      <market>3</market>
+      <market>4</market>
+      <market>6</market>
+    </mg>
+    <mg name="NStates" type="Group">
+      <market>!</market>
+      <market>#</market>
+      <market>$</market>
+      <market>%</market>
+      <market>&amp;</market>
+      <market>@</market>
+      <market>&gt;</market>
+      <market>B</market>
+      <market>E</market>
+      <market>F</market>
+      <market>J</market>
+      <market>K</market>
+      <market>L</market>
+      <market>N</market>
+      <market>O</market>
+      <market>P</market>
+      <market>S</market>
+      <market>T</market>
+      <market>W</market>
+      <market>X</market>
+      <market>Z</market>
+    </mg>
+  </tg>
+  <plan type="clubbed">
+    <period StartDate="20130804" EndDate="20130831" year="2013" WeekNum="">
+      <programme guid="395f29fe-534c-43d2-a055-7a375fc7852e" SeqNumber="1" ChannelCode="60" ChannelName="SONY ENTERTAINMENT TV" ProgName="CID" days="FRI,SAT" StartTime="22:00" EndTime="23:00" CostPer10s="" caption="20" AdDuration="Geyser" NumberOfSpots="10">
+        <selected_spots>
+          <spot log="60,20130810,223807,223837,0,9,27,30"></spot>
+          <spot log="60,20130810,223937,224022,0,16,27,45"></spot>
+          <spot log="60,20130810,225125,225128,0,4,27,3"></spot>
+          <spot log="60,20130810,225128,225130,0,5,27,2"></spot>
+          <spot log="60,20130816,224842,224846,0,7,25,4"></spot>
+          <spot log="60,20130817,224855,224857,0,10,23,2"></spot>
+          <spot log="60,20130823,225018,225038,0,22,29,20"></spot>
+          <spot log="60,20130824,225308,225318,0,8,21,10"></spot>
+          <spot log="60,20130830,224606,224608,0,5,27,2"></spot>
+          <spot log="60,20130831,225159,225219,0,21,23,20"></spot>
+        </selected_spots>
+      </programme>
+    </period>
+  </plan>
+</mediaplan>

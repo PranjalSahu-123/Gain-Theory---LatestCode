@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tg name="RANDOM">
+  <cs>1,2</cs>
+  <sec>1,2,3,4</sec>
+  <sex>2</sex>
+  <age>3,4,5</age>
+</tg>

@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<mg name="NW" type="Group">
+  <market>!</market>
+  <market>#</market>
+  <market>$</market>
+  <market>%</market>
+  <market>&amp;</market>
+  <market>@</market>
+  <market>^</market>
+  <market>&lt;</market>
+  <market>1</market>
+  <market>3</market>
+  <market>5</market>
+  <market>A</market>
+  <market>B</market>
+  <market>C</market>
+  <market>D</market>
+  <market>E</market>
+  <market>F</market>
+  <market>J</market>
+  <market>K</market>
+  <market>L</market>
+  <market>O</market>
+  <market>P</market>
+  <market>S</market>
+  <market>T</market>
+  <market>W</market>
+  <market>X</market>
+  <market>Z</market>
+</mg>

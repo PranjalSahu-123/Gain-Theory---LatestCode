@@ -1,0 +1,190 @@
+﻿17/03/2015 16:37:30 -Exception occured while updating usage report table.Message: Incorrect syntax near 's'.
+The floating point value '6e6350' is out of the range of computer representation (8 bytes).
+The floating point value '4e31683' is out of the range of computer representation (8 bytes).
+Unclosed quotation mark after the character string '>
+        <selected_spots></selected_spots>
+      </programme>
+    </period>
+  </plan>
+</mediaplan>',0,getdate())'.
+Warning: the floating point value '455e-9073' is too small. It will be interpreted as 0.
+17/03/2015 16:42:39 -Exception occured while updating usage report table.Message: Incorrect syntax near 's'.
+The floating point value '6e6350' is out of the range of computer representation (8 bytes).
+The floating point value '4e31683' is out of the range of computer representation (8 bytes).
+Unclosed quotation mark after the character string '></spot>
+        </selected_spots>
+      </programme>
+    </period>
+  </plan>
+</mediaplan>',0,getdate())'.
+Warning: the floating point value '455e-9073' is too small. It will be interpreted as 0.
+17/03/2015 16:44:53 -Exception occured while show/hide of right click options.Message:Error HRESULT E_FAIL has been returned from a call to a COM component.
+17/03/2015 16:44:54 -Exception occured while show/hide of right click options.Message:Error HRESULT E_FAIL has been returned from a call to a COM component.
+17/03/2015 16:44:55 -Exception occured while show/hide of right click options.Message:Error HRESULT E_FAIL has been returned from a call to a COM component.
+17/03/2015 17:17:50 -Exception occured while updating usage report table.Message: Incorrect syntax near 's'.
+The floating point value '6e6350' is out of the range of computer representation (8 bytes).
+The floating point value '4e31683' is out of the range of computer representation (8 bytes).
+Unclosed quotation mark after the character string '></spot>
+        </selected_spots>
+      </programme>
+    </period>
+  </plan>
+</mediaplan>',0,getdate())'.
+Warning: the floating point value '455e-9073' is too small. It will be interpreted as 0.
+18/03/2015 15:06:11 -Exception occured while cleaning plan.Exception from HRESULT: 0x800A03EC
+19/03/2015 12:11:57 -Exception occured while parsing Master WS response.Unable to connect to the remote server
+19/03/2015 12:11:58 -Exception occured while populating Genres,Channels and Markets Datasource.Unable to connect to the remote server
+19/03/2015 12:11:58 -Exception occured while starting MsprintApp.Unable to connect to the remote server
+19/03/2015 12:12:18 -Exception occured while parsing Master WS response.Unable to connect to the remote server
+19/03/2015 12:12:18 -Exception occured while populating Genres,Channels and Markets Datasource.Unable to connect to the remote server
+19/03/2015 12:12:18 -Exception occured while starting MsprintApp.Unable to connect to the remote server
+19/03/2015 12:24:52 -Exception occured while parsing Master WS response.Unable to connect to the remote server
+19/03/2015 12:24:52 -Exception occured while populating Genres,Channels and Markets Datasource.Unable to connect to the remote server
+19/03/2015 12:24:56 -Exception occured while starting MsprintApp.Unable to connect to the remote server
+19/03/2015 12:28:04 -Exception occured while parsing Master WS response.Unable to connect to the remote server
+19/03/2015 12:28:04 -Exception occured while populating Genres,Channels and Markets Datasource.Unable to connect to the remote server
+19/03/2015 12:28:04 -Exception occured while starting MsprintApp.Unable to connect to the remote server
+19/03/2015 12:34:41 -Exception occured while parsing Master WS response.Unable to connect to the remote server
+19/03/2015 12:34:41 -Exception occured while populating Genres,Channels and Markets Datasource.Unable to connect to the remote server
+19/03/2015 12:34:41 -Exception occured while starting MsprintApp.Unable to connect to the remote server
+19/03/2015 12:34:59 -Exception occured while parsing Master WS response.Unable to connect to the remote server
+19/03/2015 12:34:59 -Exception occured while populating Genres,Channels and Markets Datasource.Unable to connect to the remote server
+19/03/2015 12:34:59 -Exception occured while starting MsprintApp.Unable to connect to the remote server
+19/03/2015 12:35:27 -Exception occured while parsing Master WS response.Unable to connect to the remote server
+19/03/2015 12:35:27 -Exception occured while populating Genres,Channels and Markets Datasource.Unable to connect to the remote server
+19/03/2015 12:35:27 -Exception occured while starting MsprintApp.Unable to connect to the remote server
+19/03/2015 12:36:28 -Exception occured while parsing Master WS response.Unable to connect to the remote server
+19/03/2015 12:36:28 -Exception occured while populating Genres,Channels and Markets Datasource.Unable to connect to the remote server
+19/03/2015 12:36:28 -Exception occured while starting MsprintApp.Unable to connect to the remote server
+19/03/2015 12:38:49 -Exception occured while parsing Master WS response.Unable to connect to the remote server
+19/03/2015 12:38:49 -Exception occured while populating Genres,Channels and Markets Datasource.Unable to connect to the remote server
+19/03/2015 12:38:49 -Exception occured while starting MsprintApp.Unable to connect to the remote server
+19/03/2015 12:40:21 -Exception occured while parsing Master WS response.Unable to connect to the remote server
+19/03/2015 12:40:21 -Exception occured while populating Genres,Channels and Markets Datasource.Unable to connect to the remote server
+19/03/2015 12:40:21 -Exception occured while starting MsprintApp.Unable to connect to the remote server
+19/03/2015 12:51:05 -Exception occured while parsing Master WS response.The operation has timed out
+19/03/2015 12:51:06 -Exception occured while populating Genres,Channels and Markets Datasource.The operation has timed out
+19/03/2015 12:51:06 -Exception occured while starting MsprintApp.The operation has timed out
+19/03/2015 14:45:29 -Exception occured while parsing Master WS response.Unable to connect to the remote server
+19/03/2015 14:45:29 -Exception occured while populating Genres,Channels and Markets Datasource.Unable to connect to the remote server
+19/03/2015 14:45:29 -Exception occured while starting MsprintApp.Unable to connect to the remote server
+19/03/2015 14:59:12 -Exception occured while parsing Master WS response.Unable to connect to the remote server
+19/03/2015 14:59:12 -Exception occured while populating Genres,Channels and Markets Datasource.Unable to connect to the remote server
+19/03/2015 14:59:12 -Exception occured while starting MsprintApp.Unable to connect to the remote server
+19/03/2015 15:40:45 -Exception occured while parsing Master WS response.Unable to connect to the remote server
+19/03/2015 15:40:45 -Exception occured while populating Genres,Channels and Markets Datasource.Unable to connect to the remote server
+19/03/2015 15:40:45 -Exception occured while starting MsprintApp.Unable to connect to the remote server
+19/03/2015 15:41:14 -Exception occured while parsing Master WS response.Unable to connect to the remote server
+19/03/2015 15:41:14 -Exception occured while populating Genres,Channels and Markets Datasource.Unable to connect to the remote server
+19/03/2015 15:41:14 -Exception occured while starting MsprintApp.Unable to connect to the remote server
+19/03/2015 15:53:12 -Exception occured while parsing Master WS response.Unable to connect to the remote server
+19/03/2015 15:53:12 -Exception occured while populating Genres,Channels and Markets Datasource.Unable to connect to the remote server
+19/03/2015 15:53:12 -Exception occured while starting MsprintApp.Unable to connect to the remote server
+19/03/2015 15:53:49 -Exception occured while parsing Master WS response.Unable to connect to the remote server
+19/03/2015 15:53:49 -Exception occured while populating Genres,Channels and Markets Datasource.Unable to connect to the remote server
+19/03/2015 15:53:49 -Exception occured while starting MsprintApp.Unable to connect to the remote server
+19/03/2015 15:59:30 -Exception occured while parsing Master WS response.Unable to connect to the remote server
+19/03/2015 15:59:30 -Exception occured while populating Genres,Channels and Markets Datasource.Unable to connect to the remote server
+19/03/2015 15:59:30 -Exception occured while starting MsprintApp.Unable to connect to the remote server
+19/03/2015 16:03:56 -Exception occured while parsing Master WS response.Unable to connect to the remote server
+19/03/2015 16:03:56 -Exception occured while populating Genres,Channels and Markets Datasource.Unable to connect to the remote server
+19/03/2015 16:03:56 -Exception occured while starting MsprintApp.Unable to connect to the remote server
+19/03/2015 16:27:25 -Exception occured while parsing Master WS response.Unable to connect to the remote server
+19/03/2015 16:27:25 -Exception occured while populating Genres,Channels and Markets Datasource.Unable to connect to the remote server
+19/03/2015 16:27:25 -Exception occured while starting MsprintApp.Unable to connect to the remote server
+20/03/2015 13:45:25 -Exception occured while cleaning plan.Specified argument was out of the range of valid values.
+20/03/2015 13:45:38 -Exception occured while cleaning plan.Specified argument was out of the range of valid values.
+20/03/2015 13:45:45 -Exception occured while cleaning plan.Specified argument was out of the range of valid values.
+20/03/2015 13:46:10 -Exception occured while cleaning plan.Specified argument was out of the range of valid values.
+20/03/2015 13:47:47 -Exception occured while cleaning plan.Specified argument was out of the range of valid values.
+20/03/2015 13:47:49 -Exception occured while cleaning plan.Specified argument was out of the range of valid values.
+20/03/2015 13:47:49 -Exception occured while cleaning plan.Specified argument was out of the range of valid values.
+20/03/2015 13:50:57 -Exception occured while cleaning plan.Specified argument was out of the range of valid values.
+20/03/2015 13:54:31 -Exception occured while cleaning plan.Specified argument was out of the range of valid values.
+20/03/2015 13:54:32 -Exception occured while cleaning plan.Specified argument was out of the range of valid values.
+20/03/2015 13:54:33 -Exception occured while cleaning plan.Specified argument was out of the range of valid values.
+20/03/2015 13:54:33 -Exception occured while cleaning plan.Specified argument was out of the range of valid values.
+20/03/2015 14:46:47 -Exception occured while retreiving output from Web service. Message : Object reference not set to an instance of an object.
+20/03/2015 16:51:36 -Exception occured while retreiving output from Web service. Message : Object reference not set to an instance of an object.
+07/04/2015 17:19:01 -Exception occured while getting all WS URLS from DB.Message : A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+07/04/2015 17:19:02 -Exception occured while loading MsprintXRibbon.Message : Cannot find table 0.
+09/04/2015 11:41:15 -Exception occured while getting all WS URLS from DB.Message : A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+09/04/2015 11:41:15 -Exception occured while loading MsprintXRibbon.Message : Cannot find table 0.
+16/04/2015 15:16:39 -Exception occured while constructing input XML for RnFInput string was not in a correct format.
+16/04/2015 15:16:39 -Exception occured while retreiving Reach and Frequency details.Input string was not in a correct format.
+16/04/2015 19:25:50 -Exception occured while viewing markets for chosen market group.Index was outside the bounds of the array.
+21/04/2015 18:03:00 -Exception occured while viewing markets for chosen market group.Index was outside the bounds of the array.
+21/04/2015 18:50:22 -Exception occured while viewing markets for chosen market group.Index was outside the bounds of the array.
+21/04/2015 18:54:59 -Exception occured while viewing markets for chosen market group.Index was outside the bounds of the array.
+21/04/2015 18:55:00 -Exception occured while viewing markets for chosen market group.Index was outside the bounds of the array.
+21/04/2015 18:55:30 -Exception occured while viewing markets for chosen market group.Index was outside the bounds of the array.
+22/04/2015 15:36:45 -Exception occured while parsing Master WS response.The remote server returned an error: (502) Bad Gateway.
+22/04/2015 15:36:45 -Exception occured while populating Genres,Channels and Markets Datasource.The remote server returned an error: (502) Bad Gateway.
+22/04/2015 15:36:45 -Exception occured while starting MsprintApp.The remote server returned an error: (502) Bad Gateway.
+22/04/2015 16:42:42 -Exception occured while viewing markets for chosen market group.Index was outside the bounds of the array.
+22/04/2015 16:42:52 -Exception occured while viewing markets for chosen market group.Index was outside the bounds of the array.
+22/04/2015 16:42:53 -Exception occured while viewing markets for chosen market group.Index was outside the bounds of the array.
+22/04/2015 16:42:54 -Exception occured while viewing markets for chosen market group.Index was outside the bounds of the array.
+23/04/2015 13:59:44 -Exception occured while binding datatable with End Time with plan selection listobject.Message :Object reference not set to an instance of an object.
+23/04/2015 14:43:24 -Exception occured while viewing markets for chosen market group.Index was outside the bounds of the array.
+23/04/2015 14:47:28 -Exception occured while binding datatable with End Time with plan selection listobject.Message :Specified argument was out of the range of valid values.
+23/04/2015 15:09:19 -Exception occured while binding datatable with End Time with plan selection listobject.Message :Input string was not in a correct format.
+24/04/2015 15:29:46 -Exception occured while parsing Master WS response.The remote server returned an error: (503) Server Unavailable.
+24/04/2015 15:29:46 -Exception occured while populating Genres,Channels and Markets Datasource.The remote server returned an error: (503) Server Unavailable.
+24/04/2015 15:29:46 -Exception occured while starting MsprintApp.The remote server returned an error: (503) Server Unavailable.
+24/04/2015 15:30:05 -Exception occured while parsing Master WS response.The remote server returned an error: (503) Server Unavailable.
+24/04/2015 15:30:05 -Exception occured while populating Genres,Channels and Markets Datasource.The remote server returned an error: (503) Server Unavailable.
+24/04/2015 15:30:05 -Exception occured while starting MsprintApp.The remote server returned an error: (503) Server Unavailable.
+24/04/2015 15:31:21 -Exception occured while parsing Master WS response.The remote server returned an error: (503) Server Unavailable.
+24/04/2015 15:31:21 -Exception occured while populating Genres,Channels and Markets Datasource.The remote server returned an error: (503) Server Unavailable.
+24/04/2015 15:31:21 -Exception occured while starting MsprintApp.The remote server returned an error: (503) Server Unavailable.
+24/04/2015 15:31:38 -Exception occured while parsing Master WS response.The remote server returned an error: (503) Server Unavailable.
+24/04/2015 15:31:38 -Exception occured while populating Genres,Channels and Markets Datasource.The remote server returned an error: (503) Server Unavailable.
+24/04/2015 15:31:38 -Exception occured while starting MsprintApp.The remote server returned an error: (503) Server Unavailable.
+24/04/2015 15:55:55 -Exception occured while parsing Master WS response.The remote server returned an error: (503) Server Unavailable.
+24/04/2015 15:55:55 -Exception occured while populating Genres,Channels and Markets Datasource.The remote server returned an error: (503) Server Unavailable.
+24/04/2015 15:55:55 -Exception occured while starting MsprintApp.The remote server returned an error: (503) Server Unavailable.
+24/04/2015 15:56:12 -Exception occured while parsing Master WS response.The remote server returned an error: (503) Server Unavailable.
+24/04/2015 15:56:12 -Exception occured while populating Genres,Channels and Markets Datasource.The remote server returned an error: (503) Server Unavailable.
+24/04/2015 15:56:12 -Exception occured while starting MsprintApp.The remote server returned an error: (503) Server Unavailable.
+24/04/2015 16:01:01 -Exception occured while parsing Master WS response.The remote server returned an error: (503) Server Unavailable.
+24/04/2015 16:01:01 -Exception occured while populating Genres,Channels and Markets Datasource.The remote server returned an error: (503) Server Unavailable.
+24/04/2015 16:01:01 -Exception occured while starting MsprintApp.The remote server returned an error: (503) Server Unavailable.
+24/04/2015 16:03:39 -Exception occured while validating logged in user.Message: The server is not operational.
+
+24/04/2015 16:09:44 -Exception occured while parsing Master WS response.The remote server returned an error: (503) Server Unavailable.
+24/04/2015 16:09:44 -Exception occured while populating Genres,Channels and Markets Datasource.The remote server returned an error: (503) Server Unavailable.
+24/04/2015 16:09:44 -Exception occured while starting MsprintApp.The remote server returned an error: (503) Server Unavailable.
+24/04/2015 16:59:49 -Exception occured while parsing Master WS response.The remote server returned an error: (503) Server Unavailable.
+24/04/2015 16:59:49 -Exception occured while populating Genres,Channels and Markets Datasource.The remote server returned an error: (503) Server Unavailable.
+24/04/2015 16:59:49 -Exception occured while starting MsprintApp.The remote server returned an error: (503) Server Unavailable.
+24/04/2015 17:03:22 -Exception occured while parsing Master WS response.The remote server returned an error: (503) Server Unavailable.
+24/04/2015 17:03:23 -Exception occured while populating Genres,Channels and Markets Datasource.The remote server returned an error: (503) Server Unavailable.
+24/04/2015 17:03:23 -Exception occured while starting MsprintApp.The remote server returned an error: (503) Server Unavailable.
+28/04/2015 19:10:45 -Exception occured while preparing Temp Tables for chosen date range.Message:Object reference not set to an instance of an object.
+30/04/2015 13:03:34 -Exception occured while checking temp table status during timer elapsed event.Message :Cross-thread operation not valid: Control 'frmPrepareServer' accessed from a thread other than the thread it was created on.
+05/05/2015 16:53:37 -Exception occured while displaying channel share details.There is no row at position 0.
+05/05/2015 16:53:37 -Exception occured while retreiving channel share detailsThere is no row at position 0.
+05/05/2015 16:53:37 -Exception occured while retreiving Channel share details.There is no row at position 0.
+08/05/2015 12:13:24 -Exception occured while checking temp table status during timer elapsed event.Message :Cross-thread operation not valid: Control 'frmPrepareServer' accessed from a thread other than the thread it was created on.
+11/05/2015 12:57:55 -Exception occured while checking temp table status during timer elapsed event.Message :Cross-thread operation not valid: Control 'frmPrepareServer' accessed from a thread other than the thread it was created on.
+11/05/2015 16:03:29 -Exception occured while getting all WS URLS from DB.Message : A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+11/05/2015 16:03:29 -Exception occured while loading MsprintXRibbon.Message : Cannot find table 0.
+12/05/2015 13:24:29 -Exception occured while parsing latest Date xmlObject reference not set to an instance of an object.
+12/05/2015 13:24:30 -Exception occured while loading PrepareServer form.Message :The added or subtracted value results in an un-representable DateTime.
+Parameter name: value
+12/05/2015 13:26:28 -Exception occured while checking if temp table is created for dates: FromDate:22/03/2015 00:00:00;ToDate:28/03/2015 00:00:00.Message:Object reference not set to an instance of an object.
+12/05/2015 13:26:28 -Exception occured while preparing Temp Tables for chosen date range.Message:Object reference not set to an instance of an object.
+12/05/2015 16:33:52 -Exception occured while checking if temp table is created for dates: FromDate:05/01/2015 00:00:00;ToDate:30/01/2015 00:00:00.Message:Object reference not set to an instance of an object.
+12/05/2015 16:33:52 -Exception occured while preparing Temp Tables for chosen date range.Message:Object reference not set to an instance of an object.
+12/05/2015 16:40:56 -Exception occured while checking if temp table is created for dates: FromDate:22/03/2015 00:00:00;ToDate:28/03/2015 00:00:00.Message:Object reference not set to an instance of an object.
+12/05/2015 16:40:56 -Exception occured while preparing Temp Tables for chosen date range.Message:Object reference not set to an instance of an object.
+21/05/2015 17:14:25 -Exception occured while displaying channel share details.There is no row at position 0.
+21/05/2015 17:14:25 -Exception occured while retreiving channel share detailsThere is no row at position 0.
+21/05/2015 17:14:25 -Exception occured while retreiving Channel share details.There is no row at position 0.
+21/05/2015 17:16:11 -Exception occured while displaying channel share details.There is no row at position 0.
+21/05/2015 17:16:11 -Exception occured while retreiving channel share detailsThere is no row at position 0.
+21/05/2015 17:16:11 -Exception occured while retreiving Channel share details.There is no row at position 0.
+21/05/2015 17:16:21 -Exception occured while displaying channel share details.There is no row at position 0.
+21/05/2015 17:16:21 -Exception occured while retreiving channel share detailsThere is no row at position 0.
+21/05/2015 17:16:21 -Exception occured while retreiving Channel share details.There is no row at position 0.

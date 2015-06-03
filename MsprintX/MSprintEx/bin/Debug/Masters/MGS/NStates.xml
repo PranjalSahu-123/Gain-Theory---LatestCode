@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<mg name="NStates" type="Group">
+  <market>!</market>
+  <market>#</market>
+  <market>$</market>
+  <market>%</market>
+  <market>&amp;</market>
+  <market>@</market>
+  <market>&gt;</market>
+  <market>B</market>
+  <market>E</market>
+  <market>F</market>
+  <market>J</market>
+  <market>K</market>
+  <market>L</market>
+  <market>N</market>
+  <market>O</market>
+  <market>P</market>
+  <market>S</market>
+  <market>T</market>
+  <market>W</market>
+  <market>X</market>
+  <market>Z</market>
+</mg>

@@ -1,0 +1,795 @@
+<channel>
+        <channel code="1" name="DD1"/>
+        <channel code="10" name="ZEE NEWS"/>
+        <channel code="100" name="NICKELODEON"/>
+        <channel code="101" name="ZEE GUJARATI"/>
+        <channel code="102" name="ZEE PUNJABI"/>
+        <channel code="103" name="CHANNEL PUNJABI"/>
+        <channel code="104" name="CHANNEL OXYGEN"/>
+        <channel code="105" name="MBC"/>
+        <channel code="106" name="PRABHAT"/>
+        <channel code="107" name="MIRACLE"/>
+        <channel code="108" name="ITV"/>
+        <channel code="109" name="TVC ASIA"/>
+        <channel code="11" name="ABP NEWS"/>
+        <channel code="110" name="HBO"/>
+        <channel code="111" name="TEN"/>
+        <channel code="112" name="ZEE STUDIO"/>
+        <channel code="113" name="ZEE CAFE"/>
+        <channel code="114" name="SAHARA ONE"/>
+        <channel code="115" name="SAB"/>
+        <channel code="116" name="ETV BANGLA"/>
+        <channel code="117" name="SUPRABHATHA"/>
+        <channel code="118" name="TMG"/>
+        <channel code="119" name="SUN NEWS"/>
+        <channel code="12" name="CABLE REGIONAL"/>
+        <channel code="120" name="B4U MUSIC"/>
+        <channel code="121" name="SCV"/>
+        <channel code="122" name="TARA BANGLA"/>
+        <channel code="123" name="TEJA TV"/>
+        <channel code="124" name="TARA MARATHI"/>
+        <channel code="125" name="NHK"/>
+        <channel code="126" name="RTV"/>
+        <channel code="127" name="JUKEBOX"/>
+        <channel code="128" name="JEEVAN"/>
+        <channel code="129" name="WORLDNET"/>
+        <channel code="13" name="CABLE ENGLISH"/>
+        <channel code="130" name="UDAYA MOVIES"/>
+        <channel code="131" name="KAVERI"/>
+        <channel code="132" name="ETV MARATHI"/>
+        <channel code="133" name="ETC PUNJABI"/>
+        <channel code="134" name="TARA PUNJABI"/>
+        <channel code="135" name="TARA GUJARATI"/>
+        <channel code="136" name="CMM"/>
+        <channel code="137" name="AASTHA"/>
+        <channel code="138" name="ATN WORLD"/>
+        <channel code="139" name="UTN"/>
+        <channel code="14" name="ETC"/>
+        <channel code="141" name="RAINT"/>
+        <channel code="142" name="SANSKAR"/>
+        <channel code="143" name="DD PUNJABI"/>
+        <channel code="144" name="UDAYA VARTHEGALU"/>
+        <channel code="145" name="KAIRALI"/>
+        <channel code="147" name="NOW"/>
+        <channel code="148" name="STAR GOLD"/>
+        <channel code="149" name="DD WORLD"/>
+        <channel code="15" name="DD16 LUCKNOW"/>
+        <channel code="150" name="ATN MUSIC"/>
+        <channel code="151" name="TVE"/>
+        <channel code="152" name="ZED TV"/>
+        <channel code="153" name="CALCUTTA TELEVISION NETWORK"/>
+        <channel code="154" name="HOLLYWOOD"/>
+        <channel code="155" name="ETV KANNADA"/>
+        <channel code="156" name="AAJ TAK"/>
+        <channel code="157" name="RPG INFO CHANNEL"/>
+        <channel code="158" name="CHANNEL NEWS ASIA"/>
+        <channel code="159" name="BHARATI TAMIL"/>
+        <channel code="16" name="SUN TV"/>
+        <channel code="160" name="ARIRANG ENGLISH MOVIES"/>
+        <channel code="161" name="SNTV HINDI CHANNEL"/>
+        <channel code="162" name="AAKAASH (BANGALA)"/>
+        <channel code="163" name="SS MUSIC"/>
+        <channel code="165" name="DD DELHI"/>
+        <channel code="166" name="C CHANNEL"/>
+        <channel code="167" name="ASIANET NEWS"/>
+        <channel code="168" name="ETV URDU"/>
+        <channel code="169" name="INDUS VISION"/>
+        <channel code="17" name="UDAYA TV"/>
+        <channel code="170" name="B4U MOVIES"/>
+        <channel code="171" name="SPLASH"/>
+        <channel code="172" name="IT WORLD"/>
+        <channel code="173" name="ANJUM URDU GEC"/>
+        <channel code="174" name="FOX NEWS INTERNATIONAL"/>
+        <channel code="175" name="SKY NEWS INTERNATIONAL"/>
+        <channel code="177" name="C BANG"/>
+        <channel code="178" name="K TV"/>
+        <channel code="179" name="ADVENTURE ONE"/>
+        <channel code="18" name="RAJ TV"/>
+        <channel code="180" name="VOICE OF AMERICA"/>
+        <channel code="181" name="SITI TELUGU"/>
+        <channel code="182" name="MANNA TELUGU"/>
+        <channel code="183" name="SITI MUSIC"/>
+        <channel code="184" name="SHOP 24 SEVEN MULTIPLEX"/>
+        <channel code="185" name="WIN TV"/>
+        <channel code="186" name="DD BHARATI"/>
+        <channel code="187" name="ETV GUJARATI"/>
+        <channel code="188" name="ETV ORIYA"/>
+        <channel code="189" name="ETV BIHAR"/>
+        <channel code="19" name="ASIANET"/>
+        <channel code="190" name="ETV RAJASTAN"/>
+        <channel code="191" name="ETV MADHYA PRADESH"/>
+        <channel code="192" name="ETV UTTAR PRADESH"/>
+        <channel code="193" name="ETV PUNJAB"/>
+        <channel code="194" name="PUNJAB TODAY NEWS"/>
+        <channel code="195" name="DD NORTH EAST"/>
+        <channel code="196" name="ASIANET TELE INTERACTIVE"/>
+        <channel code="197" name="TEN SPORTS"/>
+        <channel code="198" name="MAA TELUGU"/>
+        <channel code="199" name="RAJAWALI CHITRA TV INDONESIA"/>
+        <channel code="2" name="DD2"/>
+        <channel code="20" name="PTV"/>
+        <channel code="200" name="PTP"/>
+        <channel code="201" name="REN TV"/>
+        <channel code="202" name="CN TV"/>
+        <channel code="203" name="RC TV"/>
+        <channel code="204" name="BLOOMBERG TV"/>
+        <channel code="205" name="3 ABN"/>
+        <channel code="206" name="BANGLA AKHON"/>
+        <channel code="207" name="GOD"/>
+        <channel code="208" name="RADIO SNAP BANGLA RPG"/>
+        <channel code="209" name="BBC AUDIO"/>
+        <channel code="210" name="BALLE BALLE"/>
+        <channel code="211" name="SITI GUIDE"/>
+        <channel code="212" name="DD PATNA"/>
+        <channel code="213" name="DD BHOPAL"/>
+        <channel code="214" name="MIDDLE EAST TV"/>
+        <channel code="215" name="MANTHAN GUIDE"/>
+        <channel code="216" name="REALITY ZONE"/>
+        <channel code="217" name="ATN KOLKATA"/>
+        <channel code="218" name="TAMIL GENERAL ENTERTAINMENT"/>
+        <channel code="219" name="SAHARA SAMAY NATIONAL"/>
+        <channel code="22" name="DD4 MALAYALAM"/>
+        <channel code="220" name="SAHARA SAMAY (UP)"/>
+        <channel code="221" name="NDTV 24x7"/>
+        <channel code="222" name="NDTV INDIA"/>
+        <channel code="223" name="HEADLINES TODAY"/>
+        <channel code="224" name="ACTION TV"/>
+        <channel code="225" name="REMO TV"/>
+        <channel code="226" name="ARY DIGITAL"/>
+        <channel code="227" name="SADHNA"/>
+        <channel code="228" name="ZEE TRENDZ"/>
+        <channel code="229" name="SURYAN FM"/>
+        <channel code="23" name="DD5 PODHIGAI (TAMIL)"/>
+        <channel code="230" name="VISSA"/>
+        <channel code="231" name="RAJ MUSIX"/>
+        <channel code="232" name="UNI PLUS MUSIC"/>
+        <channel code="233" name="MH1"/>
+        <channel code="234" name="INDIAVISION"/>
+        <channel code="235" name="SAHARA SAMAY MP"/>
+        <channel code="236" name="SAHARA SAMAY MUMBAI"/>
+        <channel code="237" name="AHIMSA"/>
+        <channel code="238" name="SUR SANGEET"/>
+        <channel code="239" name="HISTORY"/>
+        <channel code="24" name="DD6 ORIYA"/>
+        <channel code="240" name="ETV2 TELUGU NEWS"/>
+        <channel code="241" name="POGO"/>
+        <channel code="242" name="TV9 TELUGU NEWS"/>
+        <channel code="243" name="INDIA VISION ENT"/>
+        <channel code="244" name="ZEE JAAGRAN"/>
+        <channel code="245" name="7 STAR CARE"/>
+        <channel code="246" name="TBN TV"/>
+        <channel code="247" name="QTV"/>
+        <channel code="248" name="NEPAL ONE"/>
+        <channel code="249" name="CTV"/>
+        <channel code="25" name="DD7 BANGLA"/>
+        <channel code="250" name="STAR UTSAV"/>
+        <channel code="251" name="INDIA TV"/>
+        <channel code="252" name="KTN"/>
+        <channel code="253" name="ZEE SMILE"/>
+        <channel code="254" name="TVC  ONLINE"/>
+        <channel code="255" name="ZEE PREMIER"/>
+        <channel code="256" name="ZEE ACTION"/>
+        <channel code="257" name="ZEE CLASSIC"/>
+        <channel code="258" name="TAAZA TV"/>
+        <channel code="259" name="CINE WORLD"/>
+        <channel code="26" name="DD8 TELUGU"/>
+        <channel code="260" name="WIN TV KANNADA"/>
+        <channel code="261" name="ANIMAX"/>
+        <channel code="262" name="GEMINI NEWS"/>
+        <channel code="263" name="DD GYAN DARSHAN"/>
+        <channel code="264" name="AASTHA INTERNATIONAL"/>
+        <channel code="265" name="HUNGAMA TV"/>
+        <channel code="266" name="ZOOM"/>
+        <channel code="267" name="DISCOVERY TRAVEL &amp; LIVING"/>
+        <channel code="268" name="ZEE TELUGU"/>
+        <channel code="269" name="STAR ONE"/>
+        <channel code="27" name="DD9 CHANDANA (KANNADA)"/>
+        <channel code="270" name="MX"/>
+        <channel code="271" name="TRACE"/>
+        <channel code="272" name="POCCAR"/>
+        <channel code="273" name="ZEE BUSINESS"/>
+        <channel code="274" name="TOON DISNEY"/>
+        <channel code="275" name="DISNEY CHANNEL"/>
+        <channel code="276" name="LOKSABHA TV"/>
+        <channel code="277" name="DD RAJYASABHA"/>
+        <channel code="278" name="4M"/>
+        <channel code="279" name="AWAAZ"/>
+        <channel code="28" name="DD10 SAHYADRA (MARATHI)"/>
+        <channel code="280" name="NDTV PROFIT"/>
+        <channel code="281" name="KIRAN TV"/>
+        <channel code="282" name="VH1"/>
+        <channel code="283" name="SAHARA SAMAY BIHAR"/>
+        <channel code="284" name="TARA MUZIK"/>
+        <channel code="285" name="TARA NEWZ"/>
+        <channel code="286" name="LIVING ASIA"/>
+        <channel code="287" name="SUN MUSIC"/>
+        <channel code="288" name="TOTAL TV"/>
+        <channel code="289" name="JHANKAR TV"/>
+        <channel code="29" name="DD11 GUJARATI"/>
+        <channel code="290" name="CHANNEL NEPAL"/>
+        <channel code="291" name="SAHARA SAMAY NCR"/>
+        <channel code="292" name="NEW TV"/>
+        <channel code="293" name="TCT WORLD"/>
+        <channel code="294" name="CT BUZZ"/>
+        <channel code="295" name="AMRITHA TV"/>
+        <channel code="296" name="IBN 7"/>
+        <channel code="297" name="CTV MUMBAI"/>
+        <channel code="298" name="GEMINI MUSIC"/>
+        <channel code="299" name="PLAY TV"/>
+        <channel code="3" name="ZEE TV"/>
+        <channel code="30" name="DD12 KASHMIRI"/>
+        <channel code="300" name="SHALOM"/>
+        <channel code="301" name="TAMIL THIRAI"/>
+        <channel code="302" name="WORLD ROOM TRAVEL"/>
+        <channel code="303" name="SANGEET BANGLA"/>
+        <channel code="304" name="EWTN"/>
+        <channel code="305" name="ZEE SPORTS"/>
+        <channel code="306" name="ABP ANANDA"/>
+        <channel code="307" name="B MUSIC"/>
+        <channel code="308" name="DISH TV INTERACTIVE"/>
+        <channel code="309" name="ASIANET PLUS"/>
+        <channel code="31" name="DD13 ASSAMESE/NORTH EAST SERVICES"/>
+        <channel code="310" name="DAN TAMIL OLI"/>
+        <channel code="311" name="G MUSIC"/>
+        <channel code="312" name="THE MUSIK"/>
+        <channel code="313" name="DAY STAR"/>
+        <channel code="314" name="S1"/>
+        <channel code="315" name="PEOPLE"/>
+        <channel code="316" name="TEZ"/>
+        <channel code="317" name="DAN MUSIC"/>
+        <channel code="318" name="DAN CINEMA"/>
+        <channel code="319" name="LIVE INDIA"/>
+        <channel code="320" name="TARA INTERNATIONAL"/>
+        <channel code="321" name="RUNG TV"/>
+        <channel code="322" name="SINDH TV"/>
+        <channel code="323" name="WORLD FASHION"/>
+        <channel code="324" name="SHAKTI"/>
+        <channel code="325" name="CCTV9"/>
+        <channel code="326" name="KITAB TV"/>
+        <channel code="327" name="RUPOSHI BANGLA"/>
+        <channel code="328" name="ZEE ARABIA"/>
+        <channel code="329" name="CHANNEL 1"/>
+        <channel code="33" name="DD INDIA"/>
+        <channel code="330" name="BTV WORLD"/>
+        <channel code="331" name="NTV BANGLADESH"/>
+        <channel code="332" name="CNN IBN"/>
+        <channel code="333" name="BLESSINGS"/>
+        <channel code="334" name="FE TV"/>
+        <channel code="335" name="SUDDARSHAN"/>
+        <channel code="336" name="NEWS TODAY"/>
+        <channel code="337" name="TIMES NOW"/>
+        <channel code="338" name="ANGEL TV"/>
+        <channel code="339" name="FILMI"/>
+        <channel code="34" name="ZEE CINEMA"/>
+        <channel code="340" name="YO MUSIC"/>
+        <channel code="341" name="PEACE"/>
+        <channel code="342" name="U2"/>
+        <channel code="343" name="REAL MADRID TV"/>
+        <channel code="344" name="GEO TV"/>
+        <channel code="345" name="EURO SPORTS"/>
+        <channel code="346" name="PUNJAB TV"/>
+        <channel code="347" name="VOYAGER TV"/>
+        <channel code="348" name="DAN NEWS"/>
+        <channel code="349" name="SR TV"/>
+        <channel code="35" name="HOME TV"/>
+        <channel code="350" name="KOLKATA TV"/>
+        <channel code="351" name="SUR SANGEET 2"/>
+        <channel code="352" name="24 GHANTA TV"/>
+        <channel code="353" name="IMAYAM"/>
+        <channel code="354" name="PIX"/>
+        <channel code="355" name="MGM"/>
+        <channel code="356" name="ZEE KANNADA"/>
+        <channel code="357" name="BHAARATH TV"/>
+        <channel code="358" name="MBC2"/>
+        <channel code="359" name="MBC4"/>
+        <channel code="36" name="ZEE MUSIC"/>
+        <channel code="360" name="ONE TV"/>
+        <channel code="361" name="DILLI AAJ TAK"/>
+        <channel code="362" name="POWER VISION TV"/>
+        <channel code="363" name="ERA CHANNEL"/>
+        <channel code="364" name="MBC3"/>
+        <channel code="365" name="NRI"/>
+        <channel code="366" name="MUSIC INDIA"/>
+        <channel code="367" name="DD URDU"/>
+        <channel code="368" name="MANORAMA NEWS"/>
+        <channel code="369" name="MAKKAL TV"/>
+        <channel code="37" name="ZEE BANGLA"/>
+        <channel code="370" name="NE HI FI"/>
+        <channel code="371" name="ISLAM CHANNEL"/>
+        <channel code="372" name="AUSTRALIA NETWORK"/>
+        <channel code="373" name="VCRP TVM5"/>
+        <channel code="374" name="NEO SPORTS"/>
+        <channel code="375" name="SATSANG"/>
+        <channel code="376" name="CTVN AKD PLUS"/>
+        <channel code="378" name="NEO SPORTS PLUS"/>
+        <channel code="379" name="TV9 KARNATAKA"/>
+        <channel code="38" name="CVO"/>
+        <channel code="380" name="ENTERR10"/>
+        <channel code="381" name="OTV"/>
+        <channel code="383" name="RADIO"/>
+        <channel code="384" name="VIDEO ON DEMAND"/>
+        <channel code="385" name="NEWS TIME"/>
+        <channel code="386" name="ARADHANA"/>
+        <channel code="387" name="VIBE TV"/>
+        <channel code="388" name="PTC NEWS"/>
+        <channel code="389" name="CHANNEL NO 1"/>
+        <channel code="39" name="CARTOON NETWORK"/>
+        <channel code="390" name="ZEE 24 TAAS"/>
+        <channel code="391" name="AASIRVATHAM"/>
+        <channel code="392" name="NE TV"/>
+        <channel code="393" name="HUM TV"/>
+        <channel code="394" name="LIFE &amp; STYLE"/>
+        <channel code="395" name="PURVA TV"/>
+        <channel code="396" name="MI MARATHI"/>
+        <channel code="397" name="JHANKARR MOVIES"/>
+        <channel code="398" name="LEMON"/>
+        <channel code="399" name="UJALA"/>
+        <channel code="4" name="STAR PLUS"/>
+        <channel code="40" name="JAYA TV"/>
+        <channel code="400" name="MH1 SHRADDHA"/>
+        <channel code="401" name="PBC TV"/>
+        <channel code="402" name="WE"/>
+        <channel code="403" name="CHUTTI TV"/>
+        <channel code="404" name="CBEEBIES"/>
+        <channel code="405" name="BBC ENTERTAINMENT"/>
+        <channel code="406" name="ASIANET SUVARNA"/>
+        <channel code="408" name="ABP MAZA"/>
+        <channel code="409" name="MH1 NEWS"/>
+        <channel code="41" name="SAUDI TV"/>
+        <channel code="410" name="STAR CRICKET"/>
+        <channel code="411" name="JOO MUSIC"/>
+        <channel code="412" name="STANDARD WORLD"/>
+        <channel code="413" name="TV100"/>
+        <channel code="414" name="NE NEWS"/>
+        <channel code="415" name="NE BANGLA"/>
+        <channel code="416" name="JAIHIND TV"/>
+        <channel code="417" name="SANSKRUTHI"/>
+        <channel code="418" name="ZEE TALKIES"/>
+        <channel code="419" name="KASHISH TV"/>
+        <channel code="42" name="DUBAI TV"/>
+        <channel code="420" name="NTV NEWS"/>
+        <channel code="421" name="BHAKTI TV"/>
+        <channel code="422" name="NDTV GOOD TIMES"/>
+        <channel code="423" name="BINDASS"/>
+        <channel code="424" name="KALAIGNAR TV"/>
+        <channel code="425" name="NDTV METRONATION"/>
+        <channel code="426" name="BINDASS MOVIES"/>
+        <channel code="427" name="KASTURI"/>
+        <channel code="428" name="TIME TV"/>
+        <channel code="429" name="SILVER SCREEN"/>
+        <channel code="430" name="TV5 NEWS"/>
+        <channel code="431" name="9X MUSIC"/>
+        <channel code="432" name="MANORANJAN TV"/>
+        <channel code="433" name="9X ENTERTAINMENT"/>
+        <channel code="434" name="DHALIWAL ENT"/>
+        <channel code="435" name="MEGA TV"/>
+        <channel code="436" name="PRAGYA TV"/>
+        <channel code="437" name="SUBHAVARTHA"/>
+        <channel code="438" name="JAYA PLUS"/>
+        <channel code="439" name="JAYA MAX"/>
+        <channel code="44" name="CNBC TV18"/>
+        <channel code="440" name="NEWS 24"/>
+        <channel code="441" name="CHANNEL 8 TALKIES"/>
+        <channel code="442" name="ZEE NEXT"/>
+        <channel code="443" name="NEPAL TV"/>
+        <channel code="444" name="STV HARYANA"/>
+        <channel code="445" name="YES INDIAVISION"/>
+        <channel code="446" name="REAL ESTATE"/>
+        <channel code="447" name="AZAD NEWS"/>
+        <channel code="448" name="ISAIYARUVI"/>
+        <channel code="449" name="NDTV IMAGINE"/>
+        <channel code="450" name="TV9 GUJRATI"/>
+        <channel code="451" name="WORLD MOVIES"/>
+        <channel code="452" name="UTV MOVIES"/>
+        <channel code="453" name="FIRANGI"/>
+        <channel code="454" name="HARIYALI TV"/>
+        <channel code="455" name="SPACE HOME &amp; WORLD"/>
+        <channel code="456" name="NEWS X"/>
+        <channel code="457" name="E 24"/>
+        <channel code="458" name="INDIA NEWS"/>
+        <channel code="459" name="SUVARNA NEWS"/>
+        <channel code="46" name="IN MUMBAI"/>
+        <channel code="460" name="IBN LOKMAT"/>
+        <channel code="461" name="HOME SHOP"/>
+        <channel code="462" name="NEO CRICKET"/>
+        <channel code="463" name="TV SOUTHASIA"/>
+        <channel code="464" name="UTV I"/>
+        <channel code="465" name="AASHIRWAD"/>
+        <channel code="466" name="RAJ NEWS 24x7"/>
+        <channel code="467" name="VASANT"/>
+        <channel code="468" name="OM TV"/>
+        <channel code="469" name="NEWS LIVE"/>
+        <channel code="47" name="TVI"/>
+        <channel code="470" name="NATIONAL GEOGRAPHIC WILD"/>
+        <channel code="471" name="CAREER TV"/>
+        <channel code="472" name="CNEB"/>
+        <channel code="473" name="MAA MUSIC"/>
+        <channel code="474" name="VOICE OF INDIA"/>
+        <channel code="475" name="JUST TV PUNJABI"/>
+        <channel code="476" name="SRI VENKATESHWARA BHAKTI"/>
+        <channel code="477" name="SANGEET BHOJPURI"/>
+        <channel code="478" name="STARLITE TV"/>
+        <channel code="479" name="COLORS"/>
+        <channel code="480" name="SADHNA NEWS MP"/>
+        <channel code="481" name="SPACE TOON"/>
+        <channel code="482" name="PURVA MAGIC"/>
+        <channel code="483" name="R-PLUS"/>
+        <channel code="484" name="MAHUA TV"/>
+        <channel code="485" name="SAAM TV"/>
+        <channel code="486" name="IMAGINE SHOWBIZ"/>
+        <channel code="487" name="PTC PUNJABI"/>
+        <channel code="488" name="COMEDY THIRAI"/>
+        <channel code="489" name="STAR JALSHA"/>
+        <channel code="49" name="DISCOVERY"/>
+        <channel code="490" name="NAWULA TERA"/>
+        <channel code="491" name="HASYA TERE"/>
+        <channel code="492" name="VOICE OF INDIA MP &amp; CG"/>
+        <channel code="493" name="VOICE OF INDIA RAJASTHAN"/>
+        <channel code="494" name="CHIRI THIRA"/>
+        <channel code="495" name="ZEE 24 GHANTE MP &amp; CG"/>
+        <channel code="496" name="SITARA TV"/>
+        <channel code="497" name="VANITHA TV"/>
+        <channel code="498" name="CHANNEL 10"/>
+        <channel code="499" name="ZEE TAMIZH"/>
+        <channel code="5" name="BBC WORLD"/>
+        <channel code="50" name="JAIN TV"/>
+        <channel code="500" name="NDTV LUMIERE"/>
+        <channel code="501" name="STANDARD WORLD MP AND CG"/>
+        <channel code="502" name="TARANG"/>
+        <channel code="503" name="Star Pravah"/>
+        <channel code="504" name="SEITHIGAL"/>
+        <channel code="505" name="DIVYA"/>
+        <channel code="506" name="TV9 MUMBAI"/>
+        <channel code="507" name="Sri Sankara"/>
+        <channel code="508" name="Jan Sandesh"/>
+        <channel code="509" name="DY365"/>
+        <channel code="51" name="SKAI TV"/>
+        <channel code="510" name="365 DIN"/>
+        <channel code="511" name="RTV TELUGU"/>
+        <channel code="512" name="NEWS 9"/>
+        <channel code="513" name="LEHREN"/>
+        <channel code="514" name="Raj Musix Kannada"/>
+        <channel code="515" name="Love Music"/>
+        <channel code="516" name="Adithya TV"/>
+        <channel code="517" name="TV 1"/>
+        <channel code="518" name="I News"/>
+        <channel code="519" name="HM TV"/>
+        <channel code="52" name="GEMINI TV"/>
+        <channel code="520" name="V o I UP"/>
+        <channel code="521" name="Siripoli"/>
+        <channel code="522" name="V o I PHHP"/>
+        <channel code="523" name="Sakshi TV"/>
+        <channel code="524" name="Mahuaa News"/>
+        <channel code="525" name="Real"/>
+        <channel code="526" name="Focus TV"/>
+        <channel code="527" name="Hamar TV"/>
+        <channel code="528" name="WB"/>
+        <channel code="529" name="HY TV"/>
+        <channel code="53" name="VIJAY TV"/>
+        <channel code="530" name="PTC Chakde"/>
+        <channel code="531" name="Bizz News"/>
+        <channel code="532" name="Zee 24 Ghantalu"/>
+        <channel code="533" name="P7 news"/>
+        <channel code="534" name="Naxatra News"/>
+        <channel code="535" name="Ushe TV"/>
+        <channel code="536" name="GCV"/>
+        <channel code="537" name="Lee Music"/>
+        <channel code="538" name="Aastha Bhajan"/>
+        <channel code="539" name="Zee news Uttar Pradesh"/>
+        <channel code="54" name="CHINESE CHANNEL"/>
+        <channel code="540" name="Mahaa TV"/>
+        <channel code="541" name="Kushi TV"/>
+        <channel code="542" name="Chintu TV"/>
+        <channel code="543" name="Fox Crime"/>
+        <channel code="544" name="FX"/>
+        <channel code="545" name="Baby TV"/>
+        <channel code="546" name="Sobhagya"/>
+        <channel code="547" name="Tarang Music"/>
+        <channel code="548" name="Studio N"/>
+        <channel code="549" name="Khoj India"/>
+        <channel code="55" name="YES GUJARATI"/>
+        <channel code="550" name="Kamyab TV Oriya"/>
+        <channel code="551" name="Filmax"/>
+        <channel code="552" name="Sadhna News Bih Jharkh"/>
+        <channel code="553" name="Super Star Josh"/>
+        <channel code="554" name="ATV Telugu"/>
+        <channel code="555" name="NDTV Hindu"/>
+        <channel code="556" name="TV99 Rajasthan"/>
+        <channel code="557" name="TV-24"/>
+        <channel code="558" name="A2Z News"/>
+        <channel code="559" name="Madani Channel"/>
+        <channel code="56" name="SITI CABLE"/>
+        <channel code="560" name="Victers"/>
+        <channel code="561" name="ET Now"/>
+        <channel code="562" name="MOON TV"/>
+        <channel code="563" name="Aradana TV Telugu"/>
+        <channel code="564" name="Peace TV Urdu"/>
+        <channel code="565" name="Local TV(Only for Hyderabad)"/>
+        <channel code="566" name="Sobhagya Mithila"/>
+        <channel code="567" name="Rupashi Bangla"/>
+        <channel code="568" name="Katyayani TV"/>
+        <channel code="569" name="Kanak TV"/>
+        <channel code="571" name="Polimer TV"/>
+        <channel code="572" name="India News Haryana"/>
+        <channel code="573" name="ABN Andhra Jyothi"/>
+        <channel code="574" name="Bikas 365"/>
+        <channel code="575" name="RAFTAAR"/>
+        <channel code="576" name="Shopping Zone"/>
+        <channel code="577" name="Magik TV"/>
+        <channel code="578" name="SS Entertainment"/>
+        <channel code="579" name="Rang"/>
+        <channel code="580" name="UTV Action"/>
+        <channel code="582" name="Filmazia"/>
+        <channel code="583" name="Whats On India"/>
+        <channel code="584" name="Zee Salaam"/>
+        <channel code="585" name="Maurya"/>
+        <channel code="586" name="Discovery Science"/>
+        <channel code="587" name="Discovery Turbo"/>
+        <channel code="588" name="Time Today MP CG"/>
+        <channel code="589" name="Asianet Middle East"/>
+        <channel code="59" name="ESPN"/>
+        <channel code="590" name="Star Music"/>
+        <channel code="591" name="TBO"/>
+        <channel code="592" name="Raj News"/>
+        <channel code="593" name="India Talkies"/>
+        <channel code="594" name="Captain TV"/>
+        <channel code="595" name="Prarthana TV"/>
+        <channel code="596" name="Disha TV"/>
+        <channel code="597" name="Nilachakra Ekamra"/>
+        <channel code="598" name="News Time Bangla"/>
+        <channel code="599" name="Chithiram"/>
+        <channel code="6" name="STAR SPORTS"/>
+        <channel code="60" name="SONY ENTERTAINMENT TV"/>
+        <channel code="600" name="SAMAYA 24X7"/>
+        <channel code="601" name="CHANNEL UFX"/>
+        <channel code="602" name="Mastiii"/>
+        <channel code="603" name="Mahuaa Bangla"/>
+        <channel code="604" name="Vision Music"/>
+        <channel code="605" name="Star CJ Alive"/>
+        <channel code="606" name="Enterr10 Movies"/>
+        <channel code="607" name="Ten Cricket"/>
+        <channel code="608" name="Arihant"/>
+        <channel code="609" name="Day &amp; Night News"/>
+        <channel code="61" name="MTV"/>
+        <channel code="610" name="Ayur Living India"/>
+        <channel code="611" name="ACV (Only for Ker10L+)"/>
+        <channel code="612" name="Rosebowl (Only for Ker10L+)"/>
+        <channel code="613" name="Mahua Khabar"/>
+        <channel code="614" name="Paras Siti Plus TV"/>
+        <channel code="615" name="Lakshyya Entertainment"/>
+        <channel code="616" name="Ollywood TV"/>
+        <channel code="617" name="Ten Action+"/>
+        <channel code="618" name="Diva Universal"/>
+        <channel code="619" name="BIG CBS Prime"/>
+        <channel code="62" name="EENADU TV"/>
+        <channel code="620" name="Zee Khana Khazana"/>
+        <channel code="621" name="Sanatan TV"/>
+        <channel code="622" name="Sadhana News UTKH &amp; HP"/>
+        <channel code="623" name="Food First"/>
+        <channel code="624" name="India News Bihar &amp; Jharkhand"/>
+        <channel code="625" name="Dhoom Music"/>
+        <channel code="626" name="Movies Now"/>
+        <channel code="627" name="Mega Musiq"/>
+        <channel code="628" name="Mega 24"/>
+        <channel code="629" name="HBC News"/>
+        <channel code="630" name="Explore"/>
+        <channel code="631" name="Aalami Sahara"/>
+        <channel code="632" name="News Time Assam"/>
+        <channel code="633" name="Sada Channel"/>
+        <channel code="634" name="Aryan TV"/>
+        <channel code="635" name="FoodFood"/>
+        <channel code="636" name="Travel XP"/>
+        <channel code="637" name="7 Sea"/>
+        <channel code="638" name="Maa Movies"/>
+        <channel code="639" name="Maa Junior"/>
+        <channel code="64" name="DD14 RAJASTHAN"/>
+        <channel code="640" name="NGeo Music"/>
+        <channel code="641" name="Dhamaal"/>
+        <channel code="642" name="Dabangg"/>
+        <channel code="643" name="Janashri"/>
+        <channel code="644" name="BIG CBS Love"/>
+        <channel code="645" name="Buzz@Dish TV"/>
+        <channel code="646" name="T News"/>
+        <channel code="647" name="Bansal News"/>
+        <channel code="648" name="BIG MAGIC"/>
+        <channel code="649" name="BIG CBS Spark"/>
+        <channel code="65" name="MAX"/>
+        <channel code="650" name="Music Xpress"/>
+        <channel code="651" name="Reporter"/>
+        <channel code="652" name="M Tunes HD"/>
+        <channel code="653" name="MBCTV"/>
+        <channel code="654" name="STV Samachar"/>
+        <channel code="655" name="News 11"/>
+        <channel code="656" name="Athmeeya Yathra"/>
+        <channel code="657" name="Prime News"/>
+        <channel code="658" name="GNN News"/>
+        <channel code="659" name="UTV Action Telugu"/>
+        <channel code="66" name="NONCS CABLE SIGNAL"/>
+        <channel code="660" name="GNN Bhakti"/>
+        <channel code="661" name="Munsif TV"/>
+        <channel code="662" name="India News Rajasthan"/>
+        <channel code="663" name="Sananda TV"/>
+        <channel code="664" name="News Xpress"/>
+        <channel code="665" name="Discovery Channel Tamil"/>
+        <channel code="666" name="HIT 7"/>
+        <channel code="667" name="Peace TV Bangla"/>
+        <channel code="668" name="News Chakra"/>
+        <channel code="669" name="UTV Stars"/>
+        <channel code="67" name="DD NETWORK LUDHIANA"/>
+        <channel code="670" name="Kashish News"/>
+        <channel code="671" name="PUTHIYATHALAIMURAI TV"/>
+        <channel code="672" name="9X Tashan"/>
+        <channel code="673" name="Sony Mix"/>
+        <channel code="674" name="VTV Gujarati"/>
+        <channel code="675" name="Sathiyam TV"/>
+        <channel code="676" name="Darshan 24"/>
+        <channel code="677" name="History TV18"/>
+        <channel code="678" name="Rakshana TV"/>
+        <channel code="679" name="Kochu TV"/>
+        <channel code="68" name="MAHARISHI CHANNEL"/>
+        <channel code="680" name="Janta TV"/>
+        <channel code="681" name="Lord Buddha TV"/>
+        <channel code="682" name="9X Jhakaas"/>
+        <channel code="683" name="Mazhavil Manorama"/>
+        <channel code="684" name="Kasthuri Newz 24"/>
+        <channel code="685" name="Ramdhenu"/>
+        <channel code="686" name="Life OK"/>
+        <channel code="687" name="Khabar Bharti"/>
+        <channel code="688" name="Peppers"/>
+        <channel code="689" name="Sonic Nickelodeon"/>
+        <channel code="69" name="MCM"/>
+        <channel code="690" name="Frontier TV"/>
+        <channel code="691" name="Max Vision"/>
+        <channel code="692" name="Darshana 24"/>
+        <channel code="693" name="Xtra"/>
+        <channel code="694" name="BIG CBS SPARK Punjabi"/>
+        <channel code="695" name="Mahuaa Newsline UP UT"/>
+        <channel code="696" name="Comedy Central"/>
+        <channel code="697" name="India News Uttar Pradesh"/>
+        <channel code="698" name="Maa GOLD"/>
+        <channel code="699" name="PUBLiC TV"/>
+        <channel code="7" name="CHANNEL V"/>
+        <channel code="70" name="NNU5"/>
+        <channel code="700" name="9X Jalwa"/>
+        <channel code="702" name="ALJAZEERA"/>
+        <channel code="703" name="TEN GOLF"/>
+        <channel code="704" name="7S MUSIC"/>
+        <channel code="705" name="V6 NEWS"/>
+        <channel code="706" name="SONY SIX"/>
+        <channel code="707" name="KHABRAIN ABHI TAK"/>
+        <channel code="708" name="Pearls Punjabi"/>
+        <channel code="709" name="9XO"/>
+        <channel code="71" name="NATIONAL GEOGRAPHIC CHANNEL"/>
+        <channel code="710" name="SOHAM"/>
+        <channel code="711" name="Movies OK"/>
+        <channel code="712" name="THENDREL"/>
+        <channel code="713" name="CINEMA TV"/>
+        <channel code="714" name="DK Discovery Kids"/>
+        <channel code="715" name="RVS TV"/>
+        <channel code="716" name="NEO PRIME"/>
+        <channel code="717" name="MURASU"/>
+        <channel code="718" name="RPLUS GOLD"/>
+        <channel code="719" name="TEN ACTION"/>
+        <channel code="72" name="RTP"/>
+        <channel code="720" name="TRAVEL TRENDZ"/>
+        <channel code="721" name="J MOVIE"/>
+        <channel code="722" name="ASIANET MOVIES"/>
+        <channel code="723" name="CHANNEL 2"/>
+        <channel code="724" name="SHRI NEWS"/>
+        <channel code="725" name="GTV SPV"/>
+        <channel code="726" name="BULAND NEWS SAMACHAR PLUS UP UT"/>
+        <channel code="727" name="SEA NEWS UP UT"/>
+        <channel code="728" name="HUMMRA M"/>
+        <channel code="729" name="SUN LIFE"/>
+        <channel code="73" name="ATN BANGLA"/>
+        <channel code="730" name="GEMINI ACTION"/>
+        <channel code="731" name="GEMINI LIFE"/>
+        <channel code="732" name="SUN ACTION"/>
+        <channel code="733" name="SURIYAN"/>
+        <channel code="734" name="SURYA ACTION"/>
+        <channel code="735" name="SUPER TV"/>
+        <channel code="736" name="C NEWS"/>
+        <channel code="737" name="Dangal"/>
+        <channel code="738" name="anjan"/>
+        <channel code="739" name="OM Bangla"/>
+        <channel code="74" name="HALLMARK CHANNEL"/>
+        <channel code="740" name="Z Bangla Cinema"/>
+        <channel code="741" name="JAN TV"/>
+        <channel code="742" name="CVR News"/>
+        <channel code="743" name="CVR Health"/>
+        <channel code="744" name="Lotus News"/>
+        <channel code="745" name="Disney Junior"/>
+        <channel code="746" name="DD Vyas UGC - GEC"/>
+        <channel code="747" name="Fox Action Movies"/>
+        <channel code="748" name="THANTHI TV"/>
+        <channel code="749" name="Channel One News"/>
+        <channel code="75" name="SURYA TV"/>
+        <channel code="750" name="KHUSHBOO TV"/>
+        <channel code="76" name="STAR WORLD"/>
+        <channel code="761" name="nick jr.nickelodeon"/>
+        <channel code="762" name="India News MP CH"/>
+        <channel code="763" name="Jalsha Movies"/>
+        <channel code="764" name="THRILL BIG RTL"/>
+        <channel code="765" name="Sandesh News"/>
+        <channel code="766" name="GSTV"/>
+        <channel code="767" name="Satya"/>
+        <channel code="768" name="Mangal Kalash"/>
+        <channel code="769" name="2 Gyan Darshan"/>
+        <channel code="77" name="CCTV"/>
+        <channel code="770" name="4 REAL NEWS"/>
+        <channel code="771" name="ZQ"/>
+        <channel code="772" name="Mathrubhumi News"/>
+        <channel code="773" name="BIG MAGIC BIHAR and JHARK"/>
+        <channel code="774" name="PEARLS NCR"/>
+        <channel code="775" name="OSCAR MOVIES BHOJPURI"/>
+        <channel code="776" name="PRAG"/>
+        <channel code="777" name="MEDIA ONE"/>
+        <channel code="778" name="Kappa TV"/>
+        <channel code="779" name="NEWS NATION"/>
+        <channel code="78" name="TV 5"/>
+        <channel code="780" name="Star Sports2"/>
+        <channel code="781" name="10 TV"/>
+        <channel code="782" name="IBC24"/>
+        <channel code="783" name="Planet m CINEMA"/>
+        <channel code="79" name="CALCUTTA CABLE NETWORK"/>
+        <channel code="8" name="STAR MOVIES"/>
+        <channel code="80" name="CSPAN"/>
+        <channel code="81" name="CHANNEL GUIDE"/>
+        <channel code="810" name="HBO DEFINED"/>
+        <channel code="811" name="HBO HITS"/>
+        <channel code="812" name="RK NEWS"/>
+        <channel code="813" name="Raj News Kannada"/>
+        <channel code="814" name="RKM GOLD"/>
+        <channel code="815" name="Naxatra News Bihar Jharkhand"/>
+        <channel code="816" name="Z 24 Ghante Madhya Pradesh Chhattisgarh"/>
+        <channel code="817" name="Jai Maharashtra"/>
+        <channel code="818" name="GOODNESS "/>
+        <channel code="819" name="Pearls Madhya Pradesh Chattisgarh"/>
+        <channel code="82" name="TEST SIGNAL CHANNEL"/>
+        <channel code="820" name="Khabar Fast"/>
+        <channel code="821" name="Rengoni"/>
+        <channel code="822" name="Shagun TV"/>
+        <channel code="823" name="VON VOICE OF NATION"/>
+        <channel code="824" name="TOPPER"/>
+        <channel code="825" name="Shalini TV"/>
+        <channel code="826" name="MKTV"/>
+        <channel code="827" name="Plus Suvarna"/>
+        <channel code="828" name="High News"/>
+        <channel code="829" name="Z Rajasthan Plus Marudhara"/>
+        <channel code="83" name="CCC CINE CABLE CHANNEL"/>
+        <channel code="830" name="Manoranjan Music"/>
+        <channel code="831" name="&amp;pictures"/>
+        <channel code="832" name="SURYA MUSIC"/>
+        <channel code="833" name="insync"/>
+        <channel code="834" name="TOLLYWOOD"/>
+        <channel code="835" name="Z Anmol"/>
+        <channel code="836" name="COMSAT TV7 HEALTH PLANET"/>
+        <channel code="837" name="MaiBoli"/>
+        <channel code="838" name="Samachar PLUS Rajasthan"/>
+        <channel code="839" name="K News 24x7 UP UT Khabron Ka Sarathi"/>
+        <channel code="84" name="AXN"/>
+        <channel code="840" name="Romedy NOW"/>
+        <channel code="841" name="CINE 21"/>
+        <channel code="842" name="Polimer News"/>
+        <channel code="843" name="Puthuyugam"/>
+        <channel code="844" name="JIA NEWS"/>
+        <channel code="845" name="Bhakti Sagar"/>
+        <channel code="846" name="Polimer Kannada"/>
+        <channel code="85" name="PUNJAB WORLD"/>
+        <channel code="86" name="VATSA"/>
+        <channel code="87" name="DD SPORTS"/>
+        <channel code="88" name="RAJ DIGITAL PLUS"/>
+        <channel code="89" name="ANIMAL PLANET"/>
+        <channel code="9" name="CNN"/>
+        <channel code="90" name="DW"/>
+        <channel code="91" name="FALAK"/>
+        <channel code="92" name="FASHION TV"/>
+        <channel code="93" name="GURJARI"/>
+        <channel code="94" name="KERMIT"/>
+        <channel code="95" name="LASHKARA"/>
+        <channel code="96" name="CHANNEL SITI"/>
+        <channel code="97" name="NILA TV"/>
+        <channel code="98" name="ZEE MARATHI"/>
+        <channel code="99" name="DD NEWS"/>
+        <channel code="999" name="NON REPORTED CHANNEL"/>
+    </channel>

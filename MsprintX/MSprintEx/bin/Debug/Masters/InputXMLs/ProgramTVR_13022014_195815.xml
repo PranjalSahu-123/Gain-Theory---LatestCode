@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<input>
+  <pre-eval-period>
+    <startdate>20131001</startdate>
+    <enddate>20131031</enddate>
+  </pre-eval-period>
+  <day_parts></day_parts>
+  <TG_MG name="CHANDRIKA TG~Kerala" type="Planning">
+    <tg name="CHANDRIKA TG">
+      <cs>1</cs>
+      <sec>1,2,3</sec>
+      <sex>2</sex>
+      <age>4,5</age>
+    </tg>
+    <mg name="Kerala" type="Group">
+      <market>H</market>
+      <market>I</market>
+    </mg>
+    <calc logic="ProgTVR" display="week-wise" />
+    <num_programs>100</num_programs>
+    <channel code="268" name="ZEE TELUGU" />
+    <channel code="198" name="MAA TELUGU" />
+    <channel code="123" name="TEJA TV" />
+    <channel code="459" name="SUVARNA NEWS" />
+    <channel code="242" name="TV9 TELUGU NEWS" />
+  </TG_MG>
+  <TG_MG name="CHANDRIKA TG~SouthStates" type="Planning">
+    <tg name="CHANDRIKA TG">
+      <cs>1</cs>
+      <sec>1,2,3</sec>
+      <sex>2</sex>
+      <age>4,5</age>
+    </tg>
+    <mg name="SouthStates" type="Group">
+      <market>8</market>
+      <market>9</market>
+      <market>G</market>
+      <market>H</market>
+      <market>I</market>
+      <market>Q</market>
+      <market>R</market>
+    </mg>
+    <calc logic="ProgTVR" display="week-wise" />
+    <num_programs>100</num_programs>
+    <channel code="268" name="ZEE TELUGU" />
+    <channel code="198" name="MAA TELUGU" />
+    <channel code="123" name="TEJA TV" />
+    <channel code="459" name="SUVARNA NEWS" />
+    <channel code="242" name="TV9 TELUGU NEWS" />
+  </TG_MG>
+  <TG_MG name="CS 15-24 A~SouthStates" type="Reference">
+    <tg name="CS 15-24 A">
+      <cs>1</cs>
+      <sec>1</sec>
+      <sex>1,2</sex>
+      <age>3</age>
+    </tg>
+    <mg name="SouthStates" type="Group">
+      <market>8</market>
+      <market>9</market>
+      <market>G</market>
+      <market>H</market>
+      <market>I</market>
+      <market>Q</market>
+      <market>R</market>
+    </mg>
+    <calc logic="ProgTVR" display="week-wise" />
+    <num_programs>100</num_programs>
+    <channel code="268" name="ZEE TELUGU" />
+    <channel code="198" name="MAA TELUGU" />
+    <channel code="123" name="TEJA TV" />
+    <channel code="459" name="SUVARNA NEWS" />
+    <channel code="242" name="TV9 TELUGU NEWS" />
+  </TG_MG>
+  <TG_MG name="CS 15-24 A~Kerala" type="Reference">
+    <tg name="CS 15-24 A">
+      <cs>1</cs>
+      <sec>1</sec>
+      <sex>1,2</sex>
+      <age>3</age>
+    </tg>
+    <mg name="Kerala" type="Group">
+      <market>H</market>
+      <market>I</market>
+    </mg>
+    <calc logic="ProgTVR" display="week-wise" />
+    <num_programs>100</num_programs>
+    <channel code="268" name="ZEE TELUGU" />
+    <channel code="198" name="MAA TELUGU" />
+    <channel code="123" name="TEJA TV" />
+    <channel code="459" name="SUVARNA NEWS" />
+    <channel code="242" name="TV9 TELUGU NEWS" />
+  </TG_MG>
+</input>

@@ -1,0 +1,699 @@
+C:\MSprintEx\MSprintEx\bin\Debug\dbBrkPerf.sdf
+C:\MSprintEx\MSprintEx\bin\Debug\MSprintEx.dll.config
+C:\MSprintEx\MSprintEx\bin\Debug\MSprintEx.dll
+C:\MSprintEx\MSprintEx\bin\Debug\MSprintEx.pdb
+C:\MSprintEx\MSprintEx\bin\Debug\MSprintEx.xml
+C:\MSprintEx\MSprintEx\bin\Debug\MSprintEx.dll.manifest
+C:\MSprintEx\MSprintEx\bin\Debug\MSprintEx.vsto
+C:\MSprintEx\MSprintEx\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\MSprintEx\MSprintEx\bin\Debug\System.Web.Http.dll
+C:\MSprintEx\MSprintEx\bin\Debug\System.Net.Http.dll
+C:\MSprintEx\MSprintEx\bin\Debug\System.Net.Http.Formatting.dll
+C:\MSprintEx\MSprintEx\bin\Debug\System.Web.Http.xml
+C:\MSprintEx\MSprintEx\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.xml
+C:\MSprintEx\MSprintEx\bin\Debug\System.Net.Http.xml
+C:\MSprintEx\MSprintEx\bin\Debug\System.Net.Http.Formatting.xml
+C:\MSprintEx\MSprintEx\obj\Debug\MSprintEx.ChannelMapping.resources
+C:\MSprintEx\MSprintEx\obj\Debug\MSprintEx.DataErrors.resources
+C:\MSprintEx\MSprintEx\obj\Debug\MSprintEx.frmFilterChannels.resources
+C:\MSprintEx\MSprintEx\obj\Debug\MSprintEx.GenreShareForm.resources
+C:\MSprintEx\MSprintEx\obj\Debug\MSprintEx.MSprintExRibbon.resources
+C:\MSprintEx\MSprintEx\obj\Debug\MSprintEx.TaskPaneLogFile.resources
+C:\MSprintEx\MSprintEx\obj\Debug\MSprintEx.tpMediaPlan.resources
+C:\MSprintEx\MSprintEx\obj\Debug\MSprintEx.ucAudience.resources
+C:\MSprintEx\MSprintEx\obj\Debug\MSprintEx.ucChannelShare.resources
+C:\MSprintEx\MSprintEx\obj\Debug\MSprintEx.ucMarkets.resources
+C:\MSprintEx\MSprintEx\obj\Debug\MSprintEx.ucMkets.resources
+C:\MSprintEx\MSprintEx\obj\Debug\MSprintEx.ucPlanSelections.resources
+C:\MSprintEx\MSprintEx\obj\Debug\MSprintEx.ucSelections.resources
+C:\MSprintEx\MSprintEx\obj\Debug\MSprintEx.ucSpotSelection.resources
+C:\MSprintEx\MSprintEx\obj\Debug\MSprintEx.ucTopPrograms.resources
+C:\MSprintEx\MSprintEx\obj\Debug\MSprintEx.UserControlCshare.resources
+C:\MSprintEx\MSprintEx\obj\Debug\MSprintEx.Resources.resources
+C:\MSprintEx\MSprintEx\obj\Debug\MSprintEx.vbproj.GenerateResource.Cache
+C:\MSprintEx\MSprintEx\obj\Debug\MSprintEx.dll
+C:\MSprintEx\MSprintEx\obj\Debug\MSprintEx.xml
+C:\MSprintEx\MSprintEx\obj\Debug\MSprintEx.pdb
+C:\MSprintEx\MSprintEx\obj\Debug\MSprintEx.ucTVRScreen.resources
+C:\MSprintEx\MSprintEx\obj\Debug\MSprintEx.TVRForm.resources
+D:\Work\3Jan\MSprintEx\MSprintEx\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+D:\Work\3Jan\MSprintEx\MSprintEx\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.xml
+D:\Work\3Jan\MSprintEx\MSprintEx\obj\Debug\ResolveAssemblyReference.cache
+D:\Work\3Jan\MSprintEx\MSprintEx\obj\Debug\MSprintEx.ChannelMapping.resources
+D:\Work\3Jan\MSprintEx\MSprintEx\obj\Debug\MSprintEx.DataErrors.resources
+D:\Work\3Jan\MSprintEx\MSprintEx\obj\Debug\MSprintEx.frmFilterChannels.resources
+D:\Work\3Jan\MSprintEx\MSprintEx\obj\Debug\MSprintEx.GenreShareForm.resources
+D:\Work\3Jan\MSprintEx\MSprintEx\obj\Debug\MSprintEx.MSprintExRibbon.resources
+D:\Work\3Jan\MSprintEx\MSprintEx\obj\Debug\MSprintEx.TaskPaneLogFile.resources
+D:\Work\3Jan\MSprintEx\MSprintEx\obj\Debug\MSprintEx.tpMediaPlan.resources
+D:\Work\3Jan\MSprintEx\MSprintEx\obj\Debug\MSprintEx.TVRForm.resources
+D:\Work\3Jan\MSprintEx\MSprintEx\obj\Debug\MSprintEx.ucAudience.resources
+D:\Work\3Jan\MSprintEx\MSprintEx\obj\Debug\MSprintEx.ucChannelShare.resources
+D:\Work\3Jan\MSprintEx\MSprintEx\obj\Debug\MSprintEx.ucMarkets.resources
+D:\Work\3Jan\MSprintEx\MSprintEx\obj\Debug\MSprintEx.ucMkets.resources
+D:\Work\3Jan\MSprintEx\MSprintEx\obj\Debug\MSprintEx.ucPlanSelections.resources
+D:\Work\3Jan\MSprintEx\MSprintEx\obj\Debug\MSprintEx.ucSelections.resources
+D:\Work\3Jan\MSprintEx\MSprintEx\obj\Debug\MSprintEx.ucSpotSelection.resources
+D:\Work\3Jan\MSprintEx\MSprintEx\obj\Debug\MSprintEx.ucTopPrograms.resources
+D:\Work\3Jan\MSprintEx\MSprintEx\obj\Debug\MSprintEx.ucTVRScreen.resources
+D:\Work\3Jan\MSprintEx\MSprintEx\obj\Debug\MSprintEx.UserControlCshare.resources
+D:\Work\3Jan\MSprintEx\MSprintEx\obj\Debug\MSprintEx.Resources.resources
+D:\Work\3Jan\MSprintEx\MSprintEx\obj\Debug\GenerateResource.read.1.tlog
+D:\Work\3Jan\MSprintEx\MSprintEx\obj\Debug\GenerateResource.write.1.tlog
+D:\Work\3Jan\MSprintEx\MSprintEx\obj\Debug\MSprintEx.dll
+D:\Work\3Jan\MSprintEx\MSprintEx\obj\Debug\MSprintEx.xml
+D:\Work\3Jan\MSprintEx\MSprintEx\obj\Debug\MSprintEx.pdb
+D:\Work\3Jan\MSprintEx\MSprintEx\bin\Debug\MSprintEx.dll.config
+D:\Work\3Jan\MSprintEx\MSprintEx\bin\Debug\MSprintEx.dll
+D:\Work\3Jan\MSprintEx\MSprintEx\bin\Debug\MSprintEx.pdb
+D:\Work\3Jan\MSprintEx\MSprintEx\bin\Debug\MSprintEx.xml
+D:\Work\3Jan\MSprintEx\MSprintEx\bin\Debug\MSprintEx.dll.manifest
+D:\Work\3Jan\MSprintEx\MSprintEx\bin\Debug\MSprintEx.vsto
+D:\Work\3Jan\MSprintEx\MSprintEx\obj\Debug\MSprintEx.frmWait.resources
+D:\Work\3Jan\MSprintEx\MSprintEx\obj\Debug\MSprintEx.ucChannels.resources
+D:\Work\3Jan\MSprintEx\MSprintEx\obj\Debug\MSprintEx.UcGenres.resources
+D:\Work\3Jan\MSprintEx\MSprintEx\obj\Debug\GenerateResource.write.297.tlog
+D:\Work\3Jan\MSprintEx\MSprintEx\obj\Debug\GenerateResource.write.314.tlog
+D:\Work\3Jan\MSprintEx\MSprintEx\obj\Debug\GenerateResource.write.372.tlog
+C:\6Jan\MSprintEx\MSprintEx\bin\Debug\MSprintEx.dll.config
+C:\6Jan\MSprintEx\MSprintEx\bin\Debug\MSprintEx.dll
+C:\6Jan\MSprintEx\MSprintEx\bin\Debug\MSprintEx.pdb
+C:\6Jan\MSprintEx\MSprintEx\bin\Debug\MSprintEx.xml
+C:\6Jan\MSprintEx\MSprintEx\bin\Debug\MSprintEx.dll.manifest
+C:\6Jan\MSprintEx\MSprintEx\bin\Debug\MSprintEx.vsto
+C:\6Jan\MSprintEx\MSprintEx\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\6Jan\MSprintEx\MSprintEx\bin\Debug\System.Web.Http.dll
+C:\6Jan\MSprintEx\MSprintEx\bin\Debug\System.Net.Http.dll
+C:\6Jan\MSprintEx\MSprintEx\bin\Debug\System.Net.Http.Formatting.dll
+C:\6Jan\MSprintEx\MSprintEx\bin\Debug\System.Web.Http.xml
+C:\6Jan\MSprintEx\MSprintEx\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.xml
+C:\6Jan\MSprintEx\MSprintEx\bin\Debug\System.Net.Http.xml
+C:\6Jan\MSprintEx\MSprintEx\bin\Debug\System.Net.Http.Formatting.xml
+C:\6Jan\MSprintEx\MSprintEx\obj\Debug\MSprintEx.ChannelMapping.resources
+C:\6Jan\MSprintEx\MSprintEx\obj\Debug\MSprintEx.DataErrors.resources
+C:\6Jan\MSprintEx\MSprintEx\obj\Debug\MSprintEx.frmFilterChannels.resources
+C:\6Jan\MSprintEx\MSprintEx\obj\Debug\MSprintEx.frmWait.resources
+C:\6Jan\MSprintEx\MSprintEx\obj\Debug\MSprintEx.GenreShareForm.resources
+C:\6Jan\MSprintEx\MSprintEx\obj\Debug\MSprintEx.MSprintExRibbon.resources
+C:\6Jan\MSprintEx\MSprintEx\obj\Debug\MSprintEx.TaskPaneLogFile.resources
+C:\6Jan\MSprintEx\MSprintEx\obj\Debug\MSprintEx.tpMediaPlan.resources
+C:\6Jan\MSprintEx\MSprintEx\obj\Debug\MSprintEx.TVRForm.resources
+C:\6Jan\MSprintEx\MSprintEx\obj\Debug\MSprintEx.ucAudience.resources
+C:\6Jan\MSprintEx\MSprintEx\obj\Debug\MSprintEx.ucChannels.resources
+C:\6Jan\MSprintEx\MSprintEx\obj\Debug\MSprintEx.ucChannelShare.resources
+C:\6Jan\MSprintEx\MSprintEx\obj\Debug\MSprintEx.UcGenres.resources
+C:\6Jan\MSprintEx\MSprintEx\obj\Debug\MSprintEx.ucMarkets.resources
+C:\6Jan\MSprintEx\MSprintEx\obj\Debug\MSprintEx.ucMkets.resources
+C:\6Jan\MSprintEx\MSprintEx\obj\Debug\MSprintEx.ucPlanSelections.resources
+C:\6Jan\MSprintEx\MSprintEx\obj\Debug\MSprintEx.ucSelections.resources
+C:\6Jan\MSprintEx\MSprintEx\obj\Debug\MSprintEx.ucSpotSelection.resources
+C:\6Jan\MSprintEx\MSprintEx\obj\Debug\MSprintEx.ucTopPrograms.resources
+C:\6Jan\MSprintEx\MSprintEx\obj\Debug\MSprintEx.ucTVRScreen.resources
+C:\6Jan\MSprintEx\MSprintEx\obj\Debug\MSprintEx.UserControlCshare.resources
+C:\6Jan\MSprintEx\MSprintEx\obj\Debug\MSprintEx.Resources.resources
+C:\6Jan\MSprintEx\MSprintEx\obj\Debug\MSprintEx.vbproj.GenerateResource.Cache
+C:\6Jan\MSprintEx\MSprintEx\obj\Debug\MSprintEx.dll
+C:\6Jan\MSprintEx\MSprintEx\obj\Debug\MSprintEx.xml
+C:\6Jan\MSprintEx\MSprintEx\obj\Debug\MSprintEx.pdb
+D:\Work\MSprintEx_9Jan\MSprintEx\bin\Debug\MSprintEx.dll.config
+D:\Work\MSprintEx_9Jan\MSprintEx\bin\Debug\MSprintEx.dll
+D:\Work\MSprintEx_9Jan\MSprintEx\bin\Debug\MSprintEx.pdb
+D:\Work\MSprintEx_9Jan\MSprintEx\bin\Debug\MSprintEx.xml
+D:\Work\MSprintEx_9Jan\MSprintEx\bin\Debug\MSprintEx.dll.manifest
+D:\Work\MSprintEx_9Jan\MSprintEx\bin\Debug\MSprintEx.vsto
+D:\Work\MSprintEx_9Jan\MSprintEx\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+D:\Work\MSprintEx_9Jan\MSprintEx\bin\Debug\System.Net.Http.dll
+D:\Work\MSprintEx_9Jan\MSprintEx\bin\Debug\System.Net.Http.Formatting.dll
+D:\Work\MSprintEx_9Jan\MSprintEx\bin\Debug\System.Web.Http.xml
+D:\Work\MSprintEx_9Jan\MSprintEx\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.xml
+D:\Work\MSprintEx_9Jan\MSprintEx\bin\Debug\System.Net.Http.xml
+D:\Work\MSprintEx_9Jan\MSprintEx\bin\Debug\System.Net.Http.Formatting.xml
+D:\Work\MSprintEx_9Jan\MSprintEx\obj\Debug\ResolveAssemblyReference.cache
+D:\Work\MSprintEx_9Jan\MSprintEx\obj\Debug\MSprintEx.ChannelMapping.resources
+D:\Work\MSprintEx_9Jan\MSprintEx\obj\Debug\MSprintEx.DataErrors.resources
+D:\Work\MSprintEx_9Jan\MSprintEx\obj\Debug\MSprintEx.frmFilterChannels.resources
+D:\Work\MSprintEx_9Jan\MSprintEx\obj\Debug\MSprintEx.frmWait.resources
+D:\Work\MSprintEx_9Jan\MSprintEx\obj\Debug\MSprintEx.GenreShareForm.resources
+D:\Work\MSprintEx_9Jan\MSprintEx\obj\Debug\MSprintEx.MSprintExRibbon.resources
+D:\Work\MSprintEx_9Jan\MSprintEx\obj\Debug\MSprintEx.TaskPaneLogFile.resources
+D:\Work\MSprintEx_9Jan\MSprintEx\obj\Debug\MSprintEx.tpMediaPlan.resources
+D:\Work\MSprintEx_9Jan\MSprintEx\obj\Debug\MSprintEx.TVRForm.resources
+D:\Work\MSprintEx_9Jan\MSprintEx\obj\Debug\MSprintEx.ucAudience.resources
+D:\Work\MSprintEx_9Jan\MSprintEx\obj\Debug\MSprintEx.ucChannels.resources
+D:\Work\MSprintEx_9Jan\MSprintEx\obj\Debug\MSprintEx.ucChannelShare.resources
+D:\Work\MSprintEx_9Jan\MSprintEx\obj\Debug\MSprintEx.UcGenres.resources
+D:\Work\MSprintEx_9Jan\MSprintEx\obj\Debug\MSprintEx.ucMarkets.resources
+D:\Work\MSprintEx_9Jan\MSprintEx\obj\Debug\MSprintEx.ucMkets.resources
+D:\Work\MSprintEx_9Jan\MSprintEx\obj\Debug\MSprintEx.ucPlanSelections.resources
+D:\Work\MSprintEx_9Jan\MSprintEx\obj\Debug\MSprintEx.ucSelections.resources
+D:\Work\MSprintEx_9Jan\MSprintEx\obj\Debug\MSprintEx.ucSpotSelection.resources
+D:\Work\MSprintEx_9Jan\MSprintEx\obj\Debug\MSprintEx.ucTopPrograms.resources
+D:\Work\MSprintEx_9Jan\MSprintEx\obj\Debug\MSprintEx.ucTVRScreen.resources
+D:\Work\MSprintEx_9Jan\MSprintEx\obj\Debug\MSprintEx.UserControlCshare.resources
+D:\Work\MSprintEx_9Jan\MSprintEx\obj\Debug\MSprintEx.Resources.resources
+D:\Work\MSprintEx_9Jan\MSprintEx\obj\Debug\GenerateResource.read.1.tlog
+D:\Work\MSprintEx_9Jan\MSprintEx\obj\Debug\GenerateResource.write.1.tlog
+D:\Work\MSprintEx_9Jan\MSprintEx\obj\Debug\GenerateResource.write.297.tlog
+D:\Work\MSprintEx_9Jan\MSprintEx\obj\Debug\GenerateResource.write.314.tlog
+D:\Work\MSprintEx_9Jan\MSprintEx\obj\Debug\GenerateResource.write.372.tlog
+D:\Work\MSprintEx_9Jan\MSprintEx\obj\Debug\MSprintEx.dll
+D:\Work\MSprintEx_9Jan\MSprintEx\obj\Debug\MSprintEx.xml
+D:\Work\MSprintEx_9Jan\MSprintEx\obj\Debug\MSprintEx.pdb
+C:\MSprintEx\MSprintEx_10jan\MSprintEx\bin\Debug\MSprintEx.dll.config
+C:\MSprintEx\MSprintEx_10jan\MSprintEx\bin\Debug\MSprintEx.dll
+C:\MSprintEx\MSprintEx_10jan\MSprintEx\bin\Debug\MSprintEx.pdb
+C:\MSprintEx\MSprintEx_10jan\MSprintEx\bin\Debug\MSprintEx.xml
+C:\MSprintEx\MSprintEx_10jan\MSprintEx\bin\Debug\MSprintEx.dll.manifest
+C:\MSprintEx\MSprintEx_10jan\MSprintEx\bin\Debug\MSprintEx.vsto
+C:\MSprintEx\MSprintEx_10jan\MSprintEx\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\MSprintEx\MSprintEx_10jan\MSprintEx\bin\Debug\System.Web.Http.dll
+C:\MSprintEx\MSprintEx_10jan\MSprintEx\bin\Debug\System.Net.Http.dll
+C:\MSprintEx\MSprintEx_10jan\MSprintEx\bin\Debug\System.Net.Http.Formatting.dll
+C:\MSprintEx\MSprintEx_10jan\MSprintEx\bin\Debug\System.Web.Http.xml
+C:\MSprintEx\MSprintEx_10jan\MSprintEx\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.xml
+C:\MSprintEx\MSprintEx_10jan\MSprintEx\bin\Debug\System.Net.Http.xml
+C:\MSprintEx\MSprintEx_10jan\MSprintEx\bin\Debug\System.Net.Http.Formatting.xml
+C:\MSprintEx\MSprintEx_10jan\MSprintEx\obj\Debug\MSprintEx.ChannelMapping.resources
+C:\MSprintEx\MSprintEx_10jan\MSprintEx\obj\Debug\MSprintEx.DataErrors.resources
+C:\MSprintEx\MSprintEx_10jan\MSprintEx\obj\Debug\MSprintEx.frmFilterChannels.resources
+C:\MSprintEx\MSprintEx_10jan\MSprintEx\obj\Debug\MSprintEx.frmWait.resources
+C:\MSprintEx\MSprintEx_10jan\MSprintEx\obj\Debug\MSprintEx.GenreShareForm.resources
+C:\MSprintEx\MSprintEx_10jan\MSprintEx\obj\Debug\MSprintEx.MSprintExRibbon.resources
+C:\MSprintEx\MSprintEx_10jan\MSprintEx\obj\Debug\MSprintEx.TaskPaneLogFile.resources
+C:\MSprintEx\MSprintEx_10jan\MSprintEx\obj\Debug\MSprintEx.tpMediaPlan.resources
+C:\MSprintEx\MSprintEx_10jan\MSprintEx\obj\Debug\MSprintEx.TVRForm.resources
+C:\MSprintEx\MSprintEx_10jan\MSprintEx\obj\Debug\MSprintEx.ucAudience.resources
+C:\MSprintEx\MSprintEx_10jan\MSprintEx\obj\Debug\MSprintEx.ucChannels.resources
+C:\MSprintEx\MSprintEx_10jan\MSprintEx\obj\Debug\MSprintEx.ucChannelShare.resources
+C:\MSprintEx\MSprintEx_10jan\MSprintEx\obj\Debug\MSprintEx.UcGenres.resources
+C:\MSprintEx\MSprintEx_10jan\MSprintEx\obj\Debug\MSprintEx.ucMarkets.resources
+C:\MSprintEx\MSprintEx_10jan\MSprintEx\obj\Debug\MSprintEx.ucMkets.resources
+C:\MSprintEx\MSprintEx_10jan\MSprintEx\obj\Debug\MSprintEx.ucPlanSelections.resources
+C:\MSprintEx\MSprintEx_10jan\MSprintEx\obj\Debug\MSprintEx.ucSelections.resources
+C:\MSprintEx\MSprintEx_10jan\MSprintEx\obj\Debug\MSprintEx.ucSpotSelection.resources
+C:\MSprintEx\MSprintEx_10jan\MSprintEx\obj\Debug\MSprintEx.ucTopPrograms.resources
+C:\MSprintEx\MSprintEx_10jan\MSprintEx\obj\Debug\MSprintEx.ucTVRScreen.resources
+C:\MSprintEx\MSprintEx_10jan\MSprintEx\obj\Debug\MSprintEx.UserControlCshare.resources
+C:\MSprintEx\MSprintEx_10jan\MSprintEx\obj\Debug\MSprintEx.Resources.resources
+C:\MSprintEx\MSprintEx_10jan\MSprintEx\obj\Debug\MSprintEx.vbproj.GenerateResource.Cache
+C:\MSprintEx\MSprintEx_10jan\MSprintEx\obj\Debug\MSprintEx.dll
+C:\MSprintEx\MSprintEx_10jan\MSprintEx\obj\Debug\MSprintEx.xml
+C:\MSprintEx\MSprintEx_10jan\MSprintEx\obj\Debug\MSprintEx.pdb
+D:\Projects\MSprintEx\bin\Debug\MSprintEx.dll.config
+D:\Projects\MSprintEx\bin\Debug\MSprintEx.dll
+D:\Projects\MSprintEx\bin\Debug\MSprintEx.pdb
+D:\Projects\MSprintEx\bin\Debug\MSprintEx.xml
+D:\Projects\MSprintEx\bin\Debug\MSprintEx.dll.manifest
+D:\Projects\MSprintEx\bin\Debug\MSprintEx.vsto
+D:\Projects\MSprintEx\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+D:\Projects\MSprintEx\bin\Debug\System.Web.Http.dll
+D:\Projects\MSprintEx\bin\Debug\System.Net.Http.dll
+D:\Projects\MSprintEx\bin\Debug\System.Net.Http.Formatting.dll
+D:\Projects\MSprintEx\bin\Debug\System.Web.Http.xml
+D:\Projects\MSprintEx\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.xml
+D:\Projects\MSprintEx\bin\Debug\System.Net.Http.xml
+D:\Projects\MSprintEx\bin\Debug\System.Net.Http.Formatting.xml
+D:\Projects\MSprintEx\obj\Debug\MSprintEx.ChannelMapping.resources
+D:\Projects\MSprintEx\obj\Debug\MSprintEx.DataErrors.resources
+D:\Projects\MSprintEx\obj\Debug\MSprintEx.frmFilterChannels.resources
+D:\Projects\MSprintEx\obj\Debug\MSprintEx.frmWait.resources
+D:\Projects\MSprintEx\obj\Debug\MSprintEx.GenreShareForm.resources
+D:\Projects\MSprintEx\obj\Debug\MSprintEx.MSprintExRibbon.resources
+D:\Projects\MSprintEx\obj\Debug\MSprintEx.TaskPaneLogFile.resources
+D:\Projects\MSprintEx\obj\Debug\MSprintEx.tpMediaPlan.resources
+D:\Projects\MSprintEx\obj\Debug\MSprintEx.TVRForm.resources
+D:\Projects\MSprintEx\obj\Debug\MSprintEx.ucAudience.resources
+D:\Projects\MSprintEx\obj\Debug\MSprintEx.ucChannels.resources
+D:\Projects\MSprintEx\obj\Debug\MSprintEx.ucChannelShare.resources
+D:\Projects\MSprintEx\obj\Debug\MSprintEx.UcGenres.resources
+D:\Projects\MSprintEx\obj\Debug\MSprintEx.ucMarkets.resources
+D:\Projects\MSprintEx\obj\Debug\MSprintEx.ucMkets.resources
+D:\Projects\MSprintEx\obj\Debug\MSprintEx.ucPlanSelections.resources
+D:\Projects\MSprintEx\obj\Debug\MSprintEx.ucSelections.resources
+D:\Projects\MSprintEx\obj\Debug\MSprintEx.ucSpotSelection.resources
+D:\Projects\MSprintEx\obj\Debug\MSprintEx.ucTopPrograms.resources
+D:\Projects\MSprintEx\obj\Debug\MSprintEx.ucTVRScreen.resources
+D:\Projects\MSprintEx\obj\Debug\MSprintEx.UserControlCshare.resources
+D:\Projects\MSprintEx\obj\Debug\MSprintEx.Resources.resources
+D:\Projects\MSprintEx\obj\Debug\MSprintEx.vbproj.GenerateResource.Cache
+D:\Projects\MSprintEx\obj\Debug\MSprintEx.dll
+D:\Projects\MSprintEx\obj\Debug\MSprintEx.xml
+D:\Projects\MSprintEx\obj\Debug\MSprintEx.pdb
+C:\MSprintEx\Final\MSprintEx_23jan_badri\MSprintEx\bin\Debug\MSprintEx.dll.config
+C:\MSprintEx\Final\MSprintEx_23jan_badri\MSprintEx\bin\Debug\MSprintEx.dll
+C:\MSprintEx\Final\MSprintEx_23jan_badri\MSprintEx\bin\Debug\MSprintEx.pdb
+C:\MSprintEx\Final\MSprintEx_23jan_badri\MSprintEx\bin\Debug\MSprintEx.xml
+C:\MSprintEx\Final\MSprintEx_23jan_badri\MSprintEx\bin\Debug\MSprintEx.dll.manifest
+C:\MSprintEx\Final\MSprintEx_23jan_badri\MSprintEx\bin\Debug\MSprintEx.vsto
+C:\MSprintEx\Final\MSprintEx_23jan_badri\MSprintEx\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\MSprintEx\Final\MSprintEx_23jan_badri\MSprintEx\bin\Debug\System.Web.Http.dll
+C:\MSprintEx\Final\MSprintEx_23jan_badri\MSprintEx\bin\Debug\System.Net.Http.dll
+C:\MSprintEx\Final\MSprintEx_23jan_badri\MSprintEx\bin\Debug\System.Net.Http.Formatting.dll
+C:\MSprintEx\Final\MSprintEx_23jan_badri\MSprintEx\bin\Debug\System.Web.Http.xml
+C:\MSprintEx\Final\MSprintEx_23jan_badri\MSprintEx\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.xml
+C:\MSprintEx\Final\MSprintEx_23jan_badri\MSprintEx\bin\Debug\System.Net.Http.xml
+C:\MSprintEx\Final\MSprintEx_23jan_badri\MSprintEx\bin\Debug\System.Net.Http.Formatting.xml
+C:\MSprintEx\Final\MSprintEx_23jan_badri\MSprintEx\obj\Debug\MSprintEx.ChannelMapping.resources
+C:\MSprintEx\Final\MSprintEx_23jan_badri\MSprintEx\obj\Debug\MSprintEx.DataErrors.resources
+C:\MSprintEx\Final\MSprintEx_23jan_badri\MSprintEx\obj\Debug\MSprintEx.frmFilterChannels.resources
+C:\MSprintEx\Final\MSprintEx_23jan_badri\MSprintEx\obj\Debug\MSprintEx.frmWait.resources
+C:\MSprintEx\Final\MSprintEx_23jan_badri\MSprintEx\obj\Debug\MSprintEx.GenreShareForm.resources
+C:\MSprintEx\Final\MSprintEx_23jan_badri\MSprintEx\obj\Debug\MSprintEx.MSprintExRibbon.resources
+C:\MSprintEx\Final\MSprintEx_23jan_badri\MSprintEx\obj\Debug\MSprintEx.TaskPaneLogFile.resources
+C:\MSprintEx\Final\MSprintEx_23jan_badri\MSprintEx\obj\Debug\MSprintEx.tpMediaPlan.resources
+C:\MSprintEx\Final\MSprintEx_23jan_badri\MSprintEx\obj\Debug\MSprintEx.TVRForm.resources
+C:\MSprintEx\Final\MSprintEx_23jan_badri\MSprintEx\obj\Debug\MSprintEx.ucAudience.resources
+C:\MSprintEx\Final\MSprintEx_23jan_badri\MSprintEx\obj\Debug\MSprintEx.ucChannels.resources
+C:\MSprintEx\Final\MSprintEx_23jan_badri\MSprintEx\obj\Debug\MSprintEx.ucChannelShare.resources
+C:\MSprintEx\Final\MSprintEx_23jan_badri\MSprintEx\obj\Debug\MSprintEx.UcGenres.resources
+C:\MSprintEx\Final\MSprintEx_23jan_badri\MSprintEx\obj\Debug\MSprintEx.ucMarkets.resources
+C:\MSprintEx\Final\MSprintEx_23jan_badri\MSprintEx\obj\Debug\MSprintEx.ucMkets.resources
+C:\MSprintEx\Final\MSprintEx_23jan_badri\MSprintEx\obj\Debug\MSprintEx.ucPlanSelections.resources
+C:\MSprintEx\Final\MSprintEx_23jan_badri\MSprintEx\obj\Debug\MSprintEx.ucSelections.resources
+C:\MSprintEx\Final\MSprintEx_23jan_badri\MSprintEx\obj\Debug\MSprintEx.ucSpotSelection.resources
+C:\MSprintEx\Final\MSprintEx_23jan_badri\MSprintEx\obj\Debug\MSprintEx.ucTopPrograms.resources
+C:\MSprintEx\Final\MSprintEx_23jan_badri\MSprintEx\obj\Debug\MSprintEx.ucTVRScreen.resources
+C:\MSprintEx\Final\MSprintEx_23jan_badri\MSprintEx\obj\Debug\MSprintEx.UserControlCshare.resources
+C:\MSprintEx\Final\MSprintEx_23jan_badri\MSprintEx\obj\Debug\MSprintEx.Resources.resources
+C:\MSprintEx\Final\MSprintEx_23jan_badri\MSprintEx\obj\Debug\MSprintEx.vbproj.GenerateResource.Cache
+C:\MSprintEx\Final\MSprintEx_23jan_badri\MSprintEx\obj\Debug\MSprintEx.dll
+C:\MSprintEx\Final\MSprintEx_23jan_badri\MSprintEx\obj\Debug\MSprintEx.xml
+C:\MSprintEx\Final\MSprintEx_23jan_badri\MSprintEx\obj\Debug\MSprintEx.pdb
+D:\Work\23Jan\25jan\25jan\MSprintEx_23jan_badri\MSprintEx\bin\Debug\MSprintEx.dll.config
+D:\Work\23Jan\25jan\25jan\MSprintEx_23jan_badri\MSprintEx\bin\Debug\MSprintEx.dll
+D:\Work\23Jan\25jan\25jan\MSprintEx_23jan_badri\MSprintEx\bin\Debug\MSprintEx.pdb
+D:\Work\23Jan\25jan\25jan\MSprintEx_23jan_badri\MSprintEx\bin\Debug\MSprintEx.xml
+D:\Work\23Jan\25jan\25jan\MSprintEx_23jan_badri\MSprintEx\bin\Debug\MSprintEx.dll.manifest
+D:\Work\23Jan\25jan\25jan\MSprintEx_23jan_badri\MSprintEx\bin\Debug\MSprintEx.vsto
+D:\Work\23Jan\25jan\25jan\MSprintEx_23jan_badri\MSprintEx\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+D:\Work\23Jan\25jan\25jan\MSprintEx_23jan_badri\MSprintEx\bin\Debug\System.Net.Http.dll
+D:\Work\23Jan\25jan\25jan\MSprintEx_23jan_badri\MSprintEx\bin\Debug\System.Net.Http.Formatting.dll
+D:\Work\23Jan\25jan\25jan\MSprintEx_23jan_badri\MSprintEx\bin\Debug\System.Web.Http.xml
+D:\Work\23Jan\25jan\25jan\MSprintEx_23jan_badri\MSprintEx\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.xml
+D:\Work\23Jan\25jan\25jan\MSprintEx_23jan_badri\MSprintEx\bin\Debug\System.Net.Http.xml
+D:\Work\23Jan\25jan\25jan\MSprintEx_23jan_badri\MSprintEx\bin\Debug\System.Net.Http.Formatting.xml
+D:\Work\23Jan\25jan\25jan\MSprintEx_23jan_badri\MSprintEx\obj\Debug\ResolveAssemblyReference.cache
+D:\Work\23Jan\25jan\25jan\MSprintEx_23jan_badri\MSprintEx\obj\Debug\MSprintEx.ChannelMapping.resources
+D:\Work\23Jan\25jan\25jan\MSprintEx_23jan_badri\MSprintEx\obj\Debug\MSprintEx.DataErrors.resources
+D:\Work\23Jan\25jan\25jan\MSprintEx_23jan_badri\MSprintEx\obj\Debug\MSprintEx.frmFilterChannels.resources
+D:\Work\23Jan\25jan\25jan\MSprintEx_23jan_badri\MSprintEx\obj\Debug\MSprintEx.frmWait.resources
+D:\Work\23Jan\25jan\25jan\MSprintEx_23jan_badri\MSprintEx\obj\Debug\MSprintEx.GenreShareForm.resources
+D:\Work\23Jan\25jan\25jan\MSprintEx_23jan_badri\MSprintEx\obj\Debug\MSprintEx.MSprintExRibbon.resources
+D:\Work\23Jan\25jan\25jan\MSprintEx_23jan_badri\MSprintEx\obj\Debug\MSprintEx.TaskPaneLogFile.resources
+D:\Work\23Jan\25jan\25jan\MSprintEx_23jan_badri\MSprintEx\obj\Debug\MSprintEx.tpMediaPlan.resources
+D:\Work\23Jan\25jan\25jan\MSprintEx_23jan_badri\MSprintEx\obj\Debug\MSprintEx.TVRForm.resources
+D:\Work\23Jan\25jan\25jan\MSprintEx_23jan_badri\MSprintEx\obj\Debug\MSprintEx.ucAudience.resources
+D:\Work\23Jan\25jan\25jan\MSprintEx_23jan_badri\MSprintEx\obj\Debug\MSprintEx.ucChannels.resources
+D:\Work\23Jan\25jan\25jan\MSprintEx_23jan_badri\MSprintEx\obj\Debug\MSprintEx.ucChannelShare.resources
+D:\Work\23Jan\25jan\25jan\MSprintEx_23jan_badri\MSprintEx\obj\Debug\MSprintEx.UcGenres.resources
+D:\Work\23Jan\25jan\25jan\MSprintEx_23jan_badri\MSprintEx\obj\Debug\MSprintEx.ucMarkets.resources
+D:\Work\23Jan\25jan\25jan\MSprintEx_23jan_badri\MSprintEx\obj\Debug\MSprintEx.ucMkets.resources
+D:\Work\23Jan\25jan\25jan\MSprintEx_23jan_badri\MSprintEx\obj\Debug\MSprintEx.ucPlanSelections.resources
+D:\Work\23Jan\25jan\25jan\MSprintEx_23jan_badri\MSprintEx\obj\Debug\MSprintEx.ucSelections.resources
+D:\Work\23Jan\25jan\25jan\MSprintEx_23jan_badri\MSprintEx\obj\Debug\MSprintEx.ucSpotSelection.resources
+D:\Work\23Jan\25jan\25jan\MSprintEx_23jan_badri\MSprintEx\obj\Debug\MSprintEx.ucTopPrograms.resources
+D:\Work\23Jan\25jan\25jan\MSprintEx_23jan_badri\MSprintEx\obj\Debug\MSprintEx.ucTVRScreen.resources
+D:\Work\23Jan\25jan\25jan\MSprintEx_23jan_badri\MSprintEx\obj\Debug\MSprintEx.UserControlCshare.resources
+D:\Work\23Jan\25jan\25jan\MSprintEx_23jan_badri\MSprintEx\obj\Debug\MSprintEx.Resources.resources
+D:\Work\23Jan\25jan\25jan\MSprintEx_23jan_badri\MSprintEx\obj\Debug\GenerateResource.read.1.tlog
+D:\Work\23Jan\25jan\25jan\MSprintEx_23jan_badri\MSprintEx\obj\Debug\GenerateResource.write.1.tlog
+D:\Work\23Jan\25jan\25jan\MSprintEx_23jan_badri\MSprintEx\obj\Debug\GenerateResource.write.297.tlog
+D:\Work\23Jan\25jan\25jan\MSprintEx_23jan_badri\MSprintEx\obj\Debug\GenerateResource.write.314.tlog
+D:\Work\23Jan\25jan\25jan\MSprintEx_23jan_badri\MSprintEx\obj\Debug\GenerateResource.write.372.tlog
+D:\Work\23Jan\25jan\25jan\MSprintEx_23jan_badri\MSprintEx\obj\Debug\MSprintEx.dll
+D:\Work\23Jan\25jan\25jan\MSprintEx_23jan_badri\MSprintEx\obj\Debug\MSprintEx.xml
+D:\Work\23Jan\25jan\25jan\MSprintEx_23jan_badri\MSprintEx\obj\Debug\MSprintEx.pdb
+C:\MSprintEx\To Be delivered\26jan\25jan\MSprintEx_23jan_badri\MSprintEx\bin\Debug\MSprintEx.dll.config
+C:\MSprintEx\To Be delivered\26jan\25jan\MSprintEx_23jan_badri\MSprintEx\bin\Debug\MSprintEx.dll
+C:\MSprintEx\To Be delivered\26jan\25jan\MSprintEx_23jan_badri\MSprintEx\bin\Debug\MSprintEx.pdb
+C:\MSprintEx\To Be delivered\26jan\25jan\MSprintEx_23jan_badri\MSprintEx\bin\Debug\MSprintEx.xml
+C:\MSprintEx\To Be delivered\26jan\25jan\MSprintEx_23jan_badri\MSprintEx\bin\Debug\MSprintEx.dll.manifest
+C:\MSprintEx\To Be delivered\26jan\25jan\MSprintEx_23jan_badri\MSprintEx\bin\Debug\MSprintEx.vsto
+C:\MSprintEx\To Be delivered\26jan\25jan\MSprintEx_23jan_badri\MSprintEx\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\MSprintEx\To Be delivered\26jan\25jan\MSprintEx_23jan_badri\MSprintEx\bin\Debug\System.Web.Http.dll
+C:\MSprintEx\To Be delivered\26jan\25jan\MSprintEx_23jan_badri\MSprintEx\bin\Debug\System.Net.Http.dll
+C:\MSprintEx\To Be delivered\26jan\25jan\MSprintEx_23jan_badri\MSprintEx\bin\Debug\System.Net.Http.Formatting.dll
+C:\MSprintEx\To Be delivered\26jan\25jan\MSprintEx_23jan_badri\MSprintEx\bin\Debug\System.Web.Http.xml
+C:\MSprintEx\To Be delivered\26jan\25jan\MSprintEx_23jan_badri\MSprintEx\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.xml
+C:\MSprintEx\To Be delivered\26jan\25jan\MSprintEx_23jan_badri\MSprintEx\bin\Debug\System.Net.Http.xml
+C:\MSprintEx\To Be delivered\26jan\25jan\MSprintEx_23jan_badri\MSprintEx\bin\Debug\System.Net.Http.Formatting.xml
+C:\MSprintEx\To Be delivered\26jan\25jan\MSprintEx_23jan_badri\MSprintEx\obj\Debug\MSprintEx.ChannelMapping.resources
+C:\MSprintEx\To Be delivered\26jan\25jan\MSprintEx_23jan_badri\MSprintEx\obj\Debug\MSprintEx.DataErrors.resources
+C:\MSprintEx\To Be delivered\26jan\25jan\MSprintEx_23jan_badri\MSprintEx\obj\Debug\MSprintEx.frmFilterChannels.resources
+C:\MSprintEx\To Be delivered\26jan\25jan\MSprintEx_23jan_badri\MSprintEx\obj\Debug\MSprintEx.frmWait.resources
+C:\MSprintEx\To Be delivered\26jan\25jan\MSprintEx_23jan_badri\MSprintEx\obj\Debug\MSprintEx.GenreShareForm.resources
+C:\MSprintEx\To Be delivered\26jan\25jan\MSprintEx_23jan_badri\MSprintEx\obj\Debug\MSprintEx.MSprintExRibbon.resources
+C:\MSprintEx\To Be delivered\26jan\25jan\MSprintEx_23jan_badri\MSprintEx\obj\Debug\MSprintEx.TaskPaneLogFile.resources
+C:\MSprintEx\To Be delivered\26jan\25jan\MSprintEx_23jan_badri\MSprintEx\obj\Debug\MSprintEx.tpMediaPlan.resources
+C:\MSprintEx\To Be delivered\26jan\25jan\MSprintEx_23jan_badri\MSprintEx\obj\Debug\MSprintEx.TVRForm.resources
+C:\MSprintEx\To Be delivered\26jan\25jan\MSprintEx_23jan_badri\MSprintEx\obj\Debug\MSprintEx.ucAudience.resources
+C:\MSprintEx\To Be delivered\26jan\25jan\MSprintEx_23jan_badri\MSprintEx\obj\Debug\MSprintEx.ucChannels.resources
+C:\MSprintEx\To Be delivered\26jan\25jan\MSprintEx_23jan_badri\MSprintEx\obj\Debug\MSprintEx.ucChannelShare.resources
+C:\MSprintEx\To Be delivered\26jan\25jan\MSprintEx_23jan_badri\MSprintEx\obj\Debug\MSprintEx.UcGenres.resources
+C:\MSprintEx\To Be delivered\26jan\25jan\MSprintEx_23jan_badri\MSprintEx\obj\Debug\MSprintEx.ucMarkets.resources
+C:\MSprintEx\To Be delivered\26jan\25jan\MSprintEx_23jan_badri\MSprintEx\obj\Debug\MSprintEx.ucMkets.resources
+C:\MSprintEx\To Be delivered\26jan\25jan\MSprintEx_23jan_badri\MSprintEx\obj\Debug\MSprintEx.ucPlanSelections.resources
+C:\MSprintEx\To Be delivered\26jan\25jan\MSprintEx_23jan_badri\MSprintEx\obj\Debug\MSprintEx.ucSelections.resources
+C:\MSprintEx\To Be delivered\26jan\25jan\MSprintEx_23jan_badri\MSprintEx\obj\Debug\MSprintEx.ucSpotSelection.resources
+C:\MSprintEx\To Be delivered\26jan\25jan\MSprintEx_23jan_badri\MSprintEx\obj\Debug\MSprintEx.ucTopPrograms.resources
+C:\MSprintEx\To Be delivered\26jan\25jan\MSprintEx_23jan_badri\MSprintEx\obj\Debug\MSprintEx.ucTVRScreen.resources
+C:\MSprintEx\To Be delivered\26jan\25jan\MSprintEx_23jan_badri\MSprintEx\obj\Debug\MSprintEx.UserControlCshare.resources
+C:\MSprintEx\To Be delivered\26jan\25jan\MSprintEx_23jan_badri\MSprintEx\obj\Debug\MSprintEx.Resources.resources
+C:\MSprintEx\To Be delivered\26jan\25jan\MSprintEx_23jan_badri\MSprintEx\obj\Debug\MSprintEx.vbproj.GenerateResource.Cache
+C:\MSprintEx\To Be delivered\26jan\25jan\MSprintEx_23jan_badri\MSprintEx\obj\Debug\MSprintEx.dll
+C:\MSprintEx\To Be delivered\26jan\25jan\MSprintEx_23jan_badri\MSprintEx\obj\Debug\MSprintEx.xml
+C:\MSprintEx\To Be delivered\26jan\25jan\MSprintEx_23jan_badri\MSprintEx\obj\Debug\MSprintEx.pdb
+D:\Work\MSprintEx_27Jan\MSprintEx\bin\Debug\MSprintEx.dll.config
+D:\Work\MSprintEx_27Jan\MSprintEx\bin\Debug\MSprintEx.dll
+D:\Work\MSprintEx_27Jan\MSprintEx\bin\Debug\MSprintEx.pdb
+D:\Work\MSprintEx_27Jan\MSprintEx\bin\Debug\MSprintEx.xml
+D:\Work\MSprintEx_27Jan\MSprintEx\bin\Debug\MSprintEx.dll.manifest
+D:\Work\MSprintEx_27Jan\MSprintEx\bin\Debug\MSprintEx.vsto
+D:\Work\MSprintEx_27Jan\MSprintEx\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+D:\Work\MSprintEx_27Jan\MSprintEx\bin\Debug\System.Net.Http.dll
+D:\Work\MSprintEx_27Jan\MSprintEx\bin\Debug\System.Net.Http.Formatting.dll
+D:\Work\MSprintEx_27Jan\MSprintEx\bin\Debug\System.Web.Http.xml
+D:\Work\MSprintEx_27Jan\MSprintEx\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.xml
+D:\Work\MSprintEx_27Jan\MSprintEx\bin\Debug\System.Net.Http.xml
+D:\Work\MSprintEx_27Jan\MSprintEx\bin\Debug\System.Net.Http.Formatting.xml
+D:\Work\MSprintEx_27Jan\MSprintEx\obj\Debug\ResolveAssemblyReference.cache
+D:\Work\MSprintEx_27Jan\MSprintEx\obj\Debug\MSprintEx.ChannelMapping.resources
+D:\Work\MSprintEx_27Jan\MSprintEx\obj\Debug\MSprintEx.DataErrors.resources
+D:\Work\MSprintEx_27Jan\MSprintEx\obj\Debug\MSprintEx.frmFilterChannels.resources
+D:\Work\MSprintEx_27Jan\MSprintEx\obj\Debug\MSprintEx.frmWait.resources
+D:\Work\MSprintEx_27Jan\MSprintEx\obj\Debug\MSprintEx.GenreShareForm.resources
+D:\Work\MSprintEx_27Jan\MSprintEx\obj\Debug\MSprintEx.MSprintExRibbon.resources
+D:\Work\MSprintEx_27Jan\MSprintEx\obj\Debug\MSprintEx.TaskPaneLogFile.resources
+D:\Work\MSprintEx_27Jan\MSprintEx\obj\Debug\MSprintEx.tpMediaPlan.resources
+D:\Work\MSprintEx_27Jan\MSprintEx\obj\Debug\MSprintEx.TVRForm.resources
+D:\Work\MSprintEx_27Jan\MSprintEx\obj\Debug\MSprintEx.ucAudience.resources
+D:\Work\MSprintEx_27Jan\MSprintEx\obj\Debug\MSprintEx.ucChannels.resources
+D:\Work\MSprintEx_27Jan\MSprintEx\obj\Debug\MSprintEx.ucChannelShare.resources
+D:\Work\MSprintEx_27Jan\MSprintEx\obj\Debug\MSprintEx.UcGenres.resources
+D:\Work\MSprintEx_27Jan\MSprintEx\obj\Debug\MSprintEx.ucMarkets.resources
+D:\Work\MSprintEx_27Jan\MSprintEx\obj\Debug\MSprintEx.ucMkets.resources
+D:\Work\MSprintEx_27Jan\MSprintEx\obj\Debug\MSprintEx.ucPlanSelections.resources
+D:\Work\MSprintEx_27Jan\MSprintEx\obj\Debug\MSprintEx.ucSelections.resources
+D:\Work\MSprintEx_27Jan\MSprintEx\obj\Debug\MSprintEx.ucSpotSelection.resources
+D:\Work\MSprintEx_27Jan\MSprintEx\obj\Debug\MSprintEx.ucTopPrograms.resources
+D:\Work\MSprintEx_27Jan\MSprintEx\obj\Debug\MSprintEx.ucTVRScreen.resources
+D:\Work\MSprintEx_27Jan\MSprintEx\obj\Debug\MSprintEx.UserControlCshare.resources
+D:\Work\MSprintEx_27Jan\MSprintEx\obj\Debug\MSprintEx.Resources.resources
+D:\Work\MSprintEx_27Jan\MSprintEx\obj\Debug\GenerateResource.read.1.tlog
+D:\Work\MSprintEx_27Jan\MSprintEx\obj\Debug\GenerateResource.write.1.tlog
+D:\Work\MSprintEx_27Jan\MSprintEx\obj\Debug\GenerateResource.write.297.tlog
+D:\Work\MSprintEx_27Jan\MSprintEx\obj\Debug\GenerateResource.write.314.tlog
+D:\Work\MSprintEx_27Jan\MSprintEx\obj\Debug\GenerateResource.write.372.tlog
+D:\Work\MSprintEx_27Jan\MSprintEx\obj\Debug\MSprintEx.dll
+D:\Work\MSprintEx_27Jan\MSprintEx\obj\Debug\MSprintEx.xml
+D:\Work\MSprintEx_27Jan\MSprintEx\obj\Debug\MSprintEx.pdb
+C:\MSprintEx\MSprintEx_28Jan\MSprintEx\bin\Debug\MSprintEx.dll.config
+C:\MSprintEx\MSprintEx_28Jan\MSprintEx\bin\Debug\MSprintEx.dll
+C:\MSprintEx\MSprintEx_28Jan\MSprintEx\bin\Debug\MSprintEx.pdb
+C:\MSprintEx\MSprintEx_28Jan\MSprintEx\bin\Debug\MSprintEx.xml
+C:\MSprintEx\MSprintEx_28Jan\MSprintEx\bin\Debug\MSprintEx.dll.manifest
+C:\MSprintEx\MSprintEx_28Jan\MSprintEx\bin\Debug\MSprintEx.vsto
+C:\MSprintEx\MSprintEx_28Jan\MSprintEx\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\MSprintEx\MSprintEx_28Jan\MSprintEx\bin\Debug\System.Web.Http.dll
+C:\MSprintEx\MSprintEx_28Jan\MSprintEx\bin\Debug\System.Net.Http.dll
+C:\MSprintEx\MSprintEx_28Jan\MSprintEx\bin\Debug\System.Net.Http.Formatting.dll
+C:\MSprintEx\MSprintEx_28Jan\MSprintEx\bin\Debug\System.Web.Http.xml
+C:\MSprintEx\MSprintEx_28Jan\MSprintEx\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.xml
+C:\MSprintEx\MSprintEx_28Jan\MSprintEx\bin\Debug\System.Net.Http.xml
+C:\MSprintEx\MSprintEx_28Jan\MSprintEx\bin\Debug\System.Net.Http.Formatting.xml
+C:\MSprintEx\MSprintEx_28Jan\MSprintEx\obj\Debug\MSprintEx.ChannelMapping.resources
+C:\MSprintEx\MSprintEx_28Jan\MSprintEx\obj\Debug\MSprintEx.DataErrors.resources
+C:\MSprintEx\MSprintEx_28Jan\MSprintEx\obj\Debug\MSprintEx.frmFilterChannels.resources
+C:\MSprintEx\MSprintEx_28Jan\MSprintEx\obj\Debug\MSprintEx.frmWait.resources
+C:\MSprintEx\MSprintEx_28Jan\MSprintEx\obj\Debug\MSprintEx.GenreShareForm.resources
+C:\MSprintEx\MSprintEx_28Jan\MSprintEx\obj\Debug\MSprintEx.MSprintExRibbon.resources
+C:\MSprintEx\MSprintEx_28Jan\MSprintEx\obj\Debug\MSprintEx.TaskPaneLogFile.resources
+C:\MSprintEx\MSprintEx_28Jan\MSprintEx\obj\Debug\MSprintEx.tpMediaPlan.resources
+C:\MSprintEx\MSprintEx_28Jan\MSprintEx\obj\Debug\MSprintEx.TVRForm.resources
+C:\MSprintEx\MSprintEx_28Jan\MSprintEx\obj\Debug\MSprintEx.ucAudience.resources
+C:\MSprintEx\MSprintEx_28Jan\MSprintEx\obj\Debug\MSprintEx.ucChannels.resources
+C:\MSprintEx\MSprintEx_28Jan\MSprintEx\obj\Debug\MSprintEx.ucChannelShare.resources
+C:\MSprintEx\MSprintEx_28Jan\MSprintEx\obj\Debug\MSprintEx.UcGenres.resources
+C:\MSprintEx\MSprintEx_28Jan\MSprintEx\obj\Debug\MSprintEx.ucMarkets.resources
+C:\MSprintEx\MSprintEx_28Jan\MSprintEx\obj\Debug\MSprintEx.ucMkets.resources
+C:\MSprintEx\MSprintEx_28Jan\MSprintEx\obj\Debug\MSprintEx.ucPlanSelections.resources
+C:\MSprintEx\MSprintEx_28Jan\MSprintEx\obj\Debug\MSprintEx.ucSelections.resources
+C:\MSprintEx\MSprintEx_28Jan\MSprintEx\obj\Debug\MSprintEx.ucSpotSelection.resources
+C:\MSprintEx\MSprintEx_28Jan\MSprintEx\obj\Debug\MSprintEx.ucTopPrograms.resources
+C:\MSprintEx\MSprintEx_28Jan\MSprintEx\obj\Debug\MSprintEx.ucTVRScreen.resources
+C:\MSprintEx\MSprintEx_28Jan\MSprintEx\obj\Debug\MSprintEx.UserControlCshare.resources
+C:\MSprintEx\MSprintEx_28Jan\MSprintEx\obj\Debug\MSprintEx.Resources.resources
+C:\MSprintEx\MSprintEx_28Jan\MSprintEx\obj\Debug\MSprintEx.vbproj.GenerateResource.Cache
+C:\MSprintEx\MSprintEx_28Jan\MSprintEx\obj\Debug\MSprintEx.dll
+C:\MSprintEx\MSprintEx_28Jan\MSprintEx\obj\Debug\MSprintEx.xml
+C:\MSprintEx\MSprintEx_28Jan\MSprintEx\obj\Debug\MSprintEx.pdb
+D:\Work\29Dec\MSprintEx_288Jan\MSprintEx\bin\Debug\MSprintEx.dll.config
+D:\Work\29Dec\MSprintEx_288Jan\MSprintEx\bin\Debug\MSprintEx.dll
+D:\Work\29Dec\MSprintEx_288Jan\MSprintEx\bin\Debug\MSprintEx.pdb
+D:\Work\29Dec\MSprintEx_288Jan\MSprintEx\bin\Debug\MSprintEx.xml
+D:\Work\29Dec\MSprintEx_288Jan\MSprintEx\bin\Debug\MSprintEx.dll.manifest
+D:\Work\29Dec\MSprintEx_288Jan\MSprintEx\bin\Debug\MSprintEx.vsto
+D:\Work\29Dec\MSprintEx_288Jan\MSprintEx\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+D:\Work\29Dec\MSprintEx_288Jan\MSprintEx\bin\Debug\System.Web.Http.xml
+D:\Work\29Dec\MSprintEx_288Jan\MSprintEx\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.xml
+D:\Work\29Dec\MSprintEx_288Jan\MSprintEx\obj\Debug\ResolveAssemblyReference.cache
+D:\Work\29Dec\MSprintEx_288Jan\MSprintEx\obj\Debug\MSprintEx.ChannelMapping.resources
+D:\Work\29Dec\MSprintEx_288Jan\MSprintEx\obj\Debug\MSprintEx.DataErrors.resources
+D:\Work\29Dec\MSprintEx_288Jan\MSprintEx\obj\Debug\MSprintEx.frmFilterChannels.resources
+D:\Work\29Dec\MSprintEx_288Jan\MSprintEx\obj\Debug\MSprintEx.frmWait.resources
+D:\Work\29Dec\MSprintEx_288Jan\MSprintEx\obj\Debug\MSprintEx.GenreShareForm.resources
+D:\Work\29Dec\MSprintEx_288Jan\MSprintEx\obj\Debug\MSprintEx.MSprintExRibbon.resources
+D:\Work\29Dec\MSprintEx_288Jan\MSprintEx\obj\Debug\MSprintEx.TaskPaneLogFile.resources
+D:\Work\29Dec\MSprintEx_288Jan\MSprintEx\obj\Debug\MSprintEx.tpMediaPlan.resources
+D:\Work\29Dec\MSprintEx_288Jan\MSprintEx\obj\Debug\MSprintEx.TVRForm.resources
+D:\Work\29Dec\MSprintEx_288Jan\MSprintEx\obj\Debug\MSprintEx.ucAudience.resources
+D:\Work\29Dec\MSprintEx_288Jan\MSprintEx\obj\Debug\MSprintEx.ucChannels.resources
+D:\Work\29Dec\MSprintEx_288Jan\MSprintEx\obj\Debug\MSprintEx.ucChannelShare.resources
+D:\Work\29Dec\MSprintEx_288Jan\MSprintEx\obj\Debug\MSprintEx.UcGenres.resources
+D:\Work\29Dec\MSprintEx_288Jan\MSprintEx\obj\Debug\MSprintEx.ucMarkets.resources
+D:\Work\29Dec\MSprintEx_288Jan\MSprintEx\obj\Debug\MSprintEx.ucMkets.resources
+D:\Work\29Dec\MSprintEx_288Jan\MSprintEx\obj\Debug\MSprintEx.ucPlanSelections.resources
+D:\Work\29Dec\MSprintEx_288Jan\MSprintEx\obj\Debug\MSprintEx.ucSelections.resources
+D:\Work\29Dec\MSprintEx_288Jan\MSprintEx\obj\Debug\MSprintEx.ucSpotSelection.resources
+D:\Work\29Dec\MSprintEx_288Jan\MSprintEx\obj\Debug\MSprintEx.ucTopPrograms.resources
+D:\Work\29Dec\MSprintEx_288Jan\MSprintEx\obj\Debug\MSprintEx.ucTVRScreen.resources
+D:\Work\29Dec\MSprintEx_288Jan\MSprintEx\obj\Debug\MSprintEx.UserControlCshare.resources
+D:\Work\29Dec\MSprintEx_288Jan\MSprintEx\obj\Debug\MSprintEx.Resources.resources
+D:\Work\29Dec\MSprintEx_288Jan\MSprintEx\obj\Debug\GenerateResource.read.1.tlog
+D:\Work\29Dec\MSprintEx_288Jan\MSprintEx\obj\Debug\GenerateResource.write.1.tlog
+D:\Work\29Dec\MSprintEx_288Jan\MSprintEx\obj\Debug\MSprintEx.dll
+D:\Work\29Dec\MSprintEx_288Jan\MSprintEx\obj\Debug\MSprintEx.xml
+D:\Work\29Dec\MSprintEx_288Jan\MSprintEx\obj\Debug\MSprintEx.pdb
+C:\MSprintEx\Jan29\MSprintEx\bin\Debug\MSprintEx.dll
+C:\MSprintEx\Jan29\MSprintEx\bin\Debug\MSprintEx.pdb
+C:\MSprintEx\Jan29\MSprintEx\bin\Debug\MSprintEx.xml
+C:\MSprintEx\Jan29\MSprintEx\bin\Debug\MSprintEx.dll.manifest
+C:\MSprintEx\Jan29\MSprintEx\bin\Debug\MSprintEx.vsto
+C:\MSprintEx\Jan29\MSprintEx\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\MSprintEx\Jan29\MSprintEx\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.xml
+C:\MSprintEx\Jan29\MSprintEx\obj\Debug\MSprintEx.ChannelMapping.resources
+C:\MSprintEx\Jan29\MSprintEx\obj\Debug\MSprintEx.DataErrors.resources
+C:\MSprintEx\Jan29\MSprintEx\obj\Debug\MSprintEx.frmFilterChannels.resources
+C:\MSprintEx\Jan29\MSprintEx\obj\Debug\MSprintEx.frmWait.resources
+C:\MSprintEx\Jan29\MSprintEx\obj\Debug\MSprintEx.GenreShareForm.resources
+C:\MSprintEx\Jan29\MSprintEx\obj\Debug\MSprintEx.MSprintExRibbon.resources
+C:\MSprintEx\Jan29\MSprintEx\obj\Debug\MSprintEx.TaskPaneLogFile.resources
+C:\MSprintEx\Jan29\MSprintEx\obj\Debug\MSprintEx.tpMediaPlan.resources
+C:\MSprintEx\Jan29\MSprintEx\obj\Debug\MSprintEx.TVRForm.resources
+C:\MSprintEx\Jan29\MSprintEx\obj\Debug\MSprintEx.ucAudience.resources
+C:\MSprintEx\Jan29\MSprintEx\obj\Debug\MSprintEx.ucChannels.resources
+C:\MSprintEx\Jan29\MSprintEx\obj\Debug\MSprintEx.ucChannelShare.resources
+C:\MSprintEx\Jan29\MSprintEx\obj\Debug\MSprintEx.UcGenres.resources
+C:\MSprintEx\Jan29\MSprintEx\obj\Debug\MSprintEx.ucMarkets.resources
+C:\MSprintEx\Jan29\MSprintEx\obj\Debug\MSprintEx.ucMkets.resources
+C:\MSprintEx\Jan29\MSprintEx\obj\Debug\MSprintEx.ucPlanSelections.resources
+C:\MSprintEx\Jan29\MSprintEx\obj\Debug\MSprintEx.ucSelections.resources
+C:\MSprintEx\Jan29\MSprintEx\obj\Debug\MSprintEx.ucSpotSelection.resources
+C:\MSprintEx\Jan29\MSprintEx\obj\Debug\MSprintEx.ucTopPrograms.resources
+C:\MSprintEx\Jan29\MSprintEx\obj\Debug\MSprintEx.ucTVRScreen.resources
+C:\MSprintEx\Jan29\MSprintEx\obj\Debug\MSprintEx.UserControlCshare.resources
+C:\MSprintEx\Jan29\MSprintEx\obj\Debug\MSprintEx.Resources.resources
+C:\MSprintEx\Jan29\MSprintEx\obj\Debug\MSprintEx.vbproj.GenerateResource.Cache
+C:\MSprintEx\Jan29\MSprintEx\obj\Debug\MSprintEx.dll
+C:\MSprintEx\Jan29\MSprintEx\obj\Debug\MSprintEx.xml
+C:\MSprintEx\Jan29\MSprintEx\obj\Debug\MSprintEx.pdb
+C:\MSprintEx\Jan29\MSprintEx\bin\Debug\dbBrkPerf.sdf
+C:\MSprintEx\Jan29\MSprintEx\bin\Debug\dbBrkPerf (2).sdf
+C:\MSprintEx\Jan29\MSprintEx\bin\Debug\MSprintEx.dll.config
+C:\MSprintEx\Jan29\MSprintEx\bin\Debug\dbBrkPerf (3).sdf
+C:\MSprintEx\Feb18\Badri Build 17 feb\MSprintEx\bin\Debug\dbBrkPerf (2).sdf
+C:\MSprintEx\Feb18\Badri Build 17 feb\MSprintEx\bin\Debug\dbBrkPerf (3).sdf
+C:\MSprintEx\Feb18\Badri Build 17 feb\MSprintEx\bin\Debug\dbBrkPerf.sdf
+C:\MSprintEx\Feb18\Badri Build 17 feb\MSprintEx\bin\Debug\MSprintEx.dll.config
+C:\MSprintEx\Feb18\Badri Build 17 feb\MSprintEx\bin\Debug\MSprintEx.dll
+C:\MSprintEx\Feb18\Badri Build 17 feb\MSprintEx\bin\Debug\MSprintEx.pdb
+C:\MSprintEx\Feb18\Badri Build 17 feb\MSprintEx\bin\Debug\MSprintEx.xml
+C:\MSprintEx\Feb18\Badri Build 17 feb\MSprintEx\bin\Debug\MSprintEx.dll.manifest
+C:\MSprintEx\Feb18\Badri Build 17 feb\MSprintEx\bin\Debug\MSprintEx.vsto
+C:\MSprintEx\Feb18\Badri Build 17 feb\MSprintEx\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\MSprintEx\Feb18\Badri Build 17 feb\MSprintEx\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.xml
+C:\MSprintEx\Feb18\Badri Build 17 feb\MSprintEx\obj\Debug\MSprintEx.ChannelMapping.resources
+C:\MSprintEx\Feb18\Badri Build 17 feb\MSprintEx\obj\Debug\MSprintEx.DataErrors.resources
+C:\MSprintEx\Feb18\Badri Build 17 feb\MSprintEx\obj\Debug\MSprintEx.frmFilterChannels.resources
+C:\MSprintEx\Feb18\Badri Build 17 feb\MSprintEx\obj\Debug\MSprintEx.frmWait.resources
+C:\MSprintEx\Feb18\Badri Build 17 feb\MSprintEx\obj\Debug\MSprintEx.GenreShareForm.resources
+C:\MSprintEx\Feb18\Badri Build 17 feb\MSprintEx\obj\Debug\MSprintEx.MSprintExRibbon.resources
+C:\MSprintEx\Feb18\Badri Build 17 feb\MSprintEx\obj\Debug\MSprintEx.TaskPaneLogFile.resources
+C:\MSprintEx\Feb18\Badri Build 17 feb\MSprintEx\obj\Debug\MSprintEx.tpMediaPlan.resources
+C:\MSprintEx\Feb18\Badri Build 17 feb\MSprintEx\obj\Debug\MSprintEx.TVRForm.resources
+C:\MSprintEx\Feb18\Badri Build 17 feb\MSprintEx\obj\Debug\MSprintEx.ucAudience.resources
+C:\MSprintEx\Feb18\Badri Build 17 feb\MSprintEx\obj\Debug\MSprintEx.ucChannels.resources
+C:\MSprintEx\Feb18\Badri Build 17 feb\MSprintEx\obj\Debug\MSprintEx.ucChannelShare.resources
+C:\MSprintEx\Feb18\Badri Build 17 feb\MSprintEx\obj\Debug\MSprintEx.UcGenres.resources
+C:\MSprintEx\Feb18\Badri Build 17 feb\MSprintEx\obj\Debug\MSprintEx.ucMarkets.resources
+C:\MSprintEx\Feb18\Badri Build 17 feb\MSprintEx\obj\Debug\MSprintEx.ucMkets.resources
+C:\MSprintEx\Feb18\Badri Build 17 feb\MSprintEx\obj\Debug\MSprintEx.ucPlanSelections.resources
+C:\MSprintEx\Feb18\Badri Build 17 feb\MSprintEx\obj\Debug\MSprintEx.ucSelections.resources
+C:\MSprintEx\Feb18\Badri Build 17 feb\MSprintEx\obj\Debug\MSprintEx.ucTopPrograms.resources
+C:\MSprintEx\Feb18\Badri Build 17 feb\MSprintEx\obj\Debug\MSprintEx.ucTVRScreen.resources
+C:\MSprintEx\Feb18\Badri Build 17 feb\MSprintEx\obj\Debug\MSprintEx.UserControlCshare.resources
+C:\MSprintEx\Feb18\Badri Build 17 feb\MSprintEx\obj\Debug\MSprintEx.Resources.resources
+C:\MSprintEx\Feb18\Badri Build 17 feb\MSprintEx\obj\Debug\MSprintEx.vbproj.GenerateResource.Cache
+C:\MSprintEx\Feb18\Badri Build 17 feb\MSprintEx\obj\Debug\MSprintEx.dll
+C:\MSprintEx\Feb18\Badri Build 17 feb\MSprintEx\obj\Debug\MSprintEx.xml
+C:\MSprintEx\Feb18\Badri Build 17 feb\MSprintEx\obj\Debug\MSprintEx.pdb
+C:\MSprintEx\Feb18\Badri Build 17 feb\MSprintEx\obj\Debug\MSprintEx.ChangeLogDir.resources
+C:\MSprintEx\Feb18\Badri Build 17 feb\MSprintEx\obj\Debug\MSprintEx.frmRearrangePlanChannels.resources
+C:\MSprintEx\Feb18\Badri Build 17 feb\MSprintEx\obj\Debug\MSprintEx.ucAdvertiser.resources
+C:\MSprintEx\Feb18\Badri Build 17 feb\MSprintEx\obj\Debug\MSprintEx.ucBrand.resources
+C:\MSprintEx\Feb18\Badri Build 17 feb\MSprintEx\obj\Debug\MSprintEx.ucCategory.resources
+C:\MSprintEx\Feb18\Badri Build 17 feb\MSprintEx\obj\Debug\MSprintEx.ucVariant.resources
+C:\MSprintEx\Feb18\Badri Build 17 feb\MSprintEx\obj\Debug\MSprintEx.ucAvgTVRMGSelection.resources
+C:\MSprintEx\Feb18\Badri Build 17 feb\MSprintEx_WithoutBSL\MSprintEx\bin\Debug\dbBrkPerf (2).sdf
+C:\MSprintEx\Feb18\Badri Build 17 feb\MSprintEx_WithoutBSL\MSprintEx\bin\Debug\dbBrkPerf (3).sdf
+C:\MSprintEx\Feb18\Badri Build 17 feb\MSprintEx_WithoutBSL\MSprintEx\bin\Debug\dbBrkPerf.sdf
+C:\MSprintEx\Feb18\Badri Build 17 feb\MSprintEx_WithoutBSL\MSprintEx\bin\Debug\MSprintEx.dll.config
+C:\MSprintEx\Feb18\Badri Build 17 feb\MSprintEx_WithoutBSL\MSprintEx\bin\Debug\MSprintEx.dll
+C:\MSprintEx\Feb18\Badri Build 17 feb\MSprintEx_WithoutBSL\MSprintEx\bin\Debug\MSprintEx.pdb
+C:\MSprintEx\Feb18\Badri Build 17 feb\MSprintEx_WithoutBSL\MSprintEx\bin\Debug\MSprintEx.xml
+C:\MSprintEx\Feb18\Badri Build 17 feb\MSprintEx_WithoutBSL\MSprintEx\bin\Debug\MSprintEx.dll.manifest
+C:\MSprintEx\Feb18\Badri Build 17 feb\MSprintEx_WithoutBSL\MSprintEx\bin\Debug\MSprintEx.vsto
+C:\MSprintEx\Feb18\Badri Build 17 feb\MSprintEx_WithoutBSL\MSprintEx\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\MSprintEx\Feb18\Badri Build 17 feb\MSprintEx_WithoutBSL\MSprintEx\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.xml
+C:\MSprintEx\Feb18\Badri Build 17 feb\MSprintEx_WithoutBSL\MSprintEx\obj\Debug\MSprintEx.ChangeLogDir.resources
+C:\MSprintEx\Feb18\Badri Build 17 feb\MSprintEx_WithoutBSL\MSprintEx\obj\Debug\MSprintEx.ChannelMapping.resources
+C:\MSprintEx\Feb18\Badri Build 17 feb\MSprintEx_WithoutBSL\MSprintEx\obj\Debug\MSprintEx.DataErrors.resources
+C:\MSprintEx\Feb18\Badri Build 17 feb\MSprintEx_WithoutBSL\MSprintEx\obj\Debug\MSprintEx.frmFilterChannels.resources
+C:\MSprintEx\Feb18\Badri Build 17 feb\MSprintEx_WithoutBSL\MSprintEx\obj\Debug\MSprintEx.frmRearrangePlanChannels.resources
+C:\MSprintEx\Feb18\Badri Build 17 feb\MSprintEx_WithoutBSL\MSprintEx\obj\Debug\MSprintEx.frmWait.resources
+C:\MSprintEx\Feb18\Badri Build 17 feb\MSprintEx_WithoutBSL\MSprintEx\obj\Debug\MSprintEx.GenreShareForm.resources
+C:\MSprintEx\Feb18\Badri Build 17 feb\MSprintEx_WithoutBSL\MSprintEx\obj\Debug\MSprintEx.MSprintExRibbon.resources
+C:\MSprintEx\Feb18\Badri Build 17 feb\MSprintEx_WithoutBSL\MSprintEx\obj\Debug\MSprintEx.TaskPaneLogFile.resources
+C:\MSprintEx\Feb18\Badri Build 17 feb\MSprintEx_WithoutBSL\MSprintEx\obj\Debug\MSprintEx.tpMediaPlan.resources
+C:\MSprintEx\Feb18\Badri Build 17 feb\MSprintEx_WithoutBSL\MSprintEx\obj\Debug\MSprintEx.TVRForm.resources
+C:\MSprintEx\Feb18\Badri Build 17 feb\MSprintEx_WithoutBSL\MSprintEx\obj\Debug\MSprintEx.ucAdvertiser.resources
+C:\MSprintEx\Feb18\Badri Build 17 feb\MSprintEx_WithoutBSL\MSprintEx\obj\Debug\MSprintEx.ucAudience.resources
+C:\MSprintEx\Feb18\Badri Build 17 feb\MSprintEx_WithoutBSL\MSprintEx\obj\Debug\MSprintEx.ucAvgTVRMGSelection.resources
+C:\MSprintEx\Feb18\Badri Build 17 feb\MSprintEx_WithoutBSL\MSprintEx\obj\Debug\MSprintEx.ucBrand.resources
+C:\MSprintEx\Feb18\Badri Build 17 feb\MSprintEx_WithoutBSL\MSprintEx\obj\Debug\MSprintEx.ucCategory.resources
+C:\MSprintEx\Feb18\Badri Build 17 feb\MSprintEx_WithoutBSL\MSprintEx\obj\Debug\MSprintEx.ucChannels.resources
+C:\MSprintEx\Feb18\Badri Build 17 feb\MSprintEx_WithoutBSL\MSprintEx\obj\Debug\MSprintEx.ucChannelShare.resources
+C:\MSprintEx\Feb18\Badri Build 17 feb\MSprintEx_WithoutBSL\MSprintEx\obj\Debug\MSprintEx.UcGenres.resources
+C:\MSprintEx\Feb18\Badri Build 17 feb\MSprintEx_WithoutBSL\MSprintEx\obj\Debug\MSprintEx.ucMarkets.resources
+C:\MSprintEx\Feb18\Badri Build 17 feb\MSprintEx_WithoutBSL\MSprintEx\obj\Debug\MSprintEx.ucMkets.resources
+C:\MSprintEx\Feb18\Badri Build 17 feb\MSprintEx_WithoutBSL\MSprintEx\obj\Debug\MSprintEx.ucPlanSelections.resources
+C:\MSprintEx\Feb18\Badri Build 17 feb\MSprintEx_WithoutBSL\MSprintEx\obj\Debug\MSprintEx.ucSelections.resources
+C:\MSprintEx\Feb18\Badri Build 17 feb\MSprintEx_WithoutBSL\MSprintEx\obj\Debug\MSprintEx.ucTopPrograms.resources
+C:\MSprintEx\Feb18\Badri Build 17 feb\MSprintEx_WithoutBSL\MSprintEx\obj\Debug\MSprintEx.ucTVRScreen.resources
+C:\MSprintEx\Feb18\Badri Build 17 feb\MSprintEx_WithoutBSL\MSprintEx\obj\Debug\MSprintEx.ucVariant.resources
+C:\MSprintEx\Feb18\Badri Build 17 feb\MSprintEx_WithoutBSL\MSprintEx\obj\Debug\MSprintEx.UserControlCshare.resources
+C:\MSprintEx\Feb18\Badri Build 17 feb\MSprintEx_WithoutBSL\MSprintEx\obj\Debug\MSprintEx.Resources.resources
+C:\MSprintEx\Feb18\Badri Build 17 feb\MSprintEx_WithoutBSL\MSprintEx\obj\Debug\MSprintEx.vbproj.GenerateResource.Cache
+C:\MSprintEx\Feb18\Badri Build 17 feb\MSprintEx_WithoutBSL\MSprintEx\obj\Debug\MSprintEx.dll
+C:\MSprintEx\Feb18\Badri Build 17 feb\MSprintEx_WithoutBSL\MSprintEx\obj\Debug\MSprintEx.xml
+C:\MSprintEx\Feb18\Badri Build 17 feb\MSprintEx_WithoutBSL\MSprintEx\obj\Debug\MSprintEx.pdb
+E:\Alokk\MsprintEx\New folder\MSprintEx\bin\Debug\dbBrkPerf (2).sdf
+E:\Alokk\MsprintEx\New folder\MSprintEx\bin\Debug\dbBrkPerf (3).sdf
+E:\Alokk\MsprintEx\New folder\MSprintEx\bin\Debug\dbBrkPerf.sdf
+E:\Alokk\MsprintEx\New folder\MSprintEx\bin\Debug\MSprintEx.dll.config
+E:\Alokk\MsprintEx\New folder\MSprintEx\bin\Debug\MSprintEx.dll
+E:\Alokk\MsprintEx\New folder\MSprintEx\bin\Debug\MSprintEx.pdb
+E:\Alokk\MsprintEx\New folder\MSprintEx\bin\Debug\MSprintEx.xml
+E:\Alokk\MsprintEx\New folder\MSprintEx\bin\Debug\MSprintEx.dll.manifest
+E:\Alokk\MsprintEx\New folder\MSprintEx\bin\Debug\MSprintEx.vsto
+E:\Alokk\MsprintEx\New folder\MSprintEx\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+E:\Alokk\MsprintEx\New folder\MSprintEx\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.xml
+E:\Alokk\MsprintEx\New folder\MSprintEx\obj\Debug\MSprintEx.ChangeLogDir.resources
+E:\Alokk\MsprintEx\New folder\MSprintEx\obj\Debug\MSprintEx.ChannelMapping.resources
+E:\Alokk\MsprintEx\New folder\MSprintEx\obj\Debug\MSprintEx.DataErrors.resources
+E:\Alokk\MsprintEx\New folder\MSprintEx\obj\Debug\MSprintEx.frmFilterChannels.resources
+E:\Alokk\MsprintEx\New folder\MSprintEx\obj\Debug\MSprintEx.frmRearrangePlanChannels.resources
+E:\Alokk\MsprintEx\New folder\MSprintEx\obj\Debug\MSprintEx.frmWait.resources
+E:\Alokk\MsprintEx\New folder\MSprintEx\obj\Debug\MSprintEx.GenreShareForm.resources
+E:\Alokk\MsprintEx\New folder\MSprintEx\obj\Debug\MSprintEx.MSprintExRibbon.resources
+E:\Alokk\MsprintEx\New folder\MSprintEx\obj\Debug\MSprintEx.TaskPaneLogFile.resources
+E:\Alokk\MsprintEx\New folder\MSprintEx\obj\Debug\MSprintEx.tpMediaPlan.resources
+E:\Alokk\MsprintEx\New folder\MSprintEx\obj\Debug\MSprintEx.TVRForm.resources
+E:\Alokk\MsprintEx\New folder\MSprintEx\obj\Debug\MSprintEx.ucAdvertiser.resources
+E:\Alokk\MsprintEx\New folder\MSprintEx\obj\Debug\MSprintEx.ucAudience.resources
+E:\Alokk\MsprintEx\New folder\MSprintEx\obj\Debug\MSprintEx.ucAvgTVRMGSelection.resources
+E:\Alokk\MsprintEx\New folder\MSprintEx\obj\Debug\MSprintEx.ucBrand.resources
+E:\Alokk\MsprintEx\New folder\MSprintEx\obj\Debug\MSprintEx.ucCategory.resources
+E:\Alokk\MsprintEx\New folder\MSprintEx\obj\Debug\MSprintEx.ucChannels.resources
+E:\Alokk\MsprintEx\New folder\MSprintEx\obj\Debug\MSprintEx.ucChannelShare.resources
+E:\Alokk\MsprintEx\New folder\MSprintEx\obj\Debug\MSprintEx.UcGenres.resources
+E:\Alokk\MsprintEx\New folder\MSprintEx\obj\Debug\MSprintEx.ucMarkets.resources
+E:\Alokk\MsprintEx\New folder\MSprintEx\obj\Debug\MSprintEx.ucMkets.resources
+E:\Alokk\MsprintEx\New folder\MSprintEx\obj\Debug\MSprintEx.ucPlanSelections.resources
+E:\Alokk\MsprintEx\New folder\MSprintEx\obj\Debug\MSprintEx.ucSelections.resources
+E:\Alokk\MsprintEx\New folder\MSprintEx\obj\Debug\MSprintEx.ucTopPrograms.resources
+E:\Alokk\MsprintEx\New folder\MSprintEx\obj\Debug\MSprintEx.ucTVRScreen.resources
+E:\Alokk\MsprintEx\New folder\MSprintEx\obj\Debug\MSprintEx.ucVariant.resources
+E:\Alokk\MsprintEx\New folder\MSprintEx\obj\Debug\MSprintEx.UserControlCshare.resources
+E:\Alokk\MsprintEx\New folder\MSprintEx\obj\Debug\MSprintEx.Resources.resources
+E:\Alokk\MsprintEx\New folder\MSprintEx\obj\Debug\MSprintEx.vbproj.GenerateResource.Cache
+E:\Alokk\MsprintEx\New folder\MSprintEx\obj\Debug\MSprintEx.dll
+E:\Alokk\MsprintEx\New folder\MSprintEx\obj\Debug\MSprintEx.xml
+E:\Alokk\MsprintEx\New folder\MSprintEx\obj\Debug\MSprintEx.pdb
+C:\ASR\MsprintX\Latest\MSprintEx\bin\Debug\dbBrkPerf (2).sdf
+C:\ASR\MsprintX\Latest\MSprintEx\bin\Debug\dbBrkPerf (3).sdf
+C:\ASR\MsprintX\Latest\MSprintEx\bin\Debug\dbBrkPerf.sdf
+C:\ASR\MsprintX\Latest\MSprintEx\bin\Debug\MSprintEx.dll.config
+C:\ASR\MsprintX\Latest\MSprintEx\bin\Debug\MSprintEx.dll
+C:\ASR\MsprintX\Latest\MSprintEx\bin\Debug\MSprintEx.pdb
+C:\ASR\MsprintX\Latest\MSprintEx\bin\Debug\MSprintEx.xml
+C:\ASR\MsprintX\Latest\MSprintEx\bin\Debug\MSprintEx.dll.manifest
+C:\ASR\MsprintX\Latest\MSprintEx\bin\Debug\MSprintEx.vsto
+C:\ASR\MsprintX\Latest\MSprintEx\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\ASR\MsprintX\Latest\MSprintEx\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.xml
+C:\ASR\MsprintX\Latest\MSprintEx\obj\Debug\MSprintEx.vbprojResolveAssemblyReference.cache
+C:\ASR\MsprintX\Latest\MSprintEx\obj\Debug\MSprintEx.ChangeLogDir.resources
+C:\ASR\MsprintX\Latest\MSprintEx\obj\Debug\MSprintEx.ChannelMapping.resources
+C:\ASR\MsprintX\Latest\MSprintEx\obj\Debug\MSprintEx.DataErrors.resources
+C:\ASR\MsprintX\Latest\MSprintEx\obj\Debug\MSprintEx.frmFilterChannels.resources
+C:\ASR\MsprintX\Latest\MSprintEx\obj\Debug\MSprintEx.frmRearrangePlanChannels.resources
+C:\ASR\MsprintX\Latest\MSprintEx\obj\Debug\MSprintEx.frmWait.resources
+C:\ASR\MsprintX\Latest\MSprintEx\obj\Debug\MSprintEx.GenreShareForm.resources
+C:\ASR\MsprintX\Latest\MSprintEx\obj\Debug\MSprintEx.MSprintExRibbon.resources
+C:\ASR\MsprintX\Latest\MSprintEx\obj\Debug\MSprintEx.tpMediaPlan.resources
+C:\ASR\MsprintX\Latest\MSprintEx\obj\Debug\MSprintEx.TVRForm.resources
+C:\ASR\MsprintX\Latest\MSprintEx\obj\Debug\MSprintEx.ucAdvertiser.resources
+C:\ASR\MsprintX\Latest\MSprintEx\obj\Debug\MSprintEx.ucAudience.resources
+C:\ASR\MsprintX\Latest\MSprintEx\obj\Debug\MSprintEx.ucAvgTVRMGSelection.resources
+C:\ASR\MsprintX\Latest\MSprintEx\obj\Debug\MSprintEx.ucBrand.resources
+C:\ASR\MsprintX\Latest\MSprintEx\obj\Debug\MSprintEx.ucCategory.resources
+C:\ASR\MsprintX\Latest\MSprintEx\obj\Debug\MSprintEx.ucChannels.resources
+C:\ASR\MsprintX\Latest\MSprintEx\obj\Debug\MSprintEx.ucChannelShare.resources
+C:\ASR\MsprintX\Latest\MSprintEx\obj\Debug\MSprintEx.UcGenres.resources
+C:\ASR\MsprintX\Latest\MSprintEx\obj\Debug\MSprintEx.ucMarkets.resources
+C:\ASR\MsprintX\Latest\MSprintEx\obj\Debug\MSprintEx.ucMkets.resources
+C:\ASR\MsprintX\Latest\MSprintEx\obj\Debug\MSprintEx.ucPlanSelections.resources
+C:\ASR\MsprintX\Latest\MSprintEx\obj\Debug\MSprintEx.ucSelections.resources
+C:\ASR\MsprintX\Latest\MSprintEx\obj\Debug\MSprintEx.ucTopPrograms.resources
+C:\ASR\MsprintX\Latest\MSprintEx\obj\Debug\MSprintEx.ucTVRScreen.resources
+C:\ASR\MsprintX\Latest\MSprintEx\obj\Debug\MSprintEx.ucVariant.resources
+C:\ASR\MsprintX\Latest\MSprintEx\obj\Debug\MSprintEx.UserControlCshare.resources
+C:\ASR\MsprintX\Latest\MSprintEx\obj\Debug\MSprintEx.Resources.resources
+C:\ASR\MsprintX\Latest\MSprintEx\obj\Debug\MSprintEx.vbproj.GenerateResource.Cache
+C:\ASR\MsprintX\Latest\MSprintEx\obj\Debug\MSprintEx.dll
+C:\ASR\MsprintX\Latest\MSprintEx\obj\Debug\MSprintEx.xml
+C:\ASR\MsprintX\Latest\MSprintEx\obj\Debug\MSprintEx.pdb
+C:\ASR\MsprintX\Latest\MSprintEx\obj\Debug\MSprintEx.frmGenEndTime.resources
+C:\ASR\MsprintX\Latest\MSprintEx\obj\Debug\MSprintEx.TaskPaneLogFile.resources
+C:\ASR\MsprintX\Latest\MSprintEx\obj\Debug\MSprintEx.ucGenEndTime.resources
+C:\ASR\MsprintX\Latest\MSprintEx\obj\Debug\MSprintEx.frmPrepareServer.resources

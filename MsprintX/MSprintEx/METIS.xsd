@@ -1,0 +1,264 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="METIS" targetNamespace="http://tempuri.org/METIS.xsd" xmlns:mstns="http://tempuri.org/METIS.xsd" xmlns="http://tempuri.org/METIS.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="MySettings" AppSettingsPropertyName="GMDWConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="GMDWConnectionString (MySettings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.MSprintEx.MySettings.GlobalReference.Default.GMDWConnectionString" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="MarketsTableAdapter" GeneratorDataComponentClassName="MarketsTableAdapter" Name="Markets" UserDataComponentName="MarketsTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="GMDWConnectionString (MySettings)" DbObjectName="GMDW.dbo.GM_PLA_MARKET_DIM_MSPRINT2013F42" DbObjectType="Table" GenerateMethods="Get" GenerateShortCommands="false" GeneratorGetMethodName="GetMarkets" GetMethodModifier="Public" GetMethodName="GetMarkets" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="false" UserGetMethodName="GetMarkets" UserSourceName="GetMarkets">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="true">
+                    <CommandText>SELECT MARKET_ID, MARKET_DESC FROM GM_PLA_MARKET_DIM_MSPRINT2013F42 ORDER BY MARKET_DESC</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="Market_id" DataSetColumn="Market_id" />
+              <Mapping SourceColumn="Market_desc" DataSetColumn="Market_desc" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="GENDERTableAdapter" GeneratorDataComponentClassName="GENDERTableAdapter" Name="GENDER" UserDataComponentName="GENDERTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="GMDWConnectionString (MySettings)" DbObjectName="GMDW.dbo.GM_GENDER_DIM" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetGenders" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetGenders" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="false" UserGetMethodName="GetGenders" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="true">
+                    <CommandText>Select Gender_ID, Gender_Desc from GM_Gender_Dim</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="Gender_ID" DataSetColumn="Gender_ID" />
+              <Mapping SourceColumn="Gender_Desc" DataSetColumn="Gender_Desc" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="AGEBANDTableAdapter" GeneratorDataComponentClassName="AGEBANDTableAdapter" Name="AGEBAND" UserDataComponentName="AGEBANDTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="GMDWConnectionString (MySettings)" DbObjectName="GMDW.dbo.GM_AGE_DIM" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetAgeBands" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetAgeBands" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="false" UserGetMethodName="GetAgeBands" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="true">
+                    <CommandText>Select Age_ID, AgeGroup_Desc from GM_Age_Dim</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="Age_ID" DataSetColumn="Age_ID" />
+              <Mapping SourceColumn="AgeGroup_Desc" DataSetColumn="AgeGroup_Desc" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="SECTableAdapter" GeneratorDataComponentClassName="SECTableAdapter" Name="SEC" UserDataComponentName="SECTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="GMDWConnectionString (MySettings)" DbObjectName="GMDW.dbo.GM_SEC_DIM" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetSEC" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetSEC" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="false" UserGetMethodName="GetSEC" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="true">
+                    <CommandText>Select SEC_ID, SEC_Desc from GM_SEC_Dim</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="SEC_ID" DataSetColumn="SEC_ID" />
+              <Mapping SourceColumn="SEC_Desc" DataSetColumn="SEC_Desc" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="HOUSEHOLDTableAdapter" GeneratorDataComponentClassName="HOUSEHOLDTableAdapter" Name="HOUSEHOLD" UserDataComponentName="HOUSEHOLDTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="GMDWConnectionString (MySettings)" DbObjectName="GMDW.dbo.GM_HOUSEHOLD_DIM" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetHouseholds" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetHouseholds" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="false" UserGetMethodName="GetHouseholds" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="true">
+                    <CommandText>Select Household_ID, Household_Desc from GM_Household_Dim</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="Household_ID" DataSetColumn="Household_ID" />
+              <Mapping SourceColumn="Household_Desc" DataSetColumn="Household_Desc" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="CHANNEL_MASTERTableAdapter" GeneratorDataComponentClassName="CHANNEL_MASTERTableAdapter" Name="CHANNEL_MASTER" UserDataComponentName="CHANNEL_MASTERTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="GMDWConnectionString (MySettings)" DbObjectName="GMDW.dbo.GM_CHANNEL_DIM" DbObjectType="Table" GenerateMethods="Get" GenerateShortCommands="false" GeneratorGetMethodName="GetChannels" GetMethodModifier="Public" GetMethodName="GetChannels" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="false" UserGetMethodName="GetChannels" UserSourceName="GetChannels">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="true">
+                    <CommandText>SELECT        CHANNEL_ID, CHANNEL_DESC, TAM_CHANNEL_CODE
+FROM            GM_CHANNEL_DIM
+WHERE        (CHANNEL_DESC IS NOT NULL)
+ORDER BY CHANNEL_DESC</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="CHANNEL_ID" DataSetColumn="CHANNEL_ID" />
+              <Mapping SourceColumn="CHANNEL_DESC" DataSetColumn="CHANNEL_DESC" />
+              <Mapping SourceColumn="TAM_CHANNEL_CODE" DataSetColumn="TAM_CHANNEL_CODE" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="METIS" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="METIS" msprop:Generator_UserDSName="METIS">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="Markets" msprop:Generator_TableClassName="MarketsDataTable" msprop:Generator_TableVarName="tableMarkets" msprop:Generator_TablePropName="Markets" msprop:Generator_RowDeletingName="MarketsRowDeleting" msprop:Generator_RowChangingName="MarketsRowChanging" msprop:Generator_RowEvHandlerName="MarketsRowChangeEventHandler" msprop:Generator_RowDeletedName="MarketsRowDeleted" msprop:Generator_UserTableName="Markets" msprop:Generator_RowChangedName="MarketsRowChanged" msprop:Generator_RowEvArgName="MarketsRowChangeEvent" msprop:Generator_RowClassName="MarketsRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Market_id" msdata:ReadOnly="true" msdata:AutoIncrementSeed="-1" msdata:AutoIncrementStep="-1" msprop:Generator_ColumnVarNameInTable="columnMarket_id" msprop:Generator_ColumnPropNameInRow="Market_id" msprop:Generator_ColumnPropNameInTable="Market_idColumn" msprop:Generator_UserColumnName="Market_id" type="xs:string" />
+              <xs:element name="Market_desc" msprop:Generator_ColumnVarNameInTable="columnMarket_desc" msprop:Generator_ColumnPropNameInRow="Market_desc" msprop:Generator_ColumnPropNameInTable="Market_descColumn" msprop:Generator_UserColumnName="Market_desc" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="8000" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Selected" msprop:Generator_ColumnVarNameInTable="columnSelected" msprop:Generator_ColumnPropNameInRow="Selected" msprop:Generator_ColumnPropNameInTable="SelectedColumn" msprop:Generator_UserColumnName="Selected" type="xs:boolean" default="false" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="SelectedMarkets" msprop:Generator_TableClassName="SelectedMarketsDataTable" msprop:Generator_TableVarName="tableSelectedMarkets" msprop:Generator_RowChangedName="SelectedMarketsRowChanged" msprop:Generator_TablePropName="SelectedMarkets" msprop:Generator_RowDeletingName="SelectedMarketsRowDeleting" msprop:Generator_RowChangingName="SelectedMarketsRowChanging" msprop:Generator_RowEvHandlerName="SelectedMarketsRowChangeEventHandler" msprop:Generator_RowDeletedName="SelectedMarketsRowDeleted" msprop:Generator_RowClassName="SelectedMarketsRow" msprop:Generator_UserTableName="SelectedMarkets" msprop:Generator_RowEvArgName="SelectedMarketsRowChangeEvent">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="MarketGroup" msprop:Generator_ColumnVarNameInTable="columnMarketGroup" msprop:Generator_ColumnPropNameInRow="MarketGroup" msprop:Generator_ColumnPropNameInTable="MarketGroupColumn" msprop:Generator_UserColumnName="MarketGroup" type="xs:string" />
+              <xs:element name="Market_id" msprop:Generator_ColumnVarNameInTable="columnMarket_id" msprop:Generator_ColumnPropNameInRow="Market_id" msprop:Generator_ColumnPropNameInTable="Market_idColumn" msprop:Generator_UserColumnName="Market_id" type="xs:string" />
+              <xs:element name="Market_desc" msprop:Generator_ColumnVarNameInTable="columnMarket_desc" msprop:Generator_ColumnPropNameInRow="Market_desc" msprop:Generator_ColumnPropNameInTable="Market_descColumn" msprop:Generator_UserColumnName="Market_desc" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="MarketGroup" msprop:Generator_TableClassName="MarketGroupDataTable" msprop:Generator_TableVarName="tableMarketGroup" msprop:Generator_RowChangedName="MarketGroupRowChanged" msprop:Generator_TablePropName="MarketGroup" msprop:Generator_RowDeletingName="MarketGroupRowDeleting" msprop:Generator_RowChangingName="MarketGroupRowChanging" msprop:Generator_RowEvHandlerName="MarketGroupRowChangeEventHandler" msprop:Generator_RowDeletedName="MarketGroupRowDeleted" msprop:Generator_RowClassName="MarketGroupRow" msprop:Generator_UserTableName="MarketGroup" msprop:Generator_RowEvArgName="MarketGroupRowChangeEvent">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="MarketGroup" msprop:Generator_ColumnVarNameInTable="columnMarketGroup" msprop:Generator_ColumnPropNameInRow="MarketGroup" msprop:Generator_ColumnPropNameInTable="MarketGroupColumn" msprop:Generator_UserColumnName="MarketGroup" type="xs:string" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="GENDER" msprop:Generator_TableClassName="GENDERDataTable" msprop:Generator_TableVarName="tableGENDER" msprop:Generator_TablePropName="GENDER" msprop:Generator_RowDeletingName="GENDERRowDeleting" msprop:Generator_RowChangingName="GENDERRowChanging" msprop:Generator_RowEvHandlerName="GENDERRowChangeEventHandler" msprop:Generator_RowDeletedName="GENDERRowDeleted" msprop:Generator_UserTableName="GENDER" msprop:Generator_RowChangedName="GENDERRowChanged" msprop:Generator_RowEvArgName="GENDERRowChangeEvent" msprop:Generator_RowClassName="GENDERRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Gender_ID" msdata:ReadOnly="true" msdata:AutoIncrement="true" msdata:AutoIncrementSeed="-1" msdata:AutoIncrementStep="-1" msprop:Generator_ColumnVarNameInTable="columnGender_ID" msprop:Generator_ColumnPropNameInRow="Gender_ID" msprop:Generator_ColumnPropNameInTable="Gender_IDColumn" msprop:Generator_UserColumnName="Gender_ID" type="xs:int" />
+              <xs:element name="Gender_Desc" msprop:Generator_ColumnVarNameInTable="columnGender_Desc" msprop:Generator_ColumnPropNameInRow="Gender_Desc" msprop:Generator_ColumnPropNameInTable="Gender_DescColumn" msprop:Generator_UserColumnName="Gender_Desc">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="200" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="AGEBAND" msprop:Generator_TableClassName="AGEBANDDataTable" msprop:Generator_TableVarName="tableAGEBAND" msprop:Generator_TablePropName="AGEBAND" msprop:Generator_RowDeletingName="AGEBANDRowDeleting" msprop:Generator_RowChangingName="AGEBANDRowChanging" msprop:Generator_RowEvHandlerName="AGEBANDRowChangeEventHandler" msprop:Generator_RowDeletedName="AGEBANDRowDeleted" msprop:Generator_UserTableName="AGEBAND" msprop:Generator_RowChangedName="AGEBANDRowChanged" msprop:Generator_RowEvArgName="AGEBANDRowChangeEvent" msprop:Generator_RowClassName="AGEBANDRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Age_ID" msdata:ReadOnly="true" msdata:AutoIncrement="true" msdata:AutoIncrementSeed="-1" msdata:AutoIncrementStep="-1" msprop:Generator_ColumnVarNameInTable="columnAge_ID" msprop:Generator_ColumnPropNameInRow="Age_ID" msprop:Generator_ColumnPropNameInTable="Age_IDColumn" msprop:Generator_UserColumnName="Age_ID" type="xs:int" />
+              <xs:element name="AgeGroup_Desc" msprop:Generator_ColumnVarNameInTable="columnAgeGroup_Desc" msprop:Generator_ColumnPropNameInRow="AgeGroup_Desc" msprop:Generator_ColumnPropNameInTable="AgeGroup_DescColumn" msprop:Generator_UserColumnName="AgeGroup_Desc" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="200" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="SEC" msprop:Generator_TableClassName="SECDataTable" msprop:Generator_TableVarName="tableSEC" msprop:Generator_TablePropName="SEC" msprop:Generator_RowDeletingName="SECRowDeleting" msprop:Generator_RowChangingName="SECRowChanging" msprop:Generator_RowEvHandlerName="SECRowChangeEventHandler" msprop:Generator_RowDeletedName="SECRowDeleted" msprop:Generator_UserTableName="SEC" msprop:Generator_RowChangedName="SECRowChanged" msprop:Generator_RowEvArgName="SECRowChangeEvent" msprop:Generator_RowClassName="SECRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="SEC_ID" msdata:ReadOnly="true" msdata:AutoIncrement="true" msdata:AutoIncrementSeed="-1" msdata:AutoIncrementStep="-1" msprop:Generator_ColumnVarNameInTable="columnSEC_ID" msprop:Generator_ColumnPropNameInRow="SEC_ID" msprop:Generator_ColumnPropNameInTable="SEC_IDColumn" msprop:Generator_UserColumnName="SEC_ID" type="xs:int" />
+              <xs:element name="SEC_Desc" msprop:Generator_ColumnVarNameInTable="columnSEC_Desc" msprop:Generator_ColumnPropNameInRow="SEC_Desc" msprop:Generator_ColumnPropNameInTable="SEC_DescColumn" msprop:Generator_UserColumnName="SEC_Desc">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="200" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="HOUSEHOLD" msprop:Generator_TableClassName="HOUSEHOLDDataTable" msprop:Generator_TableVarName="tableHOUSEHOLD" msprop:Generator_TablePropName="HOUSEHOLD" msprop:Generator_RowDeletingName="HOUSEHOLDRowDeleting" msprop:Generator_RowChangingName="HOUSEHOLDRowChanging" msprop:Generator_RowEvHandlerName="HOUSEHOLDRowChangeEventHandler" msprop:Generator_RowDeletedName="HOUSEHOLDRowDeleted" msprop:Generator_UserTableName="HOUSEHOLD" msprop:Generator_RowChangedName="HOUSEHOLDRowChanged" msprop:Generator_RowEvArgName="HOUSEHOLDRowChangeEvent" msprop:Generator_RowClassName="HOUSEHOLDRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Household_ID" msdata:ReadOnly="true" msdata:AutoIncrement="true" msdata:AutoIncrementSeed="-1" msdata:AutoIncrementStep="-1" msprop:Generator_ColumnVarNameInTable="columnHousehold_ID" msprop:Generator_ColumnPropNameInRow="Household_ID" msprop:Generator_ColumnPropNameInTable="Household_IDColumn" msprop:Generator_UserColumnName="Household_ID" type="xs:int" />
+              <xs:element name="Household_Desc" msprop:Generator_ColumnVarNameInTable="columnHousehold_Desc" msprop:Generator_ColumnPropNameInRow="Household_Desc" msprop:Generator_ColumnPropNameInTable="Household_DescColumn" msprop:Generator_UserColumnName="Household_Desc" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="200" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="CHANNEL_MASTER" msprop:Generator_TableClassName="CHANNEL_MASTERDataTable" msprop:Generator_TableVarName="tableCHANNEL_MASTER" msprop:Generator_RowChangedName="CHANNEL_MASTERRowChanged" msprop:Generator_TablePropName="CHANNEL_MASTER" msprop:Generator_RowDeletingName="CHANNEL_MASTERRowDeleting" msprop:Generator_RowChangingName="CHANNEL_MASTERRowChanging" msprop:Generator_RowEvHandlerName="CHANNEL_MASTERRowChangeEventHandler" msprop:Generator_RowDeletedName="CHANNEL_MASTERRowDeleted" msprop:Generator_RowClassName="CHANNEL_MASTERRow" msprop:Generator_UserTableName="CHANNEL_MASTER" msprop:Generator_RowEvArgName="CHANNEL_MASTERRowChangeEvent">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="CHANNEL_ID" msdata:ReadOnly="true" msdata:AutoIncrement="true" msdata:AutoIncrementSeed="-1" msdata:AutoIncrementStep="-1" msprop:Generator_ColumnVarNameInTable="columnCHANNEL_ID" msprop:Generator_ColumnPropNameInRow="CHANNEL_ID" msprop:Generator_ColumnPropNameInTable="CHANNEL_IDColumn" msprop:Generator_UserColumnName="CHANNEL_ID" type="xs:int" />
+              <xs:element name="CHANNEL_DESC" msprop:Generator_ColumnVarNameInTable="columnCHANNEL_DESC" msprop:Generator_ColumnPropNameInRow="CHANNEL_DESC" msprop:Generator_ColumnPropNameInTable="CHANNEL_DESCColumn" msprop:Generator_UserColumnName="CHANNEL_DESC" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="200" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="TAM_CHANNEL_CODE" msprop:Generator_ColumnVarNameInTable="columnTAM_CHANNEL_CODE" msprop:Generator_ColumnPropNameInRow="TAM_CHANNEL_CODE" msprop:Generator_ColumnPropNameInTable="TAM_CHANNEL_CODEColumn" msprop:Generator_UserColumnName="TAM_CHANNEL_CODE" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:SelectedMarkets" />
+      <xs:field xpath="mstns:MarketGroup" />
+      <xs:field xpath="mstns:Market_id" />
+    </xs:unique>
+    <xs:unique name="MarketGroup_Constraint1" msdata:ConstraintName="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:MarketGroup" />
+      <xs:field xpath="mstns:MarketGroup" />
+    </xs:unique>
+    <xs:unique name="GENDER_Constraint1" msdata:ConstraintName="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:GENDER" />
+      <xs:field xpath="mstns:Gender_ID" />
+    </xs:unique>
+    <xs:unique name="AGEBAND_Constraint1" msdata:ConstraintName="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:AGEBAND" />
+      <xs:field xpath="mstns:Age_ID" />
+    </xs:unique>
+    <xs:unique name="SEC_Constraint1" msdata:ConstraintName="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:SEC" />
+      <xs:field xpath="mstns:SEC_ID" />
+    </xs:unique>
+    <xs:unique name="HOUSEHOLD_Constraint1" msdata:ConstraintName="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:HOUSEHOLD" />
+      <xs:field xpath="mstns:Household_ID" />
+    </xs:unique>
+    <xs:unique name="CHANNEL_MASTER_Constraint1" msdata:ConstraintName="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:CHANNEL_MASTER" />
+      <xs:field xpath="mstns:CHANNEL_ID" />
+    </xs:unique>
+  </xs:element>
+</xs:schema>

@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html>
+  <head>
+    <meta content="text/html; charset=UTF-8" http-equiv="Content-Type" />
+    <meta content="IE=8" http-equiv="X-UA-Compatible" />
+    <link href="/GroupM/resources/dijit/themes/tundra/tundra.css;jsessionid=16BC874700CC900AD313C6C75DF727C2" type="text/css" rel="stylesheet" />
+    <link href="/GroupM/resources/styles/standard.css;jsessionid=16BC874700CC900AD313C6C75DF727C2" media="screen" type="text/css" rel="stylesheet" />
+    <link href="/GroupM/resources/images/favicon.ico;jsessionid=16BC874700CC900AD313C6C75DF727C2" rel="SHORTCUT ICON" />
+    <script type="text/javascript">var djConfig = {parseOnLoad: false, isDebug: false, locale: 'en-us'};</script>
+    <script type="text/javascript" src="/GroupM/resources/dojo/dojo.js;jsessionid=16BC874700CC900AD313C6C75DF727C2"></script>
+    <script type="text/javascript" src="/GroupM/resources/spring/Spring.js;jsessionid=16BC874700CC900AD313C6C75DF727C2"></script>
+    <script type="text/javascript" src="/GroupM/resources/spring/Spring-Dojo.js;jsessionid=16BC874700CC900AD313C6C75DF727C2"></script>
+    <script type="text/javascript" language="JavaScript">dojo.require("dojo.parser");</script>
+    <title>Welcome to GroupM</title>
+  </head>
+  <body class="tundra spring">
+    <div id="wrapper">
+      <div version="2.0" id="header">
+        <a title="Home" name="Home" href="/GroupM/;jsessionid=16BC874700CC900AD313C6C75DF727C2">
+          <img src="/GroupM/resources/images/banner-graphic.png;jsessionid=16BC874700CC900AD313C6C75DF727C2" />
+        </a>
+      </div>
+      <div id="main">
+        <div version="2.0">
+          <script type="text/javascript">dojo.require('dijit.TitlePane');</script>
+          <div id="_title_title_id">
+            <script type="text/javascript">Spring.addDecoration(new Spring.ElementDecoration({elementId : '_title_title_id', widgetType : 'dijit.TitlePane', widgetAttrs : {title: 'Internal Error', open: true}})); </script>
+            <h2>Internal Error</h2>
+            <p>Sorry, we encountered an internal error.</p>
+            <p>
+              <h4>Details</h4>
+              <script type="text/javascript">dojo.require('dijit.TitlePane');</script>
+              <div id="_title__message_id">
+                <script type="text/javascript">Spring.addDecoration(new Spring.ElementDecoration({elementId : '_title__message_id', widgetType : 'dijit.TitlePane', widgetAttrs : {title: 'Exception Message', open: false}})); </script>Comparison method violates its general contract!</div>
+              <script type="text/javascript">dojo.require('dijit.TitlePane');</script>
+              <div id="_title__exception_id">
+                <script type="text/javascript">Spring.addDecoration(new Spring.ElementDecoration({elementId : '_title__exception_id', widgetType : 'dijit.TitlePane', widgetAttrs : {title: 'Exception Stack Trace', open: false}})); </script>java.util.TimSort.mergeLo(TimSort.java:747)<br />java.util.TimSort.mergeAt(TimSort.java:483)<br />java.util.TimSort.mergeCollapse(TimSort.java:410)<br />java.util.TimSort.sort(TimSort.java:214)<br />java.util.TimSort.sort(TimSort.java:173)<br />java.util.Arrays.sort(Arrays.java:659)<br />java.util.Collections.sort(Collections.java:217)<br />com.webservice.utils.Helper.entriesSortedByValuesArray(Helper.java:296)<br />com.groupm.main.BAO.ProgramTVRBAO.addOutputCSVToBuffer(ProgramTVRBAO.java:417)<br />com.groupm.main.BAO.ProgramTVRBAO.getData(ProgramTVRBAO.java:180)<br />com.groupm.main.web.ProgramTVRController.getProgramTVR(ProgramTVRController.java:62)<br />sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)<br />sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)<br />sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)<br />java.lang.reflect.Method.invoke(Method.java:606)<br />org.springframework.web.method.support.InvocableHandlerMethod.invoke(InvocableHandlerMethod.java:219)<br />org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:132)<br />org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:104)<br />org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandleMethod(RequestMappingHandlerAdapter.java:745)<br />org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:686)<br />org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:80)<br />org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:925)<br />org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:856)<br />org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:936)<br />org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:838)<br />javax.servlet.http.HttpServlet.service(HttpServlet.java:647)<br />org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:812)<br />javax.servlet.http.HttpServlet.service(HttpServlet.java:728)<br />org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:305)<br />org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:210)<br />org.springframework.orm.jpa.support.OpenEntityManagerInViewFilter.doFilterInternal(OpenEntityManagerInViewFilter.java:180)<br />org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)<br />org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:243)<br />org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:210)<br />org.springframework.web.filter.HiddenHttpMethodFilter.doFilterInternal(HiddenHttpMethodFilter.java:77)<br />org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)<br />org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:243)<br />org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:210)<br />org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:88)<br />org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)<br />org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:243)<br />org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:210)<br />org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:222)<br />org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:123)<br />org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:502)<br />org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:171)<br />org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:100)<br />org.apache.catalina.valves.AccessLogValve.invoke(AccessLogValve.java:953)<br />org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:118)<br />org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:408)<br />org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1041)<br />org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:603)<br />org.apache.tomcat.util.net.JIoEndpoint$SocketProcessor.run(JIoEndpoint.java:310)<br />java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)<br />java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:615)<br />java.lang.Thread.run(Thread.java:744)<br /></div>
+            </p>
+          </div>
+        </div>
+        <div version="2.0" id="footer">
+          <span>
+            <a href="/GroupM/;jsessionid=16BC874700CC900AD313C6C75DF727C2">Home</a>
+          </span>
+          <span id="language"> | Language: <a title="Switch language to English" href="?lang=en"><img alt="Switch language to English" src="/GroupM/resources/images/en.png;jsessionid=16BC874700CC900AD313C6C75DF727C2" class="flag" /></a></span>
+          <span> | Theme: <a title="standard" href="?theme=standard">standard</a> | <a title="alt" href="?theme=alt">alt</a></span>
+          <span>
+            <a title="Sponsored by SpringSource" href="http://springsource.com">
+              <img src="/GroupM/resources/images/springsource-logo.png;jsessionid=16BC874700CC900AD313C6C75DF727C2" alt="Sponsored by SpringSource" align="right" />
+            </a>
+          </span>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

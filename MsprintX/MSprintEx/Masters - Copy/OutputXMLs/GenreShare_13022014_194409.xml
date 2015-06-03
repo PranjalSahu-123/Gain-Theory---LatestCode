@@ -1,0 +1,214 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<input>
+  <pre-eval-period>
+    <startdate>20131001</startdate>
+    <enddate>20131031</enddate>
+  </pre-eval-period>
+  <day_parts />
+  <TG_MG name="CHANDRIKA TG~Kerala" type="Planning">
+    <tg name="CHANDRIKA TG">
+      <cs>1</cs>
+      <sec>1,2,3</sec>
+      <sex>2</sex>
+      <age>4,5</age>
+    </tg>
+    <mg name="Kerala" type="Group">
+      <market>H</market>
+      <market>I</market>
+    </mg>
+    <output>
+      <genre_share>
+        <genre GRP="1558" name="MALAYALAM SAT" />
+        <genre GRP="375" name="TAM SAT" />
+        <genre GRP="339" name="OTHERS" />
+        <genre GRP="126" name="SPORTS" />
+        <genre GRP="113" name="KIDS" />
+        <genre GRP="56" name="INFOTAINMENT" />
+        <genre GRP="42" name="DD" />
+        <genre GRP="39" name="MUSIC" />
+        <genre GRP="28" name="GEC1" />
+        <genre GRP="27" name="ENG ENTT" />
+        <genre GRP="20" name="ENG NEWS" />
+        <genre GRP="19" name="ENG MOVIES" />
+        <genre GRP="17" name="HIN MOVIES" />
+        <genre GRP="3" name="GEC2" />
+        <genre GRP="1" name="HIN NEWS" />
+        <genre GRP="1" name="TELUGU SAT" />
+        <genre GRP="0" name="UP/BIHAR/JHARKHAND" />
+        <genre GRP="0" name="ASSAM SAT" />
+        <genre GRP="0" name="MARATHI SAT" />
+        <genre GRP="0" name="KANNADA SAT" />
+      </genre_share>
+      <TopTenChannels>
+        <channel GRP="337" code="19" name="ASIANET" rank="1" />
+        <channel GRP="219" code="75" name="SURYA TV" rank="2" />
+        <channel GRP="207" code="295" name="AMRITHA TV" rank="3" />
+        <channel GRP="146" code="683" name="Mazhavil Manorama" rank="4" />
+        <channel GRP="116" code="16" name="SUN TV" rank="5" />
+        <channel GRP="116" code="178" name="K TV" rank="6" />
+        <channel GRP="114" code="281" name="KIRAN TV" rank="7" />
+        <channel GRP="103" code="679" name="Kochu TV" rank="8" />
+        <channel GRP="103" code="722" name="ASIANET MOVIES" rank="9" />
+        <channel GRP="90" code="309" name="ASIANET PLUS" rank="10" />
+      </TopTenChannels>
+    </output>
+  </TG_MG>
+  <TG_MG name="CHANDRIKA TG~SouthStates" type="Planning">
+    <tg name="CHANDRIKA TG">
+      <cs>1</cs>
+      <sec>1,2,3</sec>
+      <sex>2</sex>
+      <age>4,5</age>
+    </tg>
+    <mg name="SouthStates" type="Group">
+      <market>8</market>
+      <market>9</market>
+      <market>G</market>
+      <market>H</market>
+      <market>I</market>
+      <market>Q</market>
+      <market>R</market>
+    </mg>
+    <output>
+      <genre_share>
+        <genre GRP="643" name="OTHERS" />
+        <genre GRP="637" name="TAM SAT" />
+        <genre GRP="562" name="TELUGU SAT" />
+        <genre GRP="231" name="KANNADA SAT" />
+        <genre GRP="208" name="MALAYALAM SAT" />
+        <genre GRP="155" name="KIDS" />
+        <genre GRP="145" name="SPORTS" />
+        <genre GRP="79" name="GEC1" />
+        <genre GRP="50" name="INFOTAINMENT" />
+        <genre GRP="29" name="ENG MOVIES" />
+        <genre GRP="23" name="HIN MOVIES" />
+        <genre GRP="20" name="MUSIC" />
+        <genre GRP="15" name="DD" />
+        <genre GRP="11" name="HIN NEWS" />
+        <genre GRP="9" name="GEC2" />
+        <genre GRP="9" name="ENG NEWS" />
+        <genre GRP="6" name="MARATHI SAT" />
+        <genre GRP="4" name="ENG ENTT" />
+        <genre GRP="1" name="UP/BIHAR/JHARKHAND" />
+        <genre GRP="0" name="ASSAM SAT" />
+        <genre GRP="0" name="BENGALI SAT" />
+        <genre GRP="0" name="ORIYA SAT" />
+        <genre GRP="0" name="OTHER REGIONALS" />
+        <genre GRP="0" name="PUNJABI SAT" />
+      </genre_share>
+      <TopTenChannels>
+        <channel GRP="260" code="16" name="SUN TV" rank="1" />
+        <channel GRP="174" code="52" name="GEMINI TV" rank="2" />
+        <channel GRP="147" code="198" name="MAA TELUGU" rank="3" />
+        <channel GRP="120" code="178" name="K TV" rank="4" />
+        <channel GRP="101" code="268" name="ZEE TELUGU" rank="5" />
+        <channel GRP="98" code="123" name="TEJA TV" rank="6" />
+        <channel GRP="80" code="17" name="UDAYA TV" rank="7" />
+        <channel GRP="79" code="62" name="EENADU TV" rank="8" />
+        <channel GRP="79" code="6" name="STAR SPORTS" rank="9" />
+        <channel GRP="61" code="53" name="VIJAY TV" rank="10" />
+      </TopTenChannels>
+    </output>
+  </TG_MG>
+  <TG_MG name="CS 15-24 A~SouthStates" type="Reference">
+    <tg name="CS 15-24 A">
+      <cs>1</cs>
+      <sec>1</sec>
+      <sex>1,2</sex>
+      <age>3</age>
+    </tg>
+    <mg name="SouthStates" type="Group">
+      <market>8</market>
+      <market>9</market>
+      <market>G</market>
+      <market>H</market>
+      <market>I</market>
+      <market>Q</market>
+      <market>R</market>
+    </mg>
+    <output>
+      <genre_share>
+        <genre GRP="582" name="OTHERS" />
+        <genre GRP="414" name="TELUGU SAT" />
+        <genre GRP="405" name="TAM SAT" />
+        <genre GRP="379" name="KANNADA SAT" />
+        <genre GRP="311" name="SPORTS" />
+        <genre GRP="257" name="MALAYALAM SAT" />
+        <genre GRP="85" name="KIDS" />
+        <genre GRP="64" name="GEC1" />
+        <genre GRP="61" name="INFOTAINMENT" />
+        <genre GRP="48" name="MUSIC" />
+        <genre GRP="35" name="ENG MOVIES" />
+        <genre GRP="28" name="ENG NEWS" />
+        <genre GRP="16" name="HIN MOVIES" />
+        <genre GRP="11" name="DD" />
+        <genre GRP="9" name="ENG ENTT" />
+        <genre GRP="8" name="GEC2" />
+        <genre GRP="6" name="HIN NEWS" />
+        <genre GRP="4" name="MARATHI SAT" />
+        <genre GRP="0" name="UP/BIHAR/JHARKHAND" />
+        <genre GRP="0" name="ASSAM SAT" />
+        <genre GRP="0" name="BENGALI SAT" />
+        <genre GRP="0" name="ORIYA SAT" />
+        <genre GRP="0" name="OTHER REGIONALS" />
+        <genre GRP="0" name="PUNJABI SAT" />
+      </genre_share>
+      <TopTenChannels>
+        <channel GRP="159" code="6" name="STAR SPORTS" rank="1" />
+        <channel GRP="115" code="52" name="GEMINI TV" rank="2" />
+        <channel GRP="108" code="16" name="SUN TV" rank="3" />
+        <channel GRP="99" code="17" name="UDAYA TV" rank="4" />
+        <channel GRP="98" code="268" name="ZEE TELUGU" rank="5" />
+        <channel GRP="94" code="198" name="MAA TELUGU" rank="6" />
+        <channel GRP="76" code="410" name="STAR CRICKET" rank="7" />
+        <channel GRP="72" code="123" name="TEJA TV" rank="8" />
+        <channel GRP="71" code="19" name="ASIANET" rank="9" />
+        <channel GRP="69" code="53" name="VIJAY TV" rank="10" />
+      </TopTenChannels>
+    </output>
+  </TG_MG>
+  <TG_MG name="CS 15-24 A~Kerala" type="Reference">
+    <tg name="CS 15-24 A">
+      <cs>1</cs>
+      <sec>1</sec>
+      <sex>1,2</sex>
+      <age>3</age>
+    </tg>
+    <mg name="Kerala" type="Group">
+      <market>H</market>
+      <market>I</market>
+    </mg>
+    <output>
+      <genre_share>
+        <genre GRP="1474" name="MALAYALAM SAT" />
+        <genre GRP="533" name="SPORTS" />
+        <genre GRP="131" name="OTHERS" />
+        <genre GRP="88" name="TAM SAT" />
+        <genre GRP="65" name="INFOTAINMENT" />
+        <genre GRP="63" name="MUSIC" />
+        <genre GRP="52" name="GEC1" />
+        <genre GRP="38" name="ENG MOVIES" />
+        <genre GRP="21" name="ENG ENTT" />
+        <genre GRP="16" name="KIDS" />
+        <genre GRP="13" name="HIN NEWS" />
+        <genre GRP="10" name="HIN MOVIES" />
+        <genre GRP="5" name="DD" />
+        <genre GRP="4" name="TELUGU SAT" />
+        <genre GRP="2" name="GEC2" />
+        <genre GRP="1" name="ENG NEWS" />
+      </genre_share>
+      <TopTenChannels>
+        <channel GRP="416" code="19" name="ASIANET" rank="1" />
+        <channel GRP="283" code="6" name="STAR SPORTS" rank="2" />
+        <channel GRP="255" code="75" name="SURYA TV" rank="3" />
+        <channel GRP="180" code="309" name="ASIANET PLUS" rank="4" />
+        <channel GRP="133" code="281" name="KIRAN TV" rank="5" />
+        <channel GRP="99" code="683" name="Mazhavil Manorama" rank="6" />
+        <channel GRP="89" code="59" name="ESPN" rank="7" />
+        <channel GRP="83" code="410" name="STAR CRICKET" rank="8" />
+        <channel GRP="79" code="295" name="AMRITHA TV" rank="9" />
+        <channel GRP="60" code="145" name="KAIRALI" rank="10" />
+      </TopTenChannels>
+    </output>
+  </TG_MG>
+</input>

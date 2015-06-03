@@ -1,0 +1,135 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<input>
+  <pre-eval-period>
+    <startdate>20130804</startdate>
+    <enddate>20130831</enddate>
+  </pre-eval-period>
+  <day_parts />
+  <TG_MG name="CS 15-24 A~Metros" type="Planning">
+    <tg name="CS 15-24 A">
+      <cs>1</cs>
+      <sec>1</sec>
+      <sex>1,2</sex>
+      <age>3</age>
+    </tg>
+    <mg name="Metros" type="Group">
+      <market>1</market>
+      <market>2</market>
+      <market>3</market>
+      <market>4</market>
+      <market>6</market>
+    </mg>
+    <output>
+      <genre_share>
+        <genre GRP="326" name="OTHERS" />
+        <genre GRP="300" name="GEC1" />
+        <genre GRP="236" name="TAM SAT" />
+        <genre GRP="233" name="HIN MOVIES" />
+        <genre GRP="208" name="SPORTS" />
+        <genre GRP="136" name="HIN NEWS" />
+        <genre GRP="117" name="KANNADA SAT" />
+        <genre GRP="115" name="ENG MOVIES" />
+        <genre GRP="108" name="KIDS" />
+        <genre GRP="104" name="MUSIC" />
+        <genre GRP="84" name="MARATHI SAT" />
+        <genre GRP="81" name="MALAYALAM SAT" />
+        <genre GRP="80" name="GEC2" />
+        <genre GRP="72" name="BENGALI SAT" />
+        <genre GRP="66" name="INFOTAINMENT" />
+        <genre GRP="36" name="TELUGU SAT" />
+        <genre GRP="26" name="ENG ENTT" />
+        <genre GRP="22" name="PUNJABI SAT" />
+        <genre GRP="16" name="DD" />
+        <genre GRP="15" name="ENG NEWS" />
+        <genre GRP="7" name="UP/BIHAR/JHARKHAND" />
+        <genre GRP="1" name="ORIYA SAT" />
+        <genre GRP="0" name="ASSAM SAT" />
+        <genre GRP="0" name="OTHER REGIONALS" />
+        <genre GRP="0" name="NON-ACTIVE" />
+      </genre_share>
+      <TopTenChannels>
+        <channel GRP="92" code="479" name="COLORS" rank="1" />
+        <channel GRP="86" code="4" name="STAR PLUS" rank="2" />
+        <channel GRP="63" code="3" name="ZEE TV" rank="3" />
+        <channel GRP="62" code="410" name="STAR CRICKET" rank="4" />
+        <channel GRP="59" code="60" name="SONY ENTERTAINMENT TV" rank="5" />
+        <channel GRP="55" code="65" name="MAX" rank="6" />
+        <channel GRP="50" code="16" name="SUN TV" rank="7" />
+        <channel GRP="48" code="148" name="STAR GOLD" rank="8" />
+        <channel GRP="40" code="686" name="Life OK" rank="9" />
+        <channel GRP="35" code="156" name="AAJ TAK" rank="10" />
+      </TopTenChannels>
+    </output>
+  </TG_MG>
+  <TG_MG name="CS 15-24 A~NStates" type="Planning">
+    <tg name="CS 15-24 A">
+      <cs>1</cs>
+      <sec>1</sec>
+      <sex>1,2</sex>
+      <age>3</age>
+    </tg>
+    <mg name="NStates" type="Group">
+      <market>!</market>
+      <market>#</market>
+      <market>$</market>
+      <market>%</market>
+      <market>&amp;</market>
+      <market>@</market>
+      <market>&gt;</market>
+      <market>B</market>
+      <market>E</market>
+      <market>F</market>
+      <market>J</market>
+      <market>K</market>
+      <market>L</market>
+      <market>N</market>
+      <market>O</market>
+      <market>P</market>
+      <market>S</market>
+      <market>T</market>
+      <market>W</market>
+      <market>X</market>
+      <market>Z</market>
+    </mg>
+    <output>
+      <genre_share>
+        <genre GRP="428" name="GEC1" />
+        <genre GRP="298" name="HIN MOVIES" />
+        <genre GRP="158" name="OTHERS" />
+        <genre GRP="129" name="HIN NEWS" />
+        <genre GRP="103" name="KIDS" />
+        <genre GRP="100" name="GEC2" />
+        <genre GRP="91" name="MUSIC" />
+        <genre GRP="86" name="SPORTS" />
+        <genre GRP="57" name="MARATHI SAT" />
+        <genre GRP="53" name="INFOTAINMENT" />
+        <genre GRP="53" name="ENG MOVIES" />
+        <genre GRP="41" name="UP/BIHAR/JHARKHAND" />
+        <genre GRP="28" name="PUNJABI SAT" />
+        <genre GRP="25" name="DD" />
+        <genre GRP="17" name="ENG ENTT" />
+        <genre GRP="10" name="OTHER REGIONALS" />
+        <genre GRP="9" name="ORIYA SAT" />
+        <genre GRP="6" name="TAM SAT" />
+        <genre GRP="2" name="ENG NEWS" />
+        <genre GRP="0" name="MALAYALAM SAT" />
+        <genre GRP="0" name="ASSAM SAT" />
+        <genre GRP="0" name="BENGALI SAT" />
+        <genre GRP="0" name="TELUGU SAT" />
+        <genre GRP="0" name="KANNADA SAT" />
+      </genre_share>
+      <TopTenChannels>
+        <channel GRP="139" code="4" name="STAR PLUS" rank="1" />
+        <channel GRP="112" code="3" name="ZEE TV" rank="2" />
+        <channel GRP="104" code="479" name="COLORS" rank="3" />
+        <channel GRP="73" code="60" name="SONY ENTERTAINMENT TV" rank="4" />
+        <channel GRP="68" code="65" name="MAX" rank="5" />
+        <channel GRP="64" code="148" name="STAR GOLD" rank="6" />
+        <channel GRP="55" code="686" name="Life OK" rank="7" />
+        <channel GRP="52" code="34" name="ZEE CINEMA" rank="8" />
+        <channel GRP="36" code="711" name="Movies OK" rank="9" />
+        <channel GRP="36" code="241" name="POGO" rank="10" />
+      </TopTenChannels>
+    </output>
+  </TG_MG>
+</input>

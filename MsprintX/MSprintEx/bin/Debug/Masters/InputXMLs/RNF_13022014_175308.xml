@@ -1,0 +1,256 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<mediaplan>
+  <PreEvalPeriod>
+    <StartDate>20131001</StartDate>
+    <EndDate>20131031</EndDate>
+  </PreEvalPeriod>
+  <tg name="CS 15-24 A" cs="1" sec="1" sex="1,2" age="3">
+    <mg name="Metros" type="Group">
+      <market>1</market>
+      <market>2</market>
+      <market>3</market>
+      <market>4</market>
+      <market>6</market>
+    </mg>
+    <mg name="NStates" type="Group">
+      <market>!</market>
+      <market>#</market>
+      <market>$</market>
+      <market>%</market>
+      <market>&amp;</market>
+      <market>@</market>
+      <market>&gt;</market>
+      <market>B</market>
+      <market>E</market>
+      <market>F</market>
+      <market>J</market>
+      <market>K</market>
+      <market>L</market>
+      <market>N</market>
+      <market>O</market>
+      <market>P</market>
+      <market>S</market>
+      <market>T</market>
+      <market>W</market>
+      <market>X</market>
+      <market>Z</market>
+    </mg>
+  </tg>
+  <plan type="clubbed">
+    <period StartDate="20131001" EndDate="20131031" year="2013" WeekNum="">
+      <programme guid="b7ba977b-82e4-4bc5-abff-f0b7ca0428e5" SeqNumber="1" ChannelCode="479" ChannelName="COLORS" ProgName="RODP weekday" days="MON,TUE,WED,THU,FRI" StartTime="18:00" EndTime="19:00" CostPer10s="" caption="20" AdDuration="KHA" NumberOfSpots="16">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="ae50b088-c699-461c-bbe4-973b1a3362aa" SeqNumber="2" ChannelCode="479" ChannelName="COLORS" ProgName="Balika Vadhu(O)" days="MON,TUE,WED,THU,FRI,SAT" StartTime="20:00" EndTime="20:30" CostPer10s="" caption="20" AdDuration="KHA" NumberOfSpots="14">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="97cda3b5-298b-4e3d-8474-33e239b45f5b" SeqNumber="3" ChannelCode="479" ChannelName="COLORS" ProgName="Baani (O)" days="MON,TUE,WED,THU,FRI" StartTime="22:30" EndTime="23:00" CostPer10s="" caption="20" AdDuration="KHA" NumberOfSpots="15">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="049acd0d-47e8-45f8-a61d-249a6732b081" SeqNumber="4" ChannelCode="479" ChannelName="COLORS" ProgName="RODP weekend" days="SAT,SUN" StartTime="07:00" EndTime="18:00" CostPer10s="" caption="20" AdDuration="KHA" NumberOfSpots="20">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="c179b371-23c2-4316-bae7-2f24be6fb53e" SeqNumber="5" ChannelCode="479" ChannelName="COLORS" ProgName="Comedy Nights with Kapil " days="SAT,SUN" StartTime="22:00" EndTime="23:00" CostPer10s="" caption="20" AdDuration="KHA" NumberOfSpots="5">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="6f778982-ac22-4cab-bc2b-a33bd7e17ec9" SeqNumber="6" ChannelCode="479" ChannelName="COLORS" ProgName="RODP weekday" days="MON,TUE,WED,THU,FRI" StartTime="08:00" EndTime="13:00" CostPer10s="" caption="20" AdDuration="KHA" NumberOfSpots="40">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="3a197c8a-6b21-4c8d-b0a6-43d7aa5eb420" SeqNumber="7" ChannelCode="479" ChannelName="COLORS" ProgName="Sasural (R)" days="MON,TUE,WED,THU,FRI" StartTime="14:00" EndTime="15:00" CostPer10s="" caption="20" AdDuration="KHA" NumberOfSpots="18">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="172db0fa-525c-4d2d-b648-9588a8aebc22" SeqNumber="8" ChannelCode="479" ChannelName="COLORS" ProgName="Balika (R)" days="MON,TUE,WED,THU,FRI" StartTime="11:30" EndTime="12:00" CostPer10s="" caption="20" AdDuration="KHA" NumberOfSpots="18">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="cd055587-b460-45ec-9265-664f679cbe8c" SeqNumber="9" ChannelCode="479" ChannelName="COLORS" ProgName="Uttaran (R)" days="MON,TUE,WED,THU,FRI" StartTime="10:30" EndTime="11:00" CostPer10s="" caption="20" AdDuration="KHA" NumberOfSpots="18">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="666d0d7e-d78f-4f51-91de-006943c02ba3" SeqNumber="10" ChannelCode="65" ChannelName="MAX" ProgName="Morning Max" days="MON,TUE,WED,THU,FRI" StartTime="07:00" EndTime="17:00" CostPer10s="" caption="20" AdDuration="KHA" NumberOfSpots="60">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="a16f348c-599e-4649-b7be-0a416af84302" SeqNumber="11" ChannelCode="65" ChannelName="MAX" ProgName="Prime Max(Outside Festival Movies)" days="MON,TUE,WED,THU,FRI" StartTime="20:00" EndTime="01:30" CostPer10s="" caption="20" AdDuration="KHA" NumberOfSpots="60">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="4f67111f-4ed6-4243-a877-4d1d5d491f44" SeqNumber="12" ChannelCode="65" ChannelName="MAX" ProgName="Festival movies" days="MON,TUE,WED,THU,FRI,SAT,SUN" StartTime="21:00" EndTime="00:00" CostPer10s="" caption="20" AdDuration="KHA" NumberOfSpots="15">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="a7c57dc4-9a4a-4506-9605-5e3338fbc8c9" SeqNumber="13" ChannelCode="65" ChannelName="MAX" ProgName="Sat-Sun Prime movies" days="SAT,SUN" StartTime="21:00" EndTime="01:30" CostPer10s="" caption="20" AdDuration="KHA" NumberOfSpots="35">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="1dea9a42-9d20-4635-81fb-c03570c98b28" SeqNumber="14" ChannelCode="65" ChannelName="MAX" ProgName="Weekend RODP" days="SAT,SUN" StartTime="07:00" EndTime="01:30" CostPer10s="" caption="20" AdDuration="KHA" NumberOfSpots="40">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="2bce9022-0fa9-4c46-a76b-41d58ea06d43" SeqNumber="15" ChannelCode="34" ChannelName="ZEE CINEMA" ProgName="Subah/HFF" days="MON,TUE,WED,THU,FRI" StartTime="06:00" EndTime="11:00" CostPer10s="" caption="20" AdDuration="KHA" NumberOfSpots="75">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="acb347b4-5265-4b5d-8b81-a4c3a519cb89" SeqNumber="16" ChannelCode="34" ChannelName="ZEE CINEMA" ProgName="Dophar/HFF" days="MON,TUE,WED,THU,FRI" StartTime="11:00" EndTime="14:30" CostPer10s="" caption="20" AdDuration="KHA" NumberOfSpots="75">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="b52ade6c-0914-42d8-a4b7-e689a1d9c649" SeqNumber="17" ChannelCode="34" ChannelName="ZEE CINEMA" ProgName="Raat/ HFF" days="MON,TUE,WED,THU,FRI" StartTime="18:00" EndTime="21:00" CostPer10s="" caption="20" AdDuration="KHA" NumberOfSpots="60">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="49dbb228-9aba-47b6-b8d5-92a16f5060b2" SeqNumber="18" ChannelCode="34" ChannelName="ZEE CINEMA" ProgName="Raat 2 /Cinema Hall/ HFF" days="MON,TUE,WED,THU,FRI" StartTime="21:00" EndTime="01:00" CostPer10s="" caption="20" AdDuration="KHA" NumberOfSpots="60">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="609dbc4e-f651-4c51-9fe7-35d7c6d74d0b" SeqNumber="19" ChannelCode="34" ChannelName="ZEE CINEMA" ProgName="Cine Fresh/Sund Mor Show/HFF" days="SAT,SUN" StartTime="07:15" EndTime="10:40" CostPer10s="" caption="20" AdDuration="KHA" NumberOfSpots="12">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="ff1034e0-1ac3-4dac-8875-138947f6c7e1" SeqNumber="20" ChannelCode="34" ChannelName="ZEE CINEMA" ProgName="Weekend PT/ HFF" days="SAT,SUN" StartTime="18:00" EndTime="21:00" CostPer10s="" caption="20" AdDuration="KHA" NumberOfSpots="12">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="f94d43ac-c736-4209-94f6-cf01c8e297c2" SeqNumber="21" ChannelCode="34" ChannelName="ZEE CINEMA" ProgName="Sat Dophar/HFF" days="SAT" StartTime="10:40" EndTime="14:00" CostPer10s="" caption="20" AdDuration="KHA" NumberOfSpots="15">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="dfa39945-bf47-4703-b755-7636f89bdc9b" SeqNumber="22" ChannelCode="34" ChannelName="ZEE CINEMA" ProgName="Viewer's Choice/HFF" days="SAT" StartTime="14:00" EndTime="18:00" CostPer10s="" caption="20" AdDuration="KHA" NumberOfSpots="15">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="f1dc6db9-4cb1-44d2-a0fc-be10323d6f08" SeqNumber="23" ChannelCode="34" ChannelName="ZEE CINEMA" ProgName="Shanivar Ki Raat/HFF" days="SAT" StartTime="21:00" EndTime="01:00" CostPer10s="" caption="20" AdDuration="KHA" NumberOfSpots="4">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="c91cf348-2ab5-4472-9fa1-7cebcc094c83" SeqNumber="24" ChannelCode="34" ChannelName="ZEE CINEMA" ProgName="Double Mazaa/HFF" days="SUN" StartTime="10:40" EndTime="18:00" CostPer10s="" caption="20" AdDuration="KHA" NumberOfSpots="15">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="611b3fc1-7be7-471e-b48b-5becbe0b18ce" SeqNumber="25" ChannelCode="11" ChannelName="ABP NEWS" ProgName="RODP" days="MON,TUE,WED,THU,FRI" StartTime="07:00" EndTime="12:00" CostPer10s="" caption="20" AdDuration="KHA" NumberOfSpots="60">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="ec36fbda-91e8-406a-b33e-b99ae971d05a" SeqNumber="26" ChannelCode="11" ChannelName="ABP NEWS" ProgName="RODP" days="MON,TUE,WED,THU,FRI" StartTime="12:00" EndTime="18:00" CostPer10s="" caption="20" AdDuration="KHA" NumberOfSpots="60">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="f6a6ad0a-c402-490b-bd99-3e7ec4ff1f73" SeqNumber="27" ChannelCode="11" ChannelName="ABP NEWS" ProgName="RODP" days="MON,TUE,WED,THU,FRI" StartTime="18:00" EndTime="23:00" CostPer10s="" caption="20" AdDuration="KHA" NumberOfSpots="60">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="f9f9fc71-04f8-450c-b4e1-73478502016d" SeqNumber="28" ChannelCode="11" ChannelName="ABP NEWS" ProgName="RODP" days="SAT,SUN" StartTime="07:00" EndTime="12:00" CostPer10s="" caption="20" AdDuration="KHA" NumberOfSpots="25">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="5214a75d-8a46-4d64-bd10-b8f01a21e99c" SeqNumber="29" ChannelCode="11" ChannelName="ABP NEWS" ProgName="RODP" days="SAT,SUN" StartTime="12:00" EndTime="18:00" CostPer10s="" caption="20" AdDuration="KHA" NumberOfSpots="25">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="798ea967-b10b-4b8f-9562-23769965dc54" SeqNumber="30" ChannelCode="11" ChannelName="ABP NEWS" ProgName="RODP" days="SAT,SUN" StartTime="18:00" EndTime="01:00" CostPer10s="" caption="20" AdDuration="KHA" NumberOfSpots="25">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="0648517b-dfc1-47f8-a7a1-901ba8c891c1" SeqNumber="31" ChannelCode="10" ChannelName="ZEE NEWS" ProgName="RODP" days="MON,TUE,WED,THU,FRI,SAT,SUN" StartTime="07:00" EndTime="11:00" CostPer10s="" caption="20" AdDuration="KHA" NumberOfSpots="100">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="6590db56-13d0-4bff-9727-1a5a44584a90" SeqNumber="32" ChannelCode="10" ChannelName="ZEE NEWS" ProgName="RODP" days="MON,TUE,WED,THU,FRI,SAT,SUN" StartTime="11:00" EndTime="18:00" CostPer10s="" caption="20" AdDuration="KHA" NumberOfSpots="100">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="da9f2202-6239-40c0-a9e2-cee87f008ad1" SeqNumber="33" ChannelCode="10" ChannelName="ZEE NEWS" ProgName="RODP" days="MON,TUE,WED,THU,FRI,SAT,SUN" StartTime="18:00" EndTime="23:00" CostPer10s="" caption="20" AdDuration="KHA" NumberOfSpots="100">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="54ab2b75-e67b-4058-80fa-9d2d04b6d354" SeqNumber="34" ChannelCode="635" ChannelName="FoodFood" ProgName="RODP" days="MON,TUE,WED,THU,FRI,SAT,SUN" StartTime="07:00" EndTime="11:00" CostPer10s="" caption="20" AdDuration="KHA" NumberOfSpots="125">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="bfa60525-9651-4292-b5de-a504c210fd62" SeqNumber="35" ChannelCode="635" ChannelName="FoodFood" ProgName="RODP" days="MON,TUE,WED,THU,FRI,SAT,SUN" StartTime="11:00" EndTime="18:00" CostPer10s="" caption="20" AdDuration="KHA" NumberOfSpots="125">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="bdfa1b96-05a2-4169-8024-143f1f0c3c79" SeqNumber="36" ChannelCode="635" ChannelName="FoodFood" ProgName="RODP" days="MON,TUE,WED,THU,FRI,SAT,SUN" StartTime="18:00" EndTime="23:00" CostPer10s="" caption="20" AdDuration="KHA" NumberOfSpots="125">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="ec3d3f3e-be78-4ba5-ab16-2ea99852422c" SeqNumber="37" ChannelCode="16" ChannelName="SUN TV" ProgName="Sondha Bandham" days="MON,TUE,WED,THU,FRI" StartTime="11:00" EndTime="11:30" CostPer10s="" caption="20" AdDuration="KHA" NumberOfSpots="16">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="daf89839-cd96-4133-94eb-7a0a6cf306e5" SeqNumber="38" ChannelCode="16" ChannelName="SUN TV" ProgName="Bommallattam" days="MON,TUE,WED,THU,FRI" StartTime="11:30" EndTime="12:00" CostPer10s="" caption="20" AdDuration="KHA" NumberOfSpots="16">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="b9da952c-b38a-4529-8fba-d16af05a4f57" SeqNumber="39" ChannelCode="16" ChannelName="SUN TV" ProgName="Illavarasi" days="MON,TUE,WED,THU,FRI" StartTime="13:30" EndTime="14:30" CostPer10s="" caption="20" AdDuration="KHA" NumberOfSpots="15">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="c7b1c570-35fb-4320-8772-8816295494ba" SeqNumber="40" ChannelCode="16" ChannelName="SUN TV" ProgName="Valli" days="MON,TUE,WED,THU,FRI" StartTime="14:00" EndTime="14:30" CostPer10s="" caption="20" AdDuration="KHA" NumberOfSpots="15">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="19a6be83-c6a4-4af4-9994-5fc7007b77a3" SeqNumber="41" ChannelCode="16" ChannelName="SUN TV" ProgName="Azhagi" days="MON,TUE,WED,THU,FRI" StartTime="22:30" EndTime="23:00" CostPer10s="" caption="20" AdDuration="KHA" NumberOfSpots="12">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="7c8f04b4-7323-42ba-8501-6ffbc8cec923" SeqNumber="42" ChannelCode="16" ChannelName="SUN TV" ProgName="Bhairavi" days="SUN" StartTime="22:00" EndTime="23:00" CostPer10s="" caption="20" AdDuration="KHA" NumberOfSpots="4">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="71862832-fd01-4969-838b-eec1bf7fdb29" SeqNumber="43" ChannelCode="16" ChannelName="SUN TV" ProgName="Afternoon Movie" days="SUN" StartTime="15:00" EndTime="18:00" CostPer10s="" caption="20" AdDuration="KHA" NumberOfSpots="7">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="10731761-bd1b-4f24-9046-c08c8eb34faf" SeqNumber="44" ChannelCode="17" ChannelName="UDAYA TV" ProgName="Rathasapthami" days="MON,TUE,WED,THU,FRI" StartTime="17:30" EndTime="18:00" CostPer10s="" caption="20" AdDuration="KHA" NumberOfSpots="20">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="05a2d1a4-6bc5-4de5-8114-89a4555d2a5b" SeqNumber="45" ChannelCode="17" ChannelName="UDAYA TV" ProgName="Panchamaveda" days="MON,TUE,WED,THU,FRI" StartTime="18:30" EndTime="19:00" CostPer10s="" caption="20" AdDuration="KHA" NumberOfSpots="20">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="960aa4bf-ce9e-441c-a8ef-6e6d36832308" SeqNumber="46" ChannelCode="17" ChannelName="UDAYA TV" ProgName="Aliguli Mane" days="MON,TUE,WED,THU,FRI" StartTime="19:00" EndTime="19:30" CostPer10s="" caption="20" AdDuration="KHA" NumberOfSpots="20">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="3c9ecd79-8095-4f28-86cf-a26739aa1133" SeqNumber="47" ChannelCode="17" ChannelName="UDAYA TV" ProgName="Madharangi" days="MON,TUE,WED,THU,FRI" StartTime="21:30" EndTime="21:30" CostPer10s="" caption="20" AdDuration="KHA" NumberOfSpots="20">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="ee5df19c-801a-4db3-b1ac-d4e92ad23feb" SeqNumber="48" ChannelCode="17" ChannelName="UDAYA TV" ProgName="Preethi Prema" days="SAT,SUN" StartTime="21:00" EndTime="21:30" CostPer10s="" caption="20" AdDuration="KHA" NumberOfSpots="6">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="9748b22a-9f92-4ecc-acdc-086388ca3ebb" SeqNumber="49" ChannelCode="17" ChannelName="UDAYA TV" ProgName="Kogile" days="MON,TUE,WED,THU,FRI" StartTime="19:30" EndTime="20:00" CostPer10s="" caption="20" AdDuration="KHA" NumberOfSpots="10">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="05fbd4ca-36a3-4670-af84-40545e9850f7" SeqNumber="50" ChannelCode="268" ChannelName="ZEE TELUGU" ProgName="Gorantha Deepam" days="MON,TUE,WED,THU,FRI" StartTime="19:00" EndTime="19:30" CostPer10s="" caption="20" AdDuration="KHA" NumberOfSpots="20">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="ca878e18-5c10-403e-bf64-e36a891f5845" SeqNumber="51" ChannelCode="268" ChannelName="ZEE TELUGU" ProgName="Muddubidda" days="MON,TUE,WED,THU,FRI" StartTime="20:00" EndTime="20:30" CostPer10s="" caption="20" AdDuration="KHA" NumberOfSpots="20">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="6fed491b-1bb5-488c-ad9a-7cf94a7fc473" SeqNumber="52" ChannelCode="268" ChannelName="ZEE TELUGU" ProgName="Varudhini Parinayanam" days="MON,TUE,WED,THU,FRI" StartTime="20:30" EndTime="21:00" CostPer10s="" caption="20" AdDuration="KHA" NumberOfSpots="20">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="4f70a550-06f0-41b6-a5cb-cdfea0b9b9b1" SeqNumber="53" ChannelCode="268" ChannelName="ZEE TELUGU" ProgName="Rodp Pt" days="MON,TUE,WED,THU,FRI,SAT,SUN" StartTime="18:00" EndTime="00:00" CostPer10s="" caption="20" AdDuration="KHA" NumberOfSpots="60">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="e036b787-0d2d-4962-8532-f1094a044f66" SeqNumber="54" ChannelCode="268" ChannelName="ZEE TELUGU" ProgName="Rodp We" days="SAT,SUN" StartTime="07:00" EndTime="18:00" CostPer10s="" caption="20" AdDuration="KHA" NumberOfSpots="40">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="e3aee871-97ce-4724-9bd4-62fe70492d72" SeqNumber="55" ChannelCode="268" ChannelName="ZEE TELUGU" ProgName="A+ Movies" days="SAT,SUN" StartTime="17:00" EndTime="20:30" CostPer10s="" caption="20" AdDuration="KHA" NumberOfSpots="20">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="4d11e12e-e716-43c1-89eb-8c0365f59afa" SeqNumber="56" ChannelCode="268" ChannelName="ZEE TELUGU" ProgName="Zee Noon Show" days="MON,TUE,WED,THU,FRI" StartTime="12:30" EndTime="16:00" CostPer10s="" caption="20" AdDuration="KHA" NumberOfSpots="50">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="56e27449-18d9-4cf9-b83d-812d7688b94f" SeqNumber="57" ChannelCode="268" ChannelName="ZEE TELUGU" ProgName="Rodp Npt Wd" days="MON,TUE,WED,THU,FRI" StartTime="07:00" EndTime="18:00" CostPer10s="" caption="20" AdDuration="KHA" NumberOfSpots="50">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="9899b597-f737-42c6-a567-eb152055397b" SeqNumber="58" ChannelCode="331" ChannelName="NTV BANGLADESH" ProgName="RODP" days="MON,TUE,WED,THU,FRI,SAT,SUN" StartTime="07:00" EndTime="11:00" CostPer10s="" caption="20" AdDuration="KHA" NumberOfSpots="135">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="8daeabcf-7ba6-4229-80d0-4bb1906bcad8" SeqNumber="59" ChannelCode="331" ChannelName="NTV BANGLADESH" ProgName="RODP" days="MON,TUE,WED,THU,FRI,SAT,SUN" StartTime="11:00" EndTime="18:00" CostPer10s="" caption="20" AdDuration="KHA" NumberOfSpots="135">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="731209c9-9889-4523-ba10-9265110b7d74" SeqNumber="60" ChannelCode="331" ChannelName="NTV BANGLADESH" ProgName="RODP" days="MON,TUE,WED,THU,FRI,SAT,SUN" StartTime="18:00" EndTime="23:00" CostPer10s="" caption="20" AdDuration="KHA" NumberOfSpots="135">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="7b911616-4f19-4b3a-a9f9-a5c82a3725da" SeqNumber="61" ChannelCode="37" ChannelName="ZEE BANGLA" ProgName="AGNIPORIKHA (O)" days="MON,TUE,WED,THU,FRI,SAT" StartTime="18:30" EndTime="19:00" CostPer10s="" caption="20" AdDuration="KHA" NumberOfSpots="16">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="5e7d7f17-7c27-4a06-ade8-ef4b77de0186" SeqNumber="62" ChannelCode="37" ChannelName="ZEE BANGLA" ProgName="Kache AI Shoi ®" days="MON,TUE,WED,THU,FRI,SAT" StartTime="14:30" EndTime="15:00" CostPer10s="" caption="20" AdDuration="KHA" NumberOfSpots="16">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="567fc5f0-379d-41c0-b4c8-c5078a82f43b" SeqNumber="63" ChannelCode="37" ChannelName="ZEE BANGLA" ProgName="Keya Patar Nouko®" days="MON,TUE,WED,THU,FRI,SAT" StartTime="15:00" EndTime="15:30" CostPer10s="" caption="20" AdDuration="KHA" NumberOfSpots="16">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="71284a3a-0a23-4ee3-87f3-3c6b816afcf6" SeqNumber="64" ChannelCode="37" ChannelName="ZEE BANGLA" ProgName="NPT RODP" days="MON,TUE,WED,THU,FRI,SAT,SUN" StartTime="08:30" EndTime="17:30" CostPer10s="" caption="20" AdDuration="KHA" NumberOfSpots="70">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="e5e5b928-3dfb-45b3-8533-223eca7eb7f6" SeqNumber="65" ChannelCode="37" ChannelName="ZEE BANGLA" ProgName="BANTUL THE GREAT (O)" days="SUN" StartTime="10:00" EndTime="10:30" CostPer10s="" caption="20" AdDuration="KHA" NumberOfSpots="4">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="be7b13c5-48b0-4c75-bd78-72356d4d3177" SeqNumber="66" ChannelCode="37" ChannelName="ZEE BANGLA" ProgName="Boyei Gelo (O)" days="MON,TUE,WED,THU,FRI,SAT" StartTime="21:00" EndTime="21:30" CostPer10s="" caption="20" AdDuration="KHA" NumberOfSpots="16">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="a0c47716-249f-45b6-b3ad-bd06ffcd939e" SeqNumber="67" ChannelCode="37" ChannelName="ZEE BANGLA" ProgName="Boyei Gelo ®" days="MON,TUE,WED,THU,FRI,SAT" StartTime="23:30" EndTime="00:00" CostPer10s="" caption="20" AdDuration="KHA" NumberOfSpots="30">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="2de83fa8-1b78-4126-a904-dd05afa08810" SeqNumber="68" ChannelCode="37" ChannelName="ZEE BANGLA" ProgName="Mirakkel (O) " days="MON,TUE,WED" StartTime="21:30" EndTime="23:00" CostPer10s="" caption="20" AdDuration="KHA" NumberOfSpots="12">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="2ade5f0e-0c58-448f-bbf9-46324205401b" SeqNumber="69" ChannelCode="306" ChannelName="ABP ANANDA" ProgName="RODP" days="MON,TUE,WED,THU,FRI,SAT,SUN" StartTime="07:00" EndTime="11:00" CostPer10s="" caption="20" AdDuration="KHA" NumberOfSpots="100">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="d6258ceb-f1d7-4c46-96d0-2886b222528a" SeqNumber="70" ChannelCode="306" ChannelName="ABP ANANDA" ProgName="RODP" days="MON,TUE,WED,THU,FRI,SAT,SUN" StartTime="11:00" EndTime="18:00" CostPer10s="" caption="20" AdDuration="KHA" NumberOfSpots="100">
+        <selected_spots></selected_spots>
+      </programme>
+      <programme guid="1f4568b8-4d11-4e75-afed-7b8fa53809ff" SeqNumber="71" ChannelCode="306" ChannelName="ABP ANANDA" ProgName="RODP" days="MON,TUE,WED,THU,FRI,SAT,SUN" StartTime="18:00" EndTime="23:00" CostPer10s="" caption="20" AdDuration="KHA" NumberOfSpots="100">
+        <selected_spots></selected_spots>
+      </programme>
+    </period>
+  </plan>
+</mediaplan>

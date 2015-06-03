@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<input>
+  <pre-eval-period>
+    <startdate>20131001</startdate>
+    <enddate>20131031</enddate>
+  </pre-eval-period>
+  <TG_MG name="CHANDRIKA TG~Kerala" type="Planning">
+    <tg name="CHANDRIKA TG">
+      <cs>1</cs>
+      <sec>1,2,3</sec>
+      <sex>2</sex>
+      <age>4,5</age>
+    </tg>
+    <mg name="Kerala" type="Group">
+      <market>H</market>
+      <market>I</market>
+    </mg>
+    <genre name="OTHERS" />
+    <genre name="TELUGU SAT" />
+    <genre name="TAM SAT" />
+    <genre name="KANNADA SAT" />
+    <genre name="SPORTS" />
+    <genre name="MALAYALAM SAT" />
+    <genre name="KIDS" />
+    <genre name="GEC1" />
+    <genre name="INFOTAINMENT" />
+    <genre name="MUSIC" />
+  </TG_MG>
+  <TG_MG name="CHANDRIKA TG~SouthStates" type="Planning">
+    <tg name="CHANDRIKA TG">
+      <cs>1</cs>
+      <sec>1,2,3</sec>
+      <sex>2</sex>
+      <age>4,5</age>
+    </tg>
+    <mg name="SouthStates" type="Group">
+      <market>8</market>
+      <market>9</market>
+      <market>G</market>
+      <market>H</market>
+      <market>I</market>
+      <market>Q</market>
+      <market>R</market>
+    </mg>
+    <genre name="OTHERS" />
+    <genre name="TELUGU SAT" />
+    <genre name="TAM SAT" />
+    <genre name="KANNADA SAT" />
+    <genre name="SPORTS" />
+    <genre name="MALAYALAM SAT" />
+    <genre name="KIDS" />
+    <genre name="GEC1" />
+    <genre name="INFOTAINMENT" />
+    <genre name="MUSIC" />
+  </TG_MG>
+  <TG_MG name="CS 15-24 A~SouthStates" type="Reference">
+    <tg name="CS 15-24 A">
+      <cs>1</cs>
+      <sec>1</sec>
+      <sex>1,2</sex>
+      <age>3</age>
+    </tg>
+    <mg name="SouthStates" type="Group">
+      <market>8</market>
+      <market>9</market>
+      <market>G</market>
+      <market>H</market>
+      <market>I</market>
+      <market>Q</market>
+      <market>R</market>
+    </mg>
+    <genre name="OTHERS" />
+    <genre name="TELUGU SAT" />
+    <genre name="TAM SAT" />
+    <genre name="KANNADA SAT" />
+    <genre name="SPORTS" />
+    <genre name="MALAYALAM SAT" />
+    <genre name="KIDS" />
+    <genre name="GEC1" />
+    <genre name="INFOTAINMENT" />
+    <genre name="MUSIC" />
+  </TG_MG>
+  <TG_MG name="CS 15-24 A~Kerala" type="Reference">
+    <tg name="CS 15-24 A">
+      <cs>1</cs>
+      <sec>1</sec>
+      <sex>1,2</sex>
+      <age>3</age>
+    </tg>
+    <mg name="Kerala" type="Group">
+      <market>H</market>
+      <market>I</market>
+    </mg>
+    <genre name="OTHERS" />
+    <genre name="TELUGU SAT" />
+    <genre name="TAM SAT" />
+    <genre name="KANNADA SAT" />
+    <genre name="SPORTS" />
+    <genre name="MALAYALAM SAT" />
+    <genre name="KIDS" />
+    <genre name="GEC1" />
+    <genre name="INFOTAINMENT" />
+    <genre name="MUSIC" />
+  </TG_MG>
+</input>

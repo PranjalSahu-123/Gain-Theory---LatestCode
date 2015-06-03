@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<input>
+  <pre-eval-period>
+    <startdate>20130804</startdate>
+    <enddate>20130901</enddate>
+  </pre-eval-period>
+  <day_parts></day_parts>
+  <TG_MG name="CS 15-24 A~mg1" type="Planning">
+    <tg name="CS 15-24 A">
+      <cs>1</cs>
+      <sec>1</sec>
+      <sex>1,2</sex>
+      <age>3</age>
+    </tg>
+    <mg name="mg1" type="group">
+      <market>1</market>
+      <market>3</market>
+    </mg>
+  </TG_MG>
+  <TG_MG name="CS 15-24 A~mg2" type="Planning">
+    <tg name="CS 15-24 A">
+      <cs>1</cs>
+      <sec>1</sec>
+      <sex>1,2</sex>
+      <age>3</age>
+    </tg>
+    <mg name="mg2" type="group">
+      <market>J</market>
+      <market>K</market>
+    </mg>
+  </TG_MG>
+</input>

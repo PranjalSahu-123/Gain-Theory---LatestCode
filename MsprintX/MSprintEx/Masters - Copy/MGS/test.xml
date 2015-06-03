@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<mg name="test" type="Group">
+  <market>$</market>
+  <market>%</market>
+  <market>&amp;</market>
+</mg>

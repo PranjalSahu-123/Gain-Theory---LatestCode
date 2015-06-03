@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<mediaplan>
+  <PreEvalPeriod>
+    <StartDate>20130804</StartDate>
+    <EndDate>20130831</EndDate>
+  </PreEvalPeriod>
+  <tg name="CS 15-24 A" cs="1" sec="1" sex="1,2" age="3">
+    <mg name="Metros" type="Group">
+      <market>1</market>
+      <market>2</market>
+      <market>3</market>
+      <market>4</market>
+      <market>6</market>
+    </mg>
+    <mg name="NStates" type="Group">
+      <market>!</market>
+      <market>#</market>
+      <market>$</market>
+      <market>%</market>
+      <market>&amp;</market>
+      <market>@</market>
+      <market>&gt;</market>
+      <market>B</market>
+      <market>E</market>
+      <market>F</market>
+      <market>J</market>
+      <market>K</market>
+      <market>L</market>
+      <market>N</market>
+      <market>O</market>
+      <market>P</market>
+      <market>S</market>
+      <market>T</market>
+      <market>W</market>
+      <market>X</market>
+      <market>Z</market>
+    </mg>
+  </tg>
+  <plan type="clubbed">
+    <period StartDate="20130804" EndDate="20130831" year="2013" WeekNum="">
+      <programme guid="c9878f10-7ec2-41fe-874f-647009310ee4" SeqNumber="1" ChannelCode="479" ChannelName="COLORS" ProgName="RODP weekday" days="MON,TUE,WED,THU,FRI" StartTime="18:00" EndTime="19:00" CostPer10s="" caption="20" AdDuration="KHA" NumberOfSpots="16">
+        <selected_spots>
+          <spot log="479,20130805,185546,185606,0,13,18,20"></spot>
+          <spot log="479,20130806,185435,185439,0,14,16,4"></spot>
+          <spot log="479,20130807,182514,182529,0,9,16,15"></spot>
+          <spot log="479,20130808,184939,184959,0,5,12,20"></spot>
+          <spot log="479,20130812,185017,185027,0,3,12,10"></spot>
+          <spot log="479,20130813,182457,182507,0,4,16,10"></spot>
+          <spot log="479,20130814,185141,185211,0,8,16,30"></spot>
+          <spot log="479,20130815,181737,181812,0,8,20,35"></spot>
+          <spot log="479,20130819,185447,185502,0,8,10,15"></spot>
+          <spot log="479,20130820,185712,185715,0,14,15,3"></spot>
+          <spot log="479,20130821,185229,185244,0,5,12,15"></spot>
+          <spot log="479,20130822,182547,182557,0,10,12,10"></spot>
+          <spot log="479,20130826,182300,182310,0,5,14,10"></spot>
+          <spot log="479,20130827,182627,182647,0,12,12,20"></spot>
+          <spot log="479,20130828,185512,185522,0,5,11,10"></spot>
+          <spot log="479,20130829,182554,182609,0,9,15,15"></spot>
+        </selected_spots>
+      </programme>
+    </period>
+  </plan>
+</mediaplan>

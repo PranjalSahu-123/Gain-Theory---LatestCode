@@ -1,0 +1,143 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="Plandata" targetNamespace="http://tempuri.org/Plandata.xsd" xmlns:mstns="http://tempuri.org/Plandata.xsd" xmlns="http://tempuri.org/Plandata.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="1" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="ConnectionString" IsAppSettingsProperty="true" Modifier="Assembly" Name="ConnectionString (Settings)" PropertyReference="ApplicationSettings.MSprintEx.Settings.GlobalReference.Default.ConnectionString" Provider="System.Data.OleDb" />
+        </Connections>
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="Plandata" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="Plandata" msprop:Generator_UserDSName="Plandata">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="Weeks" msprop:Generator_UserTableName="Weeks" msprop:Generator_RowEvArgName="WeeksRowChangeEvent" msprop:Generator_TableVarName="tableWeeks" msprop:Generator_TablePropName="Weeks" msprop:Generator_RowDeletingName="WeeksRowDeleting" msprop:Generator_RowChangingName="WeeksRowChanging" msprop:Generator_RowDeletedName="WeeksRowDeleted" msprop:Generator_RowEvHandlerName="WeeksRowChangeEventHandler" msprop:Generator_TableClassName="WeeksDataTable" msprop:Generator_RowChangedName="WeeksRowChanged" msprop:Generator_RowClassName="WeeksRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="WeekNumber" msprop:Generator_ColumnVarNameInTable="columnWeekNumber" msprop:Generator_ColumnPropNameInRow="WeekNumber" msprop:Generator_ColumnPropNameInTable="WeekNumberColumn" msprop:Generator_UserColumnName="WeekNumber" type="xs:short" />
+              <xs:element name="Year" msprop:Generator_ColumnVarNameInTable="columnYear" msprop:Generator_ColumnPropNameInRow="Year" msprop:Generator_ColumnPropNameInTable="YearColumn" msprop:Generator_UserColumnName="Year" type="xs:int" />
+              <xs:element name="StartDate" msprop:Generator_ColumnVarNameInTable="columnStartDate" msprop:Generator_ColumnPropNameInRow="StartDate" msprop:Generator_ColumnPropNameInTable="StartDateColumn" msprop:Generator_UserColumnName="StartDate" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="EndDate" msprop:Generator_ColumnVarNameInTable="columnEndDate" msprop:Generator_ColumnPropNameInRow="EndDate" msprop:Generator_ColumnPropNameInTable="EndDateColumn" msprop:Generator_UserColumnName="EndDate" type="xs:dateTime" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="PlanDetails" msprop:Generator_UserTableName="PlanDetails" msprop:Generator_RowEvArgName="PlanDetailsRowChangeEvent" msprop:Generator_TableVarName="tablePlanDetails" msprop:Generator_TablePropName="PlanDetails" msprop:Generator_RowDeletingName="PlanDetailsRowDeleting" msprop:Generator_RowChangingName="PlanDetailsRowChanging" msprop:Generator_RowDeletedName="PlanDetailsRowDeleted" msprop:Generator_RowEvHandlerName="PlanDetailsRowChangeEventHandler" msprop:Generator_TableClassName="PlanDetailsDataTable" msprop:Generator_RowChangedName="PlanDetailsRowChanged" msprop:Generator_RowClassName="PlanDetailsRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="ChannelCode" msprop:Generator_ColumnVarNameInTable="columnChannelCode" msprop:Generator_ColumnPropNameInRow="ChannelCode" msprop:Generator_ColumnPropNameInTable="ChannelCodeColumn" msprop:Generator_UserColumnName="ChannelCode" type="xs:string" minOccurs="0" />
+              <xs:element name="Channel" msprop:Generator_ColumnVarNameInTable="columnChannel" msprop:Generator_ColumnPropNameInRow="Channel" msprop:Generator_ColumnPropNameInTable="ChannelColumn" msprop:Generator_UserColumnName="Channel" type="xs:string" minOccurs="0" />
+              <xs:element name="Program" msprop:Generator_ColumnVarNameInTable="columnProgram" msprop:Generator_ColumnPropNameInRow="Program" msprop:Generator_ColumnPropNameInTable="ProgramColumn" msprop:Generator_UserColumnName="Program" type="xs:string" minOccurs="0" />
+              <xs:element name="Day" msprop:Generator_ColumnVarNameInTable="columnDay" msprop:Generator_ColumnPropNameInRow="Day" msprop:Generator_ColumnPropNameInTable="DayColumn" msprop:Generator_UserColumnName="Day" type="xs:string" minOccurs="0" />
+              <xs:element name="StartTime" msprop:Generator_ColumnVarNameInTable="columnStartTime" msprop:Generator_ColumnPropNameInRow="StartTime" msprop:Generator_ColumnPropNameInTable="StartTimeColumn" msprop:Generator_UserColumnName="StartTime" type="xs:string" minOccurs="0" />
+              <xs:element name="EndTime" msprop:Generator_ColumnVarNameInTable="columnEndTime" msprop:Generator_ColumnPropNameInRow="EndTime" msprop:Generator_ColumnPropNameInTable="EndTimeColumn" msprop:Generator_UserColumnName="EndTime" type="xs:string" minOccurs="0" />
+              <xs:element name="RatePer10Sec" msprop:Generator_ColumnVarNameInTable="columnRatePer10Sec" msprop:Generator_ColumnPropNameInRow="RatePer10Sec" msprop:Generator_ColumnPropNameInTable="RatePer10SecColumn" msprop:Generator_UserColumnName="RatePer10Sec" type="xs:decimal" minOccurs="0" />
+              <xs:element name="Creative" msprop:Generator_ColumnVarNameInTable="columnCreative" msprop:Generator_ColumnPropNameInRow="Creative" msprop:Generator_ColumnPropNameInTable="CreativeColumn" msprop:Generator_UserColumnName="Creative" type="xs:string" minOccurs="0" />
+              <xs:element name="Duration" msprop:Generator_ColumnVarNameInTable="columnDuration" msprop:Generator_ColumnPropNameInRow="Duration" msprop:Generator_ColumnPropNameInTable="DurationColumn" msprop:Generator_UserColumnName="Duration" type="xs:string" minOccurs="0" />
+              <xs:element name="TotalSpots" msprop:Generator_ColumnVarNameInTable="columnTotalSpots" msprop:Generator_ColumnPropNameInRow="TotalSpots" msprop:Generator_ColumnPropNameInTable="TotalSpotsColumn" msprop:Generator_UserColumnName="TotalSpots" type="xs:int" minOccurs="0" />
+              <xs:element name="FinalFCT" msprop:Generator_ColumnVarNameInTable="columnFinalFCT" msprop:Generator_ColumnPropNameInRow="FinalFCT" msprop:Generator_ColumnPropNameInTable="FinalFCTColumn" msprop:Generator_UserColumnName="FinalFCT" type="xs:int" minOccurs="0" />
+              <xs:element name="TotalCost" msprop:Generator_ColumnVarNameInTable="columnTotalCost" msprop:Generator_ColumnPropNameInRow="TotalCost" msprop:Generator_ColumnPropNameInTable="TotalCostColumn" msprop:Generator_UserColumnName="TotalCost" type="xs:decimal" minOccurs="0" />
+              <xs:element name="SpotsAdded" msprop:Generator_ColumnVarNameInTable="columnSpotsAdded" msprop:Generator_ColumnPropNameInRow="SpotsAdded" msprop:Generator_ColumnPropNameInTable="SpotsAddedColumn" msprop:Generator_UserColumnName="SpotsAdded" type="xs:int" minOccurs="0" />
+              <xs:element name="SpotsAvailable" msprop:Generator_ColumnVarNameInTable="columnSpotsAvailable" msprop:Generator_ColumnPropNameInRow="SpotsAvailable" msprop:Generator_ColumnPropNameInTable="SpotsAvailableColumn" msprop:Generator_UserColumnName="SpotsAvailable" type="xs:long" minOccurs="0" />
+              <xs:element name="BreakType" msprop:Generator_ColumnVarNameInTable="columnBreakType" msprop:Generator_ColumnPropNameInRow="BreakType" msprop:Generator_ColumnPropNameInTable="BreakTypeColumn" msprop:Generator_UserColumnName="BreakType" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="100" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="LogStatus" msprop:Generator_ColumnVarNameInTable="columnLogStatus" msprop:Generator_ColumnPropNameInRow="LogStatus" msprop:Generator_ColumnPropNameInTable="LogStatusColumn" msprop:Generator_UserColumnName="LogStatus" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="100" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="ErrorRange" msprop:Generator_UserTableName="ErrorRange" msprop:Generator_RowEvArgName="ErrorRangeRowChangeEvent" msprop:Generator_TableVarName="tableErrorRange" msprop:Generator_TablePropName="ErrorRange" msprop:Generator_RowDeletingName="ErrorRangeRowDeleting" msprop:Generator_RowChangingName="ErrorRangeRowChanging" msprop:Generator_RowDeletedName="ErrorRangeRowDeleted" msprop:Generator_RowEvHandlerName="ErrorRangeRowChangeEventHandler" msprop:Generator_TableClassName="ErrorRangeDataTable" msprop:Generator_RowChangedName="ErrorRangeRowChanged" msprop:Generator_RowClassName="ErrorRangeRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Address" msprop:Generator_ColumnVarNameInTable="columnAddress" msprop:Generator_ColumnPropNameInRow="Address" msprop:Generator_ColumnPropNameInTable="AddressColumn" msprop:Generator_UserColumnName="Address" type="xs:string" minOccurs="0" />
+              <xs:element name="Value" msprop:Generator_ColumnVarNameInTable="columnValue" msprop:Generator_ColumnPropNameInRow="Value" msprop:Generator_ColumnPropNameInTable="ValueColumn" msprop:Generator_UserColumnName="Value" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="ChannelMaster" msprop:Generator_UserTableName="ChannelMaster" msprop:Generator_RowEvArgName="ChannelMasterRowChangeEvent" msprop:Generator_TableVarName="tableChannelMaster" msprop:Generator_TablePropName="ChannelMaster" msprop:Generator_RowDeletingName="ChannelMasterRowDeleting" msprop:Generator_RowChangingName="ChannelMasterRowChanging" msprop:Generator_RowDeletedName="ChannelMasterRowDeleted" msprop:Generator_RowEvHandlerName="ChannelMasterRowChangeEventHandler" msprop:Generator_TableClassName="ChannelMasterDataTable" msprop:Generator_RowChangedName="ChannelMasterRowChanged" msprop:Generator_RowClassName="ChannelMasterRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="ChannelCode" msprop:Generator_ColumnVarNameInTable="columnChannelCode" msprop:Generator_ColumnPropNameInRow="ChannelCode" msprop:Generator_ColumnPropNameInTable="ChannelCodeColumn" msprop:Generator_UserColumnName="ChannelCode" type="xs:string" />
+              <xs:element name="ChannelName" msprop:Generator_ColumnVarNameInTable="columnChannelName" msprop:Generator_ColumnPropNameInRow="ChannelName" msprop:Generator_ColumnPropNameInTable="ChannelNameColumn" msprop:Generator_UserColumnName="ChannelName" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="PlanChannels" msprop:Generator_UserTableName="PlanChannels" msprop:Generator_RowEvArgName="PlanChannelsRowChangeEvent" msprop:Generator_TableVarName="tablePlanChannels" msprop:Generator_TablePropName="PlanChannels" msprop:Generator_RowDeletingName="PlanChannelsRowDeleting" msprop:Generator_RowChangingName="PlanChannelsRowChanging" msprop:Generator_RowDeletedName="PlanChannelsRowDeleted" msprop:Generator_RowEvHandlerName="PlanChannelsRowChangeEventHandler" msprop:Generator_TableClassName="PlanChannelsDataTable" msprop:Generator_RowChangedName="PlanChannelsRowChanged" msprop:Generator_RowClassName="PlanChannelsRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="ChannelCode" msprop:nullValue="_empty" msprop:Generator_ColumnPropNameInRow="ChannelCode" msprop:Generator_ColumnVarNameInTable="columnChannelCode" msprop:Generator_ColumnPropNameInTable="ChannelCodeColumn" msprop:Generator_UserColumnName="ChannelCode" type="xs:string" default="000" minOccurs="0" />
+              <xs:element name="ChannelName" msprop:nullValue="_null" msprop:Generator_ColumnPropNameInRow="ChannelName" msprop:Generator_ColumnVarNameInTable="columnChannelName" msprop:Generator_ColumnPropNameInTable="ChannelNameColumn" msprop:Generator_UserColumnName="ChannelName" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="ExcludeDates" msprop:Generator_UserTableName="ExcludeDates" msprop:Generator_RowEvArgName="ExcludeDatesRowChangeEvent" msprop:Generator_TableVarName="tableExcludeDates" msprop:Generator_TablePropName="ExcludeDates" msprop:Generator_RowDeletingName="ExcludeDatesRowDeleting" msprop:Generator_RowChangingName="ExcludeDatesRowChanging" msprop:Generator_RowDeletedName="ExcludeDatesRowDeleted" msprop:Generator_RowEvHandlerName="ExcludeDatesRowChangeEventHandler" msprop:Generator_TableClassName="ExcludeDatesDataTable" msprop:Generator_RowChangedName="ExcludeDatesRowChanged" msprop:Generator_RowClassName="ExcludeDatesRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="StartDate" msprop:Generator_ColumnVarNameInTable="columnStartDate" msprop:Generator_ColumnPropNameInRow="StartDate" msprop:Generator_ColumnPropNameInTable="StartDateColumn" msprop:Generator_UserColumnName="StartDate" type="xs:dateTime" />
+              <xs:element name="EndDate" msprop:Generator_ColumnVarNameInTable="columnEndDate" msprop:Generator_ColumnPropNameInRow="EndDate" msprop:Generator_ColumnPropNameInTable="EndDateColumn" msprop:Generator_UserColumnName="EndDate" type="xs:dateTime" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="BrkDistribution" msprop:Generator_TableClassName="BrkDistributionDataTable" msprop:Generator_RowEvArgName="BrkDistributionRowChangeEvent" msprop:Generator_TablePropName="BrkDistribution" msprop:Generator_TableVarName="tableBrkDistribution" msprop:Generator_RowEvHandlerName="BrkDistributionRowChangeEventHandler" msprop:Generator_RowDeletingName="BrkDistributionRowDeleting" msprop:Generator_RowChangingName="BrkDistributionRowChanging" msprop:Generator_RowDeletedName="BrkDistributionRowDeleted" msprop:Generator_UserTableName="BrkDistribution" msprop:Generator_RowChangedName="BrkDistributionRowChanged" msprop:Generator_RowClassName="BrkDistributionRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="BrkDate" msprop:Generator_ColumnVarNameInTable="columnBrkDate" msprop:Generator_ColumnPropNameInRow="BrkDate" msprop:Generator_ColumnPropNameInTable="BrkDateColumn" msprop:Generator_UserColumnName="BrkDate" type="xs:dateTime" />
+              <xs:element name="AvblNonEOB1Brks" msprop:Generator_ColumnVarNameInTable="columnAvblNonEOB1Brks" msprop:Generator_ColumnPropNameInRow="AvblNonEOB1Brks" msprop:Generator_ColumnPropNameInTable="AvblNonEOB1BrksColumn" msprop:Generator_UserColumnName="AvblNonEOB1Brks" type="xs:short" minOccurs="0" />
+              <xs:element name="AllocatedNonEOB1Brks" msprop:Generator_ColumnVarNameInTable="columnAllocatedNonEOB1Brks" msprop:Generator_ColumnPropNameInRow="AllocatedNonEOB1Brks" msprop:Generator_ColumnPropNameInTable="AllocatedNonEOB1BrksColumn" msprop:Generator_UserColumnName="AllocatedNonEOB1Brks" type="xs:short" minOccurs="0" />
+              <xs:element name="Channel" msprop:Generator_ColumnVarNameInTable="columnChannel" msprop:Generator_ColumnPropNameInRow="Channel" msprop:Generator_ColumnPropNameInTable="ChannelColumn" msprop:Generator_UserColumnName="Channel">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="3" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Days" msprop:Generator_ColumnVarNameInTable="columnDays" msprop:Generator_ColumnPropNameInRow="Days" msprop:Generator_ColumnPropNameInTable="DaysColumn" msprop:Generator_UserColumnName="Days">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="StartTime" msprop:Generator_ColumnVarNameInTable="columnStartTime" msprop:Generator_ColumnPropNameInRow="StartTime" msprop:Generator_ColumnPropNameInTable="StartTimeColumn" msprop:Generator_UserColumnName="StartTime" type="xs:dateTime" />
+              <xs:element name="EndTime" msprop:Generator_ColumnVarNameInTable="columnEndTime" msprop:Generator_ColumnPropNameInRow="EndTime" msprop:Generator_ColumnPropNameInTable="EndTimeColumn" msprop:Generator_UserColumnName="EndTime" type="xs:dateTime" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:Weeks" />
+      <xs:field xpath="mstns:WeekNumber" />
+      <xs:field xpath="mstns:Year" />
+    </xs:unique>
+    <xs:unique name="ChannelMaster_Constraint1" msdata:ConstraintName="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:ChannelMaster" />
+      <xs:field xpath="mstns:ChannelCode" />
+    </xs:unique>
+    <xs:unique name="ExcludeDates_Constraint1" msdata:ConstraintName="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:ExcludeDates" />
+      <xs:field xpath="mstns:StartDate" />
+      <xs:field xpath="mstns:EndDate" />
+    </xs:unique>
+    <xs:unique name="BrkDistribution_Constraint1" msdata:ConstraintName="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:BrkDistribution" />
+      <xs:field xpath="mstns:Channel" />
+      <xs:field xpath="mstns:Days" />
+      <xs:field xpath="mstns:StartTime" />
+      <xs:field xpath="mstns:EndTime" />
+      <xs:field xpath="mstns:BrkDate" />
+    </xs:unique>
+  </xs:element>
+</xs:schema>

@@ -1,0 +1,704 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <!--
+    This section defines project-level properties.
+
+    AssemblyName
+      Name of the output assembly.
+    Configuration
+      Specifies a default value for debug.
+    OutputType
+      Must be "Library" for VSTO.
+    Platform
+      Specifies what CPU the output of this project can run on.
+    NoStandardLibraries
+      Set to "false" for VSTO.
+    RootNamespace
+      In C#, this specifies the namespace given to new files. In VB, all objects are
+      wrapped in this namespace at runtime.
+  -->
+  <PropertyGroup>
+    <ProjectTypeGuids>{BAA0C2D2-18E2-41B9-852F-F413020CAA33};{F184B08F-C81C-45F6-A57F-5ABD9991F28F}</ProjectTypeGuids>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{A97003A0-D75F-4359-AF5A-3E2417D1165A}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <RootNamespace>MSprintEx</RootNamespace>
+    <AssemblyName>MSprintEx</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <DefineConstants>VSTO40</DefineConstants>
+    <StartupObject>
+    </StartupObject>
+    <IsWebBootstrapper>False</IsWebBootstrapper>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+    <PublishUrl>publish\</PublishUrl>
+    <InstallUrl />
+    <TargetCulture>en</TargetCulture>
+    <ApplicationVersion>1.0.0.0</ApplicationVersion>
+    <AutoIncrementApplicationRevision>true</AutoIncrementApplicationRevision>
+    <UpdateEnabled>true</UpdateEnabled>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>days</UpdateIntervalUnits>
+    <ProductName>MSprintEx</ProductName>
+    <PublisherName />
+    <SupportUrl />
+    <FriendlyName>MSprintEx</FriendlyName>
+    <OfficeApplicationDescription />
+    <LoadBehavior>3</LoadBehavior>
+  </PropertyGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.0,Profile=Client">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4 Client Profile %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <PropertyGroup>
+    <!--
+      OfficeApplication
+        Add-in host application
+    -->
+    <OfficeApplication>Excel</OfficeApplication>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <!--
+    This section defines properties that are set when the "Debug" configuration is selected.
+
+    DebugSymbols
+      If "true", create symbols (.pdb). If "false", do not create symbols.
+    DefineConstants
+      Constants defined for the preprocessor.
+    EnableUnmanagedDebugging
+      If "true", starting the debugger will attach both managed and unmanaged debuggers.
+    Optimize
+      If "true", optimize the build output. If "false", do not optimize.
+    OutputPath
+      Output path of project relative to the project file.
+    WarningLevel
+      Warning level for the compiler.
+  -->
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DefineConstants>$(DefineConstants)</DefineConstants>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <DebugType>full</DebugType>
+    <DebugSymbols>true</DebugSymbols>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>MSprintEx.xml</DocumentationFile>
+    <RegisterForComInterop>false</RegisterForComInterop>
+    <RemoveIntegerChecks>false</RemoveIntegerChecks>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <!--
+    This section defines properties that are set when the "Release" configuration is selected.
+
+    DebugSymbols
+      If "true", create symbols (.pdb). If "false", do not create symbols.
+    DefineConstants
+      Constants defined for the preprocessor.
+    EnableUnmanagedDebugging
+      If "true", starting the debugger will attach both managed and unmanaged debuggers.
+    Optimize
+      If "true", optimize the build output. If "false", do not optimize.
+    OutputPath
+      Output path of project relative to the project file.
+    WarningLevel
+      Warning level for the compiler.
+  -->
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DefineConstants>
+    </DefineConstants>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>MSprintEx.xml</DocumentationFile>
+    <RegisterForComInterop>false</RegisterForComInterop>
+    <RemoveIntegerChecks>false</RemoveIntegerChecks>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <!--
+    This section enables pre- and post-build steps. However, in VSTO use
+    MSBuild tasks instead of these properties.       
+  -->
+  <PropertyGroup>
+    <PreBuildEvent>
+    </PreBuildEvent>
+    <PostBuildEvent>
+    </PostBuildEvent>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>true</SignManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>MSprintEx_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>7B07CD8F9FA5C29F691AB197414546E23AADDC72</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <!--
+    This section specifies references for the project.
+  -->
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Data.SqlServerCe, Version=3.5.1.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.VisualStudio.Tools.Applications.Runtime, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.Office.Tools, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.Office.Tools.Common, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.Office.Tools.Excel, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.Office.Tools.Common.v4.0.Utilities, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="Office, Version=14.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c">
+      <Private>False</Private>
+      <EmbedInteropTypes>False</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=14.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c">
+      <Private>False</Private>
+      <EmbedInteropTypes>true</EmbedInteropTypes>
+    </Reference>
+  </ItemGroup>
+  <!-- Visual Basic supports importing namespaces (equivalent to "using" statements in C#). -->
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Text" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="Office = Microsoft.Office.Core" />
+    <Import Include="Excel = Microsoft.Office.Interop.Excel" />
+    <Import Include="Microsoft.Office.Tools.Excel" />
+  </ItemGroup>
+  <!--
+    This section defines the user source files that are part of the project.
+     
+    A "Compile" element specifies a source file to compile.
+    An "EmbeddedResource" element specifies an .resx file for embedded resources.
+    A "None" element specifies a file that is not to be passed to the compiler (for instance, 
+    a text file or XML file).
+    The "AppDesigner" element specifies the directory where the application properties files
+    can be found.
+  -->
+  <ItemGroup>
+    <AppDesigner Include="My Project\" />
+    <Compile Include="BreakTVR.vb" />
+    <Compile Include="BrkPerfDataSet.Designer.vb">
+      <DependentUpon>BrkPerfDataSet.vb</DependentUpon>
+    </Compile>
+    <Compile Include="BrkPerfDataSet.vb">
+      <DependentUpon>BrkPerfDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="ChangeLogDir.Designer.vb">
+      <DependentUpon>ChangeLogDir.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ChangeLogDir.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ChannelMapping.Designer.vb">
+      <DependentUpon>ChannelMapping.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ChannelMapping.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ChannelShare.vb" />
+    <Compile Include="CSVWriter.vb" />
+    <Compile Include="DataErrors.Designer.vb">
+      <DependentUpon>DataErrors.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DataErrors.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ExcelPlan.vb" />
+    <Compile Include="frmFilterChannels.Designer.vb">
+      <DependentUpon>frmFilterChannels.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmFilterChannels.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmGenEndTime.Designer.vb">
+      <DependentUpon>frmGenEndTime.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmGenEndTime.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPrepareServer.Designer.vb">
+      <DependentUpon>frmPrepareServer.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmPrepareServer.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmRearrangePlanChannels.Designer.vb">
+      <DependentUpon>frmRearrangePlanChannels.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmRearrangePlanChannels.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmWait.Designer.vb">
+      <DependentUpon>frmWait.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmWait.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GenreShare.vb" />
+    <Compile Include="GenreShareForm.Designer.vb">
+      <DependentUpon>GenreShareForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="GenreShareForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HomeController.vb" />
+    <Compile Include="InvokeWebService.vb" />
+    <Compile Include="METIS.Designer.vb">
+      <DependentUpon>METIS.vb</DependentUpon>
+    </Compile>
+    <Compile Include="METIS.vb">
+      <DependentUpon>METIS.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="MSprintExceptionLog.vb" />
+    <Compile Include="MSprintExRibbon.Designer.vb">
+      <DependentUpon>MSprintExRibbon.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MSprintExRibbon.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Plandata.Designer.vb">
+      <DependentUpon>Plandata.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Plandata.vb">
+      <DependentUpon>Plandata.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="ProgramTVR.vb" />
+    <Compile Include="ReachNFrequency.vb" />
+    <Compile Include="TaskPaneLogFile.Designer.vb">
+      <DependentUpon>TaskPaneLogFile.vb</DependentUpon>
+    </Compile>
+    <Compile Include="TaskPaneLogFile.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="TempTableStatus.vb" />
+    <Compile Include="TG.vb" />
+    <Compile Include="ThisAddIn.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="tpMediaPlan.Designer.vb">
+      <DependentUpon>tpMediaPlan.vb</DependentUpon>
+    </Compile>
+    <Compile Include="tpMediaPlan.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="TVRForm.Designer.vb">
+      <DependentUpon>TVRForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="TVRForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ucAdvertiser.Designer.vb">
+      <DependentUpon>ucAdvertiser.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ucAdvertiser.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucAudience.Designer.vb">
+      <DependentUpon>ucAudience.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ucAudience.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucAvailableSpotsSelection.Designer.vb">
+      <DependentUpon>ucAvailableSpotsSelection.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ucAvailableSpotsSelection.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucAvgTVRMGSelection.Designer.vb">
+      <DependentUpon>ucAvgTVRMGSelection.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ucAvgTVRMGSelection.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucBrand.Designer.vb">
+      <DependentUpon>ucBrand.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ucBrand.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucCategory.Designer.vb">
+      <DependentUpon>ucCategory.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ucCategory.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucChannels.Designer.vb">
+      <DependentUpon>ucChannels.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ucChannels.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucChannelShare.Designer.vb">
+      <DependentUpon>ucChannelShare.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ucChannelShare.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucGenEndTime.Designer.vb">
+      <DependentUpon>ucGenEndTime.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ucGenEndTime.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UcGenres.Designer.vb">
+      <DependentUpon>UcGenres.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UcGenres.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucMarkets.Designer.vb">
+      <DependentUpon>ucMarkets.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ucMarkets.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucMkets.Designer.vb">
+      <DependentUpon>ucMkets.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ucMkets.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucPlanSelections.Designer.vb">
+      <DependentUpon>ucPlanSelections.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ucPlanSelections.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucSelections.Designer.vb">
+      <DependentUpon>ucSelections.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ucSelections.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucTopPrograms.Designer.vb">
+      <DependentUpon>ucTopPrograms.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ucTopPrograms.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucTVRScreen.Designer.vb">
+      <DependentUpon>ucTVRScreen.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ucTVRScreen.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ucVariant.Designer.vb">
+      <DependentUpon>ucVariant.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ucVariant.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControlCshare.Designer.vb">
+      <DependentUpon>UserControlCshare.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UserControlCshare.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="_dbBrkPerf__2_DataSet.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>_dbBrkPerf__2_DataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="_dbBrkPerf__3_DataSet.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>_dbBrkPerf__3_DataSet.xsd</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="ChangeLogDir.resx">
+      <DependentUpon>ChangeLogDir.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ChannelMapping.resx">
+      <DependentUpon>ChannelMapping.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DataErrors.resx">
+      <DependentUpon>DataErrors.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmFilterChannels.resx">
+      <DependentUpon>frmFilterChannels.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmGenEndTime.resx">
+      <DependentUpon>frmGenEndTime.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPrepareServer.resx">
+      <DependentUpon>frmPrepareServer.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRearrangePlanChannels.resx">
+      <DependentUpon>frmRearrangePlanChannels.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmWait.resx">
+      <DependentUpon>frmWait.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GenreShareForm.resx">
+      <DependentUpon>GenreShareForm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MSprintExRibbon.resx">
+      <DependentUpon>MSprintExRibbon.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TaskPaneLogFile.resx">
+      <DependentUpon>TaskPaneLogFile.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="tpMediaPlan.resx">
+      <DependentUpon>tpMediaPlan.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TVRForm.resx">
+      <DependentUpon>TVRForm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucAdvertiser.resx">
+      <DependentUpon>ucAdvertiser.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucAudience.resx">
+      <DependentUpon>ucAudience.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucAvgTVRMGSelection.resx">
+      <DependentUpon>ucAvgTVRMGSelection.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucBrand.resx">
+      <DependentUpon>ucBrand.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucCategory.resx">
+      <DependentUpon>ucCategory.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucChannels.resx">
+      <DependentUpon>ucChannels.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucChannelShare.resx">
+      <DependentUpon>ucChannelShare.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucGenEndTime.resx">
+      <DependentUpon>ucGenEndTime.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UcGenres.resx">
+      <DependentUpon>UcGenres.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucMarkets.resx">
+      <DependentUpon>ucMarkets.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucMkets.resx">
+      <DependentUpon>ucMkets.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucPlanSelections.resx">
+      <DependentUpon>ucPlanSelections.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucSelections.resx">
+      <DependentUpon>ucSelections.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucTopPrograms.resx">
+      <DependentUpon>ucTopPrograms.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucTVRScreen.resx">
+      <DependentUpon>ucTVRScreen.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucVariant.resx">
+      <DependentUpon>ucVariant.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControlCshare.resx">
+      <DependentUpon>UserControlCshare.vb</DependentUpon>
+    </EmbeddedResource>
+    <None Include="app.config">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="BrkPerfDataSet.xsc">
+      <DependentUpon>BrkPerfDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="BrkPerfDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>BrkPerfDataSet2.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="BrkPerfDataSet.xss">
+      <DependentUpon>BrkPerfDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="METIS.xsc">
+      <DependentUpon>METIS.xsd</DependentUpon>
+    </None>
+    <None Include="METIS.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>METIS1.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="METIS.xss">
+      <DependentUpon>METIS.xsd</DependentUpon>
+    </None>
+    <None Include="MSprintEx_TemporaryKey.pfx" />
+    <None Include="obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache" />
+    <None Include="Plandata.xsc">
+      <DependentUpon>Plandata.xsd</DependentUpon>
+    </None>
+    <None Include="Plandata.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Plandata1.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Plandata.xss">
+      <DependentUpon>Plandata.xsd</DependentUpon>
+    </None>
+    <None Include="ThisAddIn.Designer.xml">
+      <DependentUpon>ThisAddIn.vb</DependentUpon>
+    </None>
+    <Compile Include="ThisAddIn.Designer.vb">
+      <DependentUpon>ThisAddIn.Designer.xml</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="_dbBrkPerf__2_DataSet.xsc">
+      <DependentUpon>_dbBrkPerf__2_DataSet.xsd</DependentUpon>
+    </None>
+    <None Include="_dbBrkPerf__2_DataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>_dbBrkPerf__2_DataSet.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="_dbBrkPerf__2_DataSet.xss">
+      <DependentUpon>_dbBrkPerf__2_DataSet.xsd</DependentUpon>
+    </None>
+    <None Include="_dbBrkPerf__3_DataSet.xsc">
+      <DependentUpon>_dbBrkPerf__3_DataSet.xsd</DependentUpon>
+    </None>
+    <None Include="_dbBrkPerf__3_DataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>_dbBrkPerf__3_DataSet.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="_dbBrkPerf__3_DataSet.xss">
+      <DependentUpon>_dbBrkPerf__3_DataSet.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="dbBrkPerf %282%29.sdf">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="dbBrkPerf %283%29.sdf">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="dbBrkPerf.sdf">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="inputspot.xml">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="Resources\ajax-loader.gif" />
+    <Content Include="Resources\analyze.jpg" />
+    <None Include="Resources\Upload1.png" />
+    <None Include="Resources\license_icon.png" />
+    <None Include="Resources\analyze21.jpg" />
+    <None Include="Resources\analyze1.jpg" />
+    <Content Include="Resources\analyze2.jpg" />
+    <Content Include="Resources\Average.png" />
+    <None Include="Resources\channel.jpg" />
+    <Content Include="Resources\file_edit.png" />
+    <Content Include="Resources\Folder.png" />
+    <None Include="Resources\plan.jpg" />
+    <None Include="Resources\Open_file.png" />
+    <None Include="Resources\genre.jpg" />
+    <Content Include="Resources\images.jpg" />
+    <Content Include="Resources\Presentation-Edit.png" />
+    <None Include="Resources\StartButton.jpg" />
+    <None Include="Resources\Start_Button.jpg" />
+    <None Include="Resources\save.jpg" />
+    <Content Include="Resources\split.jpg" />
+    <Content Include="Resources\table_link.png" />
+    <Content Include="Resources\Tasks.png" />
+    <None Include="Resources\tvr.jpg" />
+    <None Include="Resources\tvr1.jpg" />
+    <Content Include="Resources\Upload.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="bin\Debug\" />
+    <Folder Include="obj\Debug\TempPE\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{94E38DFF-614B-4CBD-B67C-F211BB35CE8B}" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <!-- Include the build rules for a Visual Basic project. -->
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- Include additional build rules for an Office application add-in. -->
+  <Import Project="$(MSBuildExtensionsPath)\Microsoft\VisualStudio\v10.0\OfficeTools\Microsoft.VisualStudio.Tools.Office.targets" />
+  <!-- This section defines VSTO properties that describe the host-changeable project properties. -->
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{BAA0C2D2-18E2-41B9-852F-F413020CAA33}">
+        <ProjectProperties HostName="Excel" HostPackage="{20A848B8-E01F-4801-962E-25DB0FF57389}" OfficeVersion="14.0" VstxVersion="4.0" ApplicationType="Excel" Language="vb" TemplatesPath="" DebugInfoExeName="#Software\Microsoft\Office\14.0\Excel\InstallRoot\Path#excel.exe" AddItemTemplatesGuid="{DCFE8D25-4715-4C33-9EAB-A34A9EBC9544}" />
+        <Host Name="Excel" IconIndex="0">
+          <HostItem Name="ThisAddIn" Code="ThisAddIn.vb" CanonicalName="AddIn" CanActivate="false" IconIndex="1" Blueprint="ThisAddIn.Designer.xml" GeneratedCode="ThisAddIn.Designer.vb" />
+        </Host>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+</Project>
